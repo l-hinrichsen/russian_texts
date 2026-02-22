@@ -1,0 +1,17 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = textbook
+    textbook = element textbook {section*, chapter*}
+        section = element section {mixed{chapter}}
+        chapter = element chapter {title, p*}
+            title = element title {text}
+            p = element p {mixed{person* | people* | place* | political_affiliation* | religion* | territory* | event* }}
+            territory = element territory {"kingdom" | "country" | "region" }
+            place = element place {"building" | "street" | "city"}
+            person = element person {text}
+            people = element people {"ethnicity" | "class" | "job"}
+            political_affiliation = element political_affiliation {text}
+            religion = element religion {"orthodox" | "muslim" | "jewish" | "pagan" | "athiest"}
+            event = element event {type, text}
+	           type = attribute type {"major" | "minor"}
+
