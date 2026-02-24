@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--focused on presentational markup using regex and read through a few paragraphs to markup key terms. WIP -->
-
+<!--regex (москв.*?)(?=\s), (сибир.*?)(?=\s) replace with <place type="city">\1</place> to mark up cities
+     Иван(а|у|ом|е)?\sГрозн(ый|ого|ому|ым|ом) to find all declensions of Иван IV, etc-->
 
 <?xml-model href="../schema/textbook_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <textbook>
@@ -916,5 +917,3 @@
             старые, крепостнические порядки.</p>
     </chapter>
 </textbook>
-
-<!-- regex (москв.*?)(?=\s), (сибир.*?)(?=\s) replace with <place type="city">\1</place> to mark up cities-->
