@@ -1,4 +1,30 @@
 body{
     background-color: white;
+    font-family: sans-serif; /*placeholder font*/
+    text-align: center;
+    color: #222;
+}
+header {
+    border-bottom: 4px solid #8b0000; 
+    padding: 15px 0;
+}
 
+nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+nav a {
+    text-decoration: none; /*got rid of the gross underline*/
+    color: #3a1f1f; /*and the gross blue color*/
+}
+/*placeholder*/
+figure {
+    background-color: #cfcfcf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
 }
