@@ -28,3 +28,6 @@ figure {
     justify-content: center;
     color: #888;
 }
+p {
+   text-align: left;
+}
