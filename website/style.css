@@ -16,7 +16,7 @@ nav {
     margin: 0 auto;
     font-size: 20px;
 }
-nav a {
+a {
     text-decoration: none; /*got rid of the gross underline*/
     color: #3a1f1f; /*and the gross blue color*/
 }
@@ -30,4 +30,10 @@ figure {
 }
 p {
    text-align: left;
+}
+.translate{
+    display: flex;
+    background-color: #cfcfcf;
+    flex-direction: column;
+    
 }
