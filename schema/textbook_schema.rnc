@@ -11,10 +11,12 @@ start = textbook
                 territory = element territory {territory_type, text}
                     territory_type = attribute territory_type {"kingdom" | "country" | "region" }
                 place = element place {place_type, text}
+
                     place_type = attribute place_type {"building" | "street" | "city" | "river" | "mountain" | "water_body" | "plain"}
 #                    figured water_body can represent anything like a lake/ocean/sea, but kept river separate cause it feels different enough. we can change if you guys want
-                person = element person {person_type, text}
+                person = element person {person_type?, text} #made attribute optional for now bc of accounting for Pugachev, Lomonosov, etc
                     person_type= attribute person_type {"russian_royalty"|"tsar"|"foreign_leader"|"musician"|"knyaz"|"rebel"|"worker"}
+
                 people = element people {people_type, text}
                     people_type= attribute people_type {"ethnicity" | "class" | "job"}
                 political_affiliation = element political_affiliation {political_type, text}
