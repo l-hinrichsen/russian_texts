@@ -37,3 +37,10 @@ p {
     flex-direction: column;
     align-items: center; /*ultimately i want these to be cute buttons i think*/
 }
+summary {
+  list-style:none; /*got rid of the gross arrow*/
+  text-decoration: underline;
+}
+summary:hover{
+    color: red;
+}
