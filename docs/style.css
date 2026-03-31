@@ -35,5 +35,5 @@ p {
     display: flex;
     background-color: #cfcfcf;
     flex-direction: column;
-    
+    align-items: center; /*ultimately i want these to be cute buttons i think*/
 }
