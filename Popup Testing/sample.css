@@ -1,0 +1,37 @@
+/* ======================= */
+/* styling the actual text */
+.people {color: red;}
+.person {color: orange;}
+.place {color: green;}
+.event {color: blue;}
+.territory {color: purple;}
+
+/* ==================================== */
+/* styling the popups when hovered over */
+
+/* location of the popup is here */
+.popup {
+  position: relative;
+  cursor: pointer;
+}
+/* makes popup show when it's hovered over, rather than clicked on */
+.popup:hover .popuptext {
+  visibility: visible;
+}
+/* styles the color of the popup and the text, all these values and colors are kinda arbitrary and placeholders */
+.popup .popuptext {
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding: 3px;
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+}
+
+/* I think it would also be especially helpful to use the @color attribute and currentColor 
+ * to make maybe the text or background of the popup appear in the color that corresponds 
+ * to the type of thing we're looking at (person/people/place/event/etc), but that maybe 
+ * requires more thinking than it's worth */
