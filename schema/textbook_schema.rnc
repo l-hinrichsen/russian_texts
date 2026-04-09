@@ -8,7 +8,7 @@ start = textbook
                 caption = element caption {text}
                 title = element title {n, text}
                     n = attribute n {xsd:int}
-                p = element p {mixed{(person | people | place | political_affiliation | religion | territory | event | system)*}}
+                p = element p {mixed{(person | people | place | political_affiliation | religion | territory | event | system | gov)*}}
                 territory = element territory {territory_type, text}
                     territory_type = attribute territory_type {"kingdom" | "country" | "region" }
                 place = element place {place_type, text}
@@ -29,4 +29,5 @@ start = textbook
 	               
 	           system = element system {system_type, text} #new
 	               system_type = attribute system_type {"communism" | "socialism" | "capitalism" }
-
+	           gov = element gov {gov_type, text}
+	               gov_type = attribute gov_type {"executive" | "legislative" | "judiciary" }
