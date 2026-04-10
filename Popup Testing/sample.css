@@ -18,7 +18,7 @@
 .popup:hover .popuptext {
   visibility: visible;
 }
-/* styles the color of the popup and the text, all these values and colors are kinda arbitrary and placeholders */
+/* color of the popup and the text, all these values and colors are kinda arbitrary and are placeholders */
 .popup .popuptext {
   visibility: hidden;
   width: 150px;
