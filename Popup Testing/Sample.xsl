@@ -34,7 +34,7 @@
                         <!--labels-->
                         <text 
                             x="{($position - 1) * 30}" 
-                            y="200" 
+                            y="250" 
                             font-size="10">
                             <xsl:value-of select="$position"/>
                         </text>
