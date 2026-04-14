@@ -15,7 +15,7 @@ start = textbook
 
                     place_type = attribute place_type {"building" | "street" | "city" | "river" | "mountain" | "water_body" | "plain"}
 #                    figured water_body can represent anything like a lake/ocean/sea, but kept river separate cause it feels different enough. we can change if you guys want
-                person = element person {person_type?, text} #made attribute optional for now bc of accounting for Pugachev, Lomonosov, etc
+                person = element person {person_type?, text}
                     person_type= attribute person_type {"russian_royalty"|"tsar"|"foreign_leader"|"musician"|"knyaz"|"rebel"|"worker"|"politician"}
 
                 people = element people {people_type, text}
@@ -34,3 +34,4 @@ start = textbook
 	               
 	           rhetoric = element rhetoric {about, text}
                    about = attribute about {text}
+                   #if ever we want distinct values from @about, we'll need to tokenize; example <rhetoric about="germany japan"> in ch1
