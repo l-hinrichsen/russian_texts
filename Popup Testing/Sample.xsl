@@ -14,6 +14,7 @@
             <head>
                 <title>Chapter</title>
                 <link rel="stylesheet" href="sample.css"/>
+                <link rel="icon" type="image/svg+xml" href="svg_practice.svg"/>
             </head>
             <body>
                 <xsl:apply-templates select="//title | //p"/>
