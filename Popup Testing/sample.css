@@ -18,7 +18,8 @@
 .popup:hover .popuptext {
   visibility: visible;
 }
-/* color of the popup and the text, all these values and colors are kinda arbitrary and are placeholders */
+/* color of the popup and the text, all these values and colors are kinda arbitrary and are placeholders 
+ * can somebody fix the css so that the box doesn't go off the edge of the screen because I cannot*/
 .popup .popuptext {
   visibility: hidden;
   width: 150px;

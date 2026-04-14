@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    
+    <!--territory lookup table-->
+    <xsl:key 
+        name="territory-lookup"
+        match="territoryInfo"
+        use="@id"/>
+    
+    <!--html-->
     <xsl:template match="/">
         <html>
             <head>
-                <title>Sample Output</title>
+                <title>Chapter</title>
                 <link rel="stylesheet" href="sample.css"/>
-                <link rel="icon" type="image/svg+xml" href="svg_practice.svg"/>
             </head>
-            <body>  
-                <!--title of chapter is h1-->
-                <h1>
-                    <xsl:value-of select="//title"/>
-                </h1>      
-                <!--to display text-->
-                <xsl:apply-templates select="//p"/>
+            <body>
+                <xsl:apply-templates select="//title | //p"/>
                 
                 <!--=========================================================================================================-->
                 <!--TIMELINE of events, by paragraph (to learn how to do it before doing propaganda/chapter or something else-->
@@ -34,16 +36,24 @@
                         <!--labels-->
                         <text 
                             x="{($position - 1) * 30}" 
-                            y="250" 
+                            y="225" 
                             font-size="10">
                             <xsl:value-of select="$position"/>
                         </text>
                     </xsl:for-each>    
                 </svg>
-                <!--End of timeline======================================================================-->
+                <!--End of timeline==========================================================================================-->
+                
             </body>
         </html>
-    </xsl:template> 
+    </xsl:template>
+    
+    <!--title is h1-->
+    <xsl:template match="title">
+        <h1>
+            <xsl:value-of select="."/>
+        </h1>
+    </xsl:template>
     
     <!--to break up by <p> and not render one chunk of text-->
     <xsl:template match="p">
@@ -54,9 +64,29 @@
         <xsl:variable name="eventCount" select="count(.//event)"/>
     </xsl:template>
     
-    <!--===============================================================================-->
-    <!--Section for writing the text of the popups!
-        For now, each one just displays the element name in the popup as a placeholder -->
+    <!--territory-->
+    <xsl:template match="territory">
+        
+        <!--turns @id into $id-->
+        <xsl:variable name="id" select="@id"/>
+        
+        <!--this part is actually done by the css-->
+        <span class="popup">
+            
+            <!--makes sure the key() only applies to <territory>-->
+            <span class="territory">
+                <xsl:value-of select="."/>
+            </span>
+            
+            <!--refers to the key, which refers to the xml definitions of all the @ids-->
+            <span class="popuptext">
+                <xsl:value-of select="key('territory-lookup', $id)"/>
+            </span>         
+        </span>
+    </xsl:template>
+    
+    <!--Section for writing the rest of the popups;
+        For now, each one just displays the element name as a placeholder -->
     <!--for each people-->
     <xsl:template match="people">
         <span class="popup">
@@ -97,18 +127,8 @@
         </span>
     </xsl:template>
     
-    <!--for each territory-->
-    <xsl:template match="territory">
-        <span class="popup">
-            <span class="territory">
-                <xsl:value-of select="."/>
-            </span>
-            <span class="popuptext">Territory</span>
-        </span>
-    </xsl:template>
-    <!--End of the popups section======================================================-->
-    
 </xsl:stylesheet>
+
 <!--thoughts================================================================================================-->
 <!--I used this to also figure out how to link an svg file to the html to become the icon that shows in the tab 
     in browser, which was fun but also could be useful for us at some point-->
@@ -118,5 +138,3 @@
 <!--in the section for breaking up elements by name, could use <g> and @color, then use @currentColor to make 
     a timeline of all elements frequency with their corresponding color. i think this would be useless but kinda
     cool, so just noting that it's possible-->
-<!--I can't figure out how to get the numbers in the timeline labels to appear below the bars; perhaps I am 
-    missing something obvious but the y coordinate won't go lower :(   -->
