@@ -22,7 +22,7 @@ a {
 }
 /*placeholder*/
 figure {
-    background-color: #cfcfcf;
+    /*background-color: #cfcfcf;*/
     display: flex;
     align-items: center;
     justify-content: center;
