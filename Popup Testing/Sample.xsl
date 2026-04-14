@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+        xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+        exclude-result-prefixes="xs math"
+        version="3.0">
     
-    <!--territory lookup table-->
-    <xsl:key 
-        name="territory-lookup"
-        match="territoryInfo"
-        use="@id"/>
+    <xsl:import href="./popupKeys.xsl"/>
     
     <!--html-->
     <xsl:template match="/">
@@ -20,7 +20,7 @@
                 <xsl:apply-templates select="//title | //p"/>
                 
                 <!--=========================================================================================================-->
-                <!--TIMELINE of events, by paragraph (to learn how to do it before doing propaganda/chapter or something else-->
+                <!--Timeline of events by paragraph (to learn how to do it before doing propaganda/chapter or something else-->
                 <h2>Event Timeline</h2>
                 <svg width="600" height="300">
                     <xsl:for-each select="//p">
@@ -36,7 +36,7 @@
                             fill="blue"/>
                         <!--labels-->
                         <text 
-                            x="{($position - 1) * 30}" 
+                            x="{($position - 1) * 30}"
                             y="225" 
                             font-size="10">
                             <xsl:value-of select="$position"/>
@@ -61,8 +61,6 @@
         <p>
             <xsl:apply-templates/>
         </p>
-        <!--variable from timeline-->
-        <xsl:variable name="eventCount" select="count(.//event)"/>
     </xsl:template>
     
     <!--territory-->
@@ -70,8 +68,7 @@
         
         <!--turns @id into $id-->
         <xsl:variable name="id" select="@id"/>
-        
-        <!--this part is actually done by the css-->
+
         <span class="popup">
             
             <!--makes sure the key() only applies to <territory>-->
@@ -81,7 +78,7 @@
             
             <!--refers to the key, which refers to the xml definitions of all the @ids-->
             <span class="popuptext">
-                <xsl:value-of select="key('territory-lookup', $id)"/>
+                <xsl:value-of select="map:get($territories, @id)"/>
             </span>         
         </span>
     </xsl:template>
@@ -94,7 +91,7 @@
             <span class="people">
                 <xsl:value-of select="."/>
             </span>
-            <span class="popuptext">Ethnicity</span>
+            <span class="popuptext">people</span>
         </span>
     </xsl:template>
     

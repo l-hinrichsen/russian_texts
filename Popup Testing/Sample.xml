@@ -87,17 +87,6 @@
             >восстания</event> угнетённых народов в XVII веке</p>
 
     <!--info about territories-->
-    <territories>
-        <territoryInfo id="volga"> The Volga River is the longest river in Europe. It flows through
-            western Russia into the Caspian Sea and has been an important trade route for centuries.
-            Many major Russian cities are along the river, like Volgograd, Yaroslavl, and Tver. </territoryInfo>
-
-        <territoryInfo id="dnieper"> The Dnieper River is one of the major rivers of Eastern Europe,
-            and it flows through Russia, Belarus, and Ukraine. It has been important to trade and migration. </territoryInfo>
-
-        <territoryInfo id="ural"> The Ural Mountains form a boundary between Europe and
-            Asia. They stretch from the Arctic Ocean to Kazakhstan. The region is rich in
-            natural resources and is important for mining and industry. </territoryInfo>
-    </territories>
+    
 
 </chapter>
