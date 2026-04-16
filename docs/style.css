@@ -58,3 +58,8 @@ summary:hover{
     flex-direction: column;
     text-align: left;
 }
+.corpus_title{
+    background-color: #8b0000;
+    padding: 10px 0;
+    color: white;
+}
