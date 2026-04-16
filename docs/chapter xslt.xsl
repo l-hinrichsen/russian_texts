@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <xsl:for-each select="chapter">
             <xsl:variable name="n" as="xs:int" select="title/@n"/>
-            <xsl:result-document href="chapters/chapter{$n}"></xsl:result-document>
+            <xsl:result-document href="chapters/chapter{$n}.html"></xsl:result-document>
             
             <html>
                 <head>
@@ -26,11 +26,15 @@
                         </nav>
                     </header>
                    <div class="toc">
-                       
+                       <ul><xsl:apply-templates/></ul>
                    </div>
+                
                 </body>
             </html>
          
         </xsl:for-each>
+    </xsl:template>
+    <xsl:template match="chapter">
+        <li><a><xsl-value-of select = "{title}"/></a></li>
     </xsl:template>
 </xsl:stylesheet>
