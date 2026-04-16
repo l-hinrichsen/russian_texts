@@ -39,9 +39,7 @@ main{
     justify-content: space-between;
     
 }
-p {
-   
-}
+
 .translate{
     display: flex;
     background-color: #cfcfcf;
@@ -54,4 +52,9 @@ summary {
 }
 summary:hover{
     color: red;
+}
+.methodology{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
 }
