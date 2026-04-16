@@ -25,9 +25,13 @@
                             <a href="../analysis.html">Analysis</a>
                         </nav>
                     </header>
+                    
+                    <!--header w chapter name-->
                     <h1 id="chapter{$n}">
                         <xsl:value-of select="title"/>
                     </h1>
+                    
+                    <!--table of contents-->
                        <div class="toc">
                            <ul>
                                <xsl:apply-templates select="//chapter"/>

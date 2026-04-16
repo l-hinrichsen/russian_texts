@@ -31,6 +31,15 @@ a {
 a:hover {
     opacity:.6;
 }
+/* coloring links, rn only relevant to the analysis page */
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+
+
 /*placeholder*/
 figure {
     display: flex;
