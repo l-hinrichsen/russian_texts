@@ -1,12 +1,13 @@
 body{
-    background-color: white;
+    background-color: #fff7e7; /* this is like a beige sortof thing */
     font-family: sans-serif; /*placeholder font*/
     text-align: center;
-    color: #222;
+    color: #222; 
 }
 header {
     border-bottom: 4px solid #8b0000; 
     padding: 15px 0;
+    background-color: #ebd3bd;
 }
 
 nav {
@@ -16,10 +17,26 @@ nav {
     margin: 0 auto;
     font-size: 20px;
 }
+h1{
+    color: #4f2405;
+    font-size: 50px;
+}
+/*Added a wee animation on hover for all links*/
 a {
     text-decoration: none; /*got rid of the gross underline*/
     color: #3a1f1f; /*and the gross blue color*/
+    opacity: 1;
+  transition: 0.3s;
 }
+a:hover {
+    opacity:.6;
+}
+/* coloring links, rn only relevant to the analysis page */
+p a() {
+  color: blue;
+}
+
+
 /*placeholder*/
 figure {
     display: flex;
@@ -40,12 +57,6 @@ main{
     
 }
 
-.translate{
-    display: flex;
-    background-color: #cfcfcf;
-    flex-direction: column;
-    align-items: center; /*ultimately i want these to be cute buttons i think*/
-}
 summary {
   list-style:none; /*got rid of the gross arrow*/
   text-decoration: underline;
@@ -58,6 +69,7 @@ summary:hover{
     flex-direction: column;
     text-align: left;
 }
+                                /*CORPUS*/
 .corpus_title{
     background-color: #8b0000;
     padding: 10px 0;
