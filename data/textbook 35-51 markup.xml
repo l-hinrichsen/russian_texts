@@ -1,215 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/textbook_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<textbook>
+    <book_title></book_title>
 <chapter>
-    <title>35. Декабристы</title>
+    <title n="35">35. Декабристы</title>
     <p>
-        <bold>Тайные общества дворянских революционеров.</bold> <person tsar=Alexander I>Александр I</person> держал под ружьём огромную армию. Войска, расположенные ближе к <place region=European border>европейской границе</place>, перевели жить в особые военные поселения, где они несли военную службу и, обрабатывая землю, сами содержали себя. Начальником этих поселений был жестокий и грубый генерал <person general=Andreyevich Arakcheyev>Аракчеев</person>.
+        Тайные общества дворянских революционеров. <person person_type="tsar">Александр I</person> держал под ружьём огромную армию. Войска, расположенные ближе к европейской границе, перевели жить в особые военные поселения, где они несли военную службу и, обрабатывая землю, сами содержали себя. Начальником этих поселений был жестокий и грубый генерал <person person_type="military">Аракчеев</person>.
     </p>
     <p>
 И без того тяжёлая жизнь солдат, служивших в армии целых 25 лет, стала хуже каторги. Весь день они проводили го на работе в поле, то на военном учении. Даже женили их по выбору офицеров. За малейшую провинность солдат и крестьян безжалостно избивали палками, часто до смерти.
     </p>
     <p>
-        Этот произвол <person tsar=Alexander I>царя</person> и <system type=serfdom>крепостнический строй</system> сильно возмущали передовых людей из дворян. Многие из них служили офицерами. В заграничных походах, во <place country=France>Франции</place> они видели, что без <system type=serfdom>крепостного права</system> крестьяне живут лучше, что наёмный труд в имениях и на фабриках выгоднее, чем <system type=serfdom>крепостной</system>. Они видели, что в городах <place region=Western Europe>Западной Европы</place> люди живут богаче, культурнее, чем в <place country=Russia>России</place>.
+        Этот произвол царя и <system system_type="serfdom">крепостнический строй</system> сильно возмущали передовых людей из дворян. Многие из них служили офицерами. В заграничных походах, во <territory territory_type="country">Франции</territory> они видели, что без <system system_type="serfdom">крепостного права</system> крестьяне живут лучше, что наёмный труд в имениях и на фабриках выгоднее, чем <system system_type="serfdom">крепостной</system>. Они видели, что в городах Западной Европы люди живут богаче, культурнее, чем в <territory territory_type="country">России</territory>.
     </p>
     <p>
 Эти дворяне мечтали о такой же жизни у себя на родине. Они организовали тайные революционные общества: «Северное общество» и «Южное общество».
     </p>
     <p>
-        Члены «Северного общества» хотели уничтожить <system type=serfdom>крепостное право</system>, то есть власть дворян над крестьянами, но почти всю землю решили оставить помещикам. Они считали необходимым сохранить царя и только признавали нужным ограничить его власть. В этом обществе главными руководителями были поэт и друг <person writer=Alexander Pushkin>Пушкина</person> <person writer=Kondraty Ryleyev>Рылеев</person> и офицеры — <person decembrist=Sergei Trubetskoy>Трубецкой</person> и <person decembrist=Pyotr Kakhovsky>Каховский</person>.
+        Члены «Северного общества» хотели уничтожить <system system_type="serfdom">крепостное право</system>, то есть власть дворян над крестьянами, но почти всю землю решили оставить помещикам. Они считали необходимым сохранить царя и только признавали нужным ограничить его власть. В этом обществе главными руководителями были поэт и друг <person person_type="artist">Пушкина</person> <person person_type="artist">Рылеев</person> и офицеры — <person person_type="rebel">Трубецкой</person> и <person person_type="rebel">Каховский</person>.
     </p>
     <p>
-        На <place country=Ukraine>Украине</place>, в царских войсках, возникло «Южное общество» во главе с образованным и смелым полковником <person decembrist=Pavel Pestel>Пестелем</person>. Он считал, что нужно дать крестьянам не только свободу, но и землю. <person decembrist=Pavel Pestel>Пестель</person> хотел, чтобы в <place country=Russia>России</place> была республика. <person tsar=Alexander I>Царя</person> и его семью он предлагал убить.
+        На <territory territory_type="country">Украине</territory>, в царских войсках, возникло «Южное общество» во главе с образованным и смелым полковником <person person_type="rebel">Пестелем</person>. Он считал, что нужно дать крестьянам не только свободу, но и землю. <person person_type="rebel">Пестель</person> хотел, чтобы в <territory territory_type="country">России</territory> была республика. Царя и его семью он предлагал убить.
     </p>
     <p>
-        Но члены этих тайных обществ были дворянами и боялись призвать к восстанию народ. Они помнили о крестьянском восстании против дворян при <person emperor=Catherine II>Екатерине II</person>. Революцию они хотели сделать только при помощи войск, которыми они командовали.
+        Но члены этих тайных обществ были дворянами и боялись призвать к восстанию народ. Они помнили о крестьянском восстании против дворян при <person person_type="tsar">Екатерине II</person>. Революцию они хотели сделать только при помощи войск, которыми они командовали.
     </p>
     <p>
-        <bold>Восстание декабристов.</bold> В 1825 году <person tsar=Alexander I>Александр I</person> умер. Детей у него не было. Царствовать должен был его брат <person tsar=Nicholas I>Николай</person>.
+        Восстание декабристов. В 1825 году <person person_type="tsar">Александр I</person> умер. Детей у него не было. Царствовать должен был его брат <person person_type="tsar">Николай</person>.
     </p>
     <p>
-        Утром 14 декабря 1825 года офицеры — члены «Северного общества» в <place city=St. Petersburg>Петербурге</place> вывели на площадь перед сенатом свои полки и отказались приносить присягу царю <person tsar=Nicholas I>Николаю I</person>. К ним присоединились гвардейские матросы. Восставшие ожидали приказании своего главного руководителя князя <person decembrist=Sergei Trubetskoy>Трубецкого</person>. Но он струсил и на площадь не явился, восстание осталось без руководства. <person tsar=Nicholas I>Николай</person> вызвал верные ему войска и окружил ими восставшие полки.
+        Утром 14 декабря 1825 года офицеры — члены «Северного общества» в <place place_type="city">Петербурге</place> вывели на площадь перед сенатом свои полки и отказались приносить присягу царю <person person_type="tsar">Николаю I</person>. К ним присоединились гвардейские матросы. Восставшие ожидали приказании своего главного руководителя князя <person person_type="rebel">Трубецкого</person>. Но он струсил и на площадь не явился, восстание осталось без руководства. <person person_type="tsar">Николай</person> вызвал верные ему войска и окружил ими восставшие полки.
     </p>
     <p>
-        Около восставших собрались <person group=serf>крепостные</person>, мастеровые, рабочие-строители. Они кидали поленьями и камнями в солдат, оставшихся на стороне <person tsar=Nicholas I>Николая</person>. Но и тут дворяне-революционеры побоялись воспользоваться их помощью.
-    </p>
-    <caption>
-        14 декабря 1825 года в <place city=St. Petersburg>Петербурге</place>. <person tsar=Nicholas I>Николай I</person> приказал стрелять из пушек по восставшим.
-    </caption>
-    <p>
-        <person tsar=Nicholas I>Николай</person> послал к восставшим для переговоров <find>губернатора</find>. Офицер <person decembrist=Pyotr Kakhovsky>Каховский</person> убил <find>губернатора</find>. <person tsar=Nicholas I>Николай I</person> не был уверен в своих войсках и долго не решался действовать силой. Только к вечеру, когда подвезли артиллерию, он приказал стрелять из пушек по восставшим. Грянули выстрелы. Восставшие и народ разбежались. На площади остались сотни убитых и раненых.
+        Около восставших собрались <people people_type="class">крепостные</people>, мастеровые, рабочие-строители. Они кидали поленьями и камнями в солдат, оставшихся на стороне <person person_type="tsar">Николая</person>. Но и тут дворяне-революционеры побоялись воспользоваться их помощью.
     </p>
     <p>
-        Через две недели на <country type=Ukraine>Украине</country> около <place city=Kyiv>Киева</place> офицеры из «Южного общества» подняли восстание в <thing type=Chernigov regiment>Черниговском полку</thing>. Они повели свой полк на соединение с другими войсками, состоявшими в организации. Войска, посланные <person tsar=Nicholas I>Николаем I</person> для подавления восстания, разбили этот полк.
+        14 декабря 1825 года в <place place_type="city">Петербурге</place>. <person person_type="tsar">Николай I</person> приказал стрелять из пушек по восставшим.
     </p>
     <p>
-        Подавив восстание, <person tsar=Nicholas I>Николай I</person> арестовал его участников и жестоко расправился с ними. Пять главных руководителей (<person decembrist=Pavel Pestel>Пестель</person>, <person writer=Kondraty Ryleyev>Рылеев</person>, <person decembrist=Pyotr Kakhovsky>Каховский</person>, <person decembrist=Sergey Muravyov-Apostol>Муравьёв-Апостол</person> и <person decembrist=Alexey Bestuzhev-Ryumin>Бестужев-Рюмин</person>) были повешены. В <place region=Siberia>Сибирь</place> было сослано больше 100 офицеров-заговорщиков. Сотни солдат прогнали «сквозь строй» (дали каждому по нескольку сот ударов палками), многих сослали на каторгу и в действующую армию на <place region=Caucasus>Кавказ</place>.
+        <person person_type="tsar">Николай</person> послал к восставшим для переговоров губернатора. Офицер <person person_type="rebel">Каховский</person> убил губернатора. <person person_type="tsar">Николай I</person> не был уверен в своих войсках и долго не решался действовать силой. Только к вечеру, когда подвезли артиллерию, он приказал стрелять из пушек по восставшим. Грянули выстрелы. Восставшие и народ разбежались. На площади остались сотни убитых и раненых.
+    </p>
+    <p>
+        Через две недели на <territory territory_type="country">Украине</territory> около <place place_type="city">Киева</place> офицеры из «Южного общества» подняли восстание в <place place_type="city">Черниговском</place> полку. Они повели свой полк на соединение с другими войсками, состоявшими в организации. Войска, посланные <person person_type="tsar">Николаем I</person> для подавления восстания, разбили этот полк.
+    </p>
+    <p>
+        Подавив восстание, <person person_type="tsar">Николай I</person> арестовал его участников и жестоко расправился с ними. Пять главных руководителей (<person person_type="rebel">Пестель</person>, <person person_type="artist">Рылеев</person>, <person person_type="rebel">Каховский</person>, <person person_type="rebel">Муравьёв-Апостол</person> и <person person_type="rebel">Бестужев-Рюмин</person>) были повешены. В <territory territory_type="region">Сибирь</territory> было сослано больше 100 офицеров-заговорщиков. Сотни солдат прогнали «сквозь строй» (дали каждому по нескольку сот ударов палками), многих сослали на каторгу и в действующую армию на <territory territory_type="region">Кавказ</territory>.
     </p>
     <p>
 Восставших в декабре 1825 года дворян-революционеров стали называть декабристами. Их было немного, и они не были связаны с народом. Но декабристы первые организованно и открыто выступили с оружием в руках против самодержавия в самой царской столице. Их дело не погибло. Его продолжали следующие поколения революционеров.
     </p>
-    <caption>
-        <person decembrist=Pavel Pestel>П. И. Пестель</person>, <person writer=Kondraty Ryleyev>К. Ф. Рылеев</person>, <person decembrist=Alexey Bestuzhev-Ryumin>М. П. Бестужев-Рюмин</person>, <person decembrist=Sergey Muravyov-Apostol>С. И. Муравьёв-Апостол</person>, <person decembrist=Pyotr Kakhovsky>П. Г. Каховский</person> — пять декабристов, казнённых <person tsar=Nicholas I>Николаем I</person>.
-    </caption>
+    <p>
+        <person person_type="rebel">П. И. Пестель</person>, <person person_type="artist">К. Ф. Рылеев</person>, <person person_type="rebel">М. П. Бестужев-Рюмин</person>, <person person_type="rebel">С. И. Муравьёв-Апостол</person>, <person person_type="rebel">П. Г. Каховский</person> — пять декабристов, казнённых <person person_type="tsar">Николаем I</person>.
     </p>
     <p>
-        <person tsar=Nicholas I>Николай I</person>, став царём, главной задачей считал борьбу с революцией и всячески охранял старые, <system type=serfdom>крепостнические порядки</system>.
+        <person person_type="tsar">Николай I</person>, став царём, главной задачей считал борьбу с революцией и всячески охранял старые, <system system_type="serfdom">крепостнические порядки</system>.
     </p>
 </chapter>
 <chapter>
-    <title>36. В царстве жандармов и чиновников</title>
+    <title n="36">36. В царстве жандармов и чиновников</title>
     <p>
-        <bold>Николай I.</bold> О царе <person tsar=Nicholas I>Николае I</person>, когда он был мальчиком, его учитель говорил: «Я никогда не видал книги в его руках: единственное его занятие — фронт и солдаты». Такой человек стал императором <place country=Russia>России</place>.
+        Николай I. О царе <person person_type="tsar">Николае I</person>, когда он был мальчиком, его учитель говорил: «Я никогда не видал книги в его руках: единственное его занятие — фронт и солдаты». Такой человек стал императором <territory territory_type="country">России</territory>.
     </p>
     <p>
-        <person tsar=Nicholas I>Николай I</person> был очень напуган восстанием 14 декабря 1825 года. Для борьбы с революцией он создал особую полицию — <thing type=Gendarmes>жандармов</thing>. Начальник <thing type=Gendarmes>жандармов</thing> подчинялся только самому <person tsar=Nicholas I>царю</person>.
+        <person person_type="tsar">Николай I</person> был очень напуган восстанием 14 декабря 1825 года. Для борьбы с революцией он создал особую полицию — жандармов. Начальник жандармов подчинялся только самому царю.
     </p>
     <p>
-        За всем населением был установлен тщательный надзор. <thing type=Gendarmes>Жандармы</thing> и тайные агенты полиции рыскали по всему государству. Они подслушивали все толки в народе и частные разговоры. По малейшему подозрению, по непроверенному доносу людей арестовывали.
+        За всем населением был установлен тщательный надзор. Жандармы и тайные агенты полиции рыскали по всему государству. Они подслушивали все толки в народе и частные разговоры. По малейшему подозрению, по непроверенному доносу людей арестовывали.
     </p>
     <p>
-        <person tsar=Nicholas I>Николай I</person> управлял <place country=Russia>Россией</place> через дворян-чиновников, среди которых было много взяточников и казнокрадов. Чиновники в учреждениях и судах вымогали у населения взятки, издевались и насильничали над людьми.
+        <person person_type="tsar">Николай I</person> управлял <territory territory_type="country">Россией</territory> через дворян-чиновников, среди которых было много взяточников и казнокрадов. Чиновники в учреждениях и судах вымогали у населения взятки, издевались и насильничали над людьми.
     </p>
     <p>
-        Жестокую палочную дисциплину установил в <place country=Russia>России</place> <person tsar=Nicholas I>Николай I</person>. При нём били солдат, крестьян, арестованных, били всех, кто шёл против помещиков и паря. Били розгами, плетьми, кнутами, палками.
+        Жестокую палочную дисциплину установил в <territory territory_type="country">России</territory> <person person_type="tsar">Николай I</person>. При нём били солдат, крестьян, арестованных, били всех, кто шёл против помещиков и паря. Били розгами, плетьми, кнутами, палками.
     </p>
     <p>
 Крестьян заставляли ещё больше работать на помещика. У них отнимали всю землю, увеличивали барщину и оброк.
     </p>
     <p>
-        Крестьяне не выдерживали такой каторжной жизни и восставали против произвола <person group=serf>крепостников</person>. Они убивали наиболее жестоких помещиков, поджигали и громили их усадьбы, отказывались работать на барщине и платить оброк. Волнения крестьян продолжались.
+        Крестьяне не выдерживали такой каторжной жизни и восставали против произвола <people people_type="class">крепостников</people>. Они убивали наиболее жестоких помещиков, поджигали и громили их усадьбы, отказывались работать на барщине и платить оброк. Волнения крестьян продолжались.
     </p>
     <p>
 Царские войска и полиция беспощадно подавляли недовольных крестьян и сурово расправлялись с ними.
     </p>
     <p>
-        Жить в царской <place country=Russia>России</place> было невыносимо тяжело.
+        Жить в царской <territory territory_type="country">России</territory> было невыносимо тяжело.
     </p>
     <p>
-        <bold>Великие русские писатели. Великий украинский поэт <person writer=Taras Shevchenko>Шевченко</person>.</bold> При <person tsar=Nicholas I>Николае I</person> жил гениальный русский поэт <person type=Alexander Pushkin>Александр Сергеевич Пушкин</person>. Он написал прекрасные произведения (<media novel=Eugene Onegin>«Евгений Онегин»</media>, <media play=Boris Godunov>«Борис Годунов»</media>. <media novel=The Captains Daughter>«Капитанская дочка»</media> и многие другие), которыми мы гордимся и сейчас. <person writer=Alexander Pushkin>Пушкин</person> создал русскую литературу.
+        Великие русские писатели. Великий украинский поэт <person person_type="artist">Шевченко</person>. При <person person_type="tsar">Николае I</person> жил гениальный русский поэт <person person_type="artist">Александр Сергеевич Пушкин</person>. Он написал прекрасные произведения («Евгений Онегин», «Борис Годунов». «Капитанская дочка» и многие другие), которыми мы гордимся и сейчас. <person person_type="artist">Пушкин</person> создал русскую литературу.
     </p>
     <p>
-        <person writer=Alexander Pushkin>Пушкин</person> родился в 1799 году в <place city=Moscow>Москве</place>, в дворянской семье. Ещё мальчиком он начал писать стихотворения. Окончив дворянскую школу — <place other=Tsarskoe Selo Lyceum>лицей</place> в Царском Селе (теперь город <place city=Pushkin>Пушкин</place> под <place city=Leningrad>Ленинградом</place>), он стал известным писателем и сблизился с декабристами. В своих стихотворениях он резко осуждал <system type=serfdom>крепостное право</system> и самодержавие. Печатать такие стихотворения было нельзя, их переписывали от руки, читали тайно и распространяли повсюду.
+        <person person_type="artist">Пушкин</person> родился в 1799 году в <place place_type="city">Москве</place>, в дворянской семье. Ещё мальчиком он начал писать стихотворения. Окончив дворянскую школу — <place place_type="building">лицей</place> в Царском Селе (теперь город <place place_type="city">Пушкин</place> под <place place_type="city">Ленинградом</place>), он стал известным писателем и сблизился с декабристами. В своих стихотворениях он резко осуждал <system system_type="serfdom">крепостное право</system> и самодержавие. Печатать такие стихотворения было нельзя, их переписывали от руки, читали тайно и распространяли повсюду.
     </p>
-    <caption>
+    <p>
 Александр Сергеевич Пушкин (1799–1837 гг.).
-    </caption>
-    <p>
-        Об этих стихотворениях узнал царь <person tsar=Alexander I>Александр I</person>, и <person writer=Alexander Pushkin>Пушкин</person> был сослан сначала на <find>юг</find>, а потом на два года в свою <find>деревню</find>. До конца жизни <person writer=Alexander Pushkin>Пушкин</person> находился под постоянным надзором <thing type=Gendarmes>жандармов</thing>. Особенно тяжело жилось ему при <person tsar=Nicholas I>Николае I</person>, который знал о близких отношениях <person writer=Alexander Pushkin>Пушкина</person> с декабристами. Произведения <person writer=Alexander Pushkin>Пушкина</person> печатались лишь тогда, когда это разрешал сам <person tsar=Nicholas I>Николай I</person>.
     </p>
     <p>
-        <person tsar=Nicholas I>Царь</person> ненавидел <person writer=Alexander Pushkin>Пушкина</person>. Придворная знать травила и оскорбляла великого поэта. <person tsar=Nicholas I>Николай I</person> хорошо знал об этой травле, не не принимал никаких мер даже тогда, когда дело дошло до дуэли. <person writer=Alexander Pushkin>Пушкин</person> дрался на дуэли с <person politician=Georges-Charles dAnthes>одним</person> из своих обидчиков и был убит им в начале 1837 года.
+        Об этих стихотворениях узнал царь <person person_type="tsar">Александр I</person>, и <person person_type="artist">Пушкин</person> был сослан сначала на юг, а потом на два года в свою деревню. До конца жизни <person person_type="artist">Пушкин</person> находился под постоянным надзором жандармов. Особенно тяжело жилось ему при <person person_type="tsar">Николае I</person>, который знал о близких отношениях <person person_type="artist">Пушкина</person> с декабристами. Произведения <person person_type="artist">Пушкина</person> печатались лишь тогда, когда это разрешал сам <person person_type="tsar">Николай I</person>.
     </p>
     <p>
-        Свободной мысли не было места в царстве <thing type=Gendarmes>жандармов</thing>. <person tsar=Nicholas I>Николай I</person> сослал в действующую армию на <place region=Caucasus>Кавказ</place> другого знаменитого поэта — <person writer=Mikhail Lermontov>Михаила Юрьевича Лермонтова</person>. Царь отправил его под пули горцев за то, что поэт заклеймил в своём стихотворении убийц <person writer=Alexander Pushkin>Пушкина</person> — придворных паразитов. На <place region=Caucasus>Кавказе</place> <person writer=Mikhail Lermontov>Лермонтов</person> был убит на дуэли одним <person officer=Nikolai Martynov>офицером-бездельником</person>. Узнав об этом, Николай I сказал: «Собаке — собачья смерть».
+        Царь ненавидел <person person_type="artist">Пушкина</person>. Придворная знать травила и оскорбляла великого поэта. <person person_type="tsar">Николай I</person> хорошо знал об этой травле, не не принимал никаких мер даже тогда, когда дело дошло до дуэли. <person person_type="artist">Пушкин</person> дрался на дуэли с одним из своих обидчиков и был убит им в начале 1837 года.
     </p>
     <p>
-        Третий крупнейший писатель того времени — <person writer=Nikolai Gogol>
-            Николай Васильевич Гоголь</person> описал господство и произвол чиновников <person tsar=Nicholas I>Николая I</person>. В его замечательных произведениях <media novel=Dead Souls>«Мёртвые души»</media> и <media play=The Inspector General>«Ревизор»</media> тяжёлая жизнь <system type=serfdom>крепостнической</system> <place country=Russia>России</place> изображена ярко и правдиво.
+        Свободной мысли не было места в царстве жандармов. <person person_type="tsar">Николай I</person> сослал в действующую армию на <territory territory_type="region">Кавказ</territory> другого знаменитого поэта — <person person_type="artist">Михаила Юрьевича Лермонтова</person>. Царь отправил его под пули горцев за то, что поэт заклеймил в своём стихотворении убийц <person person_type="artist">Пушкина</person> — придворных паразитов. На <territory territory_type="region">Кавказе</territory> <person person_type="artist">Лермонтов</person> был убит на дуэли одним <person person_type="military">офицером-бездельником</person>. Узнав об этом, Николай I сказал: «Собаке — собачья смерть».
     </p>
     <p>
-        При <person tsar=Nicholas I>Николае I</person> умер затравленный <thing type=Gendarmes>жандармами<thing type=Gendarmes>, больной <thing type=tuberculosis>туберкулезом</thing> знаменитый <place country=Russia>русский</place> литературный критик-революционер <person critic=Vissarion Belinsky>Виссарион Григорьевич Белинский</person>.
-    </p>
-    <caption>
-        <person critic=Vissarion Belinsky>Виссарион Григорьевич Белинский</person> (1811–1848 гг.).
-    </caption>
-    <p>
-        Тяжело жилось в николаевской <place country=Russia>России</place> и крупнейшему русскому композитору <person composer=Mikhail Glinka>М. И. Глинке</person>. <person composer=Mikhail Glinka>Михаил Иванович Глинка</person> сочинил первую национальную русскую оперу <media opera=Ruslan and Lyudmila>«Руслан и Людмила»</media>. В ней он передал музыку народных песен не только русского народа, но и других народов <place country=Russia>России</place>. Дворяне не поняли красоты этого замечательного произведения, и оперу <person composer=Mikhail Glinka>Глинки</person> скоро перестали показывать в театрах. Возмущённый <person composer=Mikhail Glinka>Глинка</person> уехал из <place country=Russia>России</place>. Умер он <place city=Berlin>за границей</place>.
+        Третий крупнейший писатель того времени — <person person_type="artist">
+            Николай Васильевич Гоголь</person> описал господство и произвол чиновников <person person_type="tsar">Николая I</person>. В его замечательных произведениях «Мёртвые души» и «Ревизор» тяжёлая жизнь <system system_type="serfdom">крепостнической</system> <territory territory_type="country">России</territory> изображена ярко и правдиво.
     </p>
     <p>
-        Жестоко расправился <person tsar=Nicholas I>Николай I</person> и с украинским поэтом-революционером и художником <person writer=Taras Shevchenko>Тарасом Григорьевичем Шевченко</person>. <person writer=Taras Shevchenko>Шевченко</person> был вначале <person group=serf>крепостным</person> и выкупился на свободу.
+        При <person person_type="tsar">Николае I</person> умер затравленный жандармами, больной туберкулезом знаменитый русский литературный критик-революционер <person person_type="artist">Виссарион Григорьевич Белинский</person>.
     </p>
     <p>
-    <caption>
-        <person writer=Taras Shevchenko>Тарас Григорьевич Шевченко</person> (1814–1861 гг.).
-    </caption>
-    <p>
-        В своих стихах он писал об угнетении украинского и других народов царской <place country=Russia>России</place>, о тяжёлой жизни <person group=serf>крепостных</person>, о самовластии царей и панов и бесправии народа.
+        <person person_type="artist">Виссарион Григорьевич Белинский</person> (1811–1848 гг.).
     </p>
     <p>
-        <person tsar=Nicholas I>Николай I</person> отдал <person writer=Taras Shevchenko>Шевченко</person> в солдаты и сослал в <place country=Kazakhstan>Казахстан</place>, запретив поэту даже писать и рисовать. Десять лет мучили <person writer=Taras Shevchenko>Шевченко</person> в солдатской казарме, но не сломили его духа. Он продолжал тайком писать стихи. Полностью их напечатали на <country type=Ukraine>Украине</country> только при советской власти в сборнике его стихов <media poems=Kobzar>«Кобзарь»</media>.
-    </p>
-</chapter>
-<chapter>
-    <title>37. Присоединение Кавказа</title>
-    <p>
-        <bold>Присоединение <place country=Azerbaijan>Азербайджана</place> и <place country=Armenia>Армении</place>.</bold> В начале XIX века к <place country=Russia>России</place> присоединилась <place country=Georgia>Грузия</place>. Вскоре после этого было закончено присоединение к <place country=Russia>России</place> <place country=Azerbaijan>Азербайджана</place> и <place country=Armenia>Армении</place>, которые сотни лет страдали под игом иранских правителей. <person shah=Fath-Ali Shah Qajar>Шах</person> <place country=Iran>Ирана</place> неоднократно пытался снова захватить эти земли. Однако русские войска каждый раз разбивали войска <place country=Iran>Ирана</place>.
+        Тяжело жилось в николаевской <territory territory_type="country">России</territory> и крупнейшему русскому композитору <person person_type="artist">М. И. Глинке</person>. <person person_type="artist">Михаил Иванович Глинка</person> сочинил первую национальную русскую оперу «Руслан и Людмила». В ней он передал музыку народных песен не только русского народа, но и других народов <territory territory_type="country">России</territory>. Дворяне не поняли красоты этого замечательного произведения, и оперу <person person_type="artist">Глинки</person> скоро перестали показывать в театрах. Возмущённый <person person_type="artist">Глинка</person> уехал из <territory territory_type="country">России</territory>. Умер он за границей.
     </p>
     <p>
-        Кроме <place country=Iran>Ирана</place>, на <place country=Georgia>Грузию</place> и <place country=Armenia>Армению</place> часто нападала и <place country=Turkey>Турция</place>. Турецкие войска разрушали города и сёла, угоняли скот, опустошали поля, вырезали население целых городов, уводили в рабство тысячи жителей.
+        Жестоко расправился <person person_type="tsar">Николай I</person> и с украинским поэтом-революционером и художником <person person_type="artist">Тарасом Григорьевичем Шевченко</person>. <person person_type="artist">Шевченко</person> был вначале <people people_type="class">крепостным</people> и выкупился на свободу.
     </p>
     <p>
-        После присоединения <place country=Georgia>Грузии</place>, <place country=Azerbaijan>Азербайджана</place> и <place country=Armenia>Армении</place> к <place country=Russia>России</place> грабительские нападения <place country=Turkey>Турции</place> стали получать решительный отпор. <place country=Turkey>Турция</place> теперь не могла безнаказанно разорять грузин, армян, азербайджанцев. Тогда <find>турецкий султан</find> задумал поднять на войну против <place country=Russia>России</place> мелкие отсталые племена <person group=Highlanders>горцев</person>. Племена <person group=Highlanders>горцев</person> жили в высоких, малодоступных <find>горах</find> <place region=Caucasus>Кавказа</place>. Эти <find>горы</find> затрудняли сношения <place country=Russia>России</place> с <place country=Georgia>Грузией</place>, <place country=Armenia>Арменией</place> и <place country=Azerbaijan>Азербайджаном</place>. Через <find>горы</find> проходило очень мало дорог. Если бы <find>горцы</find> повели войну против <place country=Russia>России</place>, то <place country=Turkey>Турции</place> легче было бы вновь напасть на <place region=Transcaucasia>Закавказье</place>.
+        <person person_type="artist">Тарас Григорьевич Шевченко</person> (1814–1861 гг.).
     </p>
     <p>
-        <bold>Движение <person group=Highlanders>горцев</person> под руководством <person imam=Imam Shamil>Шамиля</person>.</bold> Раздроблённые племена <person group=Highlanders>горцев</person> находились под властью разных князей и помещиков. Один из богатых <person group=Highlanders>горцев</person> <person imam=Imam Shamil>Шамиль</person> объявил себя владыкою всех племён. Он начал возбуждать мусульман против русских и набирать в свои отряды отсталых <person group=Highlanders>горцев</person>. <person imam=Imam Shamil>Шамиль</person> опирался на помещиков и князей, ненавидевших <place country=Russia>Россию</place>. <person sultan=Abdul Aziz>Турецкий султан</person> подкупил <person imam=Imam Shamil>Шамиля</person>, он давал ему деньги, оружие и обещал помощь войсками. <person imam=Imam Shamil>Шамилю</person> помогала также и <place country=England>Англия</place>. Она стремилась ослабить <place country=Russia>Россию</place> и захватить <place region=Caucasus>Кавказ</place>. <place country=England>Англия</place> уже в те годы была жестокой угнетательницей многих миллионов людей в <place region=Asia>Азии</place>, <place region=Africa>Африке</place> и других странах. Захват <place region=Caucasus>Кавказа</place> <place country=England>Англией</place> или <place country=Turkey>Турцией</place> был бы огромным несчастьем для народов <place region=Caucasus>Кавказа</place>.
+        В своих стихах он писал об угнетении украинского и других народов царской <territory territory_type="country">России</territory>, о тяжёлой жизни <people people_type="class">крепостных</people>, о самовластии царей и панов и бесправии народа.
     </p>
     <p>
-        Отряды <person imam=Imam Shamil>Шамиля</person> постоянно нападали на <place region=Kuban>кубанские</place> станицы и <place country=Georgia>грузинские</place> сёла. Много крестьян захватывал при набегах <person imam=Imam Shamil>Шамиль</person>. Он предавал их казни или делал рабами. Особенно усилились набеги <person imam=Imam Shamil>Шамиля</person>, когда началась в 1853 году война <place country=Russia>России</place> с <place country=Turkey>Турцией</place>, <place country=England>Англией</place> и <country type=France>Францией</country>. <place country=Russia>Русским</place> войскам было трудно бороться с отрядами <person imam=Imam Shamil>Шамиля</person>, которые после набегов прятались в неприступных ущельях, в дремучих чащах горных лесов. По <place country=Russia>русские</place> войска всё же побеждали отряды <person imam=Imam Shamil>Шамиля</person>.
-    </p>
-    <p>
-        Разгром <person imam=Imam Shamil>Шамиля</person> и окончательное присоединение <place region=Caucasus>Кавказа</place>. Сначала <person imam=Imam Shamil>Шамилю</person> удавалось обманывать народные массы горцев тем, что он будто бы ведёт освободительную войну за независимость. Но потом народ понял этот обман. Он увидел, что эта война несёт ему только страдания и разорение. <person group=Highlanders>Горцы</person> также не желали быть под властью <place country=Turkey>Турции</place> и <place country=England>Англии</place>. Передовые люди <place region=Caucasus>Кавказа</place> стремились к объединению с <place country=Russia>Россией</place>.
-    </p>
-    <p>
-        Народные массы были недовольны тем, что <person imam=Imam Shamil>Шамиль</person> и поставленные им чиновники установили жестокую власть над горцами и разоряли их. <person imam=Imam Shamil>Шамиль</person> хотел массовыми казнями заставить <person group=Highlanders>горцев</person> продолжать войну против <place country=Russia>России</place>. Он истреблял целые селения недовольных <person group=Highlanders>горцев</person>. Но народ не подчинился <person imam=Imam Shamil>Шамилю</person>. Отряды <person imam=Imam Shamil>Шамиля</person> стали редеть. На высокой горе в ауле <place town=Gunib>Гуниб</place> (<place region=Dagestan>Дагестан</place>) <person imam=Imam Shamil>Шамиль</person> был окружён русскими войсками и взят в плен. Вскоре после этого <place region=Caucasus>Кавказ</place> был окончательно присоединён к <place country=Russia>России</place>. Народы <place region=Caucasus>Кавказа</place> получили безопасность от внешних врагов.
-    </p>
-    <p>
-        Царское правительство, разбив <person imam=Imam Shamil>Шамиля</person>, не избавило горцев <place region=Caucasus>Кавказа</place> от гнёта местных помещиков. Кроме того, <person tsar=Nicholas I>царь</person> установил здесь власть своих чиновников.
-    </p>
-    <p>
-        Однако присоединение народов <place region=Caucasus>Кавказа</place> к <place country=Russia>России</place> помогло им ближе сойтись с русским народом. Они познакомились с передовой <place country=Russia>русской</place> культурой. В дальнейшем народы <place region=Caucasus>Кавказа</place> совместно с русским народом боролись против <person tsar=Nicholas I>царя</person>, помещиков и капиталистов.
+        <person person_type="tsar">Николай I</person> отдал <person person_type="artist">Шевченко</person> в солдаты и сослал в <territory territory_type="country">Казахстан</territory>, запретив поэту даже писать и рисовать. Десять лет мучили <person person_type="artist">Шевченко</person> в солдатской казарме, но не сломили его духа. Он продолжал тайком писать стихи. Полностью их напечатали на <territory territory_type="country">Украине</territory> только при советской власти в сборнике его стихов «Кобзарь».
     </p>
 </chapter>
 <chapter>
-    <title>38. Революция 1848 года в Европе. Карл Маркс и Фридрих Энгельс</title>
+    <title n="37">37. Присоединение Кавказа</title>
     <p>
-        <bold>Революция 1848 года и <person tsar=Nicholas I>Николай I</person>.</bold> К середине XIX века промышленность в <place region=Europe>Европе</place> уже сильно развилась. В ряде государств возникли крупные промышленные центры, стало много фабрик и заводов с новыми машинами, быстро строились железные дороги. Фабриканты и заводчики получали огромные барыши. Появились богачи-миллионеры. В их руках оказались сила и власть в государстве.
+        Присоединение <territory territory_type="country">Азербайджана</territory> и <territory territory_type="country">Армении</territory>. В начале XIX века к <territory territory_type="country">России</territory> присоединилась <territory territory_type="country">Грузия</territory>. Вскоре после этого было закончено присоединение к <territory territory_type="country">России</territory> <territory territory_type="country">Азербайджана</territory> и <territory territory_type="country">Армении</territory>, которые сотни лет страдали под игом иранских правителей. Шах <territory territory_type="country">Ирана</territory> неоднократно пытался снова захватить эти земли. Однако русские войска каждый раз разбивали войска <territory territory_type="country">Ирана</territory>.
     </p>
     <p>
-        Растущая промышленность требовала всё больше и больше рабочих рук. Образовался многочисленный рабочий класс, которого не было раньше, — <person group=proletariat>пролетариат</person>. Он начал открытую борьбу с капиталистами за свои права. Особенно прославился парижский <person group=proletariat>пролетариат</person> в революции 1848 года.
+        Кроме <territory territory_type="country">Ирана</territory>, на <territory territory_type="country">Грузию</territory> и <territory territory_type="country">Армению</territory> часто нападала и <territory territory_type="country">Турция</territory>. Турецкие войска разрушали города и сёла, угоняли скот, опустошали поля, вырезали население целых городов, уводили в рабство тысячи жителей.
     </p>
     <p>
-        22 февраля 1848 года в <place city=Paris>Париже</place> вспыхнула революция, которая быстро охватила города <country type=France>Франции</country>. <find>Король</find> бежал за границу. Во <country type=France>Франции</country> была объявлена буржуазная республика.
+        После присоединения <territory territory_type="country">Грузии</territory>, <territory territory_type="country">Азербайджана</territory> и <territory territory_type="country">Армении</territory> к <territory territory_type="country">России</territory> грабительские нападения <territory territory_type="country">Турции</territory> стали получать решительный отпор. <territory territory_type="country">Турция</territory> теперь не могла безнаказанно разорять грузин, армян, азербайджанцев. Тогда турецкий султан задумал поднять на войну против <territory territory_type="country">России</territory> мелкие отсталые племена горцев. Племена горцев жили в высоких, малодоступных горах <territory territory_type="region">Кавказа</territory>. Эти горы затрудняли сношения <territory territory_type="country">России</territory> с <territory territory_type="region">Грузией</territory>, <territory territory_type="region">Арменией</territory> и <territory territory_type="region">Азербайджаном</territory>. Через горы проходило очень мало дорог. Если бы горцы повели войну против <territory territory_type="country">России</territory>, то <territory territory_type="country">Турции</territory> легче было бы вновь напасть на <territory territory_type="country">Закавказье</territory>.
     </p>
     <p>
-        Но революция во <country type=France>Франции</country> не принесла никакого облегчения рабочим. В конце июня 1848 года парижский <person group=proletariat>пролетариат</person> выступил против своих хозяев-капиталистов и буржуазного республиканского правительства. Три дня рабочие геройски сражались. Их жены и дети делали свинцовые пули, помогали строить баррикады, под пулями солдат носили бойцам пишу. <person group=bourgeoisie>Буржуазия</person> двинула против рабочих хорошо вооружённые войска. Рабочие были плохо организованы, оружия у них не хватало, они не имели поддержки со стороны крестьян, и восстание было подавлено. <person group=bourgeoisie>Буржуазия</person> жестоко расправилась с побежденными: тысячи человек были расстреляны, брошены в тюрьмы и сосланы на каторгу. <person group=bourgeoisie>Буржуазия</person> торжествовала победу.</p>
+        Движение горцев под руководством <person person_type="foreign_leader">Шамиля</person>. Раздроблённые племена горцев находились под властью разных князей и помещиков. Один из богатых горцев <person person_type="foreign_leader">Шамиль</person> объявил себя владыкою всех племён. Он начал возбуждать мусульман против русских и набирать в свои отряды отсталых горцев. <person person_type="foreign_leader">Шамиль</person> опирался на помещиков и князей, ненавидевших <territory territory_type="country">Россию</territory>. Турецкий султан подкупил <person person_type="foreign_leader">Шамиля</person>, он давал ему деньги, оружие и обещал помощь войсками. <person person_type="foreign_leader">Шамилю</person> помогала также и <territory territory_type="country">Англия</territory>. Она стремилась ослабить <territory territory_type="country">Россию</territory> и захватить <territory territory_type="region">Кавказ</territory>. <territory territory_type="country">Англия</territory> уже в те годы была жестокой угнетательницей многих миллионов людей в Азии, Африке и других странах. Захват <territory territory_type="region">Кавказа</territory> <territory territory_type="country">Англией</territory> или <territory territory_type="country">Турцией</territory> был бы огромным несчастьем для народов <territory territory_type="region">Кавказа</territory>.
+    </p>
     <p>
-    <caption>
+        Отряды <person person_type="foreign_leader">Шамиля</person> постоянно нападали на <territory territory_type="region">кубанские</territory> станицы и <territory territory_type="country">грузинские</territory> сёла. Много крестьян захватывал при набегах <person person_type="foreign_leader">Шамиль</person>. Он предавал их казни или делал рабами. Особенно усилились набеги <person person_type="foreign_leader">Шамиля</person>, когда началась в 1853 году война <territory territory_type="country">России</territory> с <territory territory_type="country">Турцией</territory>, <territory territory_type="country">Англией</territory> и <territory territory_type="country">Францией</territory>. <territory territory_type="country">Русским</territory> войскам было трудно бороться с отрядами <person person_type="foreign_leader">Шамиля</person>, которые после набегов прятались в неприступных ущельях, в дремучих чащах горных лесов. По <territory territory_type="country">русские</territory> войска всё же побеждали отряды <person person_type="foreign_leader">Шамиля</person>.
+    </p>
+    <p>
+        Разгром <person person_type="foreign_leader">Шамиля</person> и окончательное присоединение <territory territory_type="region">Кавказа</territory>. Сначала <person person_type="foreign_leader">Шамилю</person> удавалось обманывать народные массы горцев тем, что он будто бы ведёт освободительную войну за независимость. Но потом народ понял этот обман. Он увидел, что эта война несёт ему только страдания и разорение. Горцы также не желали быть под властью <territory territory_type="country">Турции</territory> и <territory territory_type="country">Англии</territory>. Передовые люди <territory territory_type="region">Кавказа</territory> стремились к объединению с <territory territory_type="country">Россией</territory>.
+    </p>
+    <p>
+        Народные массы были недовольны тем, что <person person_type="foreign_leader">Шамиль</person> и поставленные им чиновники установили жестокую власть над горцами и разоряли их. <person person_type="foreign_leader">Шамиль</person> хотел массовыми казнями заставить горцев продолжать войну против <territory territory_type="country">России</territory>. Он истреблял целые селения недовольных горцев. Но народ не подчинился <person person_type="foreign_leader">Шамилю</person>. Отряды <person person_type="foreign_leader">Шамиля</person> стали редеть. На высокой горе в ауле <place place_type="city">Гуниб</place> (<territory territory_type="region">Дагестан</territory>) <person person_type="foreign_leader">Шамиль</person> был окружён русскими войсками и взят в плен. Вскоре после этого <territory territory_type="region">Кавказ</territory> был окончательно присоединён к <territory territory_type="country">России</territory>. Народы <territory territory_type="region">Кавказа</territory> получили безопасность от внешних врагов.
+    </p>
+    <p>
+        Царское правительство, разбив <person person_type="foreign_leader">Шамиля</person>, не избавило горцев <territory territory_type="region">Кавказа</territory> от гнёта местных помещиков. Кроме того, <person person_type="tsar">царь</person> установил здесь власть своих чиновников.
+    </p>
+    <p>
+        Однако присоединение народов <territory territory_type="region">Кавказа</territory> к <territory territory_type="country">России</territory> помогло им ближе сойтись с русским народом. Они познакомились с передовой <territory territory_type="country">русской</territory> культурой. В дальнейшем народы <territory territory_type="region">Кавказа</territory> совместно с русским народом боролись против царя, помещиков и капиталистов.
+    </p>
+</chapter>
+<chapter>
+    <title n="38">38. Революция 1848 года в Европе. Карл Маркс и Фридрих Энгельс</title>
+    <p>
+        Революция 1848 года и <person person_type="tsar">Николай I</person>. К середине XIX века промышленность в Европе уже сильно развилась. В ряде государств возникли крупные промышленные центры, стало много фабрик и заводов с новыми машинами, быстро строились железные дороги. Фабриканты и заводчики получали огромные барыши. Появились богачи-миллионеры. В их руках оказались сила и власть в государстве.
+    </p>
+    <p>
+        Растущая промышленность требовала всё больше и больше рабочих рук. Образовался многочисленный рабочий класс, которого не было раньше, — <people people_type="class">пролетариат</people>. Он начал открытую борьбу с капиталистами за свои права. Особенно прославился парижский <people people_type="class">пролетариат</people> в революции 1848 года.
+    </p>
+    <p>
+        22 февраля 1848 года в <place place_type="city">Париже</place> вспыхнула революция, которая быстро охватила города <territory territory_type="country">Франции</territory>. Король бежал за границу. Во <territory territory_type="country">Франции</territory> была объявлена буржуазная республика.
+    </p>
+    <p>
+        Но революция во <territory territory_type="country">Франции</territory> не принесла никакого облегчения рабочим. В конце июня 1848 года парижский <people people_type="class">пролетариат</people> выступил против своих хозяев-капиталистов и буржуазного республиканского правительства. Три дня рабочие геройски сражались. Их жены и дети делали свинцовые пули, помогали строить баррикады, под пулями солдат носили бойцам пишу. <people people_type="class">Буржуазия</people> двинула против рабочих хорошо вооружённые войска. Рабочие были плохо организованы, оружия у них не хватало, они не имели поддержки со стороны крестьян, и восстание было подавлено. <people people_type="class">Буржуазия</people> жестоко расправилась с побежденными: тысячи человек были расстреляны, брошены в тюрьмы и сосланы на каторгу. <people people_type="class">Буржуазия</people> торжествовала победу.</p>
+    <p>
 Июньское восстание парижских рабочих в 1848 году.
-    </caption>
-    <p>
-        При первых известиях о революции в <place city=Paris>Париже</place> и о брожении в <place country=Prussia>Пруссии</place> и <place country=Austria>Австрии</place> <person tsar=Nicholas I>Николай I</person> двинул свою армию к границе <place country=Prussia>Пруссии</place> и <place country=Austria>Австрии</place>. Он выжидал момент, чтобы своими войсками задушить ненавистное ему революционное движение.
     </p>
     <p>
-        Вслед за <country type=France>Францией</country> революция разразилась во многих государствах <place region=Europe>Европы</place>. В австрийской столице <place city=Vienna>Вене</place> восставшие рабочие, студенты и другие горожане сбросили власть дворян. Император бежал из <place city=Vienna>Вены</place>.
+        При первых известиях о революции в <place place_type="city">Париже</place> и о брожении в <territory territory_type="kingdom">Пруссии</territory> и <territory territory_type="country">Австрии</territory> <person person_type="tsar">Николай I</person> двинул свою армию к границе <territory territory_type="kingdom">Пруссии</territory> и <territory territory_type="country">Австрии</territory>. Он выжидал момент, чтобы своими войсками задушить ненавистное ему революционное движение.
     </p>
     <p>
-        В <place city=Berlin>Берлине</place> 18 часов дрались на баррикадах революционные рабочие и заставили <find>короля</find> уступить. В <place country=Prussia>Пруссии</place> было образовано новое правительство, <system type=serfdom>крепостное право</system> было уничтожено.
+        Вслед за <territory territory_type="country">Францией</territory> революция разразилась во многих государствах Европы. В австрийской столице <place place_type="city">Вене</place> восставшие рабочие, студенты и другие горожане сбросили власть дворян. Император бежал из <place place_type="city">Вены</place>.
+    </p>
+    <p>
+        В <place place_type="city">Берлине</place> 18 часов дрались на баррикадах революционные рабочие и заставили короля уступить. В <territory territory_type="kingdom">Пруссии</territory> было образовано новое правительство, <system system_type="serfdom">крепостное право</system> было уничтожено.
     </p>
     <p>
 Рабочие и горожане восставали против королей, дворян и отчасти капиталистов и в других странах Европы.
     </p>
     <p>
-        Революция охватила часть <place country=Austria>Австрийской империи</place> — <place country=Hungary>Венгрию</place>, и <person tsar=Nicholas I>Николай I</person> по просьбе <find>императора</find> <place country=Austria>Австрии</place> послал туда свои войска и подавил революцию.
+        Революция охватила часть <territory territory_type="country">Австрийской империи</territory> — <territory territory_type="country">Венгрию</territory>, и <person person_type="tsar">Николай I</person> по просьбе императора <territory territory_type="country">Австрии</territory> послал туда свои войска и подавил революцию.
     </p>
     <p>
-        Так боролся с революцией царь <person tsar=Nicholas I>Николай I</person> — жандарм <place region=Europe>Европы</place>.
+        Так боролся с революцией царь <person person_type="tsar">Николай I</person> — жандарм Европы.
     </p>
     <p>
-        Но никакие силы не могли задушить поднявшийся в революции 1848 года молодой класс — <person group=proletariat>пролетариат</person>.
+        Но никакие силы не могли задушить поднявшийся в революции 1848 года молодой класс — <people people_type="class">пролетариат</people>.
     </p>
     <p>
-        <bold><person philosopher=Karl Marx>Карл Маркс</person> и <person philosopher=Friedrich Engels>Фридрих Энгельс</person>.</bold> Гениальными учителями и вождями <person group=proletariat>пролетариата</person> были <person philosopher=Karl Marx>Маркс</person> и <person philosopher=Friedrich Engels>Энгельс</person>.
+        <person person_type="politician">Карл Маркс</person> и <person person_type="politician">Фридрих Энгельс</person>. Гениальными учителями и вождями <people people_type="class">пролетариата</people> были <person person_type="politician">Маркс</person> и <person person_type="politician">Энгельс</person>.
     </p>
     <p>
-        В 1848 году они выступили как вожди революционных рабочих в <place country=Germany>Германии</place>. <person philosopher=Karl Marx>Марксу</person> тогда было 30 лет, а его другу <person philosopher=Friedrich Engels>Энгельсу</person> — 28 лет. Они были первыми революционерами-коммунистами и ещё до революции основали «Союз коммунистов» и написали знаменитый <media pamphlet=The Communist Manifesto>«Коммунистический манифест»</media>. В этом манифесте они призывали рабочих всего мира на борьбу со своими врагами — капиталистами. С тех пор их призыв «Пролетарии всех стран, соединяйтесь!» — стал знаменем рабочих всего мира.
+        В 1848 году они выступили как вожди революционных рабочих в <territory territory_type="country">Германии</territory>. <person person_type="politician">Марксу</person> тогда было 30 лет, а его другу <person person_type="politician">Энгельсу</person> — 28 лет. Они были первыми революционерами-коммунистами и ещё до революции основали «Союз коммунистов» и написали знаменитый «Коммунистический манифест». В этом манифесте они призывали рабочих всего мира на борьбу со своими врагами — капиталистами. С тех пор их призыв «Пролетарии всех стран, соединяйтесь!» — стал знаменем рабочих всего мира.
     </p>
-    <caption>
-        <person philosopher=Karl Marx>Карл Маркс</person> (1818–1883 гг.).
-    </caption>
-    <caption>
-        <person philosopher=Friedrich Engels>Фридрих Энгельс</person> (1820–1895 гг.).
-    </caption>
     <p>
-        После разгрома революции в <place country=Germany>Германии</place>. <person philosopher=Karl Marx>Маркс</person> и <person philosopher=Friedrich Engels>Энгельс</person> вынуждены были уехать из <place country=Germany>Германии</place> и поселились в <place country=England>Англии</place>. В тяжёлых условиях приходилось им жить и работать. Семья <person philosopher=Karl Marx>Маркса</person> очень нуждалась. <person philosopher=Friedrich Engels>Энгельс</person> помогал, сколько мог, своему другу и делил с ним неудачи и радости.
+        <person person_type="politician">Карл Маркс</person> (1818–1883 гг.).
+    </p>
+    <p>
+        <person person_type="politician">Фридрих Энгельс</person> (1820–1895 гг.).
+    </p>
+    <p>
+        После разгрома революции в <territory territory_type="country">Германии</territory>. <person person_type="politician">Маркс</person> и <person person_type="politician">Энгельс</person> вынуждены были уехать из <territory territory_type="country">Германии</territory> и поселились в <territory territory_type="country">Англии</territory>. В тяжёлых условиях приходилось им жить и работать. Семья <person person_type="politician">Маркса</person> очень нуждалась. <person person_type="politician">Энгельс</person> помогал, сколько мог, своему другу и делил с ним неудачи и радости.
     </p>
     <p>
 По тяжёлая жизнь не сломила великих революционеров. Они неустанно продолжали начатое ими великое дело освобождения трудящихся от гнёта капиталистов.
@@ -218,19 +217,19 @@
 Они написали много книг, из которых рабочие узнали, как бороться с капиталистами и как побеждать их.
     </p>
     <p>
-        <person philosopher=Karl Marx>Маркс</person> и <person philosopher=Friedrich Engels>Энгельс</person> учили рабочих, что между угнетёнными и угнетателями всегда шла жестокая борьба. При капитализме такая борьба неизбежна между <person group=bourgeoisie>буржуазией</person> и рабочими, и она должна кончиться победой рабочего класса. Рабочий класс свергнет власть <person group=bourgeoisie>буржуазии</person> и утвердит свою революционную власть — диктатуру <person group=proletariat>пролетариата</person>. Победивший <person group=proletariat>пролетариат</person> построит новое — коммунистическое общество, в котором не будет ни классов, ни угнетения людей.
+        <person person_type="politician">Маркс</person> и <person person_type="politician">Энгельс</person> учили рабочих, что между угнетёнными и угнетателями всегда шла жестокая борьба. При капитализме такая борьба неизбежна между <people people_type="class">буржуазией</people> и рабочими, и она должна кончиться победой рабочего класса. Рабочий класс свергнет власть <people people_type="class">буржуазии</people> и утвердит свою революционную власть — диктатуру <people people_type="class">пролетариата</people>. Победивший <people people_type="class">пролетариат</people> построит новое — коммунистическое общество, в котором не будет ни классов, ни угнетения людей.
     </p>
     <p>
-        <person philosopher=Karl Marx>Маркс</person> и <person philosopher=Friedrich Engels>Энгельс</person> призывали рабочих всех стран объединиться в единую могучую коммунистическую партию.
+        <person person_type="politician">Маркс</person> и <person person_type="politician">Энгельс</person> призывали рабочих всех стран объединиться в единую могучую коммунистическую партию.
     </p>
 </chapter>
 <chapter>
-    <title>39. Царская Россия перед реформой 1861 года</title>
+    <title n="39">39. Царская Россия перед реформой 1861 года</title>
     <p>
-        <bold>Развитие промышленности.</bold> До середины XIX века промышленность в <person group=serf>крепостной</person> <place country=Russia>России</place> развивалась медленно. Только одна десятая часть всего населения государства жила в городах. На фабриках и заводах работало только 500 тысяч рабочих. Среди них было много <person group=serf>крепостных</person>, отпущенных помещиками на оброк и работавших на фабриках по найму. На фабриках только начали заводить машины и паровые двигатели. На <place river=Volga>Волге</place> и <place river=Dnieper>Днепре</place> появились лишь первые пароходы. Построена была только одна большая железная дорога — между <place city=Moscow>Москвой</place> и <place city=St. Petersburg>Петербургом</place>.
+        Развитие промышленности. До середины XIX века промышленность в <people people_type="class">крепостной</people> <territory territory_type="country">России</territory> развивалась медленно. Только одна десятая часть всего населения государства жила в городах. На фабриках и заводах работало только 500 тысяч рабочих. Среди них было много <people people_type="class">крепостных</people>, отпущенных помещиками на оброк и работавших на фабриках по найму. На фабриках только начали заводить машины и паровые двигатели. На <place place_type="river">Волге</place> и <place place_type="river">Днепре</place> появились лишь первые пароходы. Построена была только одна большая железная дорога — между <place place_type="city">Москвой</place> и <place place_type="city">Петербургом</place>.
     </p>
     <p>
-        Фабриканты и заводчики не могли строить много фабрик и заводов, так как было мало свободных людей, которые могли бы стать наёмными рабочими. Кроме того, и продавать товары в <place country=Russia>России</place> было трудно, <person group=serf>крепостные</person> крестьяне покупали их мало.
+        Фабриканты и заводчики не могли строить много фабрик и заводов, так как было мало свободных людей, которые могли бы стать наёмными рабочими. Кроме того, и продавать товары в <territory territory_type="country">России</territory> было трудно, <person group=se>крепостные</person> крестьяне покупали их мало.
     </p>
     <p>
         Увеличение населения в городах, рост числа фабрик и заводов усиливали в <place country=Russia>России</place> внутреннюю торговлю хлебом. Много русского хлеба помещики везли за границу, особенно в промышленную <place country=England>Англию</place>. Они хотели иметь больше хлеба для продажи и ещё сильнее стали притеснять <person group=serf>крепостных</person>.
@@ -1151,3 +1150,4 @@ XI. Вторая буржуазная революция в России
         Но неуклонно нарастала единая борьба рабочих, крестьян, солдат и угнетённых народов против войны, против царского правительства.
     </p>
     </chapter>
+</textbook>
