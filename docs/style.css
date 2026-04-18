@@ -1,6 +1,7 @@
+                     /* BASELINE STYLING */
 body{
     background-color: #fff7e7; /* this is like a beige sortof thing */
-    font-family: sans-serif; /*placeholder font*/
+    font-family: sans-serif;
     text-align: center;
     color: #222; 
 }
@@ -20,6 +21,11 @@ nav {
 h1{
     color: #4f2405;
     font-size: 50px;
+    font-family:sans-serif;
+}
+h2, h3{
+    color: #4f2405;
+    font-family:sans-serif;
 }
 /*Added a wee animation on hover for all links*/
 a {
@@ -32,7 +38,7 @@ a:hover {
     opacity:.6;
 }
 /* coloring links, rn only relevant to the analysis page */
-p a() {
+p a{
   color: blue;
 }
 
@@ -49,6 +55,11 @@ figure {
     flex-direction: column;
     justify-content: center;
 }
+.header_splash h1{
+    font-family: "Ruslan Display", serif;
+     margin-bottom: -1%;
+}
+
 main{
     display: flex;
     flex-direction: row;
@@ -71,7 +82,6 @@ summary:hover{
 }
                                 /*CORPUS*/
 .corpus_title{
-    background-color: #8b0000;
     padding: 10px 0;
-    color: white;
+    margin:1%
 }
