@@ -19,7 +19,7 @@ start = textbook
                     person_type= attribute person_type {"russian_royalty"|"tsar"|"foreign_leader"|"artist"|"knyaz"|"rebel"|"worker"|"politician"|"military"}
 
                 people = element people {people_type, text}
-                    people_type= attribute people_type {"ethnicity" | "class" | "job"}
+                    people_type= attribute people_type {"ethnicity" | "class" | "job" | "army"}
                 political_affiliation = element political_affiliation {political_type, text}
                     political_type = attribute political_type {text}
                 religion = element religion {religion_type, text}
