@@ -14,13 +14,15 @@
             <xsl:for-each select="//chapter">
                 <xsl:variable name="position" select="position()"/>
                 <xsl:variable name="count" select="count(.//rhetoric)"/>
+                <xsl:variable name="barWidth" select="10"/>
                 
                 <rect 
-                    x="{($position - 1) * 30}" 
+                    x="{($position - 1) * $barWidth}" 
                     y="{200 - ($count * 20)}"
-                    width="10" 
+                    width="{$barWidth}" 
                     height="{$count * 20}"
-                    fill="blue"/>
+                    fill="#e8922d"/>
+                <!--will add in labels for chapter numbers and counts later-->
 
             </xsl:for-each>    
         </svg>
