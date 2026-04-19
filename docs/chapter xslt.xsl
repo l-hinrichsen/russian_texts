@@ -37,9 +37,19 @@
                                <xsl:apply-templates select="//chapter"/>
                            </ul>
                        </div>
-                       <div>
+                       <div class = "text">
                     <xsl:apply-templates select="p"/>
                        </div>
+                    <div class="buttons">
+                       <!-- go back-->
+                            <div class="back">
+                        <a href = "chapter{$n - 1}.html">Back</a>
+                            </div>
+                       <!--go forward-->
+                            <div class="forward">
+                        <a href = "chapter{$n + 1}.html">Forward</a>
+                            </div>
+                    </div>
                 </body>
             </html>
             </xsl:result-document>

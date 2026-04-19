@@ -90,3 +90,18 @@ summary:hover{
     margin: 0;
     overflow: hidden;
 }
+                                /*EACH PAGE*/
+.back{
+    border-top: #8b0000;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #dc8546;
+}
+.forward{
+    border-top: #8b0000;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #dc8546;
+}
