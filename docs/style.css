@@ -58,6 +58,7 @@ p a{
 .header_splash h1{
     font-family: "Ruslan Display", serif;
      margin-bottom: -1%;
+     color:rgb(211, 73, 31);
 }
 
 main{
@@ -85,7 +86,7 @@ summary:hover{
     padding: 10px 0;
     margin:1%
 }
-.corpus_decorative_border{
+.decorative_border{
     background-image: url("AdobeStock_816480317.png");
     background-repeat: repeat-x;
     background-size: 200px auto;
