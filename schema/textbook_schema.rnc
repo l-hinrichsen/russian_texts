@@ -36,6 +36,5 @@ start = textbook
 	           organization = element organization {organization_type, text}
 	               organization_type = attribute organization_type {"agriculture"}
 	               
-	           rhetoric = element rhetoric {about, text}
-                   about = attribute about {text}
-                   #if ever we want distinct values from @about, we'll need to tokenize; example <rhetoric about="germany japan"> in ch1
+	           rhetoric = element rhetoric {type,text}
+	               type= attribute type {"nc" |"generality" |"transfer" |"testimonial" |"pf" |"stacking" |"bw"}
