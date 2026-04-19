@@ -86,8 +86,10 @@ summary:hover{
     margin:1%
 }
 .corpus_TEXTBOOK_IMAGE{
-  display: flex;
-  justify-content: center;
+    text-align: center;
+    width: 100%; /*for whatever reason the width needs to be set like this*/
+    justify-content: center;
+    display: flex;
 }
                                 /*EACH PAGE*/
                 /*BUTTONS*/
