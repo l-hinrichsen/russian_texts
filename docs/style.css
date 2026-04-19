@@ -31,10 +31,6 @@ h2, h3{
 p{
     text-align: left;
 }
-.corpus_TEXTBOOK_IMAGE{
-  display: flex;
-  justify-content: center;
-}
 /*Added a wee animation on hover for all links*/
 a {
     text-decoration: none; /*got rid of the gross underline*/
@@ -89,14 +85,9 @@ summary:hover{
     padding: 10px 0;
     margin:1%
 }
-.decorative_border{
-    background-image: url("AdobeStock_816480317.png");
-    background-repeat: repeat-x;
-    background-size: 200px auto;
-    height: 60px;
-    width: 100%;
-    margin: 0;
-    overflow: hidden;
+.corpus_TEXTBOOK_IMAGE{
+  display: flex;
+  justify-content: center;
 }
                                 /*EACH PAGE*/
                 /*BUTTONS*/
@@ -140,7 +131,17 @@ ul{
     display: flex;
     flex-direction: column;
 }
-.main_TOC{
+.main_TOC{   /*chapter0*/
     text-align: center;
-    font-size: 25px;
+    font-size: 18px;
+}
+            /*DRIP*/
+.decorative_border{
+    background-image: url("AdobeStock_816480317.png");
+    background-repeat: repeat-x;
+    background-size: 200px auto;
+    height: 60px;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
 }
