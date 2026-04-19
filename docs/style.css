@@ -31,6 +31,10 @@ h2, h3{
 p{
     text-align: left;
 }
+.corpus_TEXTBOOK_IMAGE{
+  display: flex;
+  justify-content: center;
+}
 /*Added a wee animation on hover for all links*/
 a {
     text-decoration: none; /*got rid of the gross underline*/
@@ -64,7 +68,7 @@ main{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
     
 }
 
@@ -102,8 +106,7 @@ summary:hover{
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
-    
+    width: 100%;  
     justify-content: space-between;
 
 }
@@ -136,4 +139,8 @@ ul{
 .text{
     display: flex;
     flex-direction: column;
+}
+.main_TOC{
+    text-align: center;
+    font-size: 25px;
 }
