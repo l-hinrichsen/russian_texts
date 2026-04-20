@@ -8,7 +8,7 @@
             <p><territory territory_type="country">СССР</territory> — страна социализма. Наша Родина
                 — самая большая страна во всём мире. На севере ее вечные льды, а на юге летом так
                 жарко, что вызревают апельсины и лимоны, растут чай и хлопок.</p>
-            <p>По природным богатствам наша страна занимает первое место в мире. <rhetoric type="generality">Всё, что нужно для
+            <p>По природным богатствам наша страна занимает первое место в мире. <rhetoric about="generality">Всё, что нужно для
                 жизни, имеется в нашей стране</rhetoric>.</p>
             <p>В 16 союзных советских республиках живет до 60 разных народов, около 200 миллионов
                 человек. Все они объединились в один братский союз — <territory
@@ -17,19 +17,19 @@
                     <territory territory_type="country">СССР</territory> живут единой дружной семьёй
                 и трудятся на общую пользу. В <territory territory_type="country">СССР</territory>
                 нет капиталистов и помещиков, как в других странах. В <territory
-                    territory_type="country">СССР</territory> <rhetoric type="generality">нет эксплуатации человека человеком</rhetoric>.
+                    territory_type="country">СССР</territory> <rhetoric about="generality">нет эксплуатации человека человеком</rhetoric>.
                 Все мы работаем на себя, на всё общество.</p>
-            <p><rhetoric type="generality">Из отсталой страны наша родина стала самой передовой и могучей</rhetoric>.</p>
+            <p><rhetoric about="generality">Из отсталой страны наша родина стала самой передовой и могучей</rhetoric>.</p>
             <p>Вот почему мы так любим свою родину, так гордимся нашим <territory
                     territory_type="country">СССР</territory> — страной социализма.</p>
-            <p><rhetoric type="generality">Путь к социализму указала нам великая партия коммунистов-большевиков.</rhetoric> Она руководила
+            <p><rhetoric about="generality">Путь к социализму указала нам великая партия коммунистов-большевиков.</rhetoric> Она руководила
                 борьбой наших отцов и матерей, борьбой рабочих и крестьян, когда они свергли власть
                 царя, помещиков и капиталистов. Под руководством <political_affiliation
                     political_type="communist">Коммунистической партии</political_affiliation> мы
                 создали рабоче-крестьянскую власть, мы построили социализм.</p>
             <p>Народы нашей страны с успехом отбили все попытки нападения на <territory
                     territory_type="country">СССР</territory>. <territory territory_type="country"
-                    >Советский Союз</territory> <rhetoric type="nc">разгромил германский фашизм и японских захватчиков</rhetoric>.
+                    >Советский Союз</territory> <rhetoric about="nc">разгромил германский фашизм и японских захватчиков</rhetoric>.
                 Наша страна стала ещё более могучей.</p>
             <p>Чему научит эта книжка. Она расскажет вам, как жили люди в старину, как боролись
                 народы <territory territory_type="country">СССР</territory> со своими угнетателями и
@@ -76,7 +76,7 @@
                 кибитки из шкур скота, а из льна делали одежду.</p>
             <p>Долгое время люди обходились каменными и костяными орудиями. Много тысяч лет прошло,
                 пока люди научились добывать руду, плавить медь и другие металлы.</p>
-            <p>В те давние времена у люден всё было общее — орудия и добываемая пища. <rhetoric type="bw">Все были равны
+            <p>В те давние времена у люден всё было общее — орудия и добываемая пища. <rhetoric about="bw">Все были равны
                 в своей тяжёлой трудовой жизни</rhetoric>.</p>
         </chapter>
         <chapter>
@@ -110,7 +110,7 @@
                 набегов они оставляли себе и своим воинам.</p>
             <p>Не только рабов, но и собственных своих соплеменников вожди и богатые люди принуждали
                 работать на себя и отбирали у них часть их добычи.</p>
-            <p><rhetoric type="nc">Так появились в племени угнетатели — богачи и угнетённые — бедняки</rhetoric>.</p>
+            <p><rhetoric about="nc">Так появились в племени угнетатели — богачи и угнетённые — бедняки</rhetoric>.</p>
             <p>Государство. Небольшая кучка богатых людей стала жить за счёт огромного большинства
                 трудящихся, притесняла и грабила их. Вожди, при помощи своих дружин, заставляли
                 рабов и соплеменников повиноваться себе. Они стали полными господами в своих
@@ -151,7 +151,7 @@
                 мастера и рабы строили дома для богачей, помещения для складов товаров и для
                 торговли. В городах жило много ремесленников, шла оживлённая торговля.</p>
             <p>Жители городов изобрели азбуку и научились читать и писать. Так, в <territory
-                    territory_type="country">Грузии</territory> <rhetoric type="generality">более 2000 лет назад была изобретена
+                    territory_type="country">Грузии</territory> <rhetoric about="generality">более 2000 лет назад была изобретена
                 азбука. В городах появились первые учёные, стали развиваться науки и искусство</rhetoric>.</p>
             <p>Народы, жившие в древности в <territory territory_type="region">Сибири</territory> и
                 в Восточной Европе. В южной
@@ -181,13 +181,13 @@
 
             <p>Раб в кандалах.</p>
 
-            <p><date type="major" year="300">В IV веке нашей эры на греческие города напали сильные кочевники <people
+            <p><date date_type="major" year="300">В IV веке нашей эры на греческие города напали сильные кочевники <people
                     people_type="ethnicity">гунны</people> и разгромили их</date>. Грозный владыка <people
                     people_type="ethnicity">гуннов</people>
-                <person person_type="foreign_leader">Аттила</person> <date type="major" year="400">в V веке из степей
+                <person person_type="foreign_leader">Аттила</person> <date date_type="major" year="400">в V веке из степей
                 Причерноморья пошёл походом на народы Западной Европы и покорил многие из них</date>. Но
                 после смерти <person person_type="foreign_leader">Аттилы</person> его царство
-                распалось под натиском других кочевников, пришедших из Азии. <date type="major" year="500">В VI веке на месте
+                распалось под натиском других кочевников, пришедших из Азии. <date date_type="major" year="500">В VI веке на месте
                 владений <people people_type="ethnicity">гуннов</people> на <place
                     place_type="river">Волге</place> образовалось государство кочевников <people
                     people_type="ethnicity">хазар</people>, а выше по <place place_type="river"
@@ -221,8 +221,8 @@
                     >греков</people> были писатели, музыканты, живописцы. Они выделывали красивые
                 ткани из шёлка, посуду, изделия из золота и серебра.</p>
             <p>В <territory territory_type="kingdom">Византии</territory> было много хорошо
-                вооруженных солдат. Но храбрые и мужественные <people people_type="ethnicity"
-                    >славяне</people> нередко били греческие войска. <date type="major" year="850">В середине IX века они вели
+                вооруженных солдат. Но <date date_type="major" year="850">храбрые и мужественные <people people_type="ethnicity"
+                    >славяне</people> нередко били греческие войска. В середине IX века они вели
                 успешную войну с греками и даже нападали на столицу <territory
                     territory_type="kingdom">Византии</territory> — <place place_type="city"
                     >Царьград</place></date>.</p>
@@ -246,12 +246,12 @@
                 На этих же участках работали свободные, но обедневшие люди разных родов. Владельцы
                 сох и лошадей давали в пользование соху или лошадь за часть урожая и от этого
                 богатели. Прежнее равенство исчезло, среди родичей появились угнетатели и
-                угнетённые, богатые землевладельцы и бедные пахари. <date type="major" year="800">В IX веке у славян уже были
-                бояре — землевладельцы и богачи, а также князья — правители племён</date>. Князья и бояре
+                угнетённые, богатые землевладельцы и бедные пахари. В IX веке у славян уже были
+                бояре — землевладельцы и богачи, а также князья — правители племён. Князья и бояре
                 торговали с греками и другими соседями хлебом, мёдом и воском, но больше всего
                 торговали рабами, захваченными в плен княжескими или боярскими дружинами. Торговля
                 велась в укреплённых пунктах на торговых дорогах, большей частью по берегам больших
-                рек. К IX веку образовалось несколько славянских княжеств. Центром каждого из них
+                рек. <date date_type="minor" year="800">К IX веку образовалось несколько славянских княжеств</date>. Центром каждого из них
                 был какой-либо город, где жил князь со своей дружиной. К этому времени у славян было
                 несколько городов. Главными из них были <place place_type="city">Киев</place> и
                     <place place_type="city">Новгород</place>.</p>
@@ -261,7 +261,7 @@
     <section><section_title s="2">II. Киевское государство</section_title><chapter>
             <title n="6">6. Образование Киевского княжества</title>
 
-            <p>Набеги <people people_type="ethnicity">варягов</people>. <date type="major" year="800">В IX веке на земли <people
+            <p>Набеги <people people_type="ethnicity">варягов</people>. <date date_type="minor" year="800">В IX веке на земли <people
                     people_type="ethnicity">славян</people>, живших вокруг <place place_type="city"
                     >Новгорода</place> и по <place place_type="river">Днепру</place>, совершали
                 набеги разбойничьи шайки варягов — жителей <territory territory_type="region"
@@ -298,7 +298,7 @@
                     <place place_type="city">Новгороде</place>, а спустился вниз но <place
                     place_type="river">Днепру</place>, добрался до <place place_type="city"
                     >Киева</place>, завладел им и сделал его своим главным городом.</p>
-            <p><date type="major" year="900">С начала X века <territory territory_type="kingdom">Киевское княжество</territory>
+            <p><date date_type="major" year="900" month="Early">С начала X века <territory territory_type="kingdom">Киевское княжество</territory>
                 славян называется <territory territory_type="kingdom">Киевской
                 Русью</territory></date>.</p>
             <p><person person_type="knyaz">Олег</person> объединил под своей властью много <people
@@ -323,9 +323,8 @@
                     place_type="city">Царьграда</place> и осадил его. <person
                     person_type="foreign_leader">Греческий император</person> (так называли главного
                 правителя греков) дал <person person_type="knyaz">Олегу</person> большой выкуп:
-                много золота, дорогих тканей, вина и рабов. <date type="major" year="911">Греки в <event event_type="minor"
-                    >911</event> году заключили с <person person_type="knyaz">Олегом</person>
-                договор о торговле.</date></p>
+                много золота, дорогих тканей, вина и рабов. Греки в 911 году заключили с <person person_type="knyaz">Олегом</person>
+                договор о торговле.</p>
             <p><person person_type="knyaz">Олег</person> сильно укрепил <territory
                     territory_type="kingdom">Киевскую Русь</territory>. Он собрал под свою власть
                 разрозненные <people people_type="ethnicity">славянские</people> племена и
@@ -472,9 +471,9 @@
                     <religion religion_type="orthodox">христианство</religion>. Он считал, что
                 принятие <religion religion_type="orthodox">греческой веры</religion> и родство с
                 императором Византии укрепит его власть.</p>
-            <p>Введение христианства. <date type="major" year="988">В <event event_type="major">988</event> году Владимир разрушил
+            <p>Введение христианства. В 988 году Владимир разрушил
                 все изображения старинных <religion religion_type="pagan">славянских
-                    языческих</religion> богов в <place place_type="city">Киеве</place></date>. Киевлян
+                    языческих</religion> богов в <place place_type="city">Киеве</place>. Киевлян
                 загнали в воду, в <place place_type="river">Днепр</place>. Привезённые из <place
                     place_type="city">Царьграда</place> греческие попы читали над стоящим в воде
                 народом свои молитвы. Это называлось крещением.</p>
@@ -526,7 +525,7 @@
                 войско и начинать войну. Поэтому он во многом должен был слушаться веча. Князья
                 старались забрать в свои руки власть над городами и насильничали над смердами по
                 деревням.</p>
-            <p>Князья и бояре закрепощали смердов. <date type="major" year="1000">В XI веке князья и бояре очень усилили угнетение
+            <p>Князья и бояре закрепощали смердов. <date date_type="minor" year="1000">В XI веке князья и бояре очень усилили угнетение
                 народа</date>. Они устанавливали свои законы, творили суд и расправу. Так, при <person
                     person_type="knyaz">Ярославе Мудром</person> за убийство боярина с виновного
                 брали 80 гривен (или 16 килограммов серебра), а за убийство смерда — всего 5
@@ -536,11 +535,11 @@
                 мосты, укрепления. Мало-помалу свободных земледельцев делали зависимыми крестьянами,
                 то есть крепостными. Новыми восстаниями против князей и бояр отвечали смерды на эти
                 порядки.</p>
-            <p>Стихийные восстания против князей и бояр в городах. <date type="major" year="1000">Много восстаний в XI и XII веках
+            <p>Стихийные восстания против князей и бояр в городах. <date date_type="minor" year="1000">Много восстаний в XI и XII веках
                 было в <place place_type="city">Киеве</place>, <place place_type="city"
                     >Новгороде</place> и других городах</date>. Князья и бояре со своими дружинами без
                 особых усилий подавляли эти восстания, так как восстания были стихийными,
-                бессознательными.<date type="major" year="1113"> В <event event_type="minor">1113</event> году в <place
+                бессознательными.<date date_type="minor" year="1113"> В 1113 году в <place
                     place_type="city">Киеве</place> против княжеской власти, купцов-ростовщиков и
                 богатого <place place_type="building">Киево-Печерского монастыря</place> восстал
                 угнетённый городской люд</date>. Его поддерживали смерды. Тог да испугавшиеся бояре и купцы
@@ -559,13 +558,13 @@
         <chapter>
             <title n="10">10. Новгородская земля</title>
 
-            <p>Раздробление Киевского княжества. <date type="major" year="1100">В XII веке Киевское княжество разделилось между
+            <p>Раздробление Киевского княжества. <date date_type="minor" year="1100">В XII веке Киевское княжество разделилось между
                 сыновьями, внуками и родственниками <person person_type="knyaz">Владимира
                     Мономаха</person></date>. Между ними происходили постоянные войны за княжества и
                 города. В этих войнах князья без пощады грабили смердов и горожан, заставляя их
                 участвовать в своих походах. Жестоко расправлялись друг с другом князья. Побеждённым
                 они выкалывали глаза, морили в тюрьмах голодом. Отдельные князья богатели и
-                становились независимыми от главного великого князя в Киеве. Так <date type="major" year="1100">в XII веке
+                становились независимыми от главного великого князя в Киеве. Так <date date_type="minor" year="1100">в XII веке
                 разбогатели и усилились на западе от <place place_type="city">Киева</place>
                 <territory territory_type="kingdom">Галицко-Волынское княжество</territory>, на
                 севере — <territory territory_type="kingdom">Ростово-Суздальское</territory> и
@@ -580,7 +579,7 @@
                     place_type="river">Оку</place>, на <place place_type="river">Волгу</place>.
                 Стала падать и <place place_type="city">киевская</place> торговля. Купцы начали
                 ездить из Европы в Азию другими путями, минуя <place place_type="city">Киев</place>.
-                <place place_type="city">Киев</place> начал терять значение главного города. <date type="major" year="1200">К
+                <place place_type="city">Киев</place> начал терять значение главного города. <date date_type="minor" year="1200" month="Early">К
                 началу XIII века <place place_type="city">Киев</place> запустел</date>. На первое место но
                 торговле с заграницей выдвинулся <place place_type="city">Новгород</place>.</p>
             <p>Управление Новгородской землёй. <place place_type="city">Новгород</place> стоял на
@@ -615,7 +614,7 @@
             <p>Вече в <place place_type="city">Новгороде</place>. На вече городские ремесленники
                 выступают против бояр и богатых купцов со своими требованиями.</p>
 
-            <p>Борьба <place place_type="city">новгородцев</place> со шведами и немцами. <date type="major" year="1200">В начале
+            <p>Борьба <place place_type="city">новгородцев</place> со шведами и немцами. <date date_type="minor" year="1200" month="Early">В начале
                 XIII века на <territory territory_type="kingdom">Новгородскую землю</territory>
                 напали шведы</date>. Они наступали со стороны <place place_type="water_body">Балтийского
                     моря</place> и реки <place place_type="river">Невы</place>, где теперь находится
@@ -623,7 +622,7 @@
                     >Новгородцы</place> разбили шведов на <place place_type="river">Неве</place>.
                 Победителя шведов князя <person person_type="knyaz">Александра</person>,
                 командовавшего новгородцами, прозвали за эту победу Невским.</p>
-            <p><date type="major" year="1242">В <event event_type="major">1242</event> году пытались захватить <territory
+            <p><date date_type="minor" year="1242">В 1242 году пытались захватить <territory
                     territory_type="kingdom">Новгородскую землю</territory> и немецкие рыцари</date>. Они
                 появились на берегах <place place_type="water_body">Балтийского моря</place> в XII
                 веке и беспощадно грабили и истребляли жившие здесь <people people_type="ethnicity"
@@ -700,12 +699,12 @@
                 Раздробленные мелкие княжества враждовали между собою.</p>
             <p>Единого, крепкого государства не было. Каждый богатый владелец старался добыть себе
                 больше земли и власти. Князья непрерывно воевали между собою. Постоянные походы
-                разоряли крестьянское население. <date type="major" year="1200">Когда в XIII веке на <people
+                разоряли крестьянское население. <date date_type="minor" year="1200">Когда в XIII веке на <people
                     people_type="ethnicity">русские</people> княжества напали завоеватели-<people
                     people_type="ethnicity">монголы</people>, они не встретили здесь настоящего
-                объединённого отпора</date>. <territory territory_type="kingdom"
+                объединённого отпора. <territory territory_type="kingdom"
                     >Владимиро-Суздальская</territory> земля была раздроблена на мелкие части и не
-                могла отстоять своей независимости.</p>
+                могла отстоять своей независимости</date>.</p>
         </chapter>
     </section>
 
@@ -717,11 +716,11 @@
                     people_type="ethnicity">Монголы</people> были скотоводами-кочевниками. Жили они
                 там, где теперь находится <territory territory_type="country">Монгольская Народная
                     Республика</territory>.</p>
-            <p><date type="major" year="1100">В XII веке <people people_type="ethnicity">монголы</people> разделялись на большие
-                воинственные племена во главе с ханами</date>. У ханов было много скота и пастбищ.
+            <p>В XII веке <people people_type="ethnicity">монголы</people> разделялись на большие
+                воинственные племена во главе с ханами. У ханов было много скота и пастбищ.
                 Подвластные племена платили ханам дань. Ханы воевали друг с другом и со своими
                 соседями из-за дани, из-за пастбищ.</p>
-            <p><date type="major" year="1200">В начале XIII века среди <people people_type="ethnicity">монгольских</people> ханов
+            <p><date date_type="major" year="1200" month="Early">В начале XIII века среди <people people_type="ethnicity">монгольских</people> ханов
                 возвысился талантливый полководец <person person_type="foreign_leader"
                     >Чингис-хан</person></date>. Он собрал огромную армию из разных племён и подчинил себе
                 восточные <people people_type="ethnicity">тюрко-монгольские</people> народы.</p>
@@ -754,9 +753,8 @@
             <p><people people_type="ethnicity">Монгольская</people> конница в походе.</p>
 
             <p><person person_type="foreign_leader">Хан Батый</person> и завоевание им русских
-                княжеств. <date type="major" year="1223">Покорив все народы <territory territory_type="region">Кавказа</territory>,
-                    <people people_type="ethnicity">монгольская</people> армия в <event
-                    event_type="minor">1223</event> году на реке <place place_type="river"
+                княжеств. <date date_type="minor" year="1223">Покорив все народы <territory territory_type="region">Кавказа</territory>,
+                    <people people_type="ethnicity">монгольская</people> армия в 1223 году на реке <place place_type="river"
                     >Калке</place> разбила соединённые силы славянских князей и <people
                     people_type="ethnicity">половцев</people></date>. С богатой добычей <people
                     people_type="ethnicity">монголы</people> ушли к себе в Азию.</p>
@@ -764,11 +762,10 @@
                     people_type="ethnicity">монголы</people>. Во главе их стоял хан <person
                     person_type="foreign_leader">Батый</person> — внук умершего <person
                     person_type="foreign_leader">Чингис-хана</person>. На этот раз монголы напали на
-                <people people_type="ethnicity">русских</people> с востока. <date type="major" year="1240"><person
+                <people people_type="ethnicity">русских</people> с востока. <date date_type="minor" year="1240"><person
                     person_type="foreign_leader">Батый</person> разгромил царство волжских <people
                     people_type="ethnicity">болгар</people> и <people people_type="ethnicity"
-                    >мордву</people>, затем поодиночке перебил войска русских князей, в <event
-                    event_type="major">1240</event> году взял <place place_type="city">Киев</place>
+                    >мордву</people>, затем поодиночке перебил войска русских князей, в 1240 году взял <place place_type="city">Киев</place>
                 и пошёл на Западную Европу</date>. Получив отпор от <people people_type="ethnicity"
                     >чехов</people>, <person person_type="foreign_leader">Батый</person> повернул
                 назад и в низовьях Волги основал своё государство — <territory
@@ -808,7 +805,7 @@
                     >Москву</place> и деревянные стены её укреплений. Жители частью погибли, частью
                 разбежались по окрестным лесам. Но постепенно население вновь собралось к <place
                     place_type="city">Москве</place> и занялось обработкой земли.</p>
-            <p><date type="major" year="1300">К XIV веку <place place_type="city">Москва</place> стала столицей небольшого
+            <p><date date_type="minor" year="1300">К XIV веку <place place_type="city">Москва</place> стала столицей небольшого
                 княжества</date>. <place place_type="city">Москва</place> находилась в центре <territory
                     territory_type="region">русских земель</territory>, и это помогало <people
                     people_type="ethnicity">московским</people> князьям объединить вокруг неё другие
@@ -842,12 +839,11 @@
                 русские княжества в одно государство вокруг <place place_type="city"
                 >Москвы</place>.</p>
             <p>Потомки <person person_type="russian_royalty">Калиты</person> были такие же
-                «собиратели». <date type="major" year="1400">В конце XIV века <territory territory_type="kingdom">Московское
+                «собиратели». <date date_type="minor" year="1400" month="Late">В конце XIV века <territory territory_type="kingdom">Московское
                     княжество</territory> стало настолько сильным, что внук <person
                     person_type="russian_royalty">Калиты</person>, выдающийся полководец князь
                     <person person_type="russian_royalty">Димитрий</person> решил открыто выступить
-                    против <people people_type="ethnicity">татарского</people> ига</date>. <date type="major" year="1380">В <event
-                    event_type="major">1380</event> году на <place place_type="plain">Куликовом
+                    против <people people_type="ethnicity">татарского</people> ига</date>. <date date_type="minor" year="1380">В 1380 году на <place place_type="plain">Куликовом
                     поле</place>, на реке <place place_type="river">Дон</place>, он разбил войска
                     <people people_type="ethnicity">татар</people> во главе с ханом <person
                     person_type="foreign_leader">Мамаем</person></date>. Победа на <place
@@ -868,7 +864,7 @@
                 к <place place_type="city">Москве</place>. <people people_type="ethnicity"
                     >Литовские</people> племена были соседями <people people_type="ethnicity"
                     >славян</people> и жили на западе, у <place place_type="water_body">Балтийского
-                        моря</place>. <date type="major" year="1200">К XIII веку <people people_type="ethnicity">литовские</people>
+                        моря</place>. <date date_type="major" year="1200">К XIII веку <people people_type="ethnicity">литовские</people>
                 племена соединились под властью одного князя и в XIII и XIV веках завладели
                 белорусскими землями, частью украинских и <territory territory_type="region">русских
                     земель</territory>. <territory territory_type="kingdom">Литва</territory> стала
@@ -899,7 +895,7 @@
                 Бороться с немцами и воевать с <place place_type="city">Москвой</place> в одно и то
                 же время не хватало сил. Тогда <territory territory_type="kingdom">Литва</territory>
                 заключила мир с <territory territory_type="kingdom">Московским
-                    княжеством</territory>. <date type="major" year="1410">Объединёнными силами <people people_type="ethnicity"
+                    княжеством</territory>. <date date_type="major" year="1410">Объединёнными силами <people people_type="ethnicity"
                     >польские</people>, <people people_type="ethnicity">литовские</people> и <people
                     people_type="ethnicity">русские</people> войска разгромили немцев при деревне
                     <place place_type="city">Грюнвальд</place> (<event event_type="minor"
@@ -921,7 +917,7 @@
                 дробилось. Только время от времени среди <people people_type="ethnicity"
                     >монголов</people> появлялись отдельные ханы-завоеватели. Одним из таких
                 завоевателей был <person person_type="foreign_leader">Тамерлан</person>.</p>
-            <p><date type="major" year="1336"><person person_type="foreign_leader">Тамерлан</person> родился в <territory
+            <p><date date_type="major" year="1336"><person person_type="foreign_leader">Тамерлан</person> родился в <territory
                     territory_type="region">Средней Азии</territory> в <event event_type="minor"
                     >1336</event> году</date>. Когда он подрос, то стал во главе шайки удальцов и переходил
                 на службу то к одному, то к другому правителю. Выдвинулся <person
@@ -931,7 +927,7 @@
                 восставшими, <person person_type="foreign_leader">Тамерлан</person> вскоре объявил
                 себя ханом-правителем и сделал <place place_type="city">Самарканд</place> своей
                 столицей.</p>
-            <p><date type="major" year="1395"><person person_type="foreign_leader">Тамерлан</person> завоевал ряд соседних
+            <p><date date_type="major" year="1395"><person person_type="foreign_leader">Тамерлан</person> завоевал ряд соседних
                 государств. В <event event_type="minor">1395</event> году он разгромил хана
                     <territory territory_type="kingdom">Золотой Орды</territory>
                 <person person_type="foreign_leader">Тохтамыша</person> и этим помог <place
@@ -947,10 +943,10 @@
                     >Самарканд</place>, об украшении которой он очень заботился, он привёз до 150
                 тысяч таких мастеров.</p>
             <p><people people_type="ethnicity">Узбеки</people> в <territory territory_type="region"
-                    >Средней Азии</territory>. <date type="major" year="1405">После смерти <person person_type="foreign_leader"
+                    >Средней Азии</territory>. <date date_type="major" year="1405">После смерти <person person_type="foreign_leader"
                     >Тамерлана</person> в <event event_type="minor">1405</event> году завоёванные им
                 государства постепенно снова стали самостоятельными</date>.</p>
-            <p><date type="major" year="1400">В XV веке <territory territory_type="region">Среднюю Азию</territory> завоевали
+            <p><date date_type="major" year="1400">В XV веке <territory territory_type="region">Среднюю Азию</territory> завоевали
                     <people people_type="ethnicity">кочевники-узбеки</people>, жившие раньше на
                 землях современного <territory territory_type="country">Казахстана</territory></date>.
                     <people people_type="ethnicity">Узбеки</people> прочно закрепились в <territory
@@ -968,7 +964,7 @@
 
             <p>Присоединение <place place_type="city">Новгорода</place> и освобождение <territory
                     territory_type="kingdom">Московского государства</territory> от власти <people
-                        people_type="ethnicity">татарского</people> хана. <date type="major" year="1462">Для борьбы с <people
+                        people_type="ethnicity">татарского</people> хана. <date date_type="major" year="1462">Для борьбы с <people
                     people_type="ethnicity">татарами</people> и <territory territory_type="kingdom"
                     >литовско-польскими</territory> панами <territory territory_type="kingdom"
                     >московские</territory> князья старались расширить свои владения и укрепить свою
@@ -992,7 +988,7 @@
                     государство</territory> стало при нём крепким и единым <people
                     people_type="ethnicity">Русским</people> национальным государством. Оставался
                 обособленным только <place place_type="city">Новгород</place>.</p>
-            <p><date type="major" year="1500">В конце XV века <person person_type="russian_royalty">Иван III</person> пошёл войной
+            <p><date date_type="major" year="1500">В конце XV века <person person_type="russian_royalty">Иван III</person> пошёл войной
                 на <place place_type="city">Новгород</place></date>. <place place_type="city"
                     >Новгородские</place> бояре заключили союз с <territory territory_type="kingdom"
                     >Литвой</territory>. Но это не спасло их. <person person_type="russian_royalty"
@@ -1019,13 +1015,13 @@
                 он в это время получил сведения о волнениях в <territory territory_type="kingdom"
                     >Орде</territory> — и хан повернул обратно. <person
                     person_type="russian_royalty">Иван III</person> оказался, таким образом,
-                «победителем». <date type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people
+                «победителем». <date date_type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people
                     people_type="ethnicity">татаро-монгольское</people> иго, длившееся свыше двухсот
                 лет</date>.</p>
             <p>Вскоре <territory territory_type="kingdom">Орда</territory> окончательно захирела и
                 распалась.</p>
             <p>Война <person person_type="russian_royalty">Ивана III</person> с <territory
-                    territory_type="kingdom">Литвой и Польшей</territory>. <date type="major" year="1500">В <event
+                    territory_type="kingdom">Литвой и Польшей</territory>. <date date_type="major" year="1500">В <event
                     event_type="minor">1500</event> году началась война между <person
                     person_type="russian_royalty">Иваном III</person> и <territory
                     territory_type="kingdom">польско-литовским</territory> королём</date>. <territory
@@ -1041,7 +1037,7 @@
             <p>При <person person_type="russian_royalty">Иване III</person> владения <territory
                     territory_type="kingdom">Русского государства</territory> увеличились в 3
                 раза.</p>
-            <p>Иван III — «государь всея Руси». <date type="major" year="1453">После взятия <territory territory_type="kingdom"
+            <p>Иван III — «государь всея Руси». <date date_type="major" year="1453">После взятия <territory territory_type="kingdom"
                     >Византии</territory>
                 <people people_type="ethnicity">турками</people> в <event event_type="minor">1453
                     <!--I know it's like one of the biggest events in history, but it's minor for the purposes of this specific historiography--></event>
@@ -1104,7 +1100,7 @@
                 господ. Но таких вольных земель становилось всё меньше и меньше.</p>
             <p>Владельцам земли было невыгодно, чтобы крестьяне уходили от них, когда хотели. Бояре
                 и монастыри стали позволять крестьянам переходить к другим владельцам только после
-                окончания всех летних работ. <date type="major" year="1497"><person person_type="russian_royalty">Иван III</person>
+                окончания всех летних работ. <date date_type="major" year="1497"><person person_type="russian_royalty">Иван III</person>
                 издал в <event event_type="minor">1497</event> году закон, по которому крестьянин
                 мог переходить от одного господина к другому только глубокой осенью, в Юрьев
                 день</date>.</p>
@@ -1130,7 +1126,7 @@
             <p>Царь-самодержец. Внук <person person_type="russian_royalty">Ивана III</person>,
                 будущий царь <person person_type="tsar">Иван IV Грозный</person>, рано лишился отца;
                 бояре отравили его мать и на целых десять лет забрали власть в свои руки.</p>
-                <p><date type="major" year="1547">В <event event_type="major">1547</event> году семнадцатилетний <person
+                <p><date date_type="major" year="1547">В <event event_type="major">1547</event> году семнадцатилетний <person
                     person_type="tsar">Иван IV</person> первым из <territory
                     territory_type="kingdom">московских государей</territory> объявил себя
                 самодержавным царём и стал управлять государством самостоятельно, не доверяя боярам
@@ -1153,7 +1149,7 @@
                     territory_type="kingdom">Литвы</territory>
                 <place place_type="city">Смоленск</place>. <person person_type="tsar">Иван
                     IV</person> решил сначала захватить <people people_type="ethnicity"
-                        >татарские</people> ханства на <place place_type="river">Волге</place>. <date type="major" year="1552">Осенью
+                        >татарские</people> ханства на <place place_type="river">Волге</place>. <date date_type="major" year="1552">Осенью
                     <event event_type="minor">1552</event> года <person person_type="tsar">Иван
                     IV</person> с большим войском и множеством пушек осадил <place place_type="city"
                     >Казань</place> — столицу <territory territory_type="kingdom">Казанского
@@ -1188,7 +1184,7 @@
                 <person person_type="tsar">Иваном IV</person> после взятия <place place_type="city"
                     >Казани</place>.</p>
 
-                <p><date type="major" year="1556">В <event event_type="minor">1556</event> году войска <person person_type="tsar">Ивана
+                <p><date date_type="major" year="1556">В <event event_type="minor">1556</event> году войска <person person_type="tsar">Ивана
                     IV</person> взяли город <place place_type="city">Астрахань</place> на <place
                     place_type="river">Волге</place>, столицу <people people_type="ethnicity"
                     >ногайских татар</people></date>. Весь волжский путь оказался в руках русского
@@ -1274,11 +1270,11 @@
                 перебраться через Северный Ледовитый океан в Индию, но бурей его загнало в устье
                 реки Северной Двины, где потом был создан портовый город Архангельск.</p>
             <p>Ермак.</p>
-            <p>Присоединение <territory territory_type="region">Сибирского</territory> царства. <date type="major" year="1600">В конце XVI века к
+            <p>Присоединение <territory territory_type="region">Сибирского</territory> царства. <date date_type="major" year="1600">В конце XVI века к
                 Московскому царству были присоединены земли Западной <territory territory_type="region"
                     >Сибири</territory></date>. В <place place_type="city">Сибирском</place> царстве жили
                     <people people_type="ethnicity">татары</people> и другие <territory territory_type="region"
-                        >сибирские</territory> народы. Правил ими хан Кучум. <date type="major" year="1581">Богатые
+                        >сибирские</territory> народы. Правил ими хан Кучум. <date date_type="major" year="1581">Богатые
                 владельцы земель на <place place_type="mountain">Урале</place> — купцы
                 Строгановы в 1581 году отправили против Кучума небольшой отряд наёмных войск из
                 казаков, хорошо вооружённый огнестрельным оружием</date>. Этот отряд казаков под командой
@@ -1299,7 +1295,7 @@
     <section><section_title s="6">VI. Крестьянские войны и восстания угнетённых народов в XVII веке</section_title>
     <chapter>
         <title n="19">19. Первая крестьянская война в русском государстве</title>
-        <p>Царь <person person_type="tsar"/> и начало крестьянских восстаний. <date type="major" year="1584">В 1584 году <person
+        <p>Царь <person person_type="tsar"/> и начало крестьянских восстаний. <date date_type="major" year="1584">В 1584 году <person
                 person_type="tsar">Иван IV</person> умер</date>. Незадолго до своей смерти он в припадке
             гнева ударом посоха в висок убил своего старшего сына Ивана. Осталось ещё два сына —
             слабоумный Фёдор и маленький Димитрий. Царём стал слабоумный Федор Иванович. При Фёдоре
@@ -1307,7 +1303,7 @@
                 >опричник</people>
             <person person_type="tsar">Ивана Грозного</person>. Маленький Димитрий, живший со своею
             матерью в городе Угличе, умер или был умерщвлён сторонниками Годунова.</p>
-        <p><date type="major" year="1598">В 1598 году после смерти Федора царём стал Борис Годунов</date>.</p>
+        <p><date date_type="major" year="1598">В 1598 году после смерти Федора царём стал Борис Годунов</date>.</p>
         <p>Положение <people people_type="class">крестьян</people> при Годунове очень ухудшилось.
                 <people people_type="class">Крестьяне</people> бежали от<people people_type="class"
                 >бояр</people>и <people people_type="job">помещиков</people> на Украину и на Дон. В
@@ -1372,7 +1368,7 @@
                 >крестьяне</people> были несознательны. Они воевали не против царизма и помещичьего
             строя, а против плохого царя и плохих помещиков, за «хорошего» царя и «хороших»
             помещиков.</p>
-        <p><date type="major" year="988">В 1607 году Иван Болотников был взят в плен</date>.<people people_type="class"
+        <p><date date_type="major" year="988">В 1607 году Иван Болотников был взят в плен</date>.<people people_type="class"
             >Бояре</people>выкололи ему глаза и потом утопили его в проруби. Побеждённому
             крестьянству стало ещё хуже: Шуйский издал новые указы, усиливавшие неволю крепостных.
             Теперь <people people_type="job">помещик</people> в течение целых 15 лет мог разыскивать
@@ -1396,23 +1392,23 @@
             народные волнения продолжались. Московские <people people_type="class">бояре</people>не
             могли справиться с восставшими. Тогда вместо Шуйского московские бояре, спасая своё
             положение, избрали царём польского королевича Владислава, сына короля Сигизмунда. «Лучше
-            служить королевичу, чем быть побитыми от своих же холопей», — говорили бояре. <date type="major" year="1610">Осенью
+            служить королевичу, чем быть побитыми от своих же холопей», — говорили бояре. <date date_type="major" year="1610">Осенью
             1610 года польское войско с помощью<people people_type="class">бояр</people>вступило в
                 <place place_type="city">Москву</place> и заняло Кремль</date>. Польские паны захватили
             много сокровищ из казны московских царей. Захватчики забирали себе имения, раздавали
             земли своим сторонникам, притесняли и грабили русский народ.</p>
-        <p><date type="major" year="1611">Через полгода, весной 1611 года, поднялись <place place_type="city">москвичи</place>
+        <p><date date_type="major" year="1611">Через полгода, весной 1611 года, поднялись <place place_type="city">москвичи</place>
             против польских притеснителей</date>. На улицах <place place_type="city">Москвы</place> были
             построены заграждения из столов, ларей, брёвен. Из-за них <place place_type="city"
                 >москвичи</place> обстреливал;: поляков. С крыш домов они разили их пулями и
             камнями. Поляки стали жечь <place place_type="city">Москву.</place> Выгорела дотла
             большая часть города. Поляки укрепились за стенами Кремля.</p>
-        <p><date type="major" year="1611">Осенью 1611 года русский народ поднялся против польских захватчиков</date>.</p>
+        <p><date date_type="major" year="1611">Осенью 1611 года русский народ поднялся против польских захватчиков</date>.</p>
         <p>Во главе похода против засевших в <place place_type="city">Москве</place> поляков стал
             нижегородский земский староста Козьма Минин. На собранные им в городах деньги снарядили
             большое ополчение. Военным начальником был выбран князь Пожарский. Часть крестьянских
             отрядов, боровшихся с помещиками, влилась в ополчение. И это решило дело. Ополчение
-            подошло к <place place_type="city">Москве</place> и осадило засевших в Кремле поляков. <date type="major" year="1612">В
+            подошло к <place place_type="city">Москве</place> и осадило засевших в Кремле поляков. <date date_type="major" year="1612">В
             1612 году Кремль был взят, и поляки бежали из <place place_type="city"
             >Москвы</place></date>.</p>
         <p>Минин призывает народ на борьбу с поляками.</p>
@@ -1421,7 +1417,7 @@
             заставил его быть проводником. Сусанин, жертвуя своей жизнью, завёл отряд в лесные
             дебри. Сусанин был зарублен поляками, но польский отряд не мог выбраться из леса и
             погиб.</p>
-        <p><date type="major" year="1613">В 1613 году в <place place_type="city">Москве</place> созвали выборных от помещиков,
+        <p><date date_type="major" year="1613">В 1613 году в <place place_type="city">Москве</place> созвали выборных от помещиков,
             купцов и казаков</date>. Царём они избрали Михаила из рода<people people_type="class"
                 >бояр</people>Романовых.</p>
         <p>Поляки вынуждены были очистить все захваченные ими земли, но Смоленск остался в их руках.
@@ -1440,11 +1436,11 @@
     </chapter>
     <chapter>
         <title n="21">21. Восстания горожан и угнетённых народов в XVII веке </title>
-        <p>Восстания в городах. <date type="major" year="1646">После смерти царя Михаила московским царём стал его сын Алексей. По
+        <p>Восстания в городах. <date date_type="major" year="1646">После смерти царя Михаила московским царём стал его сын Алексей. По
             его распоряжению в 1646 году был введён тяжёлый налог на соль. Этот налог усилил
             возмущение народа</date>. Опасаясь восстания, царь Алексей приказал налог отменить. Но дело
             было не только в этом налоге. Когда его отменили, народ в <place place_type="city"
-                >Москве</place> всё же поднялся против своих угнетателей. <date type="major" year="1648">В 1648 году в <place
+                >Москве</place> всё же поднялся против своих угнетателей. <date date_type="major" year="1648">В 1648 году в <place
                 place_type="city">Москве</place> народ поднял «бунт», как называли в то время
             народные восстания</date>. Хорошо помнил народ обиды царских слуг и чиновников. Народ
             потребовал от царя выдать на расправу главных из них.</p>
@@ -1455,7 +1451,7 @@
                 event_type="minor">восстание</event> подавили. В том же 1648 году были подавлены
                 <event event_type="minor">восстания</event> и в других городах. После этих восстаний
             царь созвал в <place place_type="city">Москве</place> представителей бояр, <people
-                people_type="job">помещиков</people> и купцов — Земский собор. <date type="major" year="1649">В 1649 году они
+                people_type="job">помещиков</people> и купцов — Земский собор. <date date_type="major" year="1649">В 1649 году они
             установили для <people people_type="job">помещиков</people> право разыскивать и
             возвращать бежавших от них <people people_type="class">крестьян</people> в течение всей
             их жизни</date>. <people people_type="class">Крестьяне</people> были окончательно закрепощены.
@@ -1468,12 +1464,12 @@
             маленькие домики с двумя-тремя крохотными окошками.</p>
         <p>Мало зарабатывали ремесленники. Жилось им тяжело — грабили их воеводы и купцы.</p>
         <p>Ремесленники на торговой площади продают свои изделия.</p>
-        <p><date type="major" year="1650">Восстания ремесленников и городской бедноты продолжались. Особенно большие размеры такое
+        <p><date date_type="major" year="1650">Восстания ремесленников и городской бедноты продолжались. Особенно большие размеры такое
                 <event event_type="minor">восстание</event> приняло в Пскове и Новгороде в 1650
             году</date>. К <event event_type="minor">восстанию</event> городской бедноты примкнули и
             крестьяне. На подавление этого <event event_type="minor">восстания</event> царю Алексею
             пришлось послать большое войско.</p>
-        <p>Поднималась городская беднота и в последующие годы. Так, <date type="major" year="1662">большое <event
+        <p>Поднималась городская беднота и в последующие годы. Так, <date date_type="major" year="1662">большое <event
                 event_type="minor">восстание</event> в <place place_type="city">Москве</place>
             произошло в 1662 году</date>. Во время этого <event event_type="minor">восстания</event>
             царские войска убили и потопили в реке <place place_type="city">Москве</place> несколько
@@ -1502,7 +1498,7 @@
         <p>Казаки соединялись в полки. Их главный начальник выбирался казаками. Он назывался
             гетманом.</p>
         <p>Крестьяне и казаки часто восставали против господства польских панов.</p>
-        <p><date type="major" year="1648">В 1648 году украинский народ поднялся на освободительную <event event_type="minor"
+        <p><date date_type="major" year="1648">В 1648 году украинский народ поднялся на освободительную <event event_type="minor"
                 >войну</event> против панского гнёта</date>. Руководил восставшим народом выдающийся
             государственный деятель и полководец казак Богдан Хмельницкий. Главной силой в этой
                 <event event_type="minor">войне</event> были крестьяне.</p>
@@ -1520,7 +1516,7 @@
         <p>Воссоединение Украины с Россией. Выражая стремление украинского народа к союзу с братским
             русским народом, Хмельницкий обратился к русскому правительству с предложением об
             объединении Украины с Россией.</p>
-        <p><date type="major" year="1654" month="1">В городе Переяславе в январе 1654 года на раде (собрании) было принято решение о
+        <p><date date_type="major" year="1654" month="1">В городе Переяславе в январе 1654 года на раде (собрании) было принято решение о
             воссоединении украинского и русского народов в едином государстве</date>.</p>
         <p>Россия могла защитить Украину не только от панской Польши, но и от <territory
                 territory_type="region">крымского</territory> хана и Турции.</p>
@@ -1536,7 +1532,7 @@
         <p>Казаки на Дону. Из беглых <people people_type="class">крестьян</people> на юге — на
                 <territory territory_type="region">у</territory> и его притоках — возникли большие
             посёлки донских казаков — станицы.</p>
-        <p><date type="major" year="1650">В середине XVII века у казаков на <territory territory_type="region">у</territory> не
+        <p><date date_type="major" year="1650">В середине XVII века у казаков на <territory territory_type="region">у</territory> не
             было равенства</date>. Одни казаки захватили лучшие земли, обзавелись хозяйством, торговали,
             стали зажиточными, или домовитыми. Другие оставались неимущими, голытьбой. Голытьбе
             приходилось идти в кабалу к богатым казакам или жить грабежом. Царские воеводы ловили
@@ -1550,7 +1546,7 @@
         <p>Степан собрал вокруг себя много голытьбы. Fro выбрали атаманом, то есть главным
             начальником. К Разину присоединилось много казаков и других людей, озлобленных против
             царских воевод и помещиков.</p>
-        <p><date type="major" year="1670" month="Spring">Весной 1670 года с 7 тысячами людей Разин напал на Царицын на <place place_type="river"
+        <p><date date_type="major" year="1670" month="Spring">Весной 1670 года с 7 тысячами людей Разин напал на Царицын на <place place_type="river"
                 >Волге</place> (ныне Сталинград) и взял его</date>. Здесь
             перешло на его сторону и царское войско — стрельцы. Потом Разин пошёл на Астрахань и
             взял её после двух дней осады. Богатых купцов, бояр, царских начальников казаки
@@ -1575,7 +1571,7 @@
             небольшим отрядом Разину удалось уйти на Дон. Богатые казаки на <territory
                 territory_type="region">у</territory> схватили Разина и выдали его царю. Царь
             приговорил Разина «казнить злою смертью».</p>
-        <p><date type="major" year="1671">В 1671 году Степан Разин был казнён в <place place_type="city">Москве</place></date>.</p>
+        <p><date date_type="major" year="1671">В 1671 году Степан Разин был казнён в <place place_type="city">Москве</place></date>.</p>
         <p>Казнь Степана Тимофеевича Разина.</p>
         <p>Жестоко расправился царь Алексей и с восставшими крестьянами. Тысячи восставших были
             изрублены, засечены кнутом, вздёрнуты на виселицы. Повстанческое движение <people
@@ -1600,7 +1596,7 @@
             Победить местных жителей казакам помогало огнестрельное оружие, которого многие из
             народов <territory territory_type="region">Сибири</territory> не знали. В течение ста лет шло
             подчинение народов Восточной <territory territory_type="region">Сибири</territory> власти русского
-            царя, <date type="major" year="1700">К концу XVII века под этой властью была почти вся <territory territory_type="region"
+            царя, <date date_type="major" year="1700">К концу XVII века под этой властью была почти вся <territory territory_type="region"
                 >Сибирь</territory></date>. Хакасы, алтайцы, бурят-монголы, эвенки, якуты, жившие здесь, стали
             платить дань — ясак — русскому царю.</p>
         <p>Угнетение народов <territory territory_type="region">Сибири.</territory> По всей <territory territory_type="region"
@@ -1613,7 +1609,7 @@
             льготами.</p>
         <p>Князьков из местного населения воеводы подкупали, чтобы с их помощью легче было обирать
             коренное население. Воеводы нередко продавали людей из местного Населения в рабство в
-            Среднюю Азию. Воеводы посылали казаков на завоевание новых народов. <date type="major" year="1651">Казак Хабаров со
+            Среднюю Азию. Воеводы посылали казаков на завоевание новых народов. <date date_type="major" year="1651">Казак Хабаров со
             своей дружиной в 1651 году добрался до реки Амур</date>. На своём пути ом сжигал все
             сопротивлявшиеся ему селения; жители разбегались по лесам.</p>
         <p>С царскими воеводами и войсками шли русские купцы, попы и монахи. Купцы спаивали народы
@@ -1639,7 +1635,7 @@
                 people_type="job">Помещики</people> были очень заинтересованы в том, чтобы
             земледелие давало им как можно больше дохода. Так <people people_type="job"
                 >помещики</people> богатели за счёт грабежа крестьян.</p>
-        <p>Промышленность и торговля. <date type="major" year="1700">Заводов и фабрик в России в конце XVII века было очень мало.
+        <p>Промышленность и торговля. <date date_type="major" year="1700">Заводов и фабрик в России в конце XVII века было очень мало.
             Они только что впервые появились в России</date>. При царе Алексее расширили пушечный двор
             (завод), где мастера лили пушки и колокола для церквей. В городах Кашире и Туле работали
             железоделательные и оружейные заводы. В стране имелись небольшие рудники и мастерские,
@@ -1720,13 +1716,13 @@
     </chapter>
     <chapter>
         <title n="27">27. Воины Петра I и народные восстания</title>
-        <p>Война с турками и путешествие Петра I за границу. <date type="major" year="1700">В самом конце XVII века русским царём
+        <p>Война с турками и путешествие Петра I за границу. <date date_type="major" year="1700">В самом конце XVII века русским царём
             стал сын Алексея — <person person_type="tsar">Пётр I</person></date>. По вступлении на царство
             умный и деятельный молодой царь вскоре начал заводить новые порядки. Он совсем перестал
             считаться с Боярской думой и очень подружился с жившими в <place place_type="city"
                 >Москве</place> иностранцами. Он привлекал их к себе на службу и заводил новые
             войска на иностранный лад, отстраняя стрельцов, как силу старины.</p>
-        <p><date type="major" year="1695">В 1695 году <person person_type="tsar">Пётр </person>начал <event event_type="minor"
+        <p><date date_type="major" year="1695">В 1695 году <person person_type="tsar">Пётр </person>начал <event event_type="minor"
                 >войну</event> с Турцией, чтобы пробить дорогу к Чёрному морю</date>. Он построил на
                 <territory territory_type="region">у</territory> флот из 29 кораблей и с войском,
             обученным иностранцами, напал на турецкую крепость Азов и взял её. Во время этой <event
@@ -1743,7 +1739,7 @@
             лично руководил расправой с восставшими стрельцами, которые тянули Россию назад.
             Стрелецкие полки были расформированы.</p>
         <p>Петр I (1672–1725 гг.).</p>
-        <p>Начало <event event_type="minor">войны</event> со шведами. <date type="major" year="1700">В 1700 году <person
+        <p>Начало <event event_type="minor">войны</event> со шведами. <date date_type="major" year="1700">В 1700 году <person
                 person_type="tsar">Пётр I</person> начал <event event_type="minor">войну</event> со
             шведами за побережье Балтийского моря</date>. Шведы имели лучшую в мире армию и хороший флот.
             Королём шведским был в это время Карл XII. Карл ударил на войска Петра, осаждавшие
@@ -1760,14 +1756,14 @@
             <person person_type="tsar">Пётр </person>ввёл усиленные наказания. Он приказал разорить
             все поселения беглых <people people_type="class">крестьян</people> в верховьях Дона. У
                 <people people_type="ethnicity">башкир</people> отнимали лошадей для кавалерии.</p>
-        <p><date type="major" year="1703">В 1703 году <person person_type="tsar">Пётр </person>занял болотистое устье реки Невы,
+        <p><date date_type="major" year="1703">В 1703 году <person person_type="tsar">Пётр </person>занял болотистое устье реки Невы,
             построил здесь крепость и город <place place_type="city">Петербург</place> (ныне
             Ленинград), который при Петре стал столицей государства</date>. На постройку крепости и города
                 <person person_type="tsar">Пётр </person>согнал со всей России массу крепостных
             крестьян. Тысячами они гибли здесь от голода и болезней. Народ отвечал на эти муки
             восстаниями.</p>
         <p>Народные восстания. При Петре I восстали башкиры, <people people_type="ethnicity"
-                >татары</people>, удмурты. <date type="major" year="1707">В 1707 году поднялось <event event_type="minor"
+                >татары</people>, удмурты. <date date_type="major" year="1707">В 1707 году поднялось <event event_type="minor"
                 >восстание</event> казаков и <people people_type="class">крестьян</people> на Дону</date>.
             Во главе восставших был казак Кондратий Афанасьевич Булавин. Восставшие взяли ряд
             городов. <person person_type="tsar">Пётр </person>послал на Булавина целую армию. В это
@@ -1793,7 +1789,7 @@
             через Польшу вторгся со своей армией на Украину. В 1709 году под Полтавой сошлись шведы
             и русские.</p>
         <p>Солдаты регулярной армии Петра I.</p>
-        <p><date type="minor" year="1709">Шведские войска были разбиты русской регулярной армией</date>. В этой битве особенно отличился
+        <p><date date_type="minor" year="1709">Шведские войска были разбиты русской регулярной армией</date>. В этой битве особенно отличился
             сам <person person_type="tsar">Пётр I</person>. Карл XII и Мазепа бежали в Турцию. Карл
             убедил турок начать <event event_type="minor">войну</event> с Россией. Началась снова
                 <event event_type="minor">война</event> с Турцией.</p>
@@ -1834,7 +1830,7 @@
             губернии он поставил губернатора, который правил краем, ведал набором солдат и денежными
             сборами.</p>
         <p>Чтобы укрепить силу и власть дворян, <person person_type="tsar">Пётр </person>передал им
-            поместья в полное их владение. <date type="minor" year="1721">В 1721 году после победы над шведами <person
+            поместья в полное их владение. <date date_type="minor" year="1721">В 1721 году после победы над шведами <person
                 person_type="tsar">Пётр</person> принял титул императора</date>. С этого времени Россия
             стала называться Российской империей.</p>
         <p>Реформы в хозяйстве. Для увеличения доходов государства <person person_type="tsar">Пётр
@@ -1864,7 +1860,7 @@
         <p><person person_type="tsar">Пётр </person>завёл по европейскому образцу первую в России
             газету «Ведомости» и упростил для неё русскую азбуку.</p>
         <p>До Петра новый год считался с первого сентября. <person person_type="tsar">Пётр
-        </person>приказал вести счет, как это делалось за границей, с первого января. <date type="minor" year="1700" month="1" day="1">Новый
+        </person>приказал вести счет, как это делалось за границей, с первого января. <date date_type="minor" year="1700" month="1" day="1">Новый
             календарь был введён с 1 января 1700 года по новому летосчислению, которое применяется и
             в настоящее время</date>.</p>
         <p><person person_type="tsar">Пётр</person> приказал <people people_type="class"
@@ -1881,14 +1877,14 @@
     </chapter>
     <chapter>
         <title n="30">30. Дворянская империя в XVIII веке</title>
-        <p>Господство дворян. <date type="minor" year="1725"><person person_type="tsar">Пётр I</person> умер в 1725 году</date>. После
+        <p>Господство дворян. <date date_type="minor" year="1725"><person person_type="tsar">Пётр I</person> умер в 1725 году</date>. После
             смерти Петра I придворные круги дворян, опираясь на дворянские гвардейские полки,
             устраивали заговоры и свергали неугодных им императоров с престола. Дольше других
             царствовали императрицы Анна Ивановна и Елизавета Петровна.</p>
         <p>В их царствования было несколько войн с Турцией, Швецией и другими государствами. Из
             вновь захваченных земель <people people_type="class">дворяне</people> получали новые
             поместья с крестьянами.</p>
-        <p><date type="minor" year="1760">Особенно прославились русские войска во время Семилетней войны, когда были разгромлены
+        <p><date date_type="minor" year="1760">Особенно прославились русские войска во время Семилетней войны, когда были разгромлены
             немецкие войска и был взят город Берлин в 1760 г</date>.</p>
         <p>В <place place_type="city">Петербурге</place>
             <people people_type="class">дворяне</people> настроили себе великолепные дворцы,
@@ -1922,11 +1918,11 @@
             науках. Он сделал много крупнейших научных открытий. <person>Ломоносов</person> положил
             начало русской науке и первый писал литературные произведения на чисто русском языке,
             очистив его от многих устаревших славянских слов.</p>
-        <p><date type="minor" year="1755">По предложению <person>Ломоносова</person> в 1755 году в <place place_type="city"
+        <p><date date_type="minor" year="1755">По предложению <person>Ломоносова</person> в 1755 году в <place place_type="city"
                 >Москве</place> был основан первый университет</date>. На университетском дворе теперь
-            стоит памятник М. В. <person>Ломоносову</person>. <date type="minor" year="1765"><person>Ломоносов</person> умер в
+            стоит памятник М. В. <person>Ломоносову</person>. <date date_type="minor" year="1765"><person>Ломоносов</person> умер в
             1765 году, во время царствования Екатерины II</date>.</p>
-        <p>Императрица <person person_type="tsar">Екатерина II</person> . <date type="minor" year="1762">В 1762 году <people
+        <p>Императрица <person person_type="tsar">Екатерина II</person> . <date date_type="minor" year="1762">В 1762 году <people
                 people_type="class">дворяне</people> посадили на русский престол Екатерину II, убив
             при её содействии её мужа Петра III</date>.</p>
         <p>При Екатерине II ещё более были расширены права дворян. <person person_type="tsar"
@@ -1957,7 +1953,7 @@
             крепостных, как <people people_type="class">крестьяне</people> центральной России.
             Казацкие старшины брали с рядовых казаков лишние налоги и присваивали назначенное
             казакам жалованье.</p>
-        <p><date type="minor" year="1773">В 1773 году казацкая беднота выступила против своих притеснителей</date>.</p>
+        <p><date date_type="minor" year="1773">В 1773 году казацкая беднота выступила против своих притеснителей</date>.</p>
         <p>Во главе <event event_type="minor">восстания</event> стал донской казак Емельян Иванович
                 <person>Пугачёв</person>, сильный, умный и мужественный человек.</p>
         <p>Емельян Иванович <person>Пугачёв</person>.</p>
@@ -2002,13 +1998,13 @@
                 <person>Пугачёву</person> пришлось отступать на юг вниз по <place place_type="river"
                 >Волге.</place> Бывшие на его пути поволжские города
             сдавались <person>Пугачёву</person> без боя. Но закрепиться в них он не мог.</p>
-        <p>Подавление крестьянской войны. <date type="minor" year="1774" month="8">В августе 1774 года <person>Пугачёв</person> дошёл до
+        <p>Подавление крестьянской войны. <date date_type="minor" year="1774" month="8">В августе 1774 года <person>Пугачёв</person> дошёл до
             Царицына. Через несколько дней в сражении с отрядом царских войск он потерпел поражение
             и бежал с остатками своей армии в степь</date>. Здесь предатели из богатых казакоз выдали его
             царским властям.</p>
         <p>
             <person>Пугачёва</person> заковали в цепи и в большой деревянной клетке отвезли в <place
-                place_type="city">Москву.</place> <date type="minor" year="1775" month="1" day="10">10 января 1775 года на Болотной площади палачи
+                place_type="city">Москву.</place> <date date_type="minor" year="1775" month="1" day="10">10 января 1775 года на Болотной площади палачи
             казнили отважного руководителя крестьянской <event event_type="minor">войны</event> —
             Емельяна Ивановича <person>Пугачёва</person></date>.</p>
         <p>Салавату Юлаеву вырвали ноздри и на лбу калёным железом выжгли слова — «вор и убийца».
@@ -2048,7 +2044,7 @@
                 >Екатерина II</person> договорились между собой о разделе земель польского
             государства. При разделе Польши к России перешли белорусские и украинские земли на
             правом берегу Днепра. Большую часть земель захватила Австрия.</p>
-        <p><date type="minor" year="1794">В 1794 году в Польше под руководством Костюшко произошло <event event_type="minor"
+        <p><date date_type="minor" year="1794">В 1794 году в Польше под руководством Костюшко произошло <event event_type="minor"
                 >восстание</event> поляков за восстановление Польши</date>. Австрия, Пруссия и Россия
             послали против него свои войска. Костюшко был разбит. В бою его тяжело ранили и взяли в
             плен. От Польши к России отошла Литва.</p>
@@ -2061,19 +2057,19 @@
             междоусобицами.</p>
         <p>Ранее всего казахи были завоёваны монголами. Монгольские племена около 200 лет порабощали
             казахов и нападали на них до самого присоединения Казахстана к России. Казахи несколько
-            раз просили русских царей о принятии их в русское подданство. <date type="minor" year="1731">В 1731 году Младший жуз
+            раз просили русских царей о принятии их в русское подданство. <date date_type="minor" year="1731">В 1731 году Младший жуз
             присоединился к России по просьбе хана Абульхайыра</date>. Русские цари, воспользовавшись этим,
             принялись завоёвывать всю Среднюю Азию. Екатерина в завоёванных областях строила
             крепости, ставила там гарнизоны русских солдат. Царские агенты проводили политику
             грабежа казахских земель. Против политики царизма не раз поднимался казахский народ.</p>
-        <p><date type="minor" year="1783">В 1783 году во главе восставшего казахского народа стал храбрый Сарым Датов</date>. Четырнадцать
+        <p><date date_type="minor" year="1783">В 1783 году во главе восставшего казахского народа стал храбрый Сарым Датов</date>. Четырнадцать
             лет боролся с врагами казахский народ под руководством своего неустрашимого вождя
             Сарыма, ставшего народным героем. Сарым был убит, <event event_type="minor"
                 >восстание</event> подавлено. Войска Екатерины проникли вглубь казахских степей и
-            построили там крепости. <date type="minor" year="1800">В первой половине XIX века был присоединен весь Казахстан</date>.</p>
-        <p><date type="minor" year="1800">К концу XVIII века власти России были подчинены и последние земли северных народов <territory territory_type="region"
+            построили там крепости. <date date_type="minor" year="1800">В первой половине XIX века был присоединен весь Казахстан</date>.</p>
+        <p><date date_type="minor" year="1800">К концу XVIII века власти России были подчинены и последние земли северных народов <territory territory_type="region"
                 >Сибири</territory></date>. Царские отряды пробрались через Берингов пролив на
-            север Америки и установили власть России над Аляской. <date type="major" year="1800">В XIX веке русские цари продали
+            север Америки и установили власть России над Аляской. <date date_type="major" year="1800">В XIX веке русские цари продали
             Аляску за бесценок американскому правительству, не зная, что на Аляске много золота</date>.</p>
         <p>В конце царствования Екатерины II началось окончательное завоевание Азербайджана.</p>
     </chapter>
@@ -2083,7 +2079,7 @@
         <title n="33">33. Буржуазная революция во Франции и борьба с ней Екатерины II и Павла I</title>
         <p>Свержение королевской власти во Франции. В конце XVIII века в Западной Европе произошли
             большие события, которые отразились на жизни всех стран, в том числе и России. Во
-            Франции вспыхнула революция. <date type="minor" year="1789" month="7" day="14">14 июля 1789 года восставший в <place place_type="city"
+            Франции вспыхнула революция. <date date_type="minor" year="1789" month="7" day="14">14 июля 1789 года восставший в <place place_type="city"
                 >Париже</place> народ взял штурмом королевскую тюрьму Бастилию</date>. Заключённых из
             тюрьмы выпустили на свободу. На Бастилии был поднят революционный флаг.</p>
         <p>Революция быстро охватила всю страну. Во всех городах восстали ремесленники, мелкие
@@ -2146,7 +2142,7 @@
         <p>Борьбу с буржуазной революцией во Франции <person person_type="tsar">Екатерина
                 II</person> считала своей главной задачей. Она охотно принимала в Россию бежавших из
             Франции <people people_type="class">дворян</people> и всем русским, находившимся в
-            <place place_type="city">Париже</place>, приказала из Франции уехать. <date type="minor" year="1796"><person
+            <place place_type="city">Париже</place>, приказала из Франции уехать. <date date_type="minor" year="1796"><person
                 person_type="tsar">Екатерина II</person> помогала всем государствам, воюющим с
             Францией. Она давала Австрии деньги и, уступила Пруссии часть земель Польши, обещала
             послать на помощь им русские войска и готовила свою армию к походу. Лишь внезапная
@@ -2185,7 +2181,7 @@
             полей и садов у них отнимали их господа — помещики. Правители соседних с Грузией
             государств (Турции и Ирана) делали опустошительные набеги на богатые грузинские земли и
             ещё более разоряли крестьян.</p>
-        <p><date type="minor" year="1801">После одного нападения, когда иранцы увели в плен больше 10 тысяч грузин, царь Грузии
+        <p><date date_type="minor" year="1801">После одного нападения, когда иранцы увели в плен больше 10 тысяч грузин, царь Грузии
             обратился за помощью к Павлу I. В столицу Грузии, Тбилиси, были введены царские войска;
             в 1801 году Грузия окончательно присоединилась к России. Разорительные набеги иранских
             царей на Грузию прекратились</date>.</p>
@@ -2198,7 +2194,7 @@
             помощью грузинских князей и <people people_type="class">дворян</people> царские войска
             беспощадно их подавляли. Опираясь на дворян-крепостников Грузии, <person
                 person_type="tsar">Александр I</person> прочно укрепился в Закавказье.</p>
-        <p>Завоевание Финляндии и Бессарабии. <date type="major" year="1805">В 1805 году <person person_type="tsar">Александр
+        <p>Завоевание Финляндии и Бессарабии. <date date_type="major" year="1805">В 1805 году <person person_type="tsar">Александр
                 I</person> , восстановив военный союз с Англией, начал <event event_type="minor"
                 >войну</event> с <person person_type="foreign_leader">Наполеоном</person> 1,
             объявившим себя императором Франции</date>.</p>
@@ -2212,7 +2208,7 @@
         <p>Вскоре <person person_type="tsar">Александр I</person> объявил <event event_type="minor"
                 >войну</event> Швеции и быстро занял своими войсками принадлежавшую шведам
             Финляндию. Русская армия перешла зимой по льду Ботнического залива и угрожала столице
-            Швеции. <date type="minor" year="1809">Шведский король должен был и 1809 году заключить мир и согласился на передачу
+            Швеции. <date date_type="minor" year="1809">Шведский король должен был и 1809 году заключить мир и согласился на передачу
             России Финляндии</date>.</p>
         <p>Через 3 года Александру I удалось завоевать у Турции захваченную ею Бессарабию — область
             между Днестром и Прутом.</p>
@@ -2223,7 +2219,7 @@
             что под влиянием буржуазной Франции, где крепостничество было уничтожено, их господство
             в России будет ослаблено. <person person_type="tsar">Александр I</person> уступил.
             Торговля с Англией возобновилась.</p>
-        <p>Тогда <date type="major" year="1812"><person person_type="foreign_leader">Наполеон</person> с огромным войском, более
+        <p>Тогда <date date_type="major" year="1812"><person person_type="foreign_leader">Наполеон</person> с огромным войском, более
             чем в 500 тысяч человек, напал на Россию летом 1812 года</date>. Русских войск было всего около
             200 тысяч человек. Они отступали, уничтожая по пути все запасы продовольствия и
             снаряжения. Скоро <person person_type="foreign_leader">Наполеон</person> захватил Литву
@@ -2281,10 +2277,7 @@
             другу в борьбе с народными восстаниями. Главой этого союза был русский царь <person
                 person_type="tsar">Александр I</person>. Царская Россия стала жандармом Европы.</p>
     </chapter>
-<<<<<<< HEAD
-=======
-    
-    
+
 <!--    NOT END OF SECTION THATS AT THE END OF 39!!!!!!!!!!!!-->    
 >>>>>>> 2743ad879bc59ae0bf2951bbaa41167b8c8ed50f
     
@@ -2341,7 +2334,7 @@
                 Они помнили о крестьянском восстании против дворян при <person person_type="tsar"
                     >Екатерине II</person>. Революцию они хотели сделать только при помощи войск,
                 которыми они командовали. </p>
-    <p> Восстание декабристов. <date type="major" year="1825">В 1825 году <person person_type="tsar">Александр I</person>
+    <p> Восстание декабристов. <date date_type="major" year="1825">В 1825 году <person person_type="tsar">Александр I</person>
                 умер</date>. Детей у него не было. Царствовать должен был его брат <person
                     person_type="tsar">Николай</person>. </p>
     <p>Утром 14 декабря 1825 года офицеры — члены «Северного общества» в <place
@@ -2356,7 +2349,7 @@
                 мастеровые, рабочие-строители. Они кидали поленьями и камнями в солдат, оставшихся
                 на стороне <person person_type="tsar">Николая</person>. Но и тут
                 дворяне-революционеры побоялись воспользоваться их помощью. </p>
-            <p><date type="minor" year="1825" month="12" day="14">14 декабря 1825 года в <place place_type="city">Петербурге</place>. <person
+            <p><date date_type="minor" year="1825" month="12" day="14">14 декабря 1825 года в <place place_type="city">Петербурге</place>. <person
                     person_type="tsar">Николай I</person> приказал стрелять из пушек по восставшим</date>.</p>
             <p>
                 <person person_type="tsar">Николай</person> послал к восставшим для переговоров
@@ -2436,7 +2429,7 @@
                 Годунов». «Капитанская дочка» и многие другие), которыми мы гордимся и сейчас.
                     <person person_type="artist">Пушкин</person> создал русскую литературу. </p>
             <p>
-                <date type="minor" year="1799"><person person_type="artist">Пушкин</person> родился в 1799 году в <place
+                <date date_type="minor" year="1799"><person person_type="artist">Пушкин</person> родился в 1799 году в <place
                     place_type="city">Москве</place>, в дворянской семье</date>. Ещё мальчиком он начал
                 писать стихотворения. Окончив дворянскую школу — <place place_type="building"
                     >лицей</place> в Царском Селе (теперь город <place place_type="city"
@@ -2457,7 +2450,7 @@
             <p> Царь ненавидел <person person_type="artist">Пушкина</person>. Придворная знать
                 травила и оскорбляла великого поэта. <person person_type="tsar">Николай I</person>
                 хорошо знал об этой травле, не не принимал никаких мер даже тогда, когда дело дошло
-                до дуэли. <date type="minor" year="1837"><person person_type="artist">Пушкин</person> дрался на дуэли с одним из
+                до дуэли. <date date_type="minor" year="1837"><person person_type="artist">Пушкин</person> дрался на дуэли с одним из
                 своих обидчиков и был убит им в начале 1837 года.</date></p>
             <p> Свободной мысли не было места в царстве жандармов. <person person_type="tsar"
                     >Николай I</person> сослал в действующую армию на <territory
@@ -2513,7 +2506,7 @@
         <chapter>
             <title n="37">37. Присоединение Кавказа</title>
             <p> Присоединение <territory territory_type="country">Азербайджана</territory> и
-                <territory territory_type="country">Армении</territory>. <date type="major" year="1800">В начале XIX века к
+                <territory territory_type="country">Армении</territory>. <date date_type="major" year="1800">В начале XIX века к
                     <territory territory_type="country">России</territory> присоединилась <territory
                     territory_type="country">Грузия</territory>. Вскоре после этого было закончено
                 присоединение к <territory territory_type="country">России</territory>
@@ -2567,7 +2560,7 @@
                     <territory territory_type="region">кубанские</territory> станицы и <territory
                     territory_type="country">грузинские</territory> сёла. Много крестьян захватывал
                 при набегах <person person_type="foreign_leader">Шамиль</person>. Он предавал их
-                казни или делал рабами. <date type="minor" year="1853">Особенно усилились набеги <person
+                казни или делал рабами. <date date_type="minor" year="1853">Особенно усилились набеги <person
                     person_type="foreign_leader">Шамиля</person>, когда началась в 1853 году война
                     <territory territory_type="country">России</territory> с <territory
                     territory_type="country">Турцией</territory>, <territory
@@ -2626,13 +2619,13 @@
                     >пролетариат</people>. Он начал открытую борьбу с капиталистами за свои права.
                 Особенно прославился парижский <people people_type="class">пролетариат</people> в
                 революции 1848 года. </p>
-            <p> <date type="major" year="1848" month="2" day="22">22 февраля 1848 года в <place place_type="city">Париже</place> вспыхнула революция,
+            <p> <date date_type="major" year="1848" month="2" day="22">22 февраля 1848 года в <place place_type="city">Париже</place> вспыхнула революция,
                 которая быстро охватила города <territory territory_type="country"
                     >Франции</territory></date>. Король бежал за границу. Во <territory
                     territory_type="country">Франции</territory> была объявлена буржуазная
                 республика. </p>
             <p> Но революция во <territory territory_type="country">Франции</territory> не принесла
-                никакого облегчения рабочим. <date type="major" year="1848" month="6">В конце июня 1848 года парижский <people
+                никакого облегчения рабочим. <date date_type="major" year="1848" month="6">В конце июня 1848 года парижский <people
                     people_type="class">пролетариат</people> выступил против своих
                 хозяев-капиталистов и буржуазного республиканского правительства</date>. Три дня рабочие
                 геройски сражались. Их жены и дети делали свинцовые пули, помогали строить
@@ -2744,7 +2737,7 @@
                 лучше обрабатывают землю и что содержание их обходится дешевле. Они заговорили о
                 необходимости уничтожения <system system_type="serfdom">крепостного нрава</system>. </p>
             <p>
-                <date type="major" year="1853"><territory territory_type="region">Крымская</territory> война. Чтобы быть полным
+                <date date_type="major" year="1853"><territory territory_type="region">Крымская</territory> война. Чтобы быть полным
                 хозяином на берегах <place place_type="water_body">Черного моря</place>, чтобы
                 окончательно вытеснить турок с <territory territory_type="region">кавказских
                     земель</territory> и свободно провозить через проливы в Европу помещичий хлеб,
@@ -2785,7 +2778,7 @@
                     person_type="tsar">Николай I</person> неожиданно умер ещё во время осады <place
                     place_type="city">Севастополя</place>. Царём стал <person person_type="tsar"
                     >Александр II</person>. </p>
-        <p> <date type="major" year="1856">В 1856 году в <place place_type="city">Париже</place> был заключён мир</date>. <territory
+        <p> <date date_type="major" year="1856">В 1856 году в <place place_type="city">Париже</place> был заключён мир</date>. <territory
                     territory_type="country">России</territory> было запрещено иметь военный флот и
                 крепости на <place place_type="water_body">Чёрном море</place>. Но <place
                     place_type="city">Севастополь</place> остался за <territory
@@ -2821,7 +2814,7 @@
             <chapter>
             <title n="40">40. Отмена крепостного права в России</title>
             <p> Манифест <person person_type="tsar">Александра II</person> 19 февраля 1861 года.
-                <date type="major" year="1861" month="2" day="19">Царь <person person_type="tsar">Александр II</person>, боясь того, что крестьяне
+                <date date_type="major" year="1861" month="2" day="19">Царь <person person_type="tsar">Александр II</person>, боясь того, что крестьяне
                 восстанут и сами разгромят снизу <system system_type="serfdom">крепостнические
                     порядки</system>, 19 февраля 1861 года подписал манифест об освобождении
                 крестьян</date>. Крестьяне объявлялись свободными, их нельзя было продавать и покупать, они
@@ -2937,7 +2930,7 @@
                 власти русского <person person_type="tsar">царя</person>. В <place place_type="city"
                     >Варшаве</place> революционеры образовали «Народный комитет», который подготовил
                 восстание. </p>
-            <p> <date type="major" year="1863">Созданный польским дворянством «Народный комитет» в 1863 году поднял восстание и
+            <p> <date date_type="major" year="1863">Созданный польским дворянством «Народный комитет» в 1863 году поднял восстание и
                 объявил себя польским правительством.</date></p>
             <p> Восстание охватило <territory territory_type="country">Польшу</territory>, часть.
                     <territory territory_type="country">Литвы</territory>, часть <territory
@@ -2998,7 +2991,7 @@
                     >Геок-Тепе</place> и уступили её лишь после сокрушительного наступления русских
                 с сильной артиллерией. Затем был занят царскими войсками <place place_type="city"
                     >Ашхабад</place>. </p>
-            <p> <date type="minor" year="1900">В конце XIX века завоёван был <territory territory_type="country"
+            <p> <date date_type="minor" year="1900">В конце XIX века завоёван был <territory territory_type="country"
                     >Россией</territory> горный <place place_type="mountain">Памир</place> — «крыша
                 мира»</date>. </p>
             <p> Так в течение 30 лет упорных войн были завоёваны царской <territory
@@ -3022,7 +3015,7 @@
             <p>
                 <territory territory_type="region">Средняя Азия</territory> стала колонией царской
                     <territory territory_type="country">России</territory>. </p>
-            <p> Война с <territory territory_type="country">Турцией</territory>. <date type="major" year="1877">В конце
+            <p> Война с <territory territory_type="country">Турцией</territory>. <date date_type="major" year="1877">В конце
                 царствования <person person_type="tsar">Александра II</person> (в 1877 г.)
                     <territory territory_type="country">Россия</territory> воевала с <territory
                     territory_type="country">Турцией</territory></date>. Захватить проливы из <place
@@ -3052,7 +3045,7 @@
                 <people people_type="class">пролетариату</people> необходимо организовать свою
                 международную партию. Поэтому они создали первое международное объединение <people
                     people_type="class">пролетариата</people>. </p>
-            <p> <date type="minor" year="1864">В 1864 году на съезде представителей рабочих в <place place_type="city"
+            <p> <date date_type="minor" year="1864">В 1864 году на съезде представителей рабочих в <place place_type="city"
                     >Лондоне</place>, по предложению <person person_type="politician"
                     >Маркса</person> и <person person_type="politician">Энгельса</person>, было
                 основано «Международное товарищество рабочих» — Первый Интернационал</date>. Вождем I
@@ -3080,7 +3073,7 @@
                 рабочих с капиталистической эксплуатацией, ослабляли силу <people
                     people_type="class">пролетариата</people> и облегчали капиталистам расправу с
                 рабочими. </p>
-            <p> Парижская Коммуна. <date type="major" year="1870">В 1870 году началась война между <territory
+            <p> Парижская Коммуна. <date date_type="major" year="1870">В 1870 году началась война между <territory
                     territory_type="kingdom">Пруссией</territory> и <territory
                     territory_type="country">Францией</territory></date>. В этой войне победила <territory
                     territory_type="kingdom">Пруссия</territory>. Французские войска были разбиты.
@@ -3108,7 +3101,7 @@
                 генералов. Тогда Тьер, министры, генералы, <people people_type="class"
                     >буржуазия</people>, спекулянты, чиновники и попы сбежали из <place
                     place_type="city">Парижа</place> в <place place_type="city">Версаль</place>. </p>
-            <p> <date type="major" year="1871" month="3" day="18">18 марта 1871 года власть в <place place_type="city">Париже</place> перешла в руки
+            <p> <date date_type="major" year="1871" month="3" day="18">18 марта 1871 года власть в <place place_type="city">Париже</place> перешла в руки
                 рабочего класса</date>. Рабочий класс образовал своё правительство — Парижскую Коммуну.
                 Некоторые из членов Парижской Коммуны были социалисты, члены I Интернационала. </p>
             <p>
@@ -3133,7 +3126,7 @@
             <p> Геройски боролись коммунары с многочисленными и хорошо вооружёнными войсками <place
                     place_type="city">версальского</place>
                 <people people_type="class">буржуазного</people> правительства. Женщины и дети
-                сражались рядом с мужчинами. <date type="major" year="1871" month="5" day="21">21 мая войска Тьера ворвались в <place
+                сражались рядом с мужчинами. <date date_type="major" year="1871" month="5" day="21">21 мая войска Тьера ворвались в <place
                     place_type="city">Париж</place></date>. Германские войска помогали Тьеру. Буржуазия
                 жестоко расправилась с коммунарами. В течение недели десятки тысяч мужчин, женщин и
                 детей были расстреляны. Ещё больше рабочих бросили в тюрьму и сослали на дальние
@@ -3147,14 +3140,14 @@
             <p> Парижская Коммуна погибла, потому что у рабочих не было ещё своей рабочей,
                 марксистской, революционной партии, способной без колебаний повести рабочих против
                     <people people_type="class">буржуазии</people>. И ещё потому, что рабочие не
-                имели поддержки крестьян, не понимали значения союза рабочих и крестьян. <date type="major" year="1876">Через пять
+                имели поддержки крестьян, не понимали значения союза рабочих и крестьян. <date date_type="major" year="1876">Через пять
                 лет после падения Парижской Коммуны, в 1876 году, I Интернационал прекратил своё
                 существование</date>. </p>
             <p> Значение I Интернационала было огромно. Это было первое международное объединение
                 рабочих, послужившее образном для Коммунистического Интернационала, основанного
                     <person person_type="politician">Лениным</person>. </p>
             <p>
-                <date type="major" year="1883"><person person_type="politician">Карл Маркс</person> умер в 1883 году, а <person
+                <date date_type="major" year="1883"><person person_type="politician">Карл Маркс</person> умер в 1883 году, а <person
                     person_type="politician">Энгельс</person> в 1895 году</date>. Их учение направило на
                 верный путь борьбу рабочих за <system system_type="communism">коммунизм</system> и
                 легло в основу деятельности <person person_type="politician">В. И. Ленина</person> и
@@ -3175,7 +3168,7 @@
                 и должны были на них работать, как батраки. </p>
             <p> Бурлаки на <place place_type="river">Волге</place>. С картины И. Е. Репина. </p>
             <p> Крестьян, кроме помещиков, обирали и угнетали кулаки. Разоренные крестьяне уходили в
-                города. Города росли быстро, в них развивалась промышленность. <date type="minor" year="1900">В конце XIX века в
+                города. Города росли быстро, в них развивалась промышленность. <date date_type="minor" year="1900">В конце XIX века в
                     <territory territory_type="country">России</territory> было уже больше 2
                 миллионов рабочих. Образовались крупные промышленные центры: в <place
                     place_type="city">Петербурге</place> и Нижнем Новгороде (ныне город <place
@@ -3187,7 +3180,7 @@
                     territory_type="region">Костромской</territory> и <place place_type="city"
                     >Ярославской</place> губерниях — текстильные фабрики</date>. </p>
             <p> В эти места и направлялись разоренные крестьяне. Много рабочих требовалось и на
-                строительство железных дорог. <date type="minor" year="1900">К концу XIX века железных дорог в <territory
+                строительство железных дорог. <date date_type="minor" year="1900">К концу XIX века железных дорог в <territory
                     territory_type="country">России</territory> было уже больше 30 тысяч километров,
                 начата была постройка дороги через <territory territory_type="region"
                     >Сибирь</territory></date>. </p>
@@ -3228,7 +3221,7 @@
             <p> Тогда <people people_type="job">народники</people> решили продолжать борьбу без
                 народа, своими силами. Они задумали начать с убийства царя и организовали тайное
                 общество, которое назвали «Народная воля». Много сил и времени они потратили на то,
-                чтобы подготовить убийство царя. <date type="major" year="1881" month="3" day="1">Лишь 1 марта 1881 года <people people_type="job"
+                чтобы подготовить убийство царя. <date date_type="major" year="1881" month="3" day="1">Лишь 1 марта 1881 года <people people_type="job"
                     >народникам</people> удалось брошенной бомбой убить <person person_type="tsar"
                     >Александра II</person></date>. </p>
             <p> Но ничего из этого не вышло. Вместо одного убитого царя или министра появлялся
@@ -3246,7 +3239,7 @@
                 марксистской рабочей партии, отвлекали внимание трудящихся от борьбы со всем классом
                 угнетателей бесполезными убийствами отдельных представителей этого класса и
                 тормозили создание союза рабочих и крестьян. </p>
-            <p> <date type="major" year="1887">В 1887 году небольшая группа революционеров снова попыталась убить царя (<person
+            <p> <date date_type="major" year="1887">В 1887 году небольшая группа революционеров снова попыталась убить царя (<person
                     person_type="tsar">Александра III</person>), но неудачно</date>. Организаторы покушения
                 — старший брат <person person_type="politician">Ленина</person>
                 <person person_type="politician">Александр Ульянов</person> и его товарищи — были
@@ -3320,7 +3313,7 @@
                 положения и отказывались начинать работу, пока хозяин не удовлетворит эти
                 требования. Это называется стачкой. </p>
             <p> Чтобы успешнее бороться с капиталистами, рабочие стали объединяться в союзы. </p>
-            <p> <date type="minor" year="1875">Первый — «Южнороссийский союз» возник в <place place_type="city">Одессе</place> в
+            <p> <date date_type="minor" year="1875">Первый — «Южнороссийский союз» возник в <place place_type="city">Одессе</place> в
                 1875 году</date>. Союз готовился к борьбе с самодержавием и призывал рабочих объединяться
                 для борьбы за революцию. Но скоро участники его были арестованы. Его руководителя
                     <person person_type="politician">Заславского</person> сослали на каторгу, где он
@@ -3333,7 +3326,7 @@
             <p> Но рабочее движение охватывало всё новые и новые районы. Всё тяжелее жилось
                 рабочему, всё больше грабили его капиталисты. </p>
             <p> Фабрикант Морозов беспощадно штрафовал своих рабочих. Под видом штрафов он отбирал у
-                них 1/3 заработка. <date type="major" year="1885">В 1885 году восемь тысяч рабочих текстильной фабрики Морозова в
+                них 1/3 заработка. <date date_type="major" year="1885">В 1885 году восемь тысяч рабочих текстильной фабрики Морозова в
                     <place place_type="city">Орехово-Зуеве</place> не выдержали этого грабежа и
                 объявили стачку</date>. Фабрика остановилась. </p>
             <p> Стачка эта была заранее организована. Руководил ею передовой рабочий <person
@@ -3366,7 +3359,7 @@
             <p>
                 <person person_type="politician">Георгий Валентинович Плеханов</person> (1856–1918
                 гг.). </p>
-            <p> <date type="minor" year="1883">Уехав за границу, <person person_type="politician">Плеханов</person> в 1883 году
+            <p> <date date_type="minor" year="1883">Уехав за границу, <person person_type="politician">Плеханов</person> в 1883 году
                 образовал революционную марксистскую группу «Освобождение труда»</date>. Группа переводила
                 на русский язык работы <person person_type="politician">Маркса</person> и <person
                     person_type="politician">Энгельса</person> и распространяла их в <territory
@@ -3383,7 +3376,7 @@
             <p>
                 <person person_type="politician">Ленин</person> в школе. </p>
             <p>
-                <date type="major" year="1870"><person person_type="politician">В. И. Ленин</person> — вождь рабочего класса и
+                <date date_type="major" year="1870"><person person_type="politician">В. И. Ленин</person> — вождь рабочего класса и
                 основатель большевизма. <person person_type="politician">Владимир Ильич Ленин
                     (Ульянов)</person> родился в 1870 году в городе Симбирске (теперь <place
                     place_type="city">Ульяновск</place>)</date>. В школе он отлично учился. В 17 лет
@@ -3395,7 +3388,7 @@
                     >Ленин</person> вошёл в марксистский кружок, изучал сочинения <person
                     person_type="politician">Маркса</person> и <person person_type="politician"
                     >Энгельса</person> и всех поражал своими знаниями. </p>
-            <p> <date type="major" year="1893">В 1893 году <person person_type="politician">Ленин</person> переехал в <place
+            <p> <date date_type="major" year="1893">В 1893 году <person person_type="politician">Ленин</person> переехал в <place
                     place_type="city">Петербург</place> и здесь стал заниматься с рабочими в
                 кружках</date>. </p>
             <p>
@@ -3419,7 +3412,7 @@
             <p> Царским сыщикам удалось арестовать Ленина. Его долго держали в тюрьме, а потом
                 сослали на три года в <territory territory_type="region">Сибирь</territory>. </p>
             <p> Организованные <person person_type="politician">Лениным</person> «Союзы борьбы»
-                сделали первую попытку объединиться в партию. С этой целью <date type="minor" year="1898">был созван 1 съезд
+                сделали первую попытку объединиться в партию. С этой целью <date date_type="minor" year="1898">был созван 1 съезд
                 Российской социал-демократической рабочей партии (РСДРП) в 1898 году в городе <place
                     place_type="city">Минске</place></date>. Но создать партию на этом съезде не удалось. </p>
             <p> Вернувшись из ссылки, <person person_type="politician">Ленин</person> уехал за
@@ -3449,7 +3442,7 @@
                 правительства. </p>
             <p> Царём был в это время <person person_type="tsar">Николай II</person>. (Он начал
                 царствовать в 1894 году.) </p>
-                <p> <date type="major" year="1901" month="5" day="1">В 1901 году в <place place_type="city">Петербурге</place>, в день празднования 1 Мая
+                <p> <date date_type="major" year="1901" month="5" day="1">В 1901 году в <place place_type="city">Петербурге</place>, в день празднования 1 Мая
                 (праздник рабочих всего мира), забастовали рабочие военного Обуховского завода</date>. Они
                 предъявили свои требования начальству. Растерявшаяся администрация не знала, что
                 делать, и спрашивала рабочих: «Этак, что же вы, не только нас, но скоро и министров
@@ -3465,7 +3458,7 @@
                 надолго упрятаны в тюрьмы и сосланы на каторгу. </p>
             <p> Весть о героях-обуховцах облетела всю страну. По всем уголкам необъятной <territory
                     territory_type="country">России</territory> поднимались на борьбу рабочие. </p>
-                <p> <date type="major" year="1902">В 1902 году в городе <place place_type="city">Ростове-на-Дону</place> произошла
+                <p> <date date_type="major" year="1902">В 1902 году в городе <place place_type="city">Ростове-на-Дону</place> произошла
                 большая стачка железнодорожников. К ним примкнули рабочие других заводов. Стачкой и
                 собраниями рабочих руководил комитет РСДРП</date>. Члены комитета открыто выступали на
                 собраниях, призывали рабочих к решительной и стойкой борьбе до полной победы над
@@ -3504,7 +3497,7 @@
                 разрозненные социал-демократические организации в <territory
                     territory_type="country">России</territory>. То, что не удалось сделать раньше —
                 создать революционную пролетарскую партию, теперь удалось. </p>
-                <p> <date type="minor" year="1903">В 1903 году за границей тайно собрался II съезд РСДРП</date>. Из разных городов <territory
+                <p> <date date_type="minor" year="1903">В 1903 году за границей тайно собрался II съезд РСДРП</date>. Из разных городов <territory
                     territory_type="country">России</territory> съехалось на съезд 43 делегата. На
                 съезде была принята программа партии, разработанная <person person_type="politician"
                     >В. И. Лениным</person>. В ней говорилось о главной задаче партии рабочего
@@ -3562,7 +3555,7 @@
             <p> Передовые рабочие крепко верили <person person_type="politician">Ленину</person> и
                     <person person_type="politician">Сталину</person>. Таких рабочих тогда были
                 тысячи. </p>
-                <p> <date type="minor" year="1903">Под руководством РСДРП летом 1903 года в крупных городах <territory
+                <p> <date date_type="minor" year="1903">Под руководством РСДРП летом 1903 года в крупных городах <territory
                     territory_type="country">Украины</territory> и <territory
                     territory_type="region">Кавказа</territory> произошли первые всеобщие стачки
                 рабочих</date>. Остановились все фабрики и заводы. Рабочие собирались тысячами на улицах и
@@ -3579,7 +3572,7 @@
                     <territory territory_type="country">Японией</territory>. Они считали, что война
                 задержит революцию. «Лучше война, чем революция», — советовали <person
                     person_type="tsar">Николаю II</person> его придворные. </p>
-            <p> Но войну начали первыми японцы. <date type="major" year="1904" month="1">В январе 1904 года без всякого объявления войны они
+            <p> Но войну начали первыми японцы. <date date_type="major" year="1904" month="1">В январе 1904 года без всякого объявления войны они
                 вероломно напали на построенную Россией крепость на <place place_type="water_body"
                     >Жёлтом море</place> — <place place_type="city">Порт-Артур</place>, где стояли
                 русские военные корабли, и лучшие из них взорвали минами</date>. </p>
@@ -3602,7 +3595,7 @@
             <p> Кровавое воскресенье и первый Совет рабочих депутатов. Неудачная русско-японская
                 война ещё более усилила ненависть народа к царскому правительству. Война не
                 задержала революцию, а ускорила её. </p>
-            <p> <date type="major" year="1905">В начале января 1905 года забастовал в <place place_type="city">Петербурге</place>
+            <p> <date date_type="major" year="1905">В начале января 1905 года забастовал в <place place_type="city">Петербурге</place>
                 большой Путиловский завод (теперь Кировский)</date>. </p>
             <p> Вскоре в <place place_type="city">Петербурге</place> началась всеобщая стачка. На
                 заводах шли бурные сходки и собрания. Рабочие искали выхода из своего бедственного и
@@ -3628,7 +3621,7 @@
                 зарублено шашками, задавлено <people people_type="class">казацкими</people>
                 лошадьми. Улицы <place place_type="city">Петербурга</place> были залиты кровью
                 рабочих. </p>
-            <p> <date type="major" year="1905" month="1" day="9">9 января 1905 года на площади у <place place_type="building">Зимнего дворца</place>
+            <p> <date date_type="major" year="1905" month="1" day="9">9 января 1905 года на площади у <place place_type="building">Зимнего дворца</place>
                 были расстреляны сотни рабочих</date>. </p>
             <p> Рабочие в этот день получили кровавый урок. Для всех стало ясно, что нельзя верить
                 царю и его слугам. Вечером того же дня на окраинах рабочие начали строить баррикады.
@@ -3639,7 +3632,7 @@
                 работу, выходили на улицу с революционными песнями, с лозунгом «Долой царское
                 самодержавие». Революция скоро охватила всю страну. </p>
             <p> Всю весну продолжались массовые стачки и выступления рабочих. </p>
-            <p> <date type="minor" year="1905" month="5">В мае 1905 года в городе текстильных фабрик — <place place_type="city"
+            <p> <date date_type="minor" year="1905" month="5">В мае 1905 года в городе текстильных фабрик — <place place_type="city"
                     >Иваново-Вознесенске</place> — началась особенно упорная стачка</date>. Руководителями
                 рабочих были <people people_type="job">большевики</people>. </p>
             <p> За городом на речке <place place_type="river">Талке</place> тысячами собирались
@@ -3654,7 +3647,7 @@
                 губернатора войска стали стрелять в рабочих. Наконец, у рабочих силы иссякли. По
                 предложению Совета на 40-тысячном собрании рабочих было решено стачку прекратить.
                 Стачка закалила рабочих и подготовила их к дальнейшей, ещё более упорной борьбе. </p>
-            <p> Крестьянское движение. <date type="minor" year="1905">С весны 1905 года начались волнения крестьян. В центре
+            <p> Крестьянское движение. <date date_type="minor" year="1905">С весны 1905 года начались волнения крестьян. В центре
                     <territory territory_type="country">России</territory> и в Поволжье крестьяне
                 захватывали землю, лес, вывозили из помещичьих амбаров хлеб и делили его между
                 голодными</date>. Они жгли усадьбы помещиков, требовали раздела, а в ряде мест захватывали
@@ -3667,7 +3660,7 @@
             <p> В <territory territory_type="country">Грузии</territory> крестьяне прекратили уплату
                 повинностей помещикам. В ряде мест они захватили земли, пастбища, леса, не
                 признавали никаких царских властей. Делами управляли сами крестьяне. </p>
-            <p> <date type="minor" year="1905">В <territory territory_type="country">Латвии</territory> и <territory
+            <p> <date date_type="minor" year="1905">В <territory territory_type="country">Латвии</territory> и <territory
                     territory_type="country">Эстонии</territory> весной и летом 1905 года восстали
                 батраки</date>. Они вооружились и образовали революционные крестьянские комитеты. Опираясь
                 на эти организации, они выгнали из деревень <territory territory_type="country"
@@ -3676,7 +3669,7 @@
             <p> Крестьяне <territory territory_type="country">Украины</territory> и <territory
                     territory_type="country">Белоруссии</territory> также поднялись на борьбу с
                 царским правительством и помещиками. </p>
-            <p> III съезд РСДРП. <date type="minor" year="1905">В <place place_type="city">Лондоне</place> в апреле 1905 года по
+            <p> III съезд РСДРП. <date date_type="minor" year="1905">В <place place_type="city">Лондоне</place> в апреле 1905 года по
                 настоянию</date>. <person person_type="politician">Ленина</person> был созван III съезд
                 РСДРП. Всего в партии тогда насчитывалось до 8 1/2 тысяч членов. На съезд съехались
                 делегаты от 20 <people people_type="job">большевистских</people> комитетов партии.
@@ -3712,7 +3705,7 @@
         <chapter>
             <title n="47">47. Подготовка вооруженного восстания</title>
             <p> Восстание на броненосце «<place place_type="building">Потёмкин</place>». Революция
-                перекинулась и в армию. <date type="minor" year="1905">В июне 1905 года на <place place_type="water_body">Черном
+                перекинулась и в армию. <date date_type="minor" year="1905">В июне 1905 года на <place place_type="water_body">Черном
                     море</place> на броненосце «<place place_type="building">Потёмкин</place>»
                 вспыхнуло восстание матросов</date>. </p>
             <p> Восстание на броненосце «<place place_type="building">Потемкин</place>» в июне 1905
@@ -3766,7 +3759,7 @@
                 распространяли свои листовки, призывая солдат примкнуть к революции. Этому помогало
                 также поражение царя в войне с <territory territory_type="country"
                     >Японией</territory>. </p>
-            <p> <date type="minor" year="1905" month="10" day="17">Перепуганный ростом революции, царь <person person_type="tsar">Николай II</person>
+            <p> <date date_type="minor" year="1905" month="10" day="17">Перепуганный ростом революции, царь <person person_type="tsar">Николай II</person>
                 17 октября издал манифест. В манифесте он обещал дать народу свободу и созвать
                 Государственную <people people_type="job">думу</people> из представителей от
                 населения для решения вместе с царём всех государственных дел <territory
@@ -3800,7 +3793,7 @@
         </chapter>
         <chapter>
             <title n="48">48. Декабрьское вооруженное восстание</title>
-            <p> Вооружённое восстание <place place_type="city">московских</place> рабочих. <date type="major" year="1905" month="12" day="7">7 декабря
+            <p> Вооружённое восстание <place place_type="city">московских</place> рабочих. <date date_type="major" year="1905" month="12" day="7">7 декабря
                 1905 года в <place place_type="city">Москве</place> началась всеобщая стачка, быстро
                 перешедшая в вооружённое восстание</date>. В заранее назначенный <people people_type="job"
                     >большевиками</people> час остановились фабрики, заводы и железные дороги,
@@ -3914,7 +3907,7 @@
             <title n="49">49. Поражение революции</title>
             <p> Подавление революционных выступлений. Несмотря на кровавую расправу с восставшим
                 народом, революция продолжалась. В 1906 году продолжаются стачки рабочих,
-                выступления крестьян, солдат и матросов. <date type="minor" year="1906" month="7">Особенно знаменательными были восстания
+                выступления крестьян, солдат и матросов. <date date_type="minor" year="1906" month="7">Особенно знаменательными были восстания
                 моряков в июле — августе 1906 года в <place place_type="city">Кронштадте</place> и
                     <place place_type="city">Свеаборге</place>. Тысячи матросов поднялись на
                 восстание, перебили офицеров, установили свою власть в отдельных крепостных
@@ -3933,7 +3926,7 @@
                 крестьянские организации. </p>
             <p> Партии ссыльных одну за другой гнали в <territory territory_type="region"
                     >Сибирь</territory>. </p>
-            <p> Государственная <people people_type="job">дума</people>. <date type="minor" year="1906">В тех же видах подавления
+            <p> Государственная <people people_type="job">дума</people>. <date date_type="minor" year="1906">В тех же видах подавления
                 революционного движения <person person_type="tsar">Николай II</person> созвал в 1906
                 году Государственную <people people_type="job">думу</people></date>. По закону о выборах в
                     <people people_type="job">думу</people> помещики и капиталисты имели право
@@ -3953,7 +3946,7 @@
                     territory_type="region">Сибири</territory> и <territory territory_type="region"
                     >Средней Азии</territory>, урезаны права народов <territory
                     territory_type="region">Кавказа</territory> и <territory
-                        territory_type="country">Польши</territory>. И когда <date type="major" year="1907" month="12" day="7">осенью 1907 года собралась
+                        territory_type="country">Польши</territory>. И когда <date date_type="major" year="1907" month="12" day="7">осенью 1907 года собралась
                 третья <people people_type="job">дума</people></date>, то в <place place_type="building"
                     >Таврическом дворце</place> в <place place_type="city">Петербурге</place>, где
                 происходили заседания <people people_type="job">думы</people>, депутатские места
@@ -3997,7 +3990,7 @@
                 расправляться с рабочими. Такие объединения капиталистов называли трестами и
                 синдикатами. После революции <people people_type="class">буржуазных</people> трестов
                 и синдикатов становилось всё больше и больше. </p>
-            <p> <date type="minor" year="1910">После нескольких лет застоя промышленность в <territory territory_type="country"
+            <p> <date date_type="minor" year="1910">После нескольких лет застоя промышленность в <territory territory_type="country"
                     >России</territory> с 1910 года вновь ожила: выросла добыча угля, металла,
                 нефти, увеличилось производство сахара, тканей. Сильно вырос вывоз хлеба за границу</date> </p>
             <p>
@@ -4054,7 +4047,7 @@
             <p> Соратник и помощник <person person_type="politician">Ленина</person> — товарищ
                     <person person_type="politician">Сталин</person> остался в <territory
                     territory_type="country">России</territory>. Его кипучая энергия вдохновляла
-                <people people_type="job">большевиков</people> на трудную и упорную борьбу. <date type="major" year="1908">В
+                <people people_type="job">большевиков</people> на трудную и упорную борьбу. <date date_type="major" year="1908">В
                 1908 году <person person_type="politician">Сталин</person> был снова арестован и
                 сослан в одну из <territory territory_type="country">сибирских</territory> губерний</date>.
                 Но железную волю <person person_type="politician">Сталина</person> не могли сломить
@@ -4065,7 +4058,7 @@
                 Скоро его опять выследили царские шпионы, и правительство выслало <person
                     person_type="politician">Сталина</person> в безлюдный <territory
                     territory_type="region">Нарымский край</territory>. Но стойкий революционер не
-                сдавался. <date type="minor" year="1912">Летом 1912 года он тайно вернулся в <place place_type="city"
+                сдавался. <date date_type="minor" year="1912">Летом 1912 года он тайно вернулся в <place place_type="city"
                     >Петербург</place></date>. </p>
             <p>
                 <person person_type="politician">Ленин</person> за границей, а <person
@@ -4079,7 +4072,7 @@
                 были золотые прииски английских капиталистов. Жизнь рабочих на этих приисках мало
                 чем отличалась от жизни каторжников. Английские же капиталисты получали с этих
                 рудников прибыли 7 миллионов рублей золотом в год. </p>
-            <p> <date type="minor" year="1912" month="Spring">Весной 1912 года рабочие <place place_type="river">Ленских</place> приисков
+            <p> <date date_type="minor" year="1912" month="Spring">Весной 1912 года рабочие <place place_type="river">Ленских</place> приисков
                 забастовали</date>. </p>
             <p> По требованию англичан царское правительство послало на прииски отряд войск под
                 командой жандармского офицера. Он немедленно арестовал всех вожаков рабочих и среди
@@ -4094,14 +4087,14 @@
             <p> Весть о расстреле на реке <place place_type="river">Лене</place> облетела всю
                     <territory territory_type="country">Россию</territory>. Сотни тысяч рабочих
                 бросили работу и вышли на улицу с протестом против новой бойни. </p>
-            <p> <date type="major" year="1912" month="5" day="1">1 мая 1912 года в <territory territory_type="country">России</territory> бастовало
+            <p> <date date_type="major" year="1912" month="5" day="1">1 мая 1912 года в <territory territory_type="country">России</territory> бастовало
                 полмиллиона рабочих</date>. В деревнях крестьяне брались вновь за топоры, косы и вилы и
                 уничтожали помещичьи имения. Свыше 13 тысяч революционных крестьянских выступлений
                 происходило за 1910–1914 годы. </p>
             <p> Русский народ поднимался на новую борьбу и шёл навстречу новой революции. </p>
             <p>
                 <people people_type="job">Большевики</people> — самостоятельная Российская
-                социал-демократическая рабочая партия. <date type="minor" year="1912">В 1912 году за границей, в городе <place
+                социал-демократическая рабочая партия. <date date_type="minor" year="1912">В 1912 году за границей, в городе <place
                     place_type="city">Праге</place>, съехались представители русских комитетов
                     <people people_type="job">большевиков</people> на конференцию</date>. Конференция
                 постановила изгнать из партии всех <people people_type="job">меньшевиков</people> и
@@ -4159,7 +4152,7 @@
                     people_type="job">большевиков</people>, рабочие объявили всеобщую стачку на
                 нефтяных промыслах. Около месяца боролись рабочие, но сила оказалась на стороне
                 фабрикантов. </p>
-            <p> <date type="major" year="1914" month="Summer">Летом 1914 года рабочие <place place_type="city">Петербурга</place> вновь остановили
+            <p> <date date_type="major" year="1914" month="Summer">Летом 1914 года рабочие <place place_type="city">Петербурга</place> вновь остановили
                 фабрики и заводы</date>. Они вышли на улицу с красными знамёнами. На нападение войск и
                 полиции рабочие ответили сопротивлением на баррикадах. </p>
             <p> Но подъём революции был задержан разразившейся тогда же мировой войной. В этой войне
@@ -4169,7 +4162,7 @@
     <section><section_title s="11">XI. Вторая буржуазная революция в России</section_title>
             <chapter>
             <title n="51">51. Мировая империалистическая война</title>
-                <p> Царская <territory territory_type="country">Россия</territory> в войне. <date type="major" year="1914" month="6 - 9">Летом 1914
+                <p> Царская <territory territory_type="country">Россия</territory> в войне. <date date_type="major" year="1914" month="6 - 9">Летом 1914
                 года началась мировая война</date>. Уже давно готовилась эта война. Крупные
                 капиталистические государства соперничали между собой. К началу XX века на земном
                 шаре не было ни клочка земли, не захваченного каким-нибудь государством. Капиталисты
@@ -4236,7 +4229,7 @@
                 вооружить, ни снабдить армию всем необходимым. При царском дворе, в министерствах, в
                 армии было мною германских шпионов, передававших немцам военные тайны. Истекающая
                 кровью, гибнущая от газовых атак, замерзающая в окопах царская армия, руководимая
-                бездарными генералами, вынуждена была отступать. <date type="major" year="1916">Немцы к 1916 году захватили
+                бездарными генералами, вынуждена была отступать. <date date_type="major" year="1916">Немцы к 1916 году захватили
                     <territory territory_type="country">Польшу</territory>, <territory
                     territory_type="country">Литву</territory>, часть <territory
                     territory_type="country">Латвии</territory></date>. Но войне не было видно конца. </p>
@@ -4267,10 +4260,10 @@
             <p> Революционное движение в годы войны. В <territory territory_type="country"
                     >России</territory> под руководством <people people_type="job"
                     >большевиков</people> начались массовые стачки. </p>
-                <p> <date type="major" year="1915">В 1915 году в <territory territory_type="country">России</territory> уже было 928
+                <p> <date date_type="major" year="1915">В 1915 году в <territory territory_type="country">России</territory> уже было 928
                 стачек, а в январе и феврале 1917 года — 1330 стачек</date>. Рабочие продолжали борьбу под
                 лозунгом: «Долой войну! Долой царское самодержавие!» </p>
-                <p> <date type="major" year="1916">Рабочие Петрограда (так назывался <place place_type="city">Петербург</place> с 1914
+                <p> <date date_type="major" year="1916">Рабочие Петрограда (так назывался <place place_type="city">Петербург</place> с 1914
                 по 1924 год) боролись в первых рядах. В октябре 1916 года они организовали огромную
                 политическую стачку против войны и царского самодержавия. Они привлекли на свою
                 сторону даже полк солдат</date>. </p>
@@ -4288,7 +4281,7 @@
                 подниматься и угнетённые народы. Тяжёлые поборы, угон скота и насилия над
                 трудящимися вызывали огромное недовольство. Недовольство усилилось, когда начали
                 брать народ на тыловые работы. </p>
-                <p> <date type="minor" year="1916">В 1916 году восстали казахи, киргизы, узбеки, таджики и туркмены. Они нападали на
+                <p> <date date_type="minor" year="1916">В 1916 году восстали казахи, киргизы, узбеки, таджики и туркмены. Они нападали на
                 города, вступили в бой с царскими войсками и полицией, убивали своих волостных
                 старшин — прислужников царских властей</date>. </p>
             <p> Казахи создали свои боевые вооруженные отряды. Вождём восстания был смелый герой
@@ -4321,7 +4314,7 @@
             расправиться с революцией.</p>
         <p>Планы царя и буржуазии не осуществились. Их опередило восстание рабочих и солдат,
             начавшееся в феврале 1917 года.</p>
-        <p><date type="minor" year="1917">В начале 1917 года изголодавшиеся, измученные войной рабочие <place place_type="city"
+        <p><date date_type="minor" year="1917">В начале 1917 года изголодавшиеся, измученные войной рабочие <place place_type="city"
                 >Петрограда</place> забастовали</date>. Большевики руководили борьбой рабочих. Они
             проникали также в солдатские казармы, призывая армию поддержать рабочих в борьбе с
             царём. Рабочие и работницы выходили на улицу и требовали: — Долой войну! Долой царское
@@ -4332,7 +4325,7 @@
             на крышах домов и чердаках полицейские установили пулемёты и оттуда стреляли по
             демонстрантам.</p>
         <p>Героическая борьба петроградских рабочих вовлекла и солдат в революцию.</p>
-        <p><date type="major" year="1917" month="2" day="27">27 февраля войска в Петрограде отказались стрелять в рабочих и начали переходить на
+        <p><date date_type="major" year="1917" month="2" day="27">27 февраля войска в Петрограде отказались стрелять в рабочих и начали переходить на
             сторону народа</date>.</p>
         <p>Восставшие рабочие и солдаты арестовали царских министров и посадили их в тюрьму. Из
             тюрем освободили заключённых революционеров. Толпы народа сжигали здания полиции и суда.
@@ -4371,7 +4364,7 @@
         <p>Ленин в письмах из-за границы и большевики во главе с вернувшимся из ссылки товарищем
             Сталиным разоблачали перед народом Временное правительство, раскрывали обман меньшевиков
             и эсеров.</p>
-        <p><date type="major" year="1917" month="4" day="3">3 апреля 1917 года с большим трудом из-за границы вернулся в Россию Ленин</date>. Встретить
+        <p><date date_type="major" year="1917" month="4" day="3">3 апреля 1917 года с большим трудом из-за границы вернулся в Россию Ленин</date>. Встретить
                 <person>Ленина</person> собрался весь революционный Петроград: рабочие, матросы и
             солдаты. Приветствиям Ленину не было конца. Ленин поднялся на броневик, заговорил с
             народом и в притихшую толпу бросил пламенный призыв: «Да здравствует всемирная
@@ -4416,7 +4409,7 @@
             повели работу и среди крестьян. Они разъясняли решения конференции и призывали народ на
             борьбу с Временным правительством за установление власти Советов, за прекращение войны,
             за немедленную передачу всей земли крестьянам.</p>
-        <p>В Петрограде начались рабочие и солдатские демонстрации. <date type="major" year="1917" month="4">В апреле была устроена
+        <p>В Петрограде начались рабочие и солдатские демонстрации. <date date_type="major" year="1917" month="4">В апреле была устроена
             демонстрация рабочих и солдат</date>. Демонстранты несли плакаты и знамёна с большевистскими
             лозунгами: — Долой войну! — Долой министров-капиталистов! — Вся власть Советам!</p>
         <p>Временное правительство совместно с меньшевиками и эсерами вынуждено было снять с постов
@@ -4427,7 +4420,7 @@
             (закрытием предприятий).</p>
         <p>Революционное настроение масс росло. Они всё больше и больше прислушивались к голосу
             большевиков. Партия большевиков крепла.</p>
-        <p><date type="minor" year="1917" month="6">В начале июня 1917 года в Петрограде состоялся I Всероссийский съезд Советов рабочих и
+        <p><date date_type="minor" year="1917" month="6">В начале июня 1917 года в Петрограде состоялся I Всероссийский съезд Советов рабочих и
             солдатских депутатов</date>.</p>
         <p>На этом съезде меньшевики и эсеры пока ещё имели большинство. Они добились одобрения
             съездом Советов поддержки буржуазного правительства и наступления на фронте.</p>
@@ -4450,7 +4443,7 @@
             восстания крестьян.</p>
         <p>Солдаты тысячами уходили с фронта. Угнетённые народы, не получившие освобождения от
             Временного правительства, выступили со своими справедливыми требованиями.</p>
-        <p><date type="minor" year="1917" month="6" day="3">3 июля 1917 года массы петроградских рабочих, солдат и матросов вышли на демонстрацию под
+        <p><date date_type="minor" year="1917" month="6" day="3">3 июля 1917 года массы петроградских рабочих, солдат и матросов вышли на демонстрацию под
             большевистскими лозунгами</date>. Буржуазия, сговорившись с меньшевиками и эсерами, вызвала с
             фронта отборные юнкерские и кулацкие воинские части и расстреляла эту демонстрацию,
             разгромила рабочие организации.</p>
@@ -4469,7 +4462,7 @@
             к чему ведут меньшевики и эсеры, защищавшие интересы буржуазии. В ряды большевиков
             вступали всё новые и новые рабочие. Число членов партии большевиков возросло до 200
             тысяч.</p>
-        <p><date type="minor" year="1917" month="7">В конце июля в Петрограде собрался VI съезд партии большевиков</date>.</p>
+        <p><date date_type="minor" year="1917" month="7">В конце июля в Петрограде собрался VI съезд партии большевиков</date>.</p>
         <p><person>Ленина</person> на съезде не было. Он находился в подполье. Работами съезда
             руководил Сталин. Он призвал партию готовить вооружённое восстание.</p>
         <p>Съезд наметил пути к победе социалистической революции и разработал меры борьбы с
@@ -4489,7 +4482,7 @@
         <p>Победа рабочих и солдат над Корниловым ещё больше укрепила влияние партии
             большевиков.</p>
         <p>После корниловского мятежа рабочие и солдаты начали изгонять из Советов меньшевиков и
-            эсеров и вместо них выбирать большевиков. <date type="major" year="1917" month="Fall" day="7">Осенью 1917 года в Петроградском и Московском
+            эсеров и вместо них выбирать большевиков. <date date_type="major" year="1917" month="Fall" day="7">Осенью 1917 года в Петроградском и Московском
             советах большинство перешло к большевикам</date>. Советы стали подлинными центрами пролетарской
             революции. Они вооружали рабочих, создавали Красную гвардию, подготовляли вооружённое
             восстание.</p>
@@ -4504,7 +4497,7 @@
         <title n="54">54. Социалистическая революция победила</title>
 
 
-        <p> <date type="major" year="1917" month="10" day="25">Победоносное восстание 25 октября (7 ноября) 1917 года. Большевистская партия готовилась
+        <p> <date date_type="major" year="1917" month="10" day="25">Победоносное восстание 25 октября (7 ноября) 1917 года. Большевистская партия готовилась
             к последнему, решительному бою — к свержению вооружённой рукой власти буржуазии</date>.</p>
         <p>Момент для восстания был выбран удачно. Мировая война продолжалась. В России большинство
             рабочих шло за большевиками. Соглашательские партии меньшевиков и эсеров потеряли
@@ -4691,7 +4684,7 @@
             когда в Германии победит революция, а советская власть в России успеет создать Красную
             Армию, окрепнуть и сумеет восстановить потерянное. Заключением Брестского мира советская
             власть добилась передышки и принялась за строительство народного хозяйства, за создание
-            и укрепление Красной Армии. <date type="major" year="1918"><people people_type="army">Красная Армия</people> была создана в 1918 году</date>.</p>
+            и укрепление Красной Армии. <date date_type="major" year="1918"><people people_type="army">Красная Армия</people> была создана в 1918 году</date>.</p>
         <p>Захват немцами советских земель. Хотя Брестский мир, заключённый Советским правительством
             с немцами, распространялся на всю территорию Советского государства, в том числе и на
             Украину, некоторые украинские делегаты, подкупленные немцами, не захотели подчиниться
@@ -4729,7 +4722,7 @@
             железнодорожника Николай Щорс. Он так же героически дрался с врагами украинских рабочих
             и крестьян, как герой русского народа Василий Иванович Чапаев. Но недолго продержались
             немцы на Украине. Немецкие солдаты с трудом отбивались от восставших украинских рабочих
-            и крестьян. <date type="major" year="1918" month="Late">А когда в конце 1918 года в Германии вспыхнула революция, немецкие солдаты
+            и крестьян. <date date_type="major" year="1918" month="Late">А когда в конце 1918 года в Германии вспыхнула революция, немецкие солдаты
             улепетнули в Германию. Украина снова стала советской</date>.</p>
         <p>Грабительский Брестский мир с немцами был уничтожен советской властью.</p>
 
@@ -4750,7 +4743,7 @@
         <p> Установление рабочего контроля на фабриках.</p>
 
 
-        <p> У капиталистов были отобраны банки, железные дороги, а потом фабрики и заводы. <date type="major" year="1918">В 1918
+        <p> У капиталистов были отобраны банки, железные дороги, а потом фабрики и заводы. <date date_type="major" year="1918">В 1918
             году предприятия капиталистов стали собственностью Советского государства</date>. На фабриках и
             заводах были назначены директорами рабочие и советские инженеры. Но из-за недостатка
             топлива и сырья многие фабрики и заводы нельзя было пустить в ход тотчас же.</p>
@@ -4779,9 +4772,9 @@
             что они теряли возможность получать из России огромные доходы со своих капиталов,
             помещённых в России до революции. В союзе с русскими помещиками и буржуазией
             правительства Англии, Франции, Японии начали гражданскую войну против власти Советов.
-            <date type="major" year="1918" month="Spring" day="7">Весной 1918 года чехословаки, взятые в плен русскими во время мировой войны, при
+            <date date_type="major" year="1918" month="Spring" day="7">Весной 1918 года чехословаки, взятые в плен русскими во время мировой войны, при
             поддержке Франции подняли контрреволюционное восстание против советской России</date>. Эсеры и
-            меньшевики вместе с чехословаками захватили часть Поволжья, Урал и Сибирь. <date type="minor" year="1918" month="Summer">Летом 1918
+            меньшевики вместе с чехословаками захватили часть Поволжья, Урал и Сибирь. <date date_type="minor" year="1918" month="Summer">Летом 1918
             года в Архангельске на Белом море англичане высадили десант своих войск и помогли здесь
             белогвардейцам свергнуть советскую власть. Во <place place_type="city">Владивостоке</place> высадили десант японцы</date>.</p>
         <p>Все эти буржуазные государства, начавшие войну против советской власти, назывались тогда
@@ -4789,7 +4782,7 @@
         <p>Антанта поднимала восстания в разных городах советской России при помощи кадетов,
             меньшевиков и эсеров. Буржуазия подкупала бандитов для убийства вождей революции. Были
             убиты большевик Урицкий и любимый оратор петроградских рабочих большевик Володарский.
-            <date type="minor" year="1918" month="Fall">Осенью 1918 года после митинга на одном из заводов в<place place_type="city"> Москве
+            <date date_type="minor" year="1918" month="Fall">Осенью 1918 года после митинга на одном из заводов в<place place_type="city"> Москве
             </place>эсерами было совершено покушение на В. И. <person>Ленина</person></date>. Эсеры
             совместно с бухаринцами и троцкистами готовили восстание. Истекающего кровью
                 <person>Ленина</person> увезли домой. В течение многих дней боролся со смертью
@@ -4837,7 +4830,7 @@
             пролетариата — строителя социализма.</p>
         <p>Советская Россия, как маяк, освещала рабочим капиталистических стран путь к победе
             социализма. Первыми из западноевропейских рабочих поднялись пролетарии Германии.
-            Поражение Германии в мировой войне ускорило открытое возмущение масс. <date type="minor" year="1918" month="11">В ноябре 1918 года
+            Поражение Германии в мировой войне ускорило открытое возмущение масс. <date date_type="minor" year="1918" month="11">В ноябре 1918 года
             в Германии в городах, в рабочих центрах, в армии и во флоте на кораблях вспыхнуло
             восстание. Восстание вскоре перекинулось и в Австрию</date>.</p>
         <p>Рабочие свергли с тронов императоров Германии и Австро-Венгрии. Вместе со своими
@@ -4847,7 +4840,7 @@
             предателей революции — германских меньшевиков, социал-демократов.</p>
         <p>Буржуазия и её верные слуги — социал-демократы — создавали вооружённые отряды для борьбы
             с рабочими. Эти отряды громили восстания рабочих, боровшихся за переход всей власти в
-            руки Советов. <date type="minor" year="1919" month="Early">Восстание рабочих в столице Германии — Берлине, начавшееся в начале 1919
+            руки Советов. <date date_type="minor" year="1919" month="Early">Восстание рабочих в столице Германии — Берлине, начавшееся в начале 1919
             года, было подавлено белогвардейцами</date>. Масса рабочих погибла в революционных боях, тысячи
             лучших бойцов революции были заточены в тюрьмы.</p>
         <p>Были арестованы и убиты вожди германских рабочих <person>Карл Либкнехт</person> и
@@ -4855,14 +4848,14 @@
         <p>Восстание пролетариата было задушено. У власти стала буржуазия и её союзники —
             социал-демократы. Через несколько лет буржуазия выбросила социал-демократов из
             правительства.</p>
-        <p>Советские республики в Баварии и Венгрии. <date type="major" year="1919">Только в одной части Германии, в Баварии, в
+        <p>Советские республики в Баварии и Венгрии. <date date_type="major" year="1919">Только в одной части Германии, в Баварии, в
             1919 году рабочие победили буржуазию и установили свою власть — Советскую
             республику</date>.</p>
         <p>Против рабочего правительства Баварии германская буржуазия мобилизовала белогвардейские
             банды, шпионов и изменников революции. В течение двух недель баварские рабочие
             героически отражали нападения врагов, но силы их были слабы. Рабочие понесли
             поражение.</p>
-        <p>Тогда же началась пролетарская революция в соседней с Германией Венгрии. <date type="major" year="1919" month="3">В марте 1919
+        <p>Тогда же началась пролетарская революция в соседней с Германией Венгрии. <date date_type="major" year="1919" month="3">В марте 1919
             года советская власть победила в Венгрии</date>. Во главе Советской республики стало рабочее
             правительство. Была создана венгерская <people people_type="army">Красная Армия</people>. Фабрики, заводы, шахты, банки,
             железные дороги были объявлены собственностью рабочего государства. Рабочие семьи из
@@ -4879,7 +4872,7 @@
             Коммунистического Интернационала.</p>
         <p>В дни революции на Западе, во время рабочих стачек и крестьянских движений, усилившихся
             после мировой войны, в ряде стран Европы возникли коммунистические партии.</p>
-        <p><date type="major" year="1919" month="3" day="2">2 марта 1919 года из разных стран: из Германии, Англии, Франции, Польши, Швейцарии,
+        <p><date date_type="major" year="1919" month="3" day="2">2 марта 1919 года из разных стран: из Германии, Англии, Франции, Польши, Швейцарии,
             Ирана, Норвегии, США, Китая, Кореи, с опасностью для жизни, скрываясь от преследований
             шпионов, пробрались в Москву на первый конгресс (съезд) представители коммунистических
             партий всего мира</date>.</p>
@@ -4893,7 +4886,7 @@
             в России. Она послала свои войска на север России, в Сибирь, Среднюю Азию, Кавказ,
             Украину. Антанта организовала армии и походы контрреволюционных русских генералов на
             Москву.</p>
-        <p><date type="minor" year="1918">В<territory territory_type="region"> Сибири </territory>в 1918 году Антанта объявила
+        <p><date date_type="minor" year="1918">В<territory territory_type="region"> Сибири </territory>в 1918 году Антанта объявила
             царского <person>адмирала Колчака</person> верховным правителем России</date>.
                 <person>Колчаку</person> доставляла она пушки, снаряды, ружья, обмундирование для
             солдат.</p>
@@ -4907,7 +4900,7 @@
         <p>Для разгрома <person>Колчака</person> партия большевиков мобилизовала и бросила на фронт
             лучшие свои силы. На Урале большевики укрепили фронт и приостановили наступление белых
             армий.</p>
-        <p><date type="minor" year="1919" month="Spring" day="7">Весной 1919 года <person>Колчак</person> по приказу Антанты выступил в поход против
+        <p><date date_type="minor" year="1919" month="Spring" day="7">Весной 1919 года <person>Колчак</person> по приказу Антанты выступил в поход против
             советской России</date>. С востока нависла страшная угроза над советской властью. На помощь
                 <person>Колчаку</person> с юга шёл <person>генерал Деникин</person>, с запада на
             Петроград двигался <person>генерал Юденич</person>. Со всех сторон теперь советскому
@@ -4920,7 +4913,7 @@
         <p>
             <!--what about these section titles?--><person>Василий Иванович Чапаев</person> — герой
             Гражданской войны.</p>
-        <p> <date type="minor" year="1919">Силами Красной Армии здесь командовал <person>М. В. Фрунзе</person>. Под его
+        <p> <date date_type="minor" year="1919">Силами Красной Армии здесь командовал <person>М. В. Фрунзе</person>. Под его
             руководством <people people_type="army">Красная Армия</people> разгромила <person>Колчака</person> в Поволжье и на Урале в
             1919 году</date>. В армии <person>Фрунзе</person> вырос народный герой <person>Василий Иванович
                 Чапаев</person>. Белые боялись чапаевской дивизии, как огня. <person>Колчак</person>
@@ -4928,13 +4921,13 @@
             отряды <person>Чапаева</person>, и всё же из боёв с белыми <person>Чапаев</person>
             всегда выходил победителем. Окружённый однажды белой армией, <person>Чапаев</person>
             вместе со своим штабом погиб.</p>
-        <p><date type="minor" year="1919" month="12" day="7">Но, несмотря на отдельные потери, <people people_type="army">Красная Армия</people> осенью 1919 года разбила окончательно
+        <p><date date_type="minor" year="1919" month="12" day="7">Но, несмотря на отдельные потери, <people people_type="army">Красная Армия</people> осенью 1919 года разбила окончательно
                 <person>Колчака</person> и прогнала остатки его армии за Урал, в Сибирь</date>.</p>
         <p> Сибирские партизаны с самодельными пушками нападали на отряды
             <person>Колчака</person>.</p>
         <p> В это время в<territory territory_type="region"> Сибири </territory>рабочие и крестьяне
             восстали против <person>Колчака</person> и повсеместно создали партизанские отряды.</p>
-        <p><date type="major" year="1919" month="12">В декабре 1919 года рабочие Иркутска подняли восстание и захватили
+        <p><date date_type="major" year="1919" month="12">В декабре 1919 года рабочие Иркутска подняли восстание и захватили
                 <person>Колчака</person> и его министров. Революционный комитет расстрелял
                 <person>Колчака</person></date>.</p>
         <p><people people_type="army">Красная Армия</people> торжествовала победу в <territory territory_type="region"
@@ -4968,7 +4961,7 @@
             населения тяжёлые налоги, расстреливал коммунистов и боровшихся за советскую власть
             рабочих и крестьян. <person>Деникин</person>ские офицеры сжигали деревни, устраивали
             еврейские погромы.</p>
-        <p>Задача Красной Армии была — разбить наступающих белогвардейцев. <date type="major" year="1919" month="10">Конный корпус <person>С.
+        <p>Задача Красной Армии была — разбить наступающих белогвардейцев. <date date_type="major" year="1919" month="10">Конный корпус <person>С.
                 М. Будённого</person> ударил в октябре 1919 года по полкам
             <person>Деникина</person></date>. <person>Будённый</person> вихрем налетел со своей непобедимой
             конницей на Воронеж и решительным ударом разгромил здесь конницу белых.</p>
@@ -4988,7 +4981,7 @@
             года к Петрограду.</p>
         <p>Стальной стеной встали рабочие Петрограда на защиту первого города революции. День и ночь
             рабочие и их семьи рыли окопы и возводили проволочные заграждении. Петроград был
-            превращен в неприступную крепость. <date type="major" year="1919" month="Late">Десятки тысяч рабочих, комсомольцев влились в ряды
+            превращен в неприступную крепость. <date date_type="major" year="1919" month="Late">Десятки тысяч рабочих, комсомольцев влились в ряды
             защитников Петрограда. Они двинулись в наступление и нанесли <person>Юденичу</person> в
             конце 1919 года смертельный удар. Остатки его армии были вышвырнуты в Эстонию</date>.</p>
         <p>Поход Антанты и на этот раз кончился полным разгромом белых генералов.
@@ -5005,18 +4998,18 @@
     <chapter>
         <title n="59">59. Воина с польскими панами. Разгром Врангеля</title>
         <p>
-            <event event_type="major">Война с <!-- propagandistic , here "white takes onditional meaning-->белой
-                    Польшей.</event> Настал 1920 год. Антанта продолжала вести борьбу с
+            Война с <!-- propagandistic , here "white takes onditional meaning-->белой
+                    Польшей. Настал 1920 год. Антанта продолжала вести борьбу с
             Советской республикой. Теперь она натравила на Советы Польшу.</p>
-        <p><date type="major" year="1918" month="Late">Как самостоятельное государство Польша была восстановлена лишь с конца 1918 года. Великая
+        <p><date date_type="major" year="1918" month="Late">Как самостоятельное государство Польша была восстановлена лишь с конца 1918 года. Великая
             пролетарская революция предоставила польскому народу право отделиться от России</date>.
             Польские паны, стоявшие у власти в Польше, этого не оценили.</p>
-        <p><date type="minor" year="1919">Ещё в 1919 году они захватили в Белоруссии её столицу Минск и часть Украины</date>.</p>
+        <p><date date_type="minor" year="1919">Ещё в 1919 году они захватили в Белоруссии её столицу Минск и часть Украины</date>.</p>
         <p>Много раз <gov gov_type="executive">Совет Народных Комиссаров</gov> предлагал полякам
             прекратить захваты и насилия над мирным белорусским и украинским населением и заключить
             мир, но паны об этом и слышать не хотели. Польские паны мечтали захватить Украину до
             Чёрного моря. Антанта снабжала поляков пушками, пулемётами и винтовками. Франция дала им
-            до 135 самолётов и своих лучших военных специалистов. <date type="major" year="1920" month="3 - 5">Весной 1920 года поляки двинулись
+            до 135 самолётов и своих лучших военных специалистов. <date date_type="major" year="1920" month="Spring">Весной 1920 года поляки двинулись
             в поход на советскую Россию и захватили Киев</date>. Переправившись через Днепр, польская армия
             готовилась захватить и левобережную Украину. Поляки надеялись соединиться с засевшими в
             Крыму остатками деникинской армии под командой <person>барона Врангеля</person> — тоже
@@ -5029,7 +5022,7 @@
         <p>Поляки побежали. Их безостановочно теснили красные части. <people people_type="army">Красная Армия</people> вскоре освободила
             Белоруссию и приблизилась к столице Польши — Варшаве. Но Варшаву <people people_type="army">Красная Армия</people> не взяла.
             От неё пришлось отступить.</p>
-        <p><date type="major" year="1920" month="Fall">Поляки, несмотря на отход советских войск, потеряли так много сил в войне, что снова
+        <p><date date_type="major" year="1920" month="Fall">Поляки, несмотря на отход советских войск, потеряли так много сил в войне, что снова
             наступать уже не могли и предложили советской России заключить мир. Советское
             правительство согласилось на мир, и осенью 1920 года война была прекращена</date>. <territory territory_type="country">Белоруссия</territory> и
             Украина получили свои земли, захваченные ранее польскими панами. Но часть украинцев и
@@ -5043,7 +5036,7 @@
             <person>Фрунзе</person> по указаниям <person>товарища Сталина</person> тщательно
             подготовил наступление.</p>
         <p>Начались упорные бои. Разбитый на Украине, <person>Врангель</person> засел за свои
-            укрепления в Крыму.<date type="major" year="1920" month="11" day="7"> В третью годовщину пролетарской революции по приказу <person>М. В.
+            укрепления в Крыму.<date date_type="major" year="1920" month="11" day="7"> В третью годовщину пролетарской революции по приказу <person>М. В.
                 Фрунзе</person> в ночь с 7 на 8 ноября начался штурм перекопских укреплений
                 <person>Врангеля</person></date>. Наступление красных частей велось по совершенно открытой
             местности. Белогвардейцы били в красноармейцев из мощных пушек и поливали их дождём пуль
@@ -5065,11 +5058,11 @@
                 В. Фрунзе</person> и <person>В. В. Куйбышева</person>. В песчаных пустынях, в
             скалистых горах <people people_type="army">Красная Армия</people> уничтожала шайки басмачей, освобождая Среднюю Азию от
             власти угнетателей.</p>
-        <p><date type="minor" year="1920">В 1920 году восстали против власти хана в Хиве трудящиеся узбеки</date>. Они одержали победу над
+        <p><date date_type="minor" year="1920">В 1920 году восстали против власти хана в Хиве трудящиеся узбеки</date>. Они одержали победу над
             ханскими войсками и установили народную власть. Вслед за Хивой вспыхнуло восстание и в
             Бухаре. Трудящиеся, к которым подоспела <people people_type="army">Красная Армия</people>, свергли власть эмира и установили
             народную власть. Освободились в это же время от иностранных захватчиков и туркмены.</p>
-        <p><date type="minor" year="1920" month="Spring">С весны 1920 года в Закавказье, где правили при поддержке Антанты буржуазные
+        <p><date date_type="minor" year="1920" month="Spring">С весны 1920 года в Закавказье, где правили при поддержке Антанты буржуазные
             националисты, начались восстания рабочих и крестьян</date>. На помощь им пришли части Красной
             Армии во главе с товарищами <person>Орджоникидзе</person>, <person>Кировым</person> и
             Микояном. Власть буржуазии была свергнута, и народы Закавказья — Азербайджана, Армении и
@@ -5141,7 +5134,7 @@
             станция была построена и дала электрическую энергию ленинградским фабрикам и заводам.
             Это помогло восстановить важную для страны промышленность Ленинграда.</p>
         <p>Электростанции строились и в других районах страны: на Урале, Украине, Закавказье.</p>
-        <p>Конец японским интервентам. <date type="major" year="1922">В то время как вся Страна Советов восстанавливала хозяйство,
+        <p>Конец японским интервентам. <date date_type="major" year="1922">В то время как вся Страна Советов восстанавливала хозяйство,
             наш богатый край — Дальний Восток — с 1918 года держали в своих руках японцы. Но в 1922
             году <people people_type="army">Красная Армия</people> совместно с сибирскими партизанами окончила и здесь войну и
             освободила от японских разбойников и белогвардейцев весь Дальний Восток</date>. Красные бойцы
@@ -5153,7 +5146,7 @@
             <person>Сергей Лазо</person> — герой гражданской воины на Дальнем Востоке. В 1920 году
                 <person>т. Лазо</person> был заживо сожжён интервентами-японцами в топке
             паровоза.</p>
-        <p> <date type="major" year="1922">В октябре 1922 года Красной Армией был освобождён и <place place_type="city">Владивосток</place></date>.</p>
+        <p> <date date_type="minor" year="1922">В октябре 1922 года Красной Армией был освобождён и <place place_type="city">Владивосток</place></date>.</p>
         <p>Японское иго над Дальним Востоком было сброшено.</p>
         <p>Но долго будут помнить трудящиеся<territory territory_type="region"> Сибири </territory>и
             Дальнего Востока насилия и грабежи, которые творила японская армия. Никогда не забудут
@@ -5163,11 +5156,11 @@
             обеспечить страну и от дальнейших вооружённых нападений буржуазных стран. Надо было
             поднять хозяйство в стране и строить социализм. Надо было оказать помощь в подъёме
             национальной культуры всем народам Страны Советов. Для всего этого необходимо было
-            создать объединённое союзное государство. <date type="major" year="1922">С этой целью в 1922 году но предложению
+            создать объединённое союзное государство. С этой целью в 1922 году но предложению
                 <person>Ленина</person> и <person>Сталина</person> съехались в Москву делегаты от
             союзных республик на I Всесоюзный съезд Советов и образовали добровольное
             государственное объединение народов, союзное государство под названием Союз Советских
-            Социалистических Республик (СССР)</date>.</p>
+            Социалистических Республик (СССР).</p>
         <p>Вначале в СССР объединилось несколько советских республик: Российская Советская
             Федеративная Социалистическая Республика (РСФСР), с главным городом Москвой, Украинская
             Советская Социалистическая Республика (УССР), со своей столицей сначала Харьковом, а
@@ -5190,7 +5183,7 @@
     </chapter>
     <chapter>
         <title n="61">61. Ленин умер, но дело его живет</title>
-        <p> Смерть <person>Ленина</person>. <date type="major" year="1924" month="1" day="21">21 января 1924 года, на 54-м году жизни, после долгой и
+        <p> Смерть <person>Ленина</person>. <date date_type="major" year="1924" month="1" day="21">21 января 1924 года, на 54-м году жизни, после долгой и
             тяжёлой болезни, в Горках, под Москвой, умер великий <person>Ленин</person></date>. Трудящиеся
             всего мира потеряли своего вождя, который подготовил, осуществил пролетарскую революцию,
             спас её в тяжёлые годы от бесчисленных врагов. Умер человек, больше которого никто не
@@ -5208,7 +5201,7 @@
             запечатлеть образ вождя, который привёл народ к свободной и счастливой жизни.</p>
         <p> Мавзолей <person>В. И. Ленина</person> и <person>И. В. Сталина</person> в<place
                 place_type="city"> Москве </place>на Красной площади.</p>
-        <p> Клятва <person>Сталина</person>. <date type="major" year="1926" month="4" day="26">26 января, когда собрались делегаты со всех концов СССР
+        <p> Клятва <person>Сталина</person>. <date date_type="major" year="1924" month="4" day="26">26 января, когда собрались делегаты со всех концов СССР
             на II Всесоюзный съезд Советов, <person person_type="politician">Сталин</person> по поручению большевистской
             партии произнёс клятву перед народом от имени партии</date>. Он говорил:</p>
         <p>«Уходя от нас, <person>товарищ Ленин</person> завещал нам держать высоко и хранить в
@@ -5256,7 +5249,7 @@
             Многих товаров у нас совсем не производили. Их нужно было привозить из-за границы.</p>
         <p>
             <person>Вячеслав Михайлович Mолотов</person>.</p>
-        <p> <date type="minor" year="1925">В 1925 году на XIV съезде партии товарищ <person person_type="politician">Сталин</person> указал, по поручению
+        <p> <date date_type="major" year="1925">В 1925 году на XIV съезде партии товарищ <person person_type="politician">Сталин</person> указал, по поручению
             партии, что нам надо в самое короткое время превратить нашу сельскохозяйственную страну
             в страну промышленную</date>. Для этого нужно построить много новых фабрик, заводов и
             электростанций; переделать все старые заводы по последнему слову науки и техники. Нам
@@ -5281,9 +5274,9 @@
             выгнал из Советского Союза, и он открыто перешел на службу к буржуазии.</p>
         <p>
             <person>Михаил Иванович Калинин (1875–1946 гг.)</person>.</p>
-        <p> <date type="major" year="1928">Для осуществления задач, поставленных перед страной товарищем <person>Сталиным</person>,
+        <p>Для осуществления задач, поставленных перед страной товарищем <person>Сталиным</person>,
             в 1928 году был выработан план великих работ — первый пятилетний план социалистического
-            строительства</date>.</p>
+            строительства.</p>
         <p>Трудящиеся Союза с воодушевлением принялись за великую стройку, показывая образцы
             трудового героизма. В Советской стране труд стал делом чести и делом славы, делом
             доблести и геройства. Дни и ночи на стройках шла напряжённая работа.</p>
@@ -5291,7 +5284,7 @@
         <p> На фабриках, заводах, железных дорогах развернулось социалистическое соревнование.
             Рабочие-строители показывали невиданные ещё ни в одной стране мира достижения в кладке
             кирпича, в рубке леса для строек, в строительстве корпусов заводов.</p>
-        <p><date type="minor" year="1930">В 1930 году на берегу реки Томи, около г. Кузнецка, там, где когда-то были владения
+        <p><date date_type="minor" year="1930">В 1930 году на берегу реки Томи, около г. Кузнецка, там, где когда-то были владения
             сибирских татарских ханов, начали строить и к концу первой пятилетки выстроили огромный
             металлургический завод-гигант имени <person>Сталина</person></date>.</p>
         <p>Там, где были Днепровские пороги, на месте, где когда-то была Запорожская Сечь, построена
@@ -5328,20 +5321,20 @@
             сопротивление и уничтожить кулаков.</p>
         <p><organization organization_type="agriculture">Колхозы</organization> росли, крепли и стали быстро шагать к счастливой зажиточной жизни. Крестьяне в
             колхозах стали больше засевать полей. Собирали теперь больше хлеба. В деревне стало
-            больше школ, библиотек, клубов. <date type="major" year="1932">В 1932 году в <organization organization_type="agriculture">колхозы</organization> было объединено уже больше
+            больше школ, библиотек, клубов. <date date_type="minor" year="1932">В 1932 году в <organization organization_type="agriculture">колхозы</organization> было объединено уже больше
             половины крестьянских дворов</date>.</p>
         <p>В Советском Союзе возникло социалистическое сельское хозяйство, то есть сельское
             хозяйство без помещиков и кулаков.</p>
-        <p><date type="minor" year="1932">В 1932 году пятилетний план социалистического строительства был выполнен в 4 года</date>.
+        <p>В 1932 году пятилетний план социалистического строительства был выполнен в 4 года.
             Рабочие и крестьяне могли торжествовать победу. СССР, выполнив первую пятилетку,
             обеспечил победу социализма. Теперь в СССР производились машины, добывался металл,
             строились тракторы, самолёты, увеличилась добыча угля и нефти. СССР превратился в
             промышленную страну.</p>
-        <p>Теперь вырабатывали в три раза больше продуктов, чем в царской России. <date type="major" year="1933">СССР к 1933 году
+        <p>Теперь вырабатывали в три раза больше продуктов, чем в царской России. <date date_type="minor" year="1933">СССР к 1933 году
             догнал и перегнал целый ряд европейских государств. Он занимал 2-е место в мире по
             добыче нефти, 2-е место по выработке стали, 3-е место по выработке чугуна и 4-е — по
             добыче угля</date>.</p>
-        <p>Но враги как внутри СССР, так и за границей мешали строить фабрики в нашей стране. <date type="major" year="1929">В 1929
+        <p>Но враги как внутри СССР, так и за границей мешали строить фабрики в нашей стране. <date date_type="major" year="1929">В 1929
             году иностранные капиталисты заставили Китай начать против СССР войну</date>. Войска китайских
             генералов и белогвардейцев напали на наши дальневосточные границы. Но <people people_type="army">Красная Армия</people> на
             Дальнем Востоке была сильной и крепкой, она быстро разбила врагов. Вредители были и
@@ -5500,11 +5493,11 @@
             освобождённой земле. Возникли и были укреплены советские республики на Украине, в
             Белоруссии, в Средней Азии и в Закавказье. Совместными усилиями всех этих советских
             республик были окончательно разбиты все враги. Освобожденные народы приступили к
-            восстановлению разрушенного войной хозяйства. <date type="major" year="1922">В 1922 году они создали под руководством
-            большевистской партии великий Союз Советских Социалистических Республик</date>. В СССР вначале
+            восстановлению разрушенного войной хозяйства. В 1922 году они создали под руководством
+            большевистской партии великий Союз Советских Социалистических Республик. В СССР вначале
             вошли 4 союзные республики, потом к ним присоединились ещё 3.</p>
         <p>Нигде в мире не было и нет такой дружбы, взаимного доверия у народов друг к Другу, как в
-            СССР. <date type="major" year="1924">В 1924 году свободные народы СССР приняли первую Конституцию СССР (Основной Закон
+            СССР. <date date_type="major" year="1924">В 1924 году свободные народы СССР приняли первую Конституцию СССР (Основной Закон
             государства)</date>. В ней они закрепили те победы, которые одержала страна. С тех пор прошло
             много времени — была построена и гигантски выросла промышленность, созданы <organization organization_type="agriculture">колхозы</organization> и
             совхозы, пышно расцвела культура, выкорчеваны и уничтожены остатки помещиков,
@@ -5522,10 +5515,10 @@
             советскую Украину отдать немцам, а Дальний Восток — японцам. Они мечтали о войне и
             военном поражении СССР. Советская власть беспощадно и своевременно уничтожила врагов
             советского народа. В СССР победил социализм.</p>
-        <p> <date type="major" year="1936" month="12" day="5">В 1936 году комиссией под руководством <person>И. В. Сталина</person> была выработана
+        <p>В 1936 году комиссией под руководством <person>И. В. Сталина</person> была выработана
             новая Конституция СССР. Она была передана на широкое обсуждение народа и потом
             утверждена высшим органом власти Союза — Всесоюзным съездом Советов. День утверждения
-            Конституции, 5 декабря, объявлен всенародным праздником</date>. В Конституции записано всё
+            Конституции, 5 декабря, объявлен всенародным праздником. В Конституции записано всё
             главное, чего добилась Страна Советов за 19 лет своего существования.</p>
         <p>В прежней Конституции было указано, что наша республика называлась социалистической
             потому, что в ней у власти стоял рабочий класс и он стремился построить социализм. В
@@ -5606,15 +5599,15 @@
             всего он хотел превратить в рабов всех славян: чехословаков, поляков, белорусов,
             украинцев, русских и др.</p>
         
-        <p><date type="major" year="1938">В 1938 году Германия начала вторую мировую войну</date>. Она захватила
-            Чехословакию, а через год напала на Польшу. Беспечное польское правительство не было
+        <p><date date_type="major" year="1938">В 1938 году Германия начала вторую мировую войну. Она захватила
+            Чехословакию, а через год напала на Польшу</date>. Беспечное польское правительство не было
             готово к войне. Польская армия была легко разбита. Сами правители Польши бежали и
             бросили свою страну на произвол врага.</p>
         
             <p>Под властью Польши находились земли Западной
             Белоруссии и Западной Украины. Страшный враг приближался к ним. Украинцам и белорусам
-            грозила беда. <date type="major" year="1937" month="9" day="17">Тогда, 17 сентября 1939 года, советские войска вступили в Западную Украину
-            и Западную Белоруссию и взяли под свою защиту их население</date>. Фашистские разбойники
+            грозила беда. Тогда, 17 сентября 1939 года, советские войска вступили в Западную Украину
+            и Западную Белоруссию и взяли под свою защиту их население. Фашистские разбойники
             остановились и не пошли дальше.</p>
             
             <p>Радостно встречали украинцы и белорусы своих спасителей
@@ -5623,11 +5616,11 @@
             воссоединиться с советской Украиной и советской Белоруссией. Так пополнилась дружная
             семья советских народов.</p>
             
-        <p>Образование новых советских республик. <date type="major" year="1940">Захват Польши немцами
+        <p>Образование новых советских республик. Захват Польши немцами
             вызвал тревогу в соседних с нею государствах — Литве, Латвии и Эстонии. И им грозило
             фашистское порабощение. Народы этих стран с надеждой смотрели на Советский Союз. В 1940
             году они провозгласили у себя советскую сласть и заявили о своём желании войти в состав
-            СССР</date>. Так образовались ещё три новые союзные республики. Тем самым границы нашей родины
+            СССР. Так образовались ещё три новые союзные республики. Тем самым границы нашей родины
             отодвинулись к берегам Балтийского моря. Этим Советский Союз укрепился ещё больше.</p>
             
             <p>Одновременно наше правительство вступило в переговоры с Румынией. Ещё в годы гражданской
@@ -5663,7 +5656,7 @@
         <p>Советский Союз был против войны и все время боролся за мир. Поэтому наше правительство
             заключило с Германией договор о ненападении. По этому договору фашистская Германия не
             могла напасть на нас. Но фашисты не сдержали своё слово. Они сосредоточили большую армию
-            у нашей границы и вероломно напали на СССР. <date type="major" year="1941" month="6" day="22">Это было 22 июня 1941 года. Тысячи немецких
+            у нашей границы и вероломно напали на СССР. <date date_type="major" year="1941" month="6" day="22">Это было 22 июня 1941 года. Тысячи немецких
             танков опустошали нашу землю, тысячи фашистских самолётов сбрасывали бомбы на наши
             мирные города</date>. Ворвавшись в нашу страну, враг заливал её кровью.</p>
         <p>Нападение было внезапным. Советские люди мирно трудились. Требовалось время для того,
@@ -5698,11 +5691,11 @@
             неравном бою, но не дрогнули, бились до последнего вздоха и задержали танки на 4 часа,
             уничтожив 14 машин. С таким мужеством боролся весь народ.</p>
         <p>К началу зимы 1941 года враг был не только задержан, но и отброшен от Москвы.</p>
-        <p><date type="major" year="1942">Всё же сил у немцев было ещё достаточно. Потерпев поражение под Москвой и
+        <p><date date_type="major" year="1942">Всё же сил у немцев было ещё достаточно. Потерпев поражение под Москвой и
                 <person>Ленинградом</person>, летом 1942 года они повели наступление на юге. Фашисты
-            рвались на восток</date>. Разоряя советские земли, они вторглись в плодородные степи Северного
+            рвались на восток. Разоряя советские земли, они вторглись в плодородные степи Северного
             Кавказа, подошли к Волге у <person person_type="politician">Сталин</person>града и остановились на Дону у
-            Воронежа.</p>
+            Воронежа</date>.</p>
         <p>Немцы хотели обойти Москву и отрезать её от Урала и Сибири. Опасность была велика. Наша
             родина напрягала все силы для борьбы.</p>
         <p>В захваченных врагом районах. Захватывая советские земли, фашисты опустошали их. У
@@ -5748,7 +5741,7 @@
             — бить немца. А мы все вместе — большая сила».</p>
         <p>Так рабочие и крестьяне, так все народы Советского Союза дружно поднялись в тылу и на
             фронте на борьбу с ненавистным врагом.</p>
-        <p>Разгром фашистских захватчиков. <date type="major" year="1942" month="Fall">Осенью 1942 года немцы были задержаны под
+        <p>Разгром фашистских захватчиков. <date date_type="minor" year="1942" month="Fall">Осенью 1942 года немцы были задержаны под
                 <place place_type="city">Сталинградом</place></date>. Ежедневно они обрушивали на город тысячи бомб, они
             били по городу из тяжёлой артиллерии. Город превратился в развалины, но не сдавался.
             Здесь <person>товарищ Сталин</person> готовил для врага сокрушительный удар.</p>
@@ -5764,7 +5757,7 @@
         <p>Уходя с советской земли, злобный враг стремился всё разрушить. Отступая, фашисты жгли
             деревни и города. Они уничтожали тысячи советских людей — даже детей не щадили. Всё
             ценное они увозили с собой.</p>
-        <p><date type="major" year="1944" month="Summer">Летом 1944 года вся советская земля была очищена от захватчиков. Радостно гремели в<place
+        <p><date date_type="major" year="1944" month="Summer">Летом 1944 года вся советская земля была очищена от захватчиков. Радостно гремели в<place
                 place_type="city"> Москве </place>победные салюты</date>.</p>
         <p>Единство свободолюбивых народов. Советская Армия перенесла военные действия за рубежи
             нашей родины и вскоре окончательно разгромила союзников Германии — Румынию, Болгарию,
@@ -5780,9 +5773,9 @@
             второго фронта в Европе против немецких войск. По когда после огромных побед Советской
             Армии стало ясно, что Советский Союз может один разгромить врага до конца, занять
             территорию Германии и освободить всю Западную Европу, в том числе и Францию, Англия и
-            США открыли второй фронт в Европе. <date type="major" year="1944" month="6">В июне 1944 года английские и американские войска
+            США открыли второй фронт в Европе. <date date_type="major" year="1944" month="6">В июне 1944 года английские и американские войска
             переправились из Англии через море и высадились на побережье северной Франции</date>.</p>
-        <p>Победа над фашистской Германией. <date type="major" year="1945" month="1">В январе 1945 года Советская Армия вступила на
+        <p>Победа над фашистской Германией. <date date_type="major" year="1945" month="1">В январе 1945 года Советская Армия вступила на
             территорию Германии</date>. Генералиссимус Советского Союза <person>товарищ Сталин</person>
             призывал «преследовать раненого немецкого зверя по пятам и добить его в его собственной
             берлоге». Немецкие укрепления были прорваны, крепости разрушены.</p>
@@ -5792,10 +5785,10 @@
         <p>21 апреля 1945 года наши бойцы уже достигли Берлина и завязали бои на его окраинах. Через
             несколько дней Берлин был окружён со всех сторон, а 2 мая взят войсками 1-го Украинского
             и 1-го Белорусского фронтов. Взятие немецкой столицы явилось самым мощным ударом по
-            Германии, за которым уже последовало и её поражение. <date type="major" year="1945" month="5" day="8">8 мая фашистская Германия
-            капитулировала (сдалась на милость победителя)</date>. Вся Советская страна, а также другие
+            Германии, за которым уже последовало и её поражение. 8 мая фашистская Германия
+            капитулировала (сдалась на милость победителя). Вся Советская страна, а также другие
             воевавшие против Германии страны отмечали победу над фашистским зверем.</p>
-        <p><date type="major" year="1945" month="5" day="9">9 мая Советское правительство объявило праздником Победы, днём всенародного торжества
+        <p><date date_type="major" year="1945" month="5" day="9">9 мая Советское правительство объявило праздником Победы, днём всенародного торжества
             советских людей</date>.</p>
         <p>Таким образом, сумасбродным идеям <person>Гитлера</person> — поработить славянские народы
             — не суждено было сбыться. Вековая борьба славянских народов за своё существование и
@@ -5807,9 +5800,9 @@
             родину.</p>
         <p>Чтобы обеспечить нашей стране безопасность не только не Западе, но и на Востоке,
             сократить срок окончания войны и содействовать скорейшему восстановлению всеобщего мира,
-            Советский Союз вступил в войну против японских захватчиков. <date type="major" year="1945" month="9" day="2">2 сентября 1945 года Япония
+            Советский Союз вступил в войну против японских захватчиков. 2 сентября 1945 года Япония
             под сокрушительными ударами Советской Армии признала себя побеждённой и сложила
-            оружие</date>.</p>
+            оружие.</p>
         <p> Председатель Президиума Верховного Совета СССР <person>Климент Ефремович
                 Ворошилов</person>.</p>
         <p> Подвиги советского народа и прежде всего народа русского, который является наиболее
@@ -5823,12 +5816,12 @@
         <title n="67">67. СССР после войны</title>
         <p> В результате Великой Отечественной войны наша родина ещё более окрепла, её влияние,
             авторитет усилились среди всех стран мира.</p>
-        <p><date type="minor" year="1952" month="10">В октябре 1952 года в <place place_type="city">Москве</place> собрался XIX съезд
+        <p>В октябре 1952 года в <place place_type="city">Москве</place> собрался XIX съезд
             Коммунистической партии Советского Союза. Съезд принял новый пятилетний план на
-            1951–1955 годы</date>.</p>
+            1951–1955 годы.</p>
         <p>По этому плану намечен новый мощный подъем всего народного хозяйства страны.</p>
         <p>5 марта 1953 года советский народ, трудящиеся всего мира понесли тяжёлую, невозвратимую
-            утрату. <date type="major" year="1953" month="3" day="5">На 74-м году жизни умер ученик и продолжатель дела <person>Ленина</person>
+            утрату. <date date_type="major" year="1953" month="3" day="5">На 74-м году жизни умер ученик и продолжатель дела <person>Ленина</person>
             великий <person person_type="politician">Сталин</person></date>.</p>
         <p>Смерть <person>И. В. Сталина</person>, отдавшего всю свою жизнь служению народу, явилась
             тягчайшей утратой. Светлая память о <person>И. В. Сталин</person>е будет вечно жить в
@@ -5853,137 +5846,139 @@
             родины уверенно идут к светлой цели — коммунизму.</p>
         <!--How to mark-up the chronological table?-->
         <p>Хронологическая таблица</p>
-        <p> <date type="major" year="911">911 Договор Олега с греками.</date></p>
+        <p> <date date_type="minor" year="911">911 Договор Олега с греками.</date></p>
         
-        <p><date type="major" year="988">988 Введение христианства на Руси.</date></p>
+        <p><date date_type="major" year="988">988 Введение христианства на Руси.</date></p>
         
-        <p><date type="major" year="1147">1147 Первое упоминание о <place place_type="city">Москве</place> в летописи.</date></p>
+        <p><date date_type="minor" year="1147">1147 Первое упоминание о <place place_type="city">Москве</place> в летописи.</date></p>
         
-        <p><date type="major" year="1240">1240 Завоевание Батыем русских княжеств.</date></p>
+        <p><date date_type="minor" year="1240">1240 Завоевание Батыем русских княжеств.</date></p>
         
-        <p><date type="major" year="1242">1242 Победа Александра Невского над немецкими рыцарями («Ледовое побейте»).</date></p>
+        <p><date date_type="minor" year="1242">1242 Победа Александра Невского над немецкими рыцарями («Ледовое побейте»).</date></p>
         
-        <p><date type="major" year="1328">1328–1341 Иван Калита первый великий князь московский.</date></p>
+        <p><date date_type="major" year="1328">1328–1341 Иван Калита первый великий князь московский.</date></p>
         
-        <p><date type="major" year="1380">1380 Куликовская битва.</date></p>
+        <p><date date_type="minor" year="1380">1380 Куликовская битва.</date></p>
         
-        <p><date type="major" year="1462">1462–1505 Иван III, великий князь московский.</date></p>
+        <p><date date_type="major" year="1462">1462–1505 Иван III, великий князь московский.</date></p>
         
-        <p><date type="major" year="1480">1480 Освобождение Русского государства оттатаро-монгольского ига при Иване III.</date></p>
+        <p><date date_type="major" year="1480">1480 Освобождение Русского государства оттатаро-монгольского ига при Иване III.</date></p>
         
-        <p><date type="major" year="1547">1547 Принятие Иваном IV царского титула.</date></p>
+        <p><date date_type="major" year="1547">1547 Принятие Иваном IV царского титула.</date></p>
         
-        <p><date type="major" year="1581">1581 Поход Ермака в Западную Сибирь.</date></p>
+        <p><date date_type="minor" year="1581">1581 Поход Ермака в Западную Сибирь.</date></p>
         
-        <p><date type="major" year="1606">1606–1607 Восстание крестьян и казаков под руководством Болотникова.</date></p>
+        <p><date date_type="minor" year="1606">1606–1607 Восстание крестьян и казаков под руководством Болотникова.</date></p>
         
-        <p><date type="major" year="1612">1612 Изгнание поляков из Москвы.</date></p>
+        <p><date date_type="major" year="1612">1612 Изгнание поляков из Москвы.</date></p>
         
-        <p><date type="major" year="1648">1648 Восстание казаков и крестьян: на Украине под руководством Богдана Хмельницкого против панского гнёта.</date></p>
+        <p><date date_type="major" year="1648">1648 Восстание казаков и крестьян: на Украине под руководством Богдана Хмельницкого против панского гнёта.</date></p>
         
-        <p><date type="major" year="1649">1649 Окончательное закрепощение крестьян.</date></p>
+        <p><date date_type="major" year="1649">1649 Окончательное закрепощение крестьян.</date></p>
         
-        <p><date type="major" year="1651">1651 Воссоединение Украины с Россией.</date></p>
+        <p><date date_type="major" year="1651">1651 Воссоединение Украины с Россией.</date></p>
         
-        <p><date type="major" year="1670">1670–1671 Крестьянское восстание под руководством Разина.</date></p>
+        <p><date date_type="minor" year="1670">1670–1671 Крестьянское восстание под руководством Разина.</date></p>
         
-        <p><date type="major" year="1682">1682–1725 Царствование Петра I.</date></p>
+        <p><date date_type="major" year="1682">1682–1725 Царствование Петра I.</date></p>
         
-        <p><date type="major" year="1703">1703 Основание Петербурга (ныне Ленинград).</date></p>
+        <p><date date_type="minor" year="1703">1703 Основание Петербурга (ныне Ленинград).</date></p>
         
-        <p><date type="major" year="1707">1707 Восстание казаков и крестьян под руководством Булавина.</date></p>
+        <p><date date_type="minor" year="1707">1707 Восстание казаков и крестьян под руководством Булавина.</date></p>
         
-        <p><date type="major" year="1709">1709 Разгром Петром I шведов под Полтавой.</date></p>
+        <p><date date_type="minor" year="1709">1709 Разгром Петром I шведов под Полтавой.</date></p>
         
-        <p><date type="major" year="1721">1721 Принятие Петром I титула российского императора.</date></p>
+        <p><date date_type="major" year="1721">1721 Принятие Петром I титула российского императора.</date></p>
         
-        <p><date type="major" year="1773">1773–1775 Восстание крестьян, казаков и народов Поволжья и Приуралья под руководством Пугачёва.</date></p>
+        <p><date date_type="minor" year="1773">1773–1775 Восстание крестьян, казаков и народов Поволжья и Приуралья под руководством Пугачёва.</date></p>
         
-        <p><date type="major" year="1789">1789 Начало французской буржуазной революции.</date></p>
+        <p><date date_type="major" year="1789">1789 Начало французской буржуазной революции.</date></p>
         
-        <p><date type="major" year="1801">1801 Присоединение Грузии к России.</date></p>
+        <p><date date_type="major" year="1801">1801 Присоединение Грузии к России.</date></p>
         
-        <p><date type="major" year="1812">1812 Война России с Наполеоном I.</date></p>
+        <p><date date_type="major" year="1812">1812 Война России с Наполеоном I.</date></p>
         
-        <p><date type="major" year="1818">1818–1883 Жизнь гениального вождя пролетариата Карла Маркса.</date></p>
+        <p><date date_type="major" year="1818">1818–1883 Жизнь гениального вождя пролетариата Карла Маркса.</date></p>
         
-        <p><date type="major" year="1820">1820–1893 Жизнь гениального вождя пролетариата Фридриха Энгельса.</date></p>
+        <p><date date_type="major" year="1820">1820–1893 Жизнь гениального вождя пролетариата Фридриха Энгельса.</date></p>
         
-        <p><date type="major" year="1825">1825 Восстание декабристов.</date></p>
+        <p><date date_type="major" year="1825">1825 Восстание декабристов.</date></p>
         
-        <p><date type="major" year="1848">1848 Буржуазные революции во Франции, Германии и Австро-Венгрии.</date></p>
+        <p><date date_type="major" year="1848">1848 Буржуазные революции во Франции, Германии и Австро-Венгрии.</date></p>
         
-        <p><date type="major" year="1853">1853–1856 Крымская война.</date></p>
+        <p><date date_type="major" year="1853">1853–1856 Крымская война.</date></p>
         
-        <p><date type="major" year="1861">1861 Крестьянская реформа.</date></p>
+        <p><date date_type="major" year="1861">1861 Крестьянская реформа.</date></p>
         
-        <p><date type="major" year="1864">1864 Основание I Интернационала Марксом и Энгельсом.</date></p>
+        <p><date date_type="major" year="1864">1864 Основание I Интернационала Марксом и Энгельсом.</date></p>
         
-        <p><date type="major" year="1870">1870–1924 Жизнь гениального вождя пролетариата Владимира Ильича <person>Ленина</person>.</date></p>
+        <p><date date_type="major" year="1870">1870–1924 Жизнь гениального вождя пролетариата Владимира Ильича <person>Ленина</person>.</date></p>
         
-        <p><date type="major" year="1871">1871 Парижская Коммуна.</date></p>
+        <p><date date_type="major" year="1871">1871 Парижская Коммуна.</date></p>
         
-        <p><date type="major" year="1879">1879–1953 Жизнь гениального вождя пролетариата Иосифа Виссарионовича Сталина.</date></p>
+        <p><date date_type="major" year="1879">1879–1953 Жизнь гениального вождя пролетариата Иосифа Виссарионовича Сталина.</date></p>
         
-        <p><date type="major" year="1885">1885 Стачка рабочих на фабрике Морозова в Орехово-Зуеве.</date></p>
+        <p><date date_type="major" year="1885">1885 Стачка рабочих на фабрике Морозова в Орехово-Зуеве.</date></p>
         
-        <p><date type="major" year="1903">1903 Создание Российской социал-демократической рабочей партии.</date></p>
+        <p><date date_type="major" year="1903">1903 Создание Российской социал-демократической рабочей партии.</date></p>
         
-        <p><date type="major" year="1905">1905–1907 Первая буржуазная революция в России.</date></p>
+        <p><date date_type="major" year="1905">1905–1907 Первая буржуазная революция в России.</date></p>
         
-        <p><date type="major" year="1912">1912 Расстрел рабочих на Ленских приисках.</date></p>
+        <p><date date_type="major" year="1912">1912 Расстрел рабочих на Ленских приисках.</date></p>
         
-        <p><date type="major" year="1912">1912 Оформление Российской социал-демократической рабочей партии большевиков.</date></p>
+        <p><date date_type="major" year="1912">1912 Оформление Российской социал-демократической рабочей партии большевиков.</date></p>
         
-        <p><date type="major" year="1914">1914–1918 Мировая империалистическая война.</date></p>
+        <p><date date_type="major" year="1914">1914–1918 Мировая империалистическая война.</date></p>
         
-        <p><date type="major" year="1917" month="2">1917 Февраль. Вторая буржуазная революция в России.</date></p>
+        <p><date date_type="major" year="1917" month="2">1917 Февраль. Вторая буржуазная революция в России.</date></p>
         
-        <p><date type="major" year="1917" month="10">1917 Октябрь. Великая Октябрьская социалистическая революция в России.</date></p>
+        <p><date date_type="major" year="1917" month="10">1917 Октябрь. Великая Октябрьская социалистическая революция в России.</date></p>
         
-        <p><date type="major" year="1917">1917 Создание Российской Советской Федеративной Социалистической Республики.</date></p>
+        <p><date date_type="major" year="1917">1917 Создание Российской Советской Федеративной Социалистической Республики.</date></p>
         
-        <p><date type="major" year="1918">1918 Организация Красной Армии.</date></p>
+        <p><date date_type="major" year="1918">1918 Организация Красной Армии.</date></p>
         
-        <p><date type="major" year="1918">1918 Разгром германских интервентов на Украине.</date></p>
+        <p><date date_type="minor" year="1918">1918 Разгром германских интервентов на Украине.</date></p>
         
-        <p><date type="major" year="1918">1918 Революция в Германии и Австро-Венгрии.</date></p>
+        <p><date date_type="major" year="1918">1918 Революция в Германии и Австро-Венгрии.</date></p>
         
-        <p><date type="major" year="1919">1919 Основание Коммунистического Интернационала.</date></p>
+        <p><date date_type="major" year="1919">1919 Основание Коммунистического Интернационала.</date></p>
         
-        <p><date type="major" year="1919">1919 Разгром Колчака, Деникина, Юденича.</date></p>
+        <p><date date_type="minor" year="1919">1919 Разгром Колчака, Деникина, Юденича.</date></p>
         
-        <p><date type="major" year="1920">1920 Война с польскими панами и разгром Врангеля.</date></p>
+        <p>1920 Война с польскими панами и разгром Врангеля.</p>
         
-        <p><date type="major" year="1922">1922 Разгром японских интервентов на Дальнем Востоке.</date></p>
+        <p><date date_type="major" year="1922">1922 Разгром японских интервентов на Дальнем Востоке.</date></p>
         
-        <p><date type="major" year="1922">1922 Создание Союза Советских Социалистических Республик.</date></p>
+        <p><date date_type="major" year="1922">1922 Создание Союза Советских Социалистических Республик.</date></p>
         
-        <p><date type="major" year="1928">1928–1932 Первая пятилетка. 1933–1937 Вторая пятилетка.</date></p>
+        <p><date date_type="major" year="1928">1928–1932 Первая пятилетка.</date></p>
+                
+        <p><date date_type="major" year="1933">1933–1937 Вторая пятилетка.</date></p>
         
-        <p><date type="major" year="1934">1934 Злодейское убийство С. М. Кирова врагами народа — троцкистами.</date></p>
+        <p><date date_type="minor" year="1934">1934 Злодейское убийство С. М. Кирова врагами народа — троцкистами.</date></p>
         
-        <p><date type="major" year="1936" month="12" day="5">1936 5 декабря. Утверждение новой Конституции СССР.</date></p>
+        <p><date date_type="major" year="1936" month="12" day="5">1936 5 декабря. Утверждение новой Конституции СССР.</date></p>
         
-        <p><date type="major" year="1939">1939 Освобождение советскими войсками Западной Украины и Западной Белоруссии.</date></p>
+        <p><date date_type="major" year="1939" month="9" day="17">1939 Освобождение советскими войсками Западной Украины и Западной Белоруссии.</date></p>
         
-        <p><date type="major" year="1940">1940 Подписание мирного договора между СССР и Финляндией. Преобразование Карельской Автономной Советской Социалистической Республики в Союзную Карело-Финскую Советскую Социалистическую Республику.</date></p>
+        <p><date date_type="minor" year="1940">1940 Подписание мирного договора между СССР и Финляндией. Преобразование Карельской Автономной Советской Социалистической Республики в Союзную Карело-Финскую Советскую Социалистическую Республику.</date></p>
         
-        <p><date type="major" year="1940">1940 Освобождение Бессарабии и Северной Буковины от ига румынских бояр. Образование Союзной Молдавской Советской Социалистической Республики.</date></p>
+        <p><date date_type="minor" year="1940">1940 Освобождение Бессарабии и Северной Буковины от ига румынских бояр. Образование Союзной Молдавской Советской Социалистической Республики.</date></p>
         
-        <p><date type="major" year="1940">1940 Принятие Литовской, Латвийской и Эстонской Советских Социалистических Республик в состав СССР.</date></p>
+        <p><date date_type="major" year="1940">1940 Принятие Литовской, Латвийской и Эстонской Советских Социалистических Республик в состав СССР.</date></p>
         
-        <p><date type="major" year="1941" month="6" day="22">1941 22 июня. Вероломное нападение фашистской Германии на СССР.</date></p>
+        <p><date date_type="major" year="1941" month="6" day="22">1941 22 июня. Вероломное нападение фашистской Германии на СССР.</date></p>
         
-        <p><date type="major" year="1945" month="5" day="2">1945 2 мая. Взятие Берлина советскими войсками.</date></p>
+        <p><date date_type="major" year="1945" month="5" day="2">1945 2 мая. Взятие Берлина советскими войсками.</date></p>
         
-        <p><date type="major" year="1945">1945 Капитуляция фашистской Германии.</date></p>
+        <p><date date_type="major" year="1945" month="5" day="8">1945 Капитуляция фашистской Германии.</date></p>
         
-        <p><date type="major" year="1945">1945 Капитуляция Японии.</date></p>
+        <p><date date_type="major" year="1945" month="9" day="2">1945 Капитуляция Японии.</date></p>
         
-        <p><date type="major" year="1952">1952 Девятнадцатый съезд Коммунистической партии Советского Союза.</date></p>
+        <p><date date_type="minor" year="1952">1952 Девятнадцатый съезд Коммунистической партии Советского Союза.</date></p>
         
-        <p><date type="major" year="1951">1951–1955 Пятый пятилетний план.</date></p>
+        <p><date date_type="minor" year="1951">1951–1955 Пятый пятилетний план.</date></p>
     </chapter>
     </section>
 </textbook>
