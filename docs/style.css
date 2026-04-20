@@ -37,6 +37,7 @@ a {
     color: #3a1f1f; /*and the gross blue color*/
     opacity: 1;
   transition: 0.3s;
+    font-weight: bold;
 }
 a:hover {
     color: rgb(70, 13, 6);
