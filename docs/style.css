@@ -22,7 +22,7 @@ nav {
 h1{
     color: #4f2405;
     font-size: 50px;
-    font-family:sans-serif;
+    font-family: "Ruslan Display", serif;
 }
 h2, h3{
     color: #4f2405;
@@ -39,7 +39,8 @@ a {
   transition: 0.3s;
 }
 a:hover {
-    opacity:.6;
+    color: rgb(70, 13, 6);
+    background-color: #f26f32;
 }
 
 /*placeholder*/
@@ -86,8 +87,10 @@ summary:hover{
     margin:1%
 }
 .corpus_TEXTBOOK_IMAGE{
-  display: flex;
-  justify-content: center;
+    text-align: center;
+    width: 100%; /*for whatever reason the width needs to be set like this*/
+    justify-content: center;
+    display: flex;
 }
                                 /*EACH PAGE*/
                 /*BUTTONS*/
@@ -101,16 +104,13 @@ summary:hover{
     justify-content: space-between;
 
 }
-.back{
+.buttons a{
     border: 4px solid#8b0000;
-    padding: 20px;
+    margin: 20px;
+    padding: 10px;
     background-color: #dc8546;
 }
-.forward{
-    border:4px solid #8b0000;
-    padding: 20px;
-    background-color: #dc8546;
-}
+
                 /*CORPUS TEXT*/
 ul{
     list-style-type: none;
