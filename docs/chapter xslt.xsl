@@ -21,7 +21,7 @@
                         <nav>
                             <a href="../index.html">Home</a>
                             <a href="../corpus.html">Corpus</a>
-                            <a href="../methodology.html">Methodology</a> <!--so far this is the only link that works-->
+                            <a href="../methodology.html">Methodology</a>
                             <a href="../analysis.html">Analysis</a>
                         </nav>
                     </header>
@@ -37,18 +37,23 @@
                                <xsl:apply-templates select="//chapter"/>
                            </ul>
                        </div>
-                       <div>
+                       <div class = "text">
                     <xsl:apply-templates select="p"/>
                        </div>
+                    <div class="buttons">
+                       <!-- go back-->
+                            <div class="back">
+                        <a href = "chapter{$n - 1}.html">Back</a>
+                            </div>
+                       <!--go forward-->
+                            <div class="forward">
+                        <a href = "chapter{$n + 1}.html">Forward</a>
+                            </div>
+                    </div>
                 </body>
             </html>
             </xsl:result-document>
         </xsl:for-each>
-    </xsl:template>
-    
-    <!--template for chapters-->
-    <xsl:template match="//chapter">
-        <li><a><xsl:value-of select = "title"/></a></li>
     </xsl:template>
     
     <!--template for paragraph-->

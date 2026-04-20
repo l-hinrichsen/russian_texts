@@ -4,6 +4,7 @@ body{
     font-family: sans-serif;
     text-align: center;
     color: #222; 
+    padding-bottom: 100px;
 }
 header {
     border-bottom: 4px solid #8b0000; 
@@ -27,6 +28,9 @@ h2, h3{
     color: #4f2405;
     font-family:sans-serif;
 }
+p{
+    text-align: left;
+}
 /*Added a wee animation on hover for all links*/
 a {
     text-decoration: none; /*got rid of the gross underline*/
@@ -37,11 +41,6 @@ a {
 a:hover {
     opacity:.6;
 }
-/* coloring links, rn only relevant to the analysis page */
-p a{
-  color: blue;
-}
-
 
 /*placeholder*/
 .splash_textbook {
@@ -58,13 +57,14 @@ p a{
 .header_splash h1{
     font-family: "Ruslan Display", serif;
      margin-bottom: -1%;
+     color:rgb(211, 73, 31);
 }
 
 main{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
     
 }
 
@@ -85,7 +85,58 @@ summary:hover{
     padding: 10px 0;
     margin:1%
 }
-.corpus_decorative_border{
+.corpus_TEXTBOOK_IMAGE{
+  display: flex;
+  justify-content: center;
+}
+                                /*EACH PAGE*/
+                /*BUTTONS*/
+.buttons{
+    color: #3a1f1f;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;  
+    justify-content: space-between;
+
+}
+.back{
+    border: 4px solid#8b0000;
+    padding: 20px;
+    background-color: #dc8546;
+}
+.forward{
+    border:4px solid #8b0000;
+    padding: 20px;
+    background-color: #dc8546;
+}
+                /*CORPUS TEXT*/
+ul{
+    list-style-type: none;
+    text-align: left;
+    text-overflow: ellipsis;
+}
+.toc_container{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.toc{
+    display: flex;
+    width: 30%;
+    border-right: 4px solid #8b0000;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+}
+.main_TOC{   /*chapter0*/
+    text-align: center;
+    font-size: 18px;
+}
+            /*DRIP*/
+.decorative_border{
     background-image: url("AdobeStock_816480317.png");
     background-repeat: repeat-x;
     background-size: 200px auto;
