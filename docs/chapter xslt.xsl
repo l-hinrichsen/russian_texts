@@ -32,6 +32,7 @@
                     </h1>
                     
                     <!--table of contents-->
+                    <div class="toc_container">
                        <div class="toc">
                            <ul>
                                <xsl:apply-templates select="//chapter"/>
@@ -49,6 +50,7 @@
                             <div class="forward">
                         <a href = "chapter{$n + 1}.html">Forward</a>
                             </div>
+                    </div>
                     </div>
                 </body>
             </html>
