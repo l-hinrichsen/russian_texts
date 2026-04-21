@@ -1,0 +1,770 @@
+[33mcommit 345fa857529c6695a0b9e9ba0d82ef4807647c19[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Mon Apr 20 20:42:07 2026 -0400
+
+    minor textbook markup fix + timeline progress
+
+[33mcommit 7d5039890375b9eea6a1409f62311eeafa82824a[m
+Merge: dc247fa aec0030
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 20 15:37:17 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit dc247fa11d363c59d3135500a5e4bcf7b67a7437[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 20 15:37:07 2026 -0400
+
+    updated text to be more accurate
+
+[33mcommit aec003051e6f5a6cda913616c5410cb53790f666[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 20 15:34:44 2026 -0400
+
+    Update README.md
+    
+    Feel free to change any of these, it hasn't been updated for a while
+
+[33mcommit 54d5e8b92b0a869404d597008ea121daea3784bd[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Mon Apr 20 14:55:40 2026 -0400
+
+    fixing timeline rendering
+
+[33mcommit 3f31b4af082c4ef630d2b37344d2a6e1b19fd9cd[m
+Author: fivehundreddollars <swhalen325@gmail.com>
+Date:   Mon Apr 20 13:10:58 2026 -0400
+
+    all popup info (maybe) ((i hope so))
+
+[33mcommit 39f026f6bbb87e01664520533475318d55a2396c[m
+Author: fivehundreddollars <swhalen325@gmail.com>
+Date:   Mon Apr 20 13:10:09 2026 -0400
+
+    Delete data/project information.xml
+
+[33mcommit aca3a0672d972a3e0d697c8a0bb39d87bdb52930[m
+Author: fivehundreddollars <swhalen325@gmail.com>
+Date:   Mon Apr 20 13:08:31 2026 -0400
+
+    all(?) of the info (maybe) ((hopefully))
+
+[33mcommit dd04796552882f31aedfff369099ebf6701596a0[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Mon Apr 20 04:09:38 2026 -0400
+
+    rhetoric adding
+
+[33mcommit 8f7d82f754ac69c032795d8d2eb056e0edc60106[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Mon Apr 20 03:04:43 2026 -0400
+
+    merge
+
+[33mcommit e105f57c48ea72a8820f9bd4a00442c5b5c59f23[m
+Merge: ece80df c70ab3f
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Mon Apr 20 02:55:18 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit ece80df13bb4cc3403cc94f19fddc1aeb1bd992f[m
+Merge: 7911886 2743ad8
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Mon Apr 20 02:54:48 2026 -0400
+
+    merge
+
+[33mcommit c70ab3fc585146a9d61c128918d9e1e8cb58b8f5[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 15:57:09 2026 -0400
+
+    ₊✩‧₊˚౨ৎ˚₊✩‧₊fonts and borders₊✩‧₊˚౨ৎ˚₊✩‧₊
+
+[33mcommit 03c83693b608be0987287175e58c8fcec1e9617a[m
+Merge: 50ebea0 2743ad8
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 14:29:04 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit 50ebea08fd6bd3e7f6023616fbcdf7a1cb842ce0[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 14:28:52 2026 -0400
+
+    adjusted the decorative banner
+
+[33mcommit 791188629dd709204d595b2839fc32605337f021[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Sun Apr 19 14:21:26 2026 -0400
+
+    more edits for timeline
+
+[33mcommit 2743ad879bc59ae0bf2951bbaa41167b8c8ed50f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 13:18:01 2026 -0400
+
+    bargraph for <rhetoric> update
+
+[33mcommit 780d32b1dec3e82d8950ec21c3cfb67ffbe79fe3[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 13:11:31 2026 -0400
+
+    rhetoric
+
+[33mcommit 343cb5b31bf961dc8784d1d5d36281ff6be0d3e1[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 13:00:32 2026 -0400
+
+    organizational things
+
+[33mcommit 8f464fe227a997fb762327d52bfbf94c78c4d856[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 12:54:30 2026 -0400
+
+    chapter zerooooooooo
+
+[33mcommit 6fab80fd3c16f7fc54e20ca799742d7ddf4f8d97[m
+Merge: 901ca36 dfb3091
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 12:19:14 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit 901ca3607175eaa646194e523130edc38a30f83c[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 12:18:40 2026 -0400
+
+    Create chapter0.xml
+
+[33mcommit e618dc3633a0cc0822ee3ed6aa4abf1312063db2[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 12:18:25 2026 -0400
+
+    Update index.html
+
+[33mcommit dfb30910e110111cd30767a7102e805c41018c46[m
+Merge: b09d7f9 7dbfb6e
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 11:50:23 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit b09d7f998fffe1f3328844a8607e8c76e61cfba8[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 11:50:06 2026 -0400
+
+    propaganda markup
+
+[33mcommit 7dbfb6efb3daa4d157137953064fe049a2c0a926[m
+Merge: ba2b52f cb7997b
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 11:47:51 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit ba2b52fc14dc4c547779fbae8b1af76cb0a05c43[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 11:46:29 2026 -0400
+
+    Update style.css
+
+[33mcommit f23f06856989bb781000b1426d7d7b11b7b6fd90[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 11:46:07 2026 -0400
+
+    Update corpus.html
+
+[33mcommit cb7997bc6a83221e5ac7d9437bd334b52f0efce3[m
+Merge: dc6c108 d7975eb
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 11:21:18 2026 -0400
+
+    merge conflict fix
+
+[33mcommit dc6c1083cac8cab32350fe8d3c1d4008394bca9b[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 11:17:14 2026 -0400
+
+    xslt chapters 35-52
+
+[33mcommit d7975ebffd84b067a6ed3a2f29ed8b4914ccc3df[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 11:14:42 2026 -0400
+
+    buttons!!!!
+
+[33mcommit 79b776a38764a2b109ede182249fdb371a476706[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 10:47:26 2026 -0400
+
+    ch 35 issue
+
+[33mcommit 6bef8b67681eefb216688f666561a8696f1e31f6[m
+Merge: 0380958 e1dc2cf
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 10:35:53 2026 -0400
+
+    merge conflict in css
+
+[33mcommit 03809580fb45741c7c027ac299bdc9a6144b8b78[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Apr 19 10:32:18 2026 -0400
+
+    chapters xslt
+
+[33mcommit e1dc2cf95c0a4906033c4756ade0133e7c52c209[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 10:28:45 2026 -0400
+
+    new text
+
+[33mcommit 50bd9bf9b506e438893975637e769ea00924b4d0[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Apr 19 10:19:12 2026 -0400
+
+    drip for the website
+
+[33mcommit 3ebab968f0a44eeaf0558f3d33c68c6f502956f9[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Sat Apr 18 23:06:27 2026 -0400
+
+    schema and full text edits for wip table of contents + caught some format errors
+
+[33mcommit 1ba6e2591250a051e6b70a46eb656017fdc26416[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sat Apr 18 20:09:02 2026 -0400
+
+    fixes
+
+[33mcommit dda1ef9184a9323884277dbaeb2e8f60a69038f0[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sat Apr 18 19:40:00 2026 -0400
+
+    added army
+
+[33mcommit 39f0131e6e00631c9a567b762ad3b8254c30bc17[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sat Apr 18 18:39:14 2026 -0400
+
+    added swag
+
+[33mcommit 96fe27ed99f2b37ecb55913e3d3ea92612261202[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sat Apr 18 17:51:14 2026 -0400
+
+    new font
+
+[33mcommit ee868343a39b81239a3bc3d8e9268ef67bf7fc83[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sat Apr 18 13:41:31 2026 -0400
+
+    added some stuff
+
+[33mcommit d442df333a9ea91df4e173a63baadd88b48bda68[m
+Merge: 0abc24a 5edfddf
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Apr 16 20:15:45 2026 -0400
+
+    full textbook now so awesome
+
+[33mcommit 0abc24a10e45bd16de464f45392105962d78a217[m
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Apr 16 20:13:32 2026 -0400
+
+    whole textbook 4 real this time i swear
+
+[33mcommit 5edfddf9cfe8ae4b1697bbfcedb7a0f93c229c8f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 16 12:56:49 2026 -0400
+
+    analysis update
+
+[33mcommit 93c8cdb53a97a015e56a702aa48965547ecf5f6e[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 16 12:49:58 2026 -0400
+
+    analysis update
+
+[33mcommit dcdc5a80d0b533c5fc7869994457da01b77a13a1[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 16 12:05:47 2026 -0400
+
+    one to many batch
+
+[33mcommit 13fa3ed0e5d169fa5346651dfda793c6b72ee640[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Apr 16 10:46:22 2026 -0400
+
+    changes, broadly
+
+[33mcommit a1577be25dde20748993de1b7e33eecc9e1eaafa[m
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Apr 16 10:13:58 2026 -0400
+
+    fixing stuff in textbook
+
+[33mcommit 2f0a6a9b7fc01f4953c866bada66e0c619e8b025[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Apr 16 10:19:13 2026 -0400
+
+    newwwww
+
+[33mcommit a6cea260129868b9827f153a6c55575320e95ef0[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Apr 16 10:11:09 2026 -0400
+
+    website changes
+
+[33mcommit da8426a33334987146a222039ec20659dfadc069[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Thu Apr 16 07:32:39 2026 -0400
+
+    finished 35-51
+
+[33mcommit 9760b507677f6d4bb8359d9d64e43ea0f096fda1[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Apr 14 15:39:36 2026 -0400
+
+    new
+
+[33mcommit c6fb1354babe2de6305bb620e23c97927d20c81f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Apr 14 12:53:31 2026 -0400
+
+    <rhetoric> ch 1
+
+[33mcommit 18cdce01daa3f97b91e2c4406bf1a9844bcce9f0[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Apr 14 12:43:56 2026 -0400
+
+    added <rhetoric> to schema
+
+[33mcommit d7923b9af85b9a24c6f6faa99a85f2933d69592f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Apr 14 12:17:55 2026 -0400
+
+    post-recitation fixing key()
+
+[33mcommit 7c03d7ea9043589c519b0197465c7827ec072861[m
+Merge: f50f394 3b4f7ad
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Tue Apr 14 10:11:30 2026 -0400
+
+    merge
+
+[33mcommit f50f3947f7bfe37b351b371a0d22243429f22d6f[m
+Merge: 19ef656 4ddcbcb
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Tue Apr 14 10:07:32 2026 -0400
+
+    merge conflict and restoring validation to textbook
+
+[33mcommit 3b4f7ad6e27b1367c72821461eeed0f829e8b6c5[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Mon Apr 13 23:52:25 2026 -0400
+
+    using key() for <territory>
+
+[33mcommit ad6a0f97e2af5ea7f6d9b9ca7838616cd6a9383e[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Mon Apr 13 23:50:08 2026 -0400
+
+    using key() for <territory>
+
+[33mcommit 685cbe8693eb5117333121acb3fb76fb0e851a7e[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 13 16:23:46 2026 -0400
+
+    Update whole_textbook.xml
+
+[33mcommit b25c1c0c43423fc2f8f84440747aba7639795dbc[m
+Merge: 89017df 6c2203c
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 13 16:23:37 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit 89017df979a16a5e98c414086fa1f5ec8edbd520[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Mon Apr 13 16:23:11 2026 -0400
+
+    added a picture and made the splash page cuter
+
+[33mcommit 6c2203ca8417df521118353cc8c8fb838e183720[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Mon Apr 13 14:05:02 2026 -0400
+
+    timeline
+
+[33mcommit 8308be2c78998adfd28699aa959041346ad9e16e[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 9 22:49:08 2026 -0400
+
+    analysis page
+
+[33mcommit fc72ba429d38effaff48ea653f874c4e076b7ead[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 9 22:26:50 2026 -0400
+
+    added timeline basics
+
+[33mcommit cc6e219f2218ef3b8ff7c7625172dc4ff2c2b255[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 9 22:03:30 2026 -0400
+
+    markup
+
+[33mcommit dc1b47b658f1c7e8c0b9f97f53ae1704e1f10a7c[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Apr 9 12:51:57 2026 -0400
+
+    popup folder added
+
+[33mcommit 19ef656330fd9984b60c9411e41a72c8bdd467cc[m
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Apr 9 10:45:18 2026 -0400
+
+    adding xslt and other stuff
+
+[33mcommit 4ddcbcba5be1eccb349ba07a93ee7d6f347edc80[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Apr 9 10:44:02 2026 -0400
+
+    added gov to the schema
+
+[33mcommit d71b2e1acdf4f9afc4fb08694c70f86f0675c4ec[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Apr 9 10:37:00 2026 -0400
+
+    fixes
+
+[33mcommit 0ecd6ee74ff58f3f7ad63e4d87726dbe6d5ba410[m
+Merge: 9dc57dc ff3201b
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Apr 7 10:16:10 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit 9dc57dc611fa18e95c74782a4fc17d0fd2528503[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Apr 7 10:15:22 2026 -0400
+
+    new enw new
+
+[33mcommit ff3201ba8ba4d8f78a7f748c2f60a786e697509f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Mar 31 22:18:39 2026 -0400
+
+    edited markup
+
+[33mcommit 435dcabc1b0342c3e46e50ba8ae42437b50b9dcc[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Mar 31 21:43:52 2026 -0400
+
+    schema
+
+[33mcommit 48274ffe5ec49304ef31be61f2b8d21832ed815b[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 31 14:56:53 2026 -0400
+
+    dropdown
+
+[33mcommit 668c7f37e05da25b731da03d3d7f2a3fdf13a68a[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 31 12:58:56 2026 -0400
+
+    new!
+
+[33mcommit e69a2851d8752e414212584bea13f12690296498[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 31 12:38:54 2026 -0400
+
+    methodology page added
+
+[33mcommit 4498485de2e05d4061a3a6c3a6ad6dcdcc66cf72[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 31 12:29:17 2026 -0400
+
+    added markup and a new schema element: system
+
+[33mcommit 7b8c12d97b7a8d741b7117fdf1d38a3dd6dade97[m
+Merge: bc4d48a a8b3d68
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 31 12:08:42 2026 -0400
+
+    Merge branch 'main' of https://github.com/l-hinrichsen/russian_texts
+
+[33mcommit a8b3d68b75775b7f6b302aad221b83ced2877397[m
+Author: l-hinrichsen <lrh94@pitt.edu>
+Date:   Tue Mar 31 14:41:32 2026 +0000
+
+    everything in docs
+
+[33mcommit 53cb5d2fde70f1e3073266ce444f0275d1876069[m
+Author: l-hinrichsen <lrh94@pitt.edu>
+Date:   Tue Mar 31 14:39:17 2026 +0000
+
+    docs folder
+
+[33mcommit ecc6030dfd2bf4cc81bc80849fb8d95488f5cc73[m
+Author: l-hinrichsen <lrh94@pitt.edu>
+Date:   Tue Mar 31 14:31:10 2026 +0000
+
+    rearrange
+
+[33mcommit 6a67ef781d30529ebec1f032ac0379510e59f915[m
+Author: Pickle <itsnotpickle@gmail.com>
+Date:   Thu Mar 26 23:01:46 2026 -0400
+
+    added img caption to schema
+
+[33mcommit bc4d48a49300e8fbe68ee4273fdc18e2c68f3a01[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 19:02:34 2026 -0400
+
+    Update corpus.html
+
+[33mcommit 3e4b0a9e42006fc01cbc7e71ef51c4b533f3618b[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 11:27:53 2026 -0400
+
+    changes to website and xml
+
+[33mcommit c2c482c7c447621b009781c15ed0affd6642ed5f[m
+Merge: 61dd6c6 f78bad5
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Mar 26 10:44:52 2026 -0400
+
+    merging
+
+[33mcommit 61dd6c602fec208246a105c7af085805053f45a5[m
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Mar 26 10:40:22 2026 -0400
+
+    the whole thing
+
+[33mcommit f78bad59372ed769755fe3538451619a7bca1148[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 10:38:13 2026 -0400
+
+    Update chap_57-62_markup_russian.xml
+
+[33mcommit 26f14a1de3d365d94ed36917ff115d75c530f254[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 10:35:00 2026 -0400
+
+    Update chap_57-62_markup_russian.xml
+
+[33mcommit f5a914af27ed9b7b410154e17120361cb9a3a00a[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 10:30:27 2026 -0400
+
+    added chapters 52-56
+
+[33mcommit eb190b4ab96924dee1ae20e7a0e7a44775450698[m
+Merge: e3bb881 b57d604
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Mar 26 10:12:19 2026 -0400
+
+    merge conflict schema restored
+
+[33mcommit e3bb881f055a249b5a222952a774d8e6dae5cf13[m
+Author: Scott Whalen <swhalen325@gmail.com>
+Date:   Thu Mar 26 10:09:10 2026 -0400
+
+    adding markup for 1-17
+
+[33mcommit b57d60401a97cf11d2a265268656c5160350359f[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 10:00:15 2026 -0400
+
+    Update chap_57-62_markup_russian.xml
+
+[33mcommit 86aba7bc9ee7b0d43f615b22ce1ec2e44699ee08[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 07:38:57 2026 -0400
+
+    Update chap_57-62_markup_russian.xml
+
+[33mcommit 9d1be977bfbeac192c4d0a3bf0fccbd8130f4d9d[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 26 06:40:49 2026 -0400
+
+    Many Changes
+
+[33mcommit 6b608ac0b3704f5f99ae893b33e97e46468a770f[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Mar 26 03:49:51 2026 -0400
+
+    markup
+
+[33mcommit e827fcff7e5b3a14ac7b2d140ff2949611a7ce77[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Mar 22 17:23:02 2026 -0400
+
+    new css stylin'
+
+[33mcommit 62df91203e202e6721ecc9dc2e1578b71f06288c[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 17 13:44:20 2026 -0400
+
+    added a methodology page and updated text
+
+[33mcommit 73bcc7cdb116d46202ea826ca97ca3e0dada84ee[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 17 13:33:57 2026 -0400
+
+    added text for the splash page
+
+[33mcommit 0e7b064888c4a10b1fc5e3725a765a86a89fec0e[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Tue Mar 17 13:21:39 2026 -0400
+
+    added navbar and assorted things
+
+[33mcommit 6ae34f1325edcc207a2e6a73b1d6b009703eb8db[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Mar 12 11:22:37 2026 -0400
+
+    new
+
+[33mcommit 3ea033153ad9e4f923d4082a1dd6c443da82cbf9[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Feb 26 13:35:41 2026 -0500
+
+    changed file name and added some elements
+
+[33mcommit 663b6526b646c3d6c79229937fa052ac67c41363[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Feb 26 10:36:10 2026 -0500
+
+    change to html
+
+[33mcommit e760e6e7f9903e22dca6c87d62c0ddd272a6aeef[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Feb 26 10:34:31 2026 -0500
+
+    change to html
+
+[33mcommit a7cacacd90c709a451309569a07103f2581cdbd4[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Feb 26 10:15:42 2026 -0500
+
+    website update
+
+[33mcommit ee2718fac28bc970f50b9cd5311f863e1c1eda73[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 10:50:08 2026 -0500
+
+    markup update
+
+[33mcommit 1c75f5e71355e6995256dfa77ae3faa2119442de[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 10:16:06 2026 -0500
+
+    schema update
+
+[33mcommit 371bc33f0b242fc96272b76ac9f7ef3620ec6031[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 10:14:30 2026 -0500
+
+    schema update
+
+[33mcommit de2d9b4e1bb5a0f93d3a0528b93991c620b6420d[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 10:08:10 2026 -0500
+
+    css
+
+[33mcommit 22f16a33142de0cb44014d07443b1c7061b639ab[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 10:04:49 2026 -0500
+
+    added html
+
+[33mcommit be6f145ebc2ccddc2f190d535da97e89988d852e[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 08:53:28 2026 -0500
+
+    17-34 markup
+
+[33mcommit 0a00b0d9b95b08eb1d72e1183fec3f745e4bbd6d[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 24 08:50:35 2026 -0500
+
+    17-34 markup
+
+[33mcommit e961c2108297d9f0acf3339215fe792a08518c66[m
+Author: A-Isayev <ari52@pitt.edu>
+Date:   Sun Feb 22 23:13:54 2026 -0500
+
+    wip markdown of chapters 35-51
+
+[33mcommit 042b46c48d07b4e8a11055031cff881fae965864[m
+Author: fivehundreddollars <swhalen325@gmail.com>
+Date:   Sun Feb 22 21:24:36 2026 -0500
+
+    Add files via upload
+
+[33mcommit 3c0ddd51bf0d2f0d45f1b9e401aa3b9a65e725b2[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Feb 22 17:41:39 2026 -0500
+
+    oops! Delete chap_57_62_markup.xml
+
+[33mcommit b11b3d99e5ef59600490252cde36981a9d0bb7dd[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Feb 22 17:40:38 2026 -0500
+
+    Create chap_57_62_markup.xml
+
+[33mcommit 58fcc66dd90ddee989286f43eb7046acca336852[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Sun Feb 22 17:18:57 2026 -0500
+
+    schema
+
+[33mcommit 12090a1b7f88d6d98ff105ebd98469e95b6985d6[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Feb 22 13:22:15 2026 -0500
+
+    organization
+    
+    added a folder, a gitignore file, and moved a couple things
+
+[33mcommit 54c5fb7f3154824b918b0ab71994104fa62bb1c4[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Sun Feb 22 13:18:34 2026 -0500
+
+    new changes
+
+[33mcommit 8649a0f2b340f2228d8f0e8b7c42dbad572c4fec[m
+Author: olga-m-t <olga.m.tseytlin@gmail.com>
+Date:   Thu Feb 19 10:10:20 2026 -0500
+
+    Create chap_57_62_markup.xml
+
+[33mcommit 9f08d4625a48769e88261d4b5a839607eb25b3e1[m
+Author: Arina Isayev <ari52@pitt.edu>
+Date:   Thu Feb 12 10:31:57 2026 -0500
+
+    readme update
+
+[33mcommit 9defc315bbd9eea2cb35373e089f447994dc0791[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Feb 12 10:25:46 2026 -0500
+
+    deleted_extra_things
+
+[33mcommit de4c82930b2f47cdbf392dd04e4212a5de6b7e00[m
+Author: Lauren Hinrichsen <lrh94@pitt.edu>
+Date:   Thu Feb 12 10:22:12 2026 -0500
+
+    upload
+
+[33mcommit 9ad023818c138a0c0f7282bbc31087692c5040ee[m
+Author: l-hinrichsen <lrh94@pitt.edu>
+Date:   Tue Feb 3 10:44:36 2026 -0500
+
+    Initial commit
