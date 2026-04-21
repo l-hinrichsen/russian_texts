@@ -14,24 +14,24 @@
         <people people_type="job">иностранных мастеров</people> и всеми силами мешали русской
         торговле.</p>
     <p>После первых поражений в <event event_type="minor">войне</event>
-        <person person_type="tsar">Иван</person> раскрыл измену крупных <people people_type="class"
+        <person person_type="tsar">Иван</person> раскрыл измену крупных <people people_type="class" id="boyar"
             >бояр</people>-вотчинников. Эти изменники переходили на службу к <people
             people_type="ethnicity">полякам</people> и <people people_type="ethnicity"
             >литовцам</people>. <person person_type="tsar">Царь Иван</person> повёл жестокую борьбу
-        с <people people_type="class">боярами</people>, которые противились объединению страны,
+        с <people people_type="class" id="boyar">боярами</people>, которые противились объединению страны,
         укреплению самодержавной власти царя. Многих <people people_type="class">бояр и их
             сторонников</people> он казнил, других ссылал в отдалённые части государства. Их земли
         он отбирал, раздавая мелким <people people_type="job">помещикам</people> (<people
-            people_type="class">дворянам</people>). Борьба с <people people_type="class"
+            people_type="class">дворянам</people>). Борьба с <people people_type="class" id="boyar"
             >боярами</people> нужна была <person person_type="tsar">Ивану IV</person>, чтобы
-        окончательно сломить всех этих мелких царьков, какими были <people people_type="class"
+        окончательно сломить всех этих мелких царьков, какими были <people people_type="class" id="boyar"
             >бояре</people>, и укрепить единую власть. Для борьбы с ними <person person_type="tsar"
             >Иван IV</person> образовал из <people people_type="job">помещиков</people> особый отряд
         в несколько тысяч человек и назвал их «<people people_type="job">опричниками</people>».</p>
     <p>Опричники имели свою особую форму. К седлу <people people_type="job">опричника</people> были
         привязаны собачья голова и метла. Это были знаки его должности: вынюхивать, выслеживать
         врагов царя и выметать изменников-бояр.</p>
-    <p>Много<people people_type="class">бояр</people>истребили <person person_type="tsar">Иван
+    <p>Много<people people_type="class" id="boyar">бояр</people>истребили <person person_type="tsar">Иван
             IV</person> и его опричники. Земли казнённых <person person_type="tsar">Иван</person>
         раздавал <people people_type="job">опричникам</people> и другим помещикам. Таким путём
             <person person_type="tsar">Иван Грозный</person> укреплял самодержавную власть в Русском

@@ -17,6 +17,13 @@
                 natural resources and is important for mining and industry.'"/>
         </xsl:map>
     </xsl:variable>
+    <xsl:variable name="people" as="map(xs:string, xs:string)">
+        <xsl:map>
+            <xsl:map-entry key="'boyar'" select="'The boyars are a class of high ranking and influential nobility that owned land
+                and eventually serfs in the Kievan Rus, Muscovy, and the early Russian Empire. Frustrated
+                with the power they lost under Ivan III, they resisted the rule of Ivan IV.'"/>
+        </xsl:map>
+    </xsl:variable>
 </xsl:stylesheet>
 
 <!--error from recitation 4/14 was that key="volga" was used instead of key="'volga'", etc; wasn't actually giving the xs:string that we said we'd give it-->

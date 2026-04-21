@@ -5,6 +5,7 @@
         xmlns:map="http://www.w3.org/2005/xpath-functions/map"
         exclude-result-prefixes="xs math"
         version="3.0">
+    <xsl:output method="html" encoding="UTF-8" indent="yes"/>
     
     <xsl:import href="./popupKeys.xsl"/>
     
@@ -83,17 +84,29 @@
         </span>
     </xsl:template>
     
-    <!--Section for writing the rest of the popups;
-        For now, each one just displays the element name as a placeholder -->
-    <!--for each people-->
+    <!--boyars (and, later, people)-->
     <xsl:template match="people">
+        
+        <!--turns @id into $id-->
+        <xsl:variable name="id" select="@id"/>
+        
         <span class="popup">
+            
+            <!--makes sure the key() only applies to <people>-->
             <span class="people">
                 <xsl:value-of select="."/>
             </span>
-            <span class="popuptext">people</span>
+            
+            <!--refers to the key, which refers to the xml definitions of all the @ids-->
+            <span class="popuptext">
+                <xsl:value-of select="map:get($people, @id)"/>
+            </span>         
         </span>
     </xsl:template>
+    
+    <!--Section for writing the rest of the popups;
+        For now, each one just displays the element name as a placeholder -->
+   
     
     <!--for each person-->
     <xsl:template match="person">
