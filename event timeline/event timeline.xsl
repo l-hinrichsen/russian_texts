@@ -10,20 +10,11 @@
         </head>
         <body>
         <div class="timeline">
-            <div class="container left">
-                <div class="content">
                     <ul>
-                        <xsl:apply-templates select="//date" mode="date"/>
+                        <xsl:apply-templates select="//date" mode="date">
+                            <xsl:sort select="@year" order="ascending" data-type="number"/>
+                        </xsl:apply-templates>
                     </ul>
-                </div>
-            </div>
-            <div class="container right">
-                <div class="content">
-                    <ul>
-                        <xsl:apply-templates select="//date" mode="date"/>
-                    </ul>
-                </div>
-            </div>
         </div>
         </body>    
     </html>
@@ -31,6 +22,18 @@
     
     <xsl:template match="//p/date" mode="date">
 
+        <xsl:element name="div">
+            <xsl:attribute name="class">
+                <xsl:apply-templates select="'container'"/>
+            </xsl:attribute>
+            <xsl:attribute name="id">
+                <xsl:number format="0" level="any"/>
+            </xsl:attribute>
+            
+        <xsl:element name="div">
+            <xsl:attribute name="class">
+                <xsl:apply-templates select="'content'"/>
+            </xsl:attribute>    
         <li>
             <strong>
                 <xsl:choose>
@@ -96,5 +99,7 @@
             <br/>
             <xsl:value-of select="."/>
         </li>
+        </xsl:element>
+        </xsl:element>
     </xsl:template>
 </xsl:stylesheet>
