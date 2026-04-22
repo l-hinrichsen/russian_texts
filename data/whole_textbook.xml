@@ -5,34 +5,34 @@
     <section><section_title s="0">Введение</section_title><chapter>
             <title n="1">1. Наша Родина</title>
 
-            <p><territory territory_type="country">СССР</territory> — страна социализма. Наша Родина
+            <p><territory id="СССР" territory_type="country">СССР</territory> — страна социализма. Наша Родина
                 — самая большая страна во всём мире. На севере ее вечные льды, а на юге летом так
                 жарко, что вызревают апельсины и лимоны, растут чай и хлопок.</p>
             <p>По природным богатствам наша страна занимает первое место в мире. <rhetoric type="generality">Всё, что нужно для
                 жизни, имеется в нашей стране</rhetoric>.</p>
             <p>В 16 союзных советских республиках живет до 60 разных народов, около 200 миллионов
-                человек. Все они объединились в один братский союз — <territory
+                человек. Все они объединились в один братский союз — <territory id="СССР"
                     territory_type="country">Союз Советских Социалистических Республик</territory>,
-                или, сокращённо, <territory territory_type="country">СССР</territory>. Все народы
-                    <territory territory_type="country">СССР</territory> живут единой дружной семьёй
-                и трудятся на общую пользу. В <territory territory_type="country">СССР</territory>
-                нет капиталистов и помещиков, как в других странах. В <territory
+                или, сокращённо, <territory id="СССР" territory_type="country">СССР</territory>. Все народы
+                <territory id="СССР" territory_type="country">СССР</territory> живут единой дружной семьёй
+                и трудятся на общую пользу. В <territory id="СССР" territory_type="country">СССР</territory>
+                нет капиталистов и помещиков, как в других странах. В <territory id="СССР"
                     territory_type="country">СССР</territory> <rhetoric type="generality">нет эксплуатации человека человеком</rhetoric>.
                 Все мы работаем на себя, на всё общество.</p>
             <p><rhetoric type="generality">Из отсталой страны наша родина стала самой передовой и могучей</rhetoric>.</p>
-            <p>Вот почему мы так любим свою родину, так гордимся нашим <territory
+            <p>Вот почему мы так любим свою родину, так гордимся нашим <territory id="СССР"
                     territory_type="country">СССР</territory> — страной социализма.</p>
             <p><rhetoric type="generality">Путь к социализму указала нам великая партия коммунистов-большевиков.</rhetoric> Она руководила
                 борьбой наших отцов и матерей, борьбой рабочих и крестьян, когда они свергли власть
                 царя, помещиков и капиталистов. Под руководством <political_affiliation
                     political_type="communist">Коммунистической партии</political_affiliation> мы
                 создали рабоче-крестьянскую власть, мы построили социализм.</p>
-            <p>Народы нашей страны с успехом отбили все попытки нападения на <territory
-                    territory_type="country">СССР</territory>. <territory territory_type="country"
+            <p>Народы нашей страны с успехом отбили все попытки нападения на <territory id="СССР"
+                    territory_type="country">СССР</territory>. <territory id="СССР" territory_type="country"
                     >Советский Союз</territory> <rhetoric type="nc">разгромил германский фашизм и японских захватчиков</rhetoric>.
                 Наша страна стала ещё более могучей.</p>
             <p>Чему научит эта книжка. Она расскажет вам, как жили люди в старину, как боролись
-                народы <territory territory_type="country">СССР</territory> со своими угнетателями и
+                народы <territory id="СССР" territory_type="country">СССР</territory> со своими угнетателями и
                 врагами, как они добились, что наша родина стала страной социализма. Из этой книжки
                 вы узнаете также о жизни и борьбе народов и в других странах.</p>
             <p>Это всё и называется историей.</p>
@@ -56,7 +56,7 @@
 
             <p>— Вот какие молотки были у первобытных людей», — сказал учитель.</p>
 
-            <p>Учитель рассказал ребятам, что по всему <territory territory_type="country"
+            <p>Учитель рассказал ребятам, что по всему <territory id="СССР" territory_type="country"
                     >СССР</territory> учёные производят раскопки и по находкам узнают, как жили люди
                 в самые далёкие времена.</p>
 
@@ -123,58 +123,58 @@
         <chapter>
             <title n="4">4. Древнейшие государства в нашей стране</title>
 
-            <p>Первые государства в <territory territory_type="region">Закавказье</territory> и в
-                    <territory territory_type="region">Средней Азии</territory>. Самые древние
-                государства в нашей стране возникли на юге <territory territory_type="region"
+            <p>Первые государства в <territory id="Закавказье" territory_type="region">Закавказье</territory> и в
+                <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>. Самые древние
+                государства в нашей стране возникли на юге <territory id="Закавказье" territory_type="region"
                     >Закавказья</territory>. Это было около 3000 лет назад. Первое государство
-                    <territory territory_type="region">Закавказья</territory> называлось <territory
+                <territory id="Закавказье" territory_type="region">Закавказья</territory> называлось <territory id="Урарту"
                     territory_type="kingdom">Урарту</territory>. Оно находилось в <place
-                    place_type="mountain">районе Арарата</place> у <place place_type="water_body"
+                    id="Арата" place_type="mountain">районе Арарата</place> у <place place_type="water_body"
                     >Байского озера</place>. На территории этого государства сложились впоследствии
-                    <territory territory_type="country">Грузия</territory> и <territory
-                    territory_type="country">Армения</territory>. У царей <territory
+                <territory id="Грузия" territory_type="country">Грузия</territory> и <territory id="Армения"
+                        territory_type="country">Армения</territory>. У царей <territory id="Урарту"
                     territory_type="kingdom">Урарту</territory> было много рабов, которые строили им
                 дворцы, рыли каналы для орошения царских полей и садов.</p>
-            <p>Цари <territory territory_type="kingdom">Урарту</territory> вели постоянные войны с
+            <p>Цари <territory id="Урарту" territory_type="kingdom">Урарту</territory> вели постоянные войны с
                 соседними государствами. Войны были очень жестокими. Это видно из надписи, которую
-                по приказанию одного из царей <territory territory_type="kingdom">Урарту</territory>
+                по приказанию одного из царей <territory id="Урарту" territory_type="kingdom">Урарту</territory>
                 его рабы выбили на скале:</p>
             <p>«Шестьдесят четыре тысячи человек частью я смерти предал, частью живыми увёл».</p>
-            <p>Такие же государства были и в <territory territory_type="region">Средней
-                    Азии</territory>. Это были государства родоначальников нынешних <people
-                    people_type="ethnicity">узбеков</people>, <people people_type="ethnicity"
-                    >таджиков</people>, <people people_type="ethnicity">туркмен</people>. Их
+            <p>Такие же государства были и в <territory id="Средней_Азии" territory_type="region">Средней
+                    Азии</territory>. Это были государства родоначальников нынешних <people id="узбеков"
+                        people_type="ethnicity">узбеков</people>, <people id="таджиков" people_type="ethnicity"
+                            >таджиков</people>, <people id="туркмен" people_type="ethnicity">туркмен</people>. Их
                 правители также постоянно воевали со своими соседями.</p>
-            <p>В древнейших государствах <territory territory_type="region">Закавказья</territory> и
-                    <territory territory_type="region">Средней Азии</territory> было много городов.
+            <p>В древнейших государствах <territory id="Закавказье" territory_type="region">Закавказья</territory> и
+                <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> было много городов.
                 Для защиты от врагов вокруг городов возводились высокие каменные стены. Искусные
                 мастера и рабы строили дома для богачей, помещения для складов товаров и для
                 торговли. В городах жило много ремесленников, шла оживлённая торговля.</p>
-            <p>Жители городов изобрели азбуку и научились читать и писать. Так, в <territory
+            <p>Жители городов изобрели азбуку и научились читать и писать. Так, в <territory id="Грузия"
                     territory_type="country">Грузии</territory> <rhetoric type="generality">более 2000 лет назад была изобретена
                 азбука. В городах появились первые учёные, стали развиваться науки и искусство</rhetoric>.</p>
-            <p>Народы, жившие в древности в <territory territory_type="region">Сибири</territory> и
+            <p>Народы, жившие в древности в <territory id="Сибири" territory_type="region">Сибири</territory> и
                 в Восточной Европе. В южной
-                    <territory territory_type="region">Сибири</territory> и у <place
+                <territory id="Сибири" territory_type="region">Сибири</territory> и у <place
                     place_type="water_body">Чёрного моря</place> издавна жили многочисленные племена
-                кочевников-скотоводов. Под начальством своих царей они переходили в <territory
+                кочевников-скотоводов. Под начальством своих царей они переходили в <territory id="степях"
                     territory_type="region">степях</territory> с одного места на другое со стадами
                 рогатого скота и табунами лошадей в поисках хороших пастбищ. Около 2500 лет назад
-                среди этих племён особенно выделялись своим могуществом кочевники <people
-                    people_type="ethnicity">скифы</people>. Под властью <people
+                среди этих племён особенно выделялись своим могуществом кочевники <people id="скифы"
+                    people_type="ethnicity">скифы</people>. Под властью <people id="скифы"
                     people_type="ethnicity">скифских</people> царей было много кочевых и оседлых
                 земледельческих племён и рабов.</p>
             <p>Более 2500 лет назад на северные берега <place place_type="water_body">Чёрного
-                    моря</place> приплыли на кораблях переселенцы из <territory
-                    territory_type="country">Греции</territory>. <people people_type="ethnicity"
+                    моря</place> приплыли на кораблях переселенцы из <territory id="Греции"
+                        territory_type="country">Греции</territory>. <people id="Греки" people_type="ethnicity"
                     >Греки</people> построили здесь несколько городов и повели большую торговлю со
-                    <people people_type="ethnicity">скифами</people>. Они покупали у <people
+                <people id="скифы" people_type="ethnicity">скифами</people>. Они покупали у <people id="скифы"
                     people_type="ethnicity">скифов</people> скот, хлеб, рыбу и отправляли за морс в
-                    <territory territory_type="country">Грецию</territory>. Постепенно греческие
+                <territory id="Греции" territory_type="country">Грецию</territory>. Постепенно греческие
                 города разрослись и объединились в целое государство.</p>
             <p>Богатые греческие правители и купцы сами не работали. Всю работу для них выполняли
-                рабы, большей частью из <people people_type="ethnicity">скифов</people>, взятых в
-                плен. 2000 лет назад <people people_type="ethnicity">скифы-рабы</people> под
+                рабы, большей частью из <people id="скифы" people_type="ethnicity">скифов</people>, взятых в
+                плен. 2000 лет назад <people id="скифы" people_type="ethnicity">скифы-рабы</people> под
                 руководством раба Савмака подняли восстание
                 против своих угнетателей и захватили власть в свои руки. Но восстание рабов было
                 подавлено иноземными войсками, прибывшими из-за моря.</p>
@@ -182,38 +182,38 @@
             <p>Раб в кандалах.</p>
 
             <p><date date_type="major" year="300">В IV веке нашей эры на греческие города напали сильные кочевники <people
-                    people_type="ethnicity">гунны</people> и разгромили их</date>. Грозный владыка <people
+                        people_type="ethnicity">гунны</people> и разгромили их</date>. Грозный владыка <people id="гунны"
                     people_type="ethnicity">гуннов</people>
-                <person person_type="foreign_leader">Аттила</person> <date date_type="major" year="400">в V веке из степей
+                <person id="Аттила" person_type="foreign_leader">Аттила</person> <date date_type="major" year="400">в V веке из степей
                 Причерноморья пошёл походом на народы Западной Европы и покорил многие из них</date>. Но
-                после смерти <person person_type="foreign_leader">Аттилы</person> его царство
+                после смерти <person id="Аттила" person_type="foreign_leader">Аттилы</person> его царство
                 распалось под натиском других кочевников, пришедших из Азии. <date date_type="major" year="500">В VI веке на месте
                 владений <people people_type="ethnicity">гуннов</people> на <place
                     place_type="river">Волге</place> образовалось государство кочевников <people
                     people_type="ethnicity">хазар</people>, а выше по <place place_type="river"
                     >Волге</place> — государство <people people_type="ethnicity"
                 >болгар</people></date>.</p>
-            <p>С <people people_type="ethnicity">хазарами</people> и <people people_type="ethnicity"
+            <p>С <people id="хазар" people_type="ethnicity">хазарами</people> и <people id="болгар" people_type="ethnicity"
                     >болгарами</people> много лет воевали жившие по соседству с ними славянские
                 племена.</p>
         </chapter>
         <chapter>
             <title n="5">5. Славяне</title>
 
-            <p><people people_type="ethnicity">Славяне</people> и их соседи. Пятнадцать столетий
+            <p><people id="Славяне" people_type="ethnicity">Славяне</people> и их соседи. Пятнадцать столетий
                 назад славянские племена занимали земли на берегах <place place_type="water_body"
                     >Балтийского моря</place>, по <place place_type="river">Днепру</place> и по
                     <place place_type="river">Дунаю</place>, и в верховьях <place place_type="river"
                     >Оки</place> и <place place_type="river">Волги</place>. Впоследствии славяне,
                 жившие в Восточной Европе, образовали
-                три больших народа — <people people_type="ethnicity">русских</people>, <people
-                    people_type="ethnicity">украинцев</people>, <people people_type="ethnicity"
+                три больших народа — <people id="русских" people_type="ethnicity">русских</people>, <people id="украинцев"
+                    people_type="ethnicity">украинцев</people>, <people id="белорусов" people_type="ethnicity"
                     >белорусов</people>.</p>
             <p>На востоке их соседями были приволжские племена — предки современных <people
-                    people_type="ethnicity">мари</people>, <people people_type="ethnicity"
+                    id="мари" people_type="ethnicity">мари</people>, <people id="мордвы" people_type="ethnicity"
                     >мордвы</people> и других народов, а дальше — <people people_type="ethnicity"
                     >болгарское</people> и <people people_type="ethnicity">хазарское</people>
-                государства. На юге <people people_type="ethnicity">славяне</people> воевали с
+                государства. На юге <people id="Славяне" people_type="ethnicity">славяне</people> воевали с
                 кочевниками <territory territory_type="region">причерноморских степей</territory>.
                 Воевали они и с богатым и культурным для того времени греческим государством
                     <territory territory_type="kingdom">Византией</territory>. Греческие мастера
@@ -221,16 +221,16 @@
                     >греков</people> были писатели, музыканты, живописцы. Они выделывали красивые
                 ткани из шёлка, посуду, изделия из золота и серебра.</p>
             <p>В <territory territory_type="kingdom">Византии</territory> было много хорошо
-                вооруженных солдат. Но <date date_type="major" year="850">храбрые и мужественные <people people_type="ethnicity"
+                вооруженных солдат. Но <date date_type="major" year="850">храбрые и мужественные <people id="Славяне" people_type="ethnicity"
                     >славяне</people> нередко били греческие войска. В середине IX века они вели
                 успешную войну с греками и даже нападали на столицу <territory
                     territory_type="kingdom">Византии</territory> — <place place_type="city"
                     >Царьград</place></date>.</p>
             <p>На западе <people people_type="ethnicity">славянам</people> приходилось воевать с
                 германскими племенами и <people people_type="ethnicity">варягами</people>.</p>
-            <p>Занятия <people people_type="ethnicity">славян</people>. Древние <people
+            <p>Занятия <people people_type="ethnicity">славян</people>. Древние <people id="Славяне"
                     people_type="ethnicity">славяне</people> занимались охотой и сбором мёда диких
-                пчёл. Позже главным их занятием стало земледелие. <people people_type="ethnicity"
+                пчёл. Позже главным их занятием стало земледелие. <people id="Славяне" people_type="ethnicity"
                     >Славяне</people> выжигали участок леса и в землю, удобренную золой, бросали
                 зерно. При этом способе получался хороший урожай, но через 3–4 года земля
                 истощалась, приходилось выжигать новый участок леса. На степных землях почву
@@ -729,11 +729,11 @@
                     >Чингис-хан</person> сжигал глиняными гранатами с нефтью. Каменные стены он
                 разбивал большими машинами. Ничто не могло остановить сто натиска.</p>
             <p>Завоевание <person person_type="foreign_leader">Чингис-ханом</person>
-                <territory territory_type="region">Средней Азии</territory> и <territory
+                <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> и <territory
                     territory_type="region">Кавказа</territory>. Покорив Северный Китай, <person
                     person_type="foreign_leader">Чингис-хан</person> двинул свои войска в <territory
                     territory_type="region">Среднюю Азию</territory> и завоевал её.</p>
-            <p>Из <territory territory_type="region">Средней Азии</territory>, обогнув южные берега
+            <p>Из <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>, обогнув южные берега
                     <place place_type="water_body">Каспийского моря</place>, войска <person
                     person_type="foreign_leader">Чингис-хана</person> прошли на <territory
                     territory_type="region">Кавказ</territory> и завоевали <territory
@@ -741,7 +741,7 @@
                     territory_type="country">Грузию</territory>. В <territory
                     territory_type="country">Грузии</territory>
                 <people people_type="ethnicity">монголы</people> встретили сильное сопротивление.
-                    <territory territory_type="country">Грузия</territory> в это время была более
+                <territory id="Грузия" territory_type="country">Грузия</territory> в это время была более
                 могущественным государством, чем <territory territory_type="country"
                     >Армения</territory>. Храбро сражались грузины, но монголы их разбили и обложили
                     <territory territory_type="country">Грузию</territory> и <territory
@@ -764,7 +764,7 @@
                     person_type="foreign_leader">Чингис-хана</person>. На этот раз монголы напали на
                 <people people_type="ethnicity">русских</people> с востока. <date date_type="minor" year="1240"><person
                     person_type="foreign_leader">Батый</person> разгромил царство волжских <people
-                    people_type="ethnicity">болгар</people> и <people people_type="ethnicity"
+                        people_type="ethnicity">болгар</people> и <people id="мордвы" people_type="ethnicity"
                     >мордву</people>, затем поодиночке перебил войска русских князей, в 1240 году взял <place place_type="city">Киев</place>
                 и пошёл на Западную Европу</date>. Получив отпор от <people people_type="ethnicity"
                     >чехов</people>, <person person_type="foreign_leader">Батый</person> повернул
@@ -885,7 +885,7 @@
                 православную греческую веру на католическую, которой придерживались они сами.
                 Особенно настаивали на перемене веры <people people_type="ethnicity"
                     >польские</people> паны на <territory territory_type="country"
-                    >Украине</territory>. В городах паны не допускали <people
+                        >Украине</territory>. В городах паны не допускали <people id="украинцев"
                     people_type="ethnicity">украинцев</people> и <people people_type="ethnicity"
                     >белорусов</people> заниматься торговлей, ремёслами. Всё управление городами
                 паны держали в своих руках. Паны мечтали подчинить себе всё <territory
@@ -917,7 +917,7 @@
                 дробилось. Только время от времени среди <people people_type="ethnicity"
                     >монголов</people> появлялись отдельные ханы-завоеватели. Одним из таких
                 завоевателей был <person person_type="foreign_leader">Тамерлан</person>.</p>
-            <p><date date_type="major" year="1336"><person person_type="foreign_leader">Тамерлан</person> родился в <territory
+            <p><date date_type="major" year="1336"><person person_type="foreign_leader">Тамерлан</person> родился в <territory id="Средней_Азии"
                     territory_type="region">Средней Азии</territory> в <event event_type="minor"
                     >1336</event> году</date>. Когда он подрос, то стал во главе шайки удальцов и переходил
                 на службу то к одному, то к другому правителю. Выдвинулся <person
@@ -1173,8 +1173,8 @@
                 крепости, в которых стояли <territory territory_type="kingdom"
                     >московские</territory> войска. Строить крепости заставляли силой всех жителей
                     <territory territory_type="kingdom">Казанского ханства</territory>: <people
-                    people_type="ethnicity">татар</people>, <people people_type="ethnicity"
-                    >мордву</people>, <people people_type="ethnicity">марийцев</people>, <people
+                        people_type="ethnicity">татар</people>, <people id="мордвы" people_type="ethnicity"
+                        >мордву</people>, <people id="мари" people_type="ethnicity">марийцев</people>, <people
                     people_type="ethnicity">чувашей</people>, <people people_type="ethnicity"
                     >башкир</people>. С покорением <place place_type="city">Казани</place> они все
                 попали под власть <person person_type="tsar">Ивана IV</person>.</p>
@@ -1559,8 +1559,8 @@
         <p>По зову Разина <people people_type="class">крестьяне</people> поднимали восстания,
             убивали своих помещиков, жгли усадьбы, шли целыми отрядами для соединения с войском
             Разина. Народы Поволжья — <people people_type="ethnicity">чуваши</people>, <people
-                people_type="ethnicity">татары</people>, <people people_type="ethnicity"
-                >мордва</people>, <people people_type="ethnicity">марийцы</people> — выступали
+                people_type="ethnicity">татары</people>, <people id="мордвы" people_type="ethnicity"
+                    >мордва</people>, <people id="мари" people_type="ethnicity">марийцы</people> — выступали
             вместе с русскими крестьянами. Не мешало им и то, что они говорили на разных языках.
             Ненависть к царю и <people people_type="job">помещикам</people> сплачивала их в одну
             семью.</p>
@@ -1977,7 +1977,7 @@
             своим войском.</p>
         <p>В это же время в Поволжье восстали крепостные крестьяне: русские, <people
                 people_type="ethnicity">татары</people>, <people people_type="ethnicity"
-                >чуваши</people>, <people people_type="ethnicity">мордва</people>, <people
+                    >чуваши</people>, <people id="мордвы" people_type="ethnicity">мордва</people>, <people id="мари"
                 people_type="ethnicity">марийцы</people>. <person>Пугачёв</person> выдавал себя за
             императора Петра III. Он говорил, что <people people_type="class">дворянам</people> и
             его жене, злодейке Екатерине II, не удалось его убить и он спасся. От имени Петра III
@@ -2324,7 +2324,7 @@
                 были поэт и друг <person person_type="artist">Пушкина</person>
                 <person person_type="artist">Рылеев</person> и офицеры — <person person_type="rebel"
                     >Трубецкой</person> и <person person_type="rebel">Каховский</person>. </p>
-            <p> На <territory territory_type="country">Украине</territory>, в царских войсках,
+    <p> На <territory id="Украине" territory_type="country">Украине</territory>, в царских войсках,
                 возникло «Южное общество» во главе с образованным и смелым полковником <person
                     person_type="rebel">Пестелем</person>. Он считал, что нужно дать крестьянам не
                 только свободу, но и землю. <person person_type="rebel">Пестель</person> хотел,
@@ -2358,7 +2358,7 @@
                 долго не решался действовать силой. Только к вечеру, когда подвезли артиллерию, он
                 приказал стрелять из пушек по восставшим. Грянули выстрелы. Восставшие и народ
                 разбежались. На площади остались сотни убитых и раненых. </p>
-            <p> Через две недели на <territory territory_type="country">Украине</territory> около
+    <p> Через две недели на <territory id="Украине" territory_type="country">Украине</territory> около
                     <place place_type="city">Киева</place> офицеры из «Южного общества» подняли
                 восстание в <place place_type="city">Черниговском</place> полку. Они повели свой
                 полк на соединение с другими войсками, состоявшими в организации. Войска, посланные
@@ -2500,14 +2500,14 @@
                     >Казахстан</territory>, запретив поэту даже писать и рисовать. Десять лет мучили
                     <person person_type="artist">Шевченко</person> в солдатской казарме, но не
                 сломили его духа. Он продолжал тайком писать стихи. Полностью их напечатали на
-                    <territory territory_type="country">Украине</territory> только при советской
+                <territory id="Украине" territory_type="country">Украине</territory> только при советской
                 власти в сборнике его стихов «Кобзарь». </p>
         </chapter>
         <chapter>
             <title n="37">37. Присоединение Кавказа</title>
             <p> Присоединение <territory territory_type="country">Азербайджана</territory> и
                 <territory territory_type="country">Армении</territory>. <date date_type="major" year="1800">В начале XIX века к
-                    <territory territory_type="country">России</territory> присоединилась <territory
+                    <territory territory_type="country">России</territory> присоединилась <territory id="Грузия"
                     territory_type="country">Грузия</territory>. Вскоре после этого было закончено
                 присоединение к <territory territory_type="country">России</territory>
                 <territory territory_type="country">Азербайджана</territory> и <territory
@@ -2537,7 +2537,7 @@
                     >Азербайджаном</territory>. Через горы проходило очень мало дорог. Если бы горцы
                 повели войну против <territory territory_type="country">России</territory>, то
                     <territory territory_type="country">Турции</territory> легче было бы вновь
-                напасть на <territory territory_type="country">Закавказье</territory>. </p>
+                напасть на <territory id="Закавказье" territory_type="country">Закавказье</territory>. </p>
             <p> Движение горцев под руководством <person person_type="foreign_leader"
                     >Шамиля</person>. Раздроблённые племена горцев находились под властью разных
                 князей и помещиков. Один из богатых горцев <person person_type="foreign_leader"
@@ -2836,7 +2836,7 @@
                     territory_type="region">Крыму</territory> они забрали себе все лучшие земли на
                 побережье <place place_type="water_body">Чёрного моря</place>. Здесь были дворцы и
                 имения <person person_type="tsar">царя</person>, царской семьи и придворной знати,
-                которые оставили всю землю себе. Очень мало земли получили крестьяне и на <territory
+                которые оставили всю землю себе. Очень мало земли получили крестьяне и на <territory id="Украине"
                     territory_type="country">Украине</territory>. Помещики не хотели отдавать им
                 плодородный чернозём. В <territory territory_type="country">Грузии</territory>
                 крестьяне, кроме огромного выкупа, должны были много лет по-прежнему работать на
@@ -2963,9 +2963,9 @@
                 земельные наделы за более низкую иену, чем в остальных губерниях, а в <territory
                     territory_type="country">Польше</territory> бесплатно. Это нужно было царю,
                 чтобы привлечь на свою сторону крестьян против польских помещиков. </p>
-            <p> Завоевание <territory territory_type="region">Средней Азии</territory>. В то же
+            <p> Завоевание <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>. В то же
                 время царь <person person_type="tsar">Александр II</person> начал решительные
-                завоевания в <territory territory_type="region">Средней Азии</territory>. </p>
+                завоевания в <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>. </p>
             <p> Укрепившись в захваченном <territory territory_type="country"
                 >Казахстане</territory>, царская <territory territory_type="country"
                     >Россия</territory> в течение 10 лет завоевала <territory
@@ -3287,7 +3287,7 @@
             <p> В те же годы жили и великие русские художники <person person_type="artist">Илья
                     Ефимович Репин</person> и <person person_type="artist">Василий Иванович
                     Суриков</person>. <person person_type="artist">Репин</person> родился на
-                    <territory territory_type="country">Украине</territory> в семье солдата и с
+                <territory id="Украине" territory_type="country">Украине</territory> в семье солдата и с
                 детства любил рисовать. <person person_type="artist">Суриков</person> родился в
                     <territory territory_type="region">Сибири</territory> в <people
                     people_type="class">казацкой</people> семье. <person person_type="artist"
@@ -3427,7 +3427,7 @@
             <p> Ленинская «Искра» подготовила создание партии <people people_type="job"
                     >большевиков</people>. </p>
             <p> Борьба рабочих разгоралась и скоро охватила окраины <territory
-                    territory_type="country">России</territory>, в том числе и <territory
+                    territory_type="country">России</territory>, в том числе и <territory id="Закавказье"
                     territory_type="region">Закавказье</territory>, где вёл работу с конца
                 девяностых годов прошлого века ученик <person person_type="politician"
                     >Ленина</person> товарищ <person person_type="politician">Сталин</person>. </p>
@@ -3474,7 +3474,7 @@
                     <territory territory_type="country">России</territory> поднялся уже на открытую
                 политическую борьбу с царской властью. </p>
             <p> Крестьянское движение. За рабочими поднялись и крестьяне. Весной и летом 1902 года
-                на <territory territory_type="country">Украине</territory> и в <place
+                на <territory id="Украине" territory_type="country">Украине</territory> и в <place
                     place_type="river">Поволжье</place> борьба крестьян охватила больше 300 сёл и
                 деревень. Крестьяне уничтожали помещичьи имения, делили между голодными помещичий
                 хлеб, захватывали помещичьи земли. </p>
@@ -3555,7 +3555,7 @@
             <p> Передовые рабочие крепко верили <person person_type="politician">Ленину</person> и
                     <person person_type="politician">Сталину</person>. Таких рабочих тогда были
                 тысячи. </p>
-                <p> <date date_type="minor" year="1903" month="Summer">Под руководством РСДРП летом 1903 года в крупных городах <territory
+                <p> <date date_type="minor" year="1903" month="Summer">Под руководством РСДРП летом 1903 года в крупных городах <territory id="Украине"
                     territory_type="country">Украины</territory> и <territory
                     territory_type="region">Кавказа</territory> произошли первые всеобщие стачки
                 рабочих</date>. Остановились все фабрики и заводы. Рабочие собирались тысячами на улицах и
@@ -3666,7 +3666,7 @@
                 на эти организации, они выгнали из деревень <territory territory_type="country"
                     >Латвии</territory> и <territory territory_type="country">Эстонии</territory>
                 помещиков — немецких баронов. </p>
-            <p> Крестьяне <territory territory_type="country">Украины</territory> и <territory
+            <p> Крестьяне <territory id="Украине" territory_type="country">Украины</territory> и <territory
                     territory_type="country">Белоруссии</territory> также поднялись на борьбу с
                 царским правительством и помещиками. </p>
             <p> III съезд РСДРП. <date date_type="minor" year="1905" month="4">В <place place_type="city">Лондоне</place> в апреле 1905 года по
@@ -3691,7 +3691,7 @@
                 огромной энергией стали проводить в жизнь решения съезда. </p>
             <p> В это же время вместе с <person person_type="politician">Лениным</person> руководил
                 борьбой за победу революции <person person_type="politician">Сталин</person>,
-                работавший в <territory territory_type="region">Закавказье</territory>. <person
+                работавший в <territory id="Закавказье" territory_type="region">Закавказье</territory>. <person
                     person_type="politician">Сталин</person> укреплял здесь <people
                     people_type="job">большевистские</people> комитеты, подготовлял <people
                     people_type="job">большевистский</people> съезд, создал подпольную типографию,
@@ -3777,7 +3777,7 @@
                     place_type="city">московских</place> рабочих. </p>
             <p> В ноябре 1905 года из-за границы приехал <person person_type="politician"
                     >Ленин</person>. Он руководил работой партии и борьбой трудящихся. </p>
-            <p> Тем временем в <territory territory_type="region">Закавказье</territory>
+            <p> Тем временем в <territory id="Закавказье" territory_type="region">Закавказье</territory>
                 <person person_type="politician">Сталин</person> также твёрдо, по-ленински готовил
                 трудящихся к боям с царём и его слугами. Он разоблачал <people people_type="job"
                     >меньшевиков</people>, которые были против подготовки вооружённого восстания.
@@ -3862,15 +3862,15 @@
                 помогали им в этом. Царь и помещики посылали карательные отряды и подавляли
                 восстания крестьян. </p>
             <p> Вооружённые восстания угнетённых народов <territory territory_type="country"
-                    >России</territory>. В <territory territory_type="region">Закавказье</territory>
+                    >России</territory>. В <territory id="Закавказье" territory_type="region">Закавказье</territory>
                 под руководством товарища <person person_type="politician">Сталина</person> рабочие
-                и крестьяне храбро дрались с царскими войсками. Вся <territory
+                и крестьяне храбро дрались с царскими войсками. Вся <territory id="Грузия"
                     territory_type="country">Грузия</territory> была охвачена восстанием. В
                     <territory territory_type="country">Грузию</territory> была брошена масса
                 царских войск. Не раз вступали с ними в бои грузинские рабочие и крестьяне. </p>
             <p> В декабре 1905 года много городов и селений <territory territory_type="country"
                     >Грузии</territory> пылало, как костры, зажжённые царскими войсками. </p>
-            <p> На <territory territory_type="country">Украине</territory> первые вспышки
+            <p> На <territory id="Украине" territory_type="country">Украине</territory> первые вспышки
                 вооружённого восстания начались ещё во время всеобщей октябрьской стачки. Наиболее
                 крупное восстание в декабре 1905 года произошло в <territory territory_type="region"
                     >Донбассе</territory>: в <place place_type="city">Горловке</place> и <place
@@ -3943,7 +3943,7 @@
             <p> Царские чиновники составили новый закон о выборах в <people people_type="job"
                     >думу</people>. Права рабочих и крестьян были еще более уменьшены. Избирательных
                 прав в <people people_type="job">думу</people> были лишены все народы <territory
-                    territory_type="region">Сибири</territory> и <territory territory_type="region"
+                    territory_type="region">Сибири</territory> и <territory id="Средней_Азии" territory_type="region"
                     >Средней Азии</territory>, урезаны права народов <territory
                     territory_type="region">Кавказа</territory> и <territory
                         territory_type="country">Польши</territory>. И когда <date date_type="major" year="1907" month="Fall">осенью 1907 года собралась
@@ -4170,7 +4170,7 @@
                 населением. Особенно жадно домогались захватов германские капиталисты и помещики.
                     <territory territory_type="country">Германия</territory> стремилась отхватить у
                     <territory territory_type="country">Англии</territory> её некоторые африканские
-                колонии, у <territory territory_type="country">России</territory> — <territory
+                    колонии, у <territory territory_type="country">России</territory> — <territory id="Украине"
                     territory_type="country">Украину</territory>, <territory
                     territory_type="country">Польшу</territory>, Прибалтику; <territory
                     territory_type="country">Россия</territory> стремилась отхватить у <territory
