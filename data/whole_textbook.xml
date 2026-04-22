@@ -191,8 +191,8 @@
                 владений <people people_type="ethnicity">гуннов</people> на <place
                     place_type="river">Волге</place> образовалось государство кочевников <people
                     people_type="ethnicity">хазар</people>, а выше по <place place_type="river"
-                    >Волге</place> — государство <people people_type="ethnicity"
-                >болгар</people></date>.</p>
+                        >Волге</place> — государство <people people_type="ethnicity"
+                            >болгар</people></date>.</p>
             <p>С <people id="хазар" people_type="ethnicity">хазарами</people> и <people id="болгар" people_type="ethnicity"
                     >болгарами</people> много лет воевали жившие по соседству с ними славянские
                 племена.</p>
@@ -211,10 +211,10 @@
                     >белорусов</people>.</p>
             <p>На востоке их соседями были приволжские племена — предки современных <people
                     id="мари" people_type="ethnicity">мари</people>, <people id="мордвы" people_type="ethnicity"
-                    >мордвы</people> и других народов, а дальше — <people people_type="ethnicity"
-                    >болгарское</people> и <people people_type="ethnicity">хазарское</people>
+                        >мордвы</people> и других народов, а дальше — <people id="болгар" people_type="ethnicity"
+                            >болгарское</people> и <people id="хазар" people_type="ethnicity">хазарское</people>
                 государства. На юге <people id="Славяне" people_type="ethnicity">славяне</people> воевали с
-                кочевниками <territory territory_type="region">причерноморских степей</territory>.
+                кочевниками <territory id="степях" territory_type="region">причерноморских степей</territory>.
                 Воевали они и с богатым и культурным для того времени греческим государством
                     <territory territory_type="kingdom">Византией</territory>. Греческие мастера
                 строили замечательные здания, дворцы и церкви. У <people people_type="ethnicity"
@@ -227,7 +227,7 @@
                     territory_type="kingdom">Византии</territory> — <place place_type="city"
                     >Царьград</place></date>.</p>
             <p>На западе <people people_type="ethnicity">славянам</people> приходилось воевать с
-                германскими племенами и <people people_type="ethnicity">варягами</people>.</p>
+                германскими племенами и <people id="варягами" people_type="ethnicity">варягами</people>.</p>
             <p>Занятия <people people_type="ethnicity">славян</people>. Древние <people id="Славяне"
                     people_type="ethnicity">славяне</people> занимались охотой и сбором мёда диких
                 пчёл. Позже главным их занятием стало земледелие. <people id="Славяне" people_type="ethnicity"
@@ -689,7 +689,7 @@
                 объявить себя самостоятельными князьями.</p>
             <p><person person_type="knyaz">Всеволод</person> снарядил несколько походов на <place
                     place_type="city">Новгород</place> и распространил свою власть на <place
-                    place_type="city">Киев</place>. Он воевал с <people people_type="ethnicity"
+                        place_type="city">Киев</place>. Он воевал с <people id="болгар" people_type="ethnicity"
                     >болгарами</people> и <people people_type="ethnicity">мордвой</people> на <place
                     place_type="river">Волге</place>. По <person person_type="knyaz"
                     >Всеволоду</person> не удалось установить прочную власть над другими мелкими
@@ -763,7 +763,7 @@
                     person_type="foreign_leader">Батый</person> — внук умершего <person
                     person_type="foreign_leader">Чингис-хана</person>. На этот раз монголы напали на
                 <people people_type="ethnicity">русских</people> с востока. <date date_type="minor" year="1240"><person
-                    person_type="foreign_leader">Батый</person> разгромил царство волжских <people
+                        person_type="foreign_leader">Батый</person> разгромил царство волжских <people id="болгар"
                         people_type="ethnicity">болгар</people> и <people id="мордвы" people_type="ethnicity"
                     >мордву</people>, затем поодиночке перебил войска русских князей, в 1240 году взял <place place_type="city">Киев</place>
                 и пошёл на Западную Европу</date>. Получив отпор от <people people_type="ethnicity"
@@ -4185,7 +4185,7 @@
                 назывался Антантой. В другом лагере — <territory territory_type="country"
                     >Германия</territory>, <territory territory_type="kingdom"
                     >Австро-Венгрия</territory>, <territory territory_type="country"
-                    >Турция</territory> и <territory territory_type="country">Болгария</territory>.
+                        >Турция</territory> и <territory id="Болгария" territory_type="country">Болгария</territory>.
                 Антанту поддерживали почти все государства Европы. С ними в союзе были <territory
                     territory_type="country">Япония</territory> и <territory
                     territory_type="country">Соединённые Штаты Америки</territory>. </p>
