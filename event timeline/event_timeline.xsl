@@ -6,7 +6,7 @@
     <xsl:template match="/">
     <html>
         <head>
-            <link rel="stylesheet" type="text/css" href="event timeline.css" />
+            <link rel="stylesheet" type="text/css" href="event_timeline.css" />
         </head>
         <body>
         <div class="timeline">
