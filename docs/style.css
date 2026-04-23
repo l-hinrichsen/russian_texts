@@ -151,3 +151,47 @@ ul{
     margin: 0;
     overflow: hidden;
 }
+
+/* =====FOR POPUPS===== */
+.people {color: blue;} 
+.person {color: blue;} 
+.place {color: blue;} 
+.event {color: blue;}
+.territory {color: blue;}
+
+/* container */
+.popup {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* the tooltip box */
+.popup .popuptext {
+  visibility: hidden;
+  opacity: 0;
+  min-width: 180px;
+  max-width: 300px;
+
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding: 6px 8px;
+  border-radius: 6px;
+
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+
+  /*overflow */
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+/* show on hover */
+.popup:hover .popuptext {
+  visibility: visible;
+  opacity: 1;
+}

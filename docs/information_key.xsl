@@ -6,6 +6,7 @@
     version="3.0">
   
     <xsl:variable name="territories" as="map(xs:string, xs:string)">
+    <xsl:map>
     <xsl:map-entry key="'СССР'" select="'The Union of Soviet Socialist Republics (abbv. USSR) was a socialist state that
         spanned across Eastern Europe, the Caucasus, and Central Asia. Founded after the Russian
         Civil War, its first leader would be Vladimir Lenin, after which was followed by Joseph
@@ -273,9 +274,11 @@
     <xsl:map-entry key="'Италии'" select="'Italy is a country in Southern Europe, bordering countries such as France,
         Switzerland, and Austria. Italian architects have been a keystone in Russian architecture,
         with rumors of St. Basils Cathedral in Moscow having been constructed by Italians.'"/>
+    </xsl:map>
     </xsl:variable>
     <!--    END OF TERRITORIES AND BEGINNING OF PLACES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <xsl:variable name="place" as="map(xs:string, xs:string)">
+    <xsl:map>
     <xsl:map-entry key="'Арарата'" select="'Mount Ararat is a mountain located in modern day Turkey. The mountain holds
         immense cultural significance in Armenian culture, as it is believed that this mountain is
         where Noahs Ark landed after the flood.'"/>
@@ -584,9 +587,11 @@
 
     <xsl:map-entry key="'Петрограда'" select="'Petrograd is an alternate name for the city of St. Petersburg. The name was
         changed during WWI in order to remove the German influence in the citys title.'"/>
+    </xsl:map>
     </xsl:variable>
     <!--    END OF PLACES AND BEGINNING OF PERSONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <xsl:variable name="person" as="map(xs:string, xs:string)">
+    <xsl:map>
     <xsl:map-entry key="'Аттила'" select="'Attila the Hun (r. 434-453) was a prolific king of the Huns. Under his
         leadership, the Huns would successfully invade Gaul and Italy.'"/>
 
@@ -985,9 +990,11 @@
         well above quota, leading to the Stakhanovite movement that promoted worker productivity.'"/>
     
     <xsl:map-entry key="'Мария_Демченко'" select="'Maria Demchenko was a farmer known for promoting collective farming, specifically for beets.'"/>
+    </xsl:map>
     </xsl:variable>
     <!--    END OF PERSONS AND BEGINNING OF PEOPLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <xsl:variable name="people" as="map(xs:string, xs:string)">
+    <xsl:map>
     <xsl:map-entry key="'узбеков'" select="'The Uzbeks are the people of modern day Uzbekistan, and are Turkic by
         ethnicity.'"/>
 
@@ -1155,27 +1162,32 @@
     <xsl:map-entry key="'меньшевиками'" select="'The Mensheviks were a radical communist party that split off from the
         Bolsheviks in 1903. While still extremely radical, the Mensheviks were more open to
         political compromise, and would fight the Bolsheviks in the Russian Civil War.'"/>
+    </xsl:map>
+    </xsl:variable>
+<xsl:variable name="religion" as="map(xs:string, xs:string)">
+    <xsl:map>
+    <xsl:map-entry key="'греческой_верой'" select="'When mentioning the Greek faith, the text is referring specifically
+        to Orthodox Christianity.'"/>
 
-    <religion_греческой_верой> When mentioning the "Greek faith", the text is referring specifically
-        to Orthodox Christianity. </religion_греческой_верой>
+    <xsl:map-entry key="'христианство'" select="'Typically when talking about Christianity, this text is referring to
+        Orthodox Christianity.'"/>
 
-    <religion_христианство> Typically when talking about Christianity, this text is referring to
-        Orthodox Christianity. </religion_христианство>
-
-    <religion_языческая> Rus' paganism was the religion that preceded their adoption of
+    <xsl:map-entry key="'языческая'" select="'Rus paganism was the religion that preceded their adoption of
         Christianity. Specific deities include the god of beasts and war, Volos, and the god of
-        thunder, Perun. </religion_языческая>
-
-    <system_крепостнический_строй> Serfdom was the legal system that bound Russian peasants to a
+        thunder, Perun.'"/>
+    </xsl:map>
+    </xsl:variable>
+<xsl:variable name="system" as="map(xs:string, xs:string)">
+    <xsl:map>
+    <xsl:map-entry key="'крепостнический_строй'" select="'Serfdom was the legal system that bound Russian peasants to a
         member of the gentry and the land they owned, becoming popular in the 16th century. Serfdom
         was the cause of many uprisings and revolts in Russian history, and was a political sticking
-        point among Russian intellectuals. Serfdom would be abolished by Alexander II in 1861. </system_крепостнический_строй>
-
-    <gov_Совет_Народных_Комиссаров> The Council of People's Commissars was an administrative unit
+        point among Russian intellectuals. Serfdom would be abolished by Alexander II in 1861.'"/>
+    <xsl:map-entry key="'Совет_Народных_Комиссаров'" select="'The Council of Peoples Commissars was an administrative unit
         within the Soviet Union formed after the October Revolution, and was responsible for most
-        issues relating to the state. The members of the Council of People's Commissars were the
-        highest ranking executive authorities, and the council would be disbanded by 1946.
-    </gov_Совет_Народных_Комиссаров>
+        issues relating to the state. The members of the Council of Peoples Commissars were the
+        highest ranking executive authorities, and the council would be disbanded by 1946.'"/>
+    </xsl:map>
     </xsl:variable>
 </xsl:stylesheet>
 
