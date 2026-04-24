@@ -32,8 +32,13 @@ textbook = element textbook {book_title, section*, chapter*}
                 gov_type = attribute gov_type {"executive" | "legislative" | "judiciary" }
             organization = element organization {id?, organization_type, text}
                 organization_type = attribute organization_type {"agriculture"}
+            
+            #rhetoric marks up strong language for the propaganda timeline/chart; attribute types are from the US IPA's list (linked on website)
             rhetoric = element rhetoric {type,text}
 	               type= attribute type {"nc" |"generality" |"transfer" |"testimonial" |"pf" |"stacking" |"bw"}
+	               
+	        #date element used for the event timeline
+	        #includes id? so that elements inside <date> may still have the @id attribute and a popup
             date = element date {id?, date_type, mixed{(year | month | day)*}, mixed{ a | b | c | d | e | f | g | h | i | j | k}*, text}
                 date_type = attribute date_type {"major" | "minor"}
                 year = attribute year {xsd:int}
