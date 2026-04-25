@@ -118,11 +118,11 @@ summary:hover{
 }
 
                 /*CORPUS TEXT*/
-/*ul{
+ul{
     list-style-type: none;
     text-align: left;
     text-overflow: ellipsis;
-}*/
+}
 .toc_container{
     gap: 20px;
     display: flex;
