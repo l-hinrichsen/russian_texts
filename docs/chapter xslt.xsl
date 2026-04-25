@@ -7,7 +7,7 @@
     version="3.0">
     
     
-    <xsl:import href="information_key.xsl"/>
+    <xsl:import href="information_key.xsl"/> <!--eventch want to add inline css to highlight current chapter-->
     
     <xsl:template match="/">
         <xsl:for-each select="//chapter">
@@ -30,7 +30,9 @@
                             <a href="../analysis.html">Analysis</a>
                         </nav>
                     </header>
-                    
+                 <!-- OK so this is all new eek -->
+                    <main class="main_sidebar">
+                    <button class="openbtn" onclick="openNav()">&#9776; Toggle Sidepanel</button> <!-- i want the TOC to be a sidepanel-->
                     <!--header w chapter name-->
                     <h1 id="chapter{$n}">
                         <xsl:value-of select="title"/>
@@ -40,7 +42,7 @@
                     <div class="toc_container">
                        <div class="toc">
                            <ul>
-                               <xsl:apply-templates select="//chapter"/>
+                               <xsl:apply-templates select="//section"/> <!--olga's changes: im want to make everything go under sections and then chapter bc there's just not rookm on the page for 67 chapters-->
                            </ul>
                        </div>
                        <div class = "text">
@@ -57,6 +59,7 @@
                             </div>
                     </div>
                     </div>
+                   </main>
                 </body>
             </html>
             </xsl:result-document>
@@ -185,12 +188,33 @@
         </span>
     </xsl:template>
     
+    <!--template for section for toc-->
+    <xsl:template match="section">
+        <li class="section">
+            
+            <div class="section-title">
+                <xsl:value-of select="section_title"/>
+            </div>
+            
+            <ul>
+                <xsl:for-each select="chapter">
+                    <li>
+                        <a href="chapter{title/@n}.html#chapter{title/@n}">
+                            <xsl:value-of select="title"/>
+                        </a>
+                    </li>
+                </xsl:for-each>
+            </ul>
+            
+        </li>
+    </xsl:template>
+    
     <!--template for table of contents-->
-    <xsl:template match="chapter">
+    <!--<xsl:template match="chapter">
         <li>
             <a href="chapter{title/@n}.html#chapter{title/@n}">
                 <xsl:value-of select="title"/>
             </a>
         </li>
-    </xsl:template>
+    </xsl:template>-->
 </xsl:stylesheet>
