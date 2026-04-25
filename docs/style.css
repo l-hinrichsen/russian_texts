@@ -150,6 +150,11 @@ ul{
     flex-grow: 1;
     min-width: 0;
 }
+/* HIGHLIGHTS CURRENT PAGE*/
+.current{
+    background-color: #d6ae91;
+    color: red;
+}
 .main_TOC{   /*chapter0*/
     text-align: center;
     font-size: 18px;
