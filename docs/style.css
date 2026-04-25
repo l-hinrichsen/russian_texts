@@ -1,5 +1,8 @@
                      /* BASELINE STYLING */
-body{
+*{ /* I just thought this would be fun lol*/
+    scrollbar-color: #8b0000 #fff7e7;
+}
+ body{
     background-color: #fff7e7; /* this is like a beige sortof thing */
     font-family: sans-serif;
     text-align: center;
