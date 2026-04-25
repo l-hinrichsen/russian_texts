@@ -118,24 +118,37 @@ summary:hover{
 }
 
                 /*CORPUS TEXT*/
-ul{
+/*ul{
     list-style-type: none;
     text-align: left;
     text-overflow: ellipsis;
-}
+}*/
 .toc_container{
     gap: 20px;
     display: flex;
     align-items: flex-start;
 }
 .toc{
-    width: 30%;
+    width: 40%;
     background-color: #ffe0c0;
+    flex: 0 0 30%;
+    min-width: 0;
+
+}
+.toc li a { /* TEMP WE'LL SEE */
+   display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.toc li { min-width: 0; 
 }
 .text{
     display: flex;
     flex-direction: column;
     flex-grow: 1;
+    min-width: 0;
 }
 .main_TOC{   /*chapter0*/
     text-align: center;

@@ -13,52 +13,54 @@
         <xsl:for-each select="//chapter">
             <xsl:variable name="n" as="xs:int" select="title/@n"/>
             <xsl:result-document href="chapters/chapter{$n}.html">
-            
-            <html>
-                <head>
-                    <title>History of the USSR</title>
-                    <link rel="stylesheet" type="text/css" href="../style.css" />
-                </head>
-                <!-- start of document-->
-                <body>
-                    <!-- navigation bar here-->
-                    <header>
-                        <nav>
-                            <a href="../index.html">Home</a>
-                            <a href="../corpus.html">Corpus</a>
-                            <a href="../methodology.html">Methodology</a>
-                            <a href="../analysis.html">Analysis</a>
-                        </nav>
-                    </header>
-                    
-                    <!--header w chapter name-->
-                    <h1 id="chapter{$n}">
-                        <xsl:value-of select="title"/>
-                    </h1>
-                    
-                    <!--table of contents-->
-                    <div class="toc_container">
-                       <div class="toc">
-                           <ul>
-                               <xsl:apply-templates select="//chapter"/>
-                           </ul>
-                       </div>
-                       <div class = "text">
-                    <xsl:apply-templates select="p"/>
-                       </div>
-                    <div class="buttons">
-                       <!-- go back-->
-                            <div class="back">
-                        <a href = "chapter{$n - 1}.html">Back</a>
+                
+                <html>
+                    <head>
+                        <title>History of the USSR</title>
+                        <link rel="stylesheet" type="text/css" href="../style.css" />
+                    </head>
+                    <!-- start of document-->
+                    <body>
+                        <!-- navigation bar here-->
+                        <header>
+                            <nav>
+                                <a href="../index.html">Home</a>
+                                <a href="../corpus.html">Corpus</a>
+                                <a href="../methodology.html">Methodology</a>
+                                <a href="../analysis.html">Analysis</a>
+                            </nav>
+                        </header>
+                        
+                        <!--header w chapter name-->
+                        <h1 id="chapter{$n}">
+                            <xsl:value-of select="title"/>
+                        </h1>
+                        
+                        <!--table of contents-->
+                        <div class="toc_container">
+                            <div class="toc">
+                                <ul>
+                                    <xsl:apply-templates select="//chapter">
+                                        <xsl:with-param name="current_chap" select="$n"/> <!-- basically this adds a global parameter that keeps track of which chapter we're on-->
+                                    </xsl:apply-templates>
+                                </ul>
                             </div>
-                       <!--go forward-->
-                            <div class="forward">
-                        <a href = "chapter{$n + 1}.html">Forward</a>
+                            <div class = "text">
+                                <xsl:apply-templates select="p"/>
                             </div>
-                    </div>
-                    </div>
-                </body>
-            </html>
+                            <div class="buttons">
+                                <!-- go back-->
+                                <div class="back">
+                                    <a href = "chapter{$n - 1}.html">Back</a>
+                                </div>
+                                <!--go forward-->
+                                <div class="forward">
+                                    <a href = "chapter{$n + 1}.html">Forward</a>
+                                </div>
+                            </div>
+                        </div>
+                    </body>
+                </html>
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
@@ -68,7 +70,7 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     
-<!--======section for information keys ==========-->
+    <!--======section for information keys ==========-->
     <!--territory-->
     <xsl:template match="territory">
         <span class="popup">
@@ -187,7 +189,9 @@
     
     <!--template for table of contents-->
     <xsl:template match="chapter">
-        <li>
+        <xsl:param name="current_chap" as="xs:int"/>
+        
+        <li class="{if (title/@n = $current_chap) then 'current' else ''}">
             <a href="chapter{title/@n}.html#chapter{title/@n}">
                 <xsl:value-of select="title"/>
             </a>
