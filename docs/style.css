@@ -216,3 +216,10 @@ ul{
   visibility: visible;
   opacity: 1;
 }
+
+.event_timeline {
+    width: 100rem;
+    height: 40rem;
+    border: none;
+    overflow-y: hidden;
+}
