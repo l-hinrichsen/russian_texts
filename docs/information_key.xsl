@@ -999,6 +999,9 @@
         well above quota, leading to the Stakhanovite movement that promoted worker productivity.'"/>
     
     <xsl:map-entry key="'Мария_Демченко'" select="'Maria Demchenko was a farmer known for promoting collective farming, specifically for beets.'"/>
+        <xsl:map-entry key="'Бусыгин'"/>
+        <xsl:map-entry key="'Паши_Ангелиной'"/>
+        <xsl:map-entry key="'Павлов'"/>
     </xsl:map>
     </xsl:variable>
     <!--    END OF PERSONS AND BEGINNING OF PEOPLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
