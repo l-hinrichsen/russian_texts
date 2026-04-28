@@ -912,7 +912,7 @@
         the most prolific members of the party, he authorized the assassination of Nicholas II, but
         died unexpectedly in 1919.'"/>
 
-    <xsl:map-entry key="'С._М._Киров'" select="'Sergei Kirov was a Russian Bolshevik and head of the Cumminist Party in St.
+    <xsl:map-entry key="'С._М._Киров'" select="'Sergei Kirov was a Russian Bolshevik and head of the Comminist Party in St.
         Petersburg. Kirov would be assassinated in 1934, albeit not by Joseph Stalin.'"/>
 
     <xsl:map-entry key="'Г._К._Орджоникидзе'" select="'Sergo Ordzhonikidze was a Georgian Bolshevik known for leading the
