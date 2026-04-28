@@ -3,49 +3,56 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <link rel="stylesheet" type="text/css" href="event_timeline.css">
-      <title>Event Timeline</title>
    </head>
-   <body>
-      <div class="timeline">
+   <body><button style="position: fixed; right: 0; border: 4px solid#8b0000;margin: 20px;padding: 10px;background-color: #dc8546;" onclick="myFunction()">Hide Minor Events</button><script>
+                function myFunction() {
+                const div = document.getElementById("minor");
+                if (div.style.display === "none") {
+                div.style.display = "block";
+                } else {
+                div.style.display = "none";
+                }
+                }
+            </script><div class="timeline">
          <ul>
-            <div class="container" id="1">
+            <div class="container" order="1" id="major">
                <div class="content">
                   <li><strong>300</strong><br>В IV веке нашей эры на греческие города напали сильные кочевники гунны и разгромили
                      их</li>
                </div>
             </div>
-            <div class="container" id="2">
+            <div class="container" order="2" id="major">
                <div class="content">
                   <li><strong>400</strong><br>в V веке из степей
                      Причерноморья пошёл походом на народы Западной Европы и покорил многие из них</li>
                </div>
             </div>
-            <div class="container" id="3">
+            <div class="container" order="3" id="major">
                <div class="content">
                   <li><strong>500</strong><br>В VI веке на месте
                      владений гуннов на Волге образовалось государство кочевников хазар, а выше по Волге
                      — государство болгар</li>
                </div>
             </div>
-            <div class="container" id="5">
+            <div class="container" order="5" id="minor">
                <div class="content">
                   <li><strong>800</strong><br>К IX веку образовалось несколько славянских княжеств</li>
                </div>
             </div>
-            <div class="container" id="6">
+            <div class="container" order="6" id="minor">
                <div class="content">
                   <li><strong>800</strong><br>В IX веке на земли славян, живших вокруг Новгорода и по Днепру, совершали
                      набеги разбойничьи шайки варягов — жителей Скандинавии</li>
                </div>
             </div>
-            <div class="container" id="4">
+            <div class="container" order="4" id="major">
                <div class="content">
                   <li><strong>850</strong><br>храбрые и мужественные славяне нередко били греческие войска. В середине IX века они
                      вели
                      успешную войну с греками и даже нападали на столицу Византии — Царьград</li>
                </div>
             </div>
-            <div class="container" id="7">
+            <div class="container" order="7" id="major">
                <div class="content">
                   <li><strong>
                         Early
@@ -54,36 +61,36 @@
                      Русью</li>
                </div>
             </div>
-            <div class="container" id="201">
+            <div class="container" order="201" id="minor">
                <div class="content">
                   <li><strong>911</strong><br>911 Договор Олега с греками</li>
                </div>
             </div>
-            <div class="container" id="202">
+            <div class="container" order="202" id="major">
                <div class="content">
                   <li><strong>988</strong><br>988 Введение христианства на Руси</li>
                </div>
             </div>
-            <div class="container" id="8">
+            <div class="container" order="8" id="minor">
                <div class="content">
                   <li><strong>1000</strong><br>В XI веке князья и бояре очень усилили угнетение
                      народа</li>
                </div>
             </div>
-            <div class="container" id="9">
+            <div class="container" order="9" id="minor">
                <div class="content">
                   <li><strong>1000</strong><br>Много восстаний в XI и XII веках
                      было в Киеве, Новгороде и других городах</li>
                </div>
             </div>
-            <div class="container" id="11">
+            <div class="container" order="11" id="minor">
                <div class="content">
                   <li><strong>1100</strong><br>В XII веке Киевское княжество разделилось между
                      сыновьями, внуками и родственниками Владимира
                      Мономаха</li>
                </div>
             </div>
-            <div class="container" id="12">
+            <div class="container" order="12" id="minor">
                <div class="content">
                   <li><strong>1100</strong><br>в XII веке
                      разбогатели и усилились на западе от Киева
@@ -92,19 +99,19 @@
                      Новгородское княжества</li>
                </div>
             </div>
-            <div class="container" id="10">
+            <div class="container" order="10" id="minor">
                <div class="content">
                   <li><strong>1113</strong><br> В 1113 году в Киеве против княжеской власти, купцов-ростовщиков и
                      богатого Киево-Печерского монастыря восстал
                      угнетённый городской люд</li>
                </div>
             </div>
-            <div class="container" id="203">
+            <div class="container" order="203" id="minor">
                <div class="content">
                   <li><strong>1147</strong><br>1147 Первое упоминание о Москве в летописи</li>
                </div>
             </div>
-            <div class="container" id="13">
+            <div class="container" order="13" id="minor">
                <div class="content">
                   <li><strong>
                         Early
@@ -112,7 +119,7 @@
                      началу XIII века Киев запустел</li>
                </div>
             </div>
-            <div class="container" id="14">
+            <div class="container" order="14" id="minor">
                <div class="content">
                   <li><strong>
                         Early
@@ -121,7 +128,7 @@
                      напали шведы</li>
                </div>
             </div>
-            <div class="container" id="16">
+            <div class="container" order="16" id="minor">
                <div class="content">
                   <li><strong>1200</strong><br>Когда в XIII веке на русские княжества напали завоеватели-монголы, они не встретили
                      здесь настоящего
@@ -130,7 +137,7 @@
                      могла отстоять своей независимости</li>
                </div>
             </div>
-            <div class="container" id="17">
+            <div class="container" order="17" id="major">
                <div class="content">
                   <li><strong>
                         Early
@@ -138,7 +145,7 @@
                      возвысился талантливый полководец Чингис-хан</li>
                </div>
             </div>
-            <div class="container" id="23">
+            <div class="container" order="23" id="major">
                <div class="content">
                   <li><strong>1200</strong><br>К XIII веку литовские
                      племена соединились под властью одного князя и в XIII и XIV веках завладели
@@ -149,64 +156,64 @@
                      захватила город Смоленск</li>
                </div>
             </div>
-            <div class="container" id="18">
+            <div class="container" order="18" id="minor">
                <div class="content">
                   <li><strong>1223</strong><br>Покорив все народы Кавказа,
                      монгольская армия в 1223 году на реке Калке разбила соединённые силы славянских князей
                      и половцев</li>
                </div>
             </div>
-            <div class="container" id="19">
+            <div class="container" order="19" id="minor">
                <div class="content">
                   <li><strong>1240</strong><br>Батый разгромил царство волжских болгар и мордву, затем поодиночке перебил войска
                      русских князей, в 1240 году взял Киев
                      и пошёл на Западную Европу</li>
                </div>
             </div>
-            <div class="container" id="204">
+            <div class="container" order="204" id="minor">
                <div class="content">
                   <li><strong>1240</strong><br>1240 Завоевание Батыем русских княжеств.</li>
                </div>
             </div>
-            <div class="container" id="15">
+            <div class="container" order="15" id="minor">
                <div class="content">
                   <li><strong>1242</strong><br>В 1242 году пытались захватить Новгородскую землю и немецкие рыцари</li>
                </div>
             </div>
-            <div class="container" id="205">
+            <div class="container" order="205" id="minor">
                <div class="content">
                   <li><strong>1242</strong><br>1242 Победа Александра Невского над немецкими рыцарями («Ледовое побейте»)</li>
                </div>
             </div>
-            <div class="container" id="20">
+            <div class="container" order="20" id="minor">
                <div class="content">
                   <li><strong>1300</strong><br>К XIV веку Москва стала столицей небольшого
                      княжества</li>
                </div>
             </div>
-            <div class="container" id="206">
+            <div class="container" order="206" id="major">
                <div class="content">
                   <li><strong>1328</strong><br>1328–1341 Иван Калита первый великий князь московский</li>
                </div>
             </div>
-            <div class="container" id="25">
+            <div class="container" order="25" id="major">
                <div class="content">
                   <li><strong>1336</strong><br>Тамерлан родился в Средней Азии в 1336 году</li>
                </div>
             </div>
-            <div class="container" id="22">
+            <div class="container" order="22" id="minor">
                <div class="content">
                   <li><strong>1380</strong><br>В 1380 году на Куликовом
                      поле, на реке Дон, он разбил войска
                      татар во главе с ханом Мамаем</li>
                </div>
             </div>
-            <div class="container" id="207">
+            <div class="container" order="207" id="minor">
                <div class="content">
                   <li><strong>1380</strong><br>1380 Куликовская битва</li>
                </div>
             </div>
-            <div class="container" id="26">
+            <div class="container" order="26" id="major">
                <div class="content">
                   <li><strong>1395</strong><br>Тамерлан завоевал ряд соседних
                      государств. В 1395 году он разгромил хана
@@ -214,7 +221,7 @@
                      Тохтамыша и этим помог Москве быстрее освободиться от татарского ига</li>
                </div>
             </div>
-            <div class="container" id="21">
+            <div class="container" order="21" id="minor">
                <div class="content">
                   <li><strong>
                         Late
@@ -224,26 +231,26 @@
                      против татарского ига</li>
                </div>
             </div>
-            <div class="container" id="28">
+            <div class="container" order="28" id="major">
                <div class="content">
                   <li><strong>1400</strong><br>В XV веке Среднюю Азию завоевали
                      кочевники-узбеки, жившие раньше на
                      землях современного Казахстана</li>
                </div>
             </div>
-            <div class="container" id="27">
+            <div class="container" order="27" id="major">
                <div class="content">
                   <li><strong>1405</strong><br>После смерти Тамерлана в 1405 году завоёванные им
                      государства постепенно снова стали самостоятельными</li>
                </div>
             </div>
-            <div class="container" id="24">
+            <div class="container" order="24" id="major">
                <div class="content">
                   <li><strong>1410</strong><br>Объединёнными силами польские, литовские и русские войска разгромили немцев при деревне
                      Грюнвальд (1410 г.)</li>
                </div>
             </div>
-            <div class="container" id="33">
+            <div class="container" order="33" id="major">
                <div class="content">
                   <li><strong>1453</strong><br>После взятия Византии
                      турками в 1453
@@ -252,7 +259,7 @@
                      царевне Софье Палеолог</li>
                </div>
             </div>
-            <div class="container" id="29">
+            <div class="container" order="29" id="major">
                <div class="content">
                   <li><strong>1462</strong><br>Для борьбы с татарами и литовско-польскими панами московские князья старались расширить
                      свои владения и укрепить свою
@@ -261,23 +268,23 @@
                      великим князем в 1462 году</li>
                </div>
             </div>
-            <div class="container" id="208">
+            <div class="container" order="208" id="major">
                <div class="content">
                   <li><strong>1462</strong><br>1462–1505 Иван III, великий князь московский</li>
                </div>
             </div>
-            <div class="container" id="31">
+            <div class="container" order="31" id="major">
                <div class="content">
                   <li><strong>1480</strong><br>Так в 1480 году кончилось татаро-монгольское иго, длившееся свыше двухсот
                      лет</li>
                </div>
             </div>
-            <div class="container" id="209">
+            <div class="container" order="209" id="major">
                <div class="content">
                   <li><strong>1480</strong><br>1480 Освобождение Русского государства оттатаро-монгольского ига при Иване III</li>
                </div>
             </div>
-            <div class="container" id="34">
+            <div class="container" order="34" id="major">
                <div class="content">
                   <li><strong>1497</strong><br>Иван III
                      издал в 1497 году закон, по которому крестьянин
@@ -285,7 +292,7 @@
                      день</li>
                </div>
             </div>
-            <div class="container" id="30">
+            <div class="container" order="30" id="major">
                <div class="content">
                   <li><strong>
                         Late
@@ -293,24 +300,24 @@
                      на Новгород</li>
                </div>
             </div>
-            <div class="container" id="32">
+            <div class="container" order="32" id="major">
                <div class="content">
                   <li><strong>1500</strong><br>В 1500 году началась война между Иваном III и польско-литовским королём</li>
                </div>
             </div>
-            <div class="container" id="35">
+            <div class="container" order="35" id="major">
                <div class="content">
                   <li><strong>1547</strong><br>В 1547 году семнадцатилетний Иван IV первым из московских государей объявил себя
                      самодержавным царём и стал управлять государством самостоятельно, не доверяя боярам
                      и опираясь на дворян-помещиков</li>
                </div>
             </div>
-            <div class="container" id="210">
+            <div class="container" order="210" id="major">
                <div class="content">
                   <li><strong>1547</strong><br>1547 Принятие Иваном IV царского титула</li>
                </div>
             </div>
-            <div class="container" id="36">
+            <div class="container" order="36" id="major">
                <div class="content">
                   <li><strong>
                         Fall
@@ -320,13 +327,13 @@
                      ханства</li>
                </div>
             </div>
-            <div class="container" id="37">
+            <div class="container" order="37" id="major">
                <div class="content">
                   <li><strong>1556</strong><br>В 1556 году войска Ивана
                      IV взяли город Астрахань на Волге, столицу ногайских татар</li>
                </div>
             </div>
-            <div class="container" id="39">
+            <div class="container" order="39" id="major">
                <div class="content">
                   <li><strong>1581</strong><br>Богатые
                      владельцы земель на Урале — купцы
@@ -334,38 +341,38 @@
                      казаков, хорошо вооружённый огнестрельным оружием</li>
                </div>
             </div>
-            <div class="container" id="211">
+            <div class="container" order="211" id="minor">
                <div class="content">
                   <li><strong>1581</strong><br>1581 Поход Ермака в Западную Сибирь</li>
                </div>
             </div>
-            <div class="container" id="40">
+            <div class="container" order="40" id="major">
                <div class="content">
                   <li><strong>1584</strong><br>В 1584 году Иван IV умер</li>
                </div>
             </div>
-            <div class="container" id="41">
+            <div class="container" order="41" id="major">
                <div class="content">
                   <li><strong>1598</strong><br>В 1598 году после смерти Федора царём стал Борис Годунов</li>
                </div>
             </div>
-            <div class="container" id="38">
+            <div class="container" order="38" id="major">
                <div class="content">
                   <li><strong>1600</strong><br>В конце XVI века к
                      Московскому царству были присоединены земли Западной Сибири</li>
                </div>
             </div>
-            <div class="container" id="212">
+            <div class="container" order="212" id="minor">
                <div class="content">
                   <li><strong>1606</strong><br>1606–1607 Восстание крестьян и казаков под руководством Болотникова</li>
                </div>
             </div>
-            <div class="container" id="42">
+            <div class="container" order="42" id="major">
                <div class="content">
                   <li><strong>1607</strong><br>В 1607 году Иван Болотников был взят в плен</li>
                </div>
             </div>
-            <div class="container" id="43">
+            <div class="container" order="43" id="major">
                <div class="content">
                   <li><strong>
                         Fall
@@ -374,7 +381,7 @@
                      Москву и заняло Кремль</li>
                </div>
             </div>
-            <div class="container" id="44">
+            <div class="container" order="44" id="major">
                <div class="content">
                   <li><strong>
                         Spring
@@ -382,55 +389,55 @@
                      против польских притеснителей</li>
                </div>
             </div>
-            <div class="container" id="45">
+            <div class="container" order="45" id="major">
                <div class="content">
                   <li><strong>
                         Fall
                         1611</strong><br>Осенью 1611 года русский народ поднялся против польских захватчиков</li>
                </div>
             </div>
-            <div class="container" id="46">
+            <div class="container" order="46" id="major">
                <div class="content">
                   <li><strong>1612</strong><br>В
                      1612 году Кремль был взят, и поляки бежали из Москвы</li>
                </div>
             </div>
-            <div class="container" id="213">
+            <div class="container" order="213" id="major">
                <div class="content">
                   <li><strong>1612</strong><br>1612 Изгнание поляков из Москвы</li>
                </div>
             </div>
-            <div class="container" id="47">
+            <div class="container" order="47" id="major">
                <div class="content">
                   <li><strong>1613</strong><br>В 1613 году в Москве созвали выборных от помещиков,
                      купцов и казаков</li>
                </div>
             </div>
-            <div class="container" id="48">
+            <div class="container" order="48" id="major">
                <div class="content">
                   <li><strong>1646</strong><br>После смерти царя Михаила московским царём стал его сын Алексей. По
                      его распоряжению в 1646 году был введён тяжёлый налог на соль. Этот налог усилил
                      возмущение народа</li>
                </div>
             </div>
-            <div class="container" id="49">
+            <div class="container" order="49" id="major">
                <div class="content">
                   <li><strong>1648</strong><br>В 1648 году в Москве народ поднял «бунт», как называли в то время
                      народные восстания</li>
                </div>
             </div>
-            <div class="container" id="53">
+            <div class="container" order="53" id="major">
                <div class="content">
                   <li><strong>1648</strong><br>В 1648 году украинский народ поднялся на освободительную войну против панского гнёта</li>
                </div>
             </div>
-            <div class="container" id="214">
+            <div class="container" order="214" id="major">
                <div class="content">
                   <li><strong>1648</strong><br>1648 Восстание казаков и крестьян: на Украине под руководством Богдана Хмельницкого
                      против панского гнёта</li>
                </div>
             </div>
-            <div class="container" id="50">
+            <div class="container" order="50" id="major">
                <div class="content">
                   <li><strong>1649</strong><br>В 1649 году они
                      установили для помещиков право разыскивать и
@@ -438,12 +445,12 @@
                      их жизни</li>
                </div>
             </div>
-            <div class="container" id="215">
+            <div class="container" order="215" id="major">
                <div class="content">
                   <li><strong>1649</strong><br>1649 Окончательное закрепощение крестьян</li>
                </div>
             </div>
-            <div class="container" id="51">
+            <div class="container" order="51" id="major">
                <div class="content">
                   <li><strong>1650</strong><br>Восстания ремесленников и городской бедноты продолжались. Особенно большие размеры
                      такое
@@ -451,24 +458,24 @@
                      году</li>
                </div>
             </div>
-            <div class="container" id="55">
+            <div class="container" order="55" id="major">
                <div class="content">
                   <li><strong>1650</strong><br>В середине XVII века у казаков на у не
                      было равенства</li>
                </div>
             </div>
-            <div class="container" id="59">
+            <div class="container" order="59" id="major">
                <div class="content">
                   <li><strong>1651</strong><br>Казак Хабаров со
                      своей дружиной в 1651 году добрался до реки Амур</li>
                </div>
             </div>
-            <div class="container" id="216">
+            <div class="container" order="216" id="major">
                <div class="content">
                   <li><strong>1651</strong><br>1651 Воссоединение Украины с Россией</li>
                </div>
             </div>
-            <div class="container" id="54">
+            <div class="container" order="54" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -476,13 +483,13 @@
                      воссоединении украинского и русского народов в едином государстве</li>
                </div>
             </div>
-            <div class="container" id="52">
+            <div class="container" order="52" id="major">
                <div class="content">
                   <li><strong>1662</strong><br>большое восстание в Москве
                      произошло в 1662 году</li>
                </div>
             </div>
-            <div class="container" id="56">
+            <div class="container" order="56" id="major">
                <div class="content">
                   <li><strong>
                         Spring
@@ -490,50 +497,50 @@
                      и взял его</li>
                </div>
             </div>
-            <div class="container" id="217">
+            <div class="container" order="217" id="minor">
                <div class="content">
                   <li><strong>1670</strong><br>1670–1671 Крестьянское восстание под руководством Разина</li>
                </div>
             </div>
-            <div class="container" id="57">
+            <div class="container" order="57" id="major">
                <div class="content">
                   <li><strong>1671</strong><br>В 1671 году Степан Разин был казнён в Москве</li>
                </div>
             </div>
-            <div class="container" id="218">
+            <div class="container" order="218" id="major">
                <div class="content">
                   <li><strong>1682</strong><br>1682–1725 Царствование Петра I</li>
                </div>
             </div>
-            <div class="container" id="62">
+            <div class="container" order="62" id="major">
                <div class="content">
                   <li><strong>1695</strong><br>В 1695 году Пётр начал войну с Турцией, чтобы пробить дорогу к Чёрному морю</li>
                </div>
             </div>
-            <div class="container" id="58">
+            <div class="container" order="58" id="major">
                <div class="content">
                   <li><strong>1700</strong><br>К концу XVII века под этой властью была почти вся Сибирь</li>
                </div>
             </div>
-            <div class="container" id="60">
+            <div class="container" order="60" id="major">
                <div class="content">
                   <li><strong>1700</strong><br>Заводов и фабрик в России в конце XVII века было очень мало.
                      Они только что впервые появились в России</li>
                </div>
             </div>
-            <div class="container" id="61">
+            <div class="container" order="61" id="major">
                <div class="content">
                   <li><strong>1700</strong><br>В самом конце XVII века русским царём
                      стал сын Алексея — Пётр I</li>
                </div>
             </div>
-            <div class="container" id="63">
+            <div class="container" order="63" id="major">
                <div class="content">
                   <li><strong>1700</strong><br>В 1700 году Пётр I начал войну со
                      шведами за побережье Балтийского моря</li>
                </div>
             </div>
-            <div class="container" id="68">
+            <div class="container" order="68" id="minor">
                <div class="content">
                   <li><strong>
                         January
@@ -543,94 +550,94 @@
                      в настоящее время</li>
                </div>
             </div>
-            <div class="container" id="64">
+            <div class="container" order="64" id="major">
                <div class="content">
                   <li><strong>1703</strong><br>В 1703 году Пётр занял болотистое устье реки Невы,
                      построил здесь крепость и город Петербург (ныне
                      Ленинград), который при Петре стал столицей государства</li>
                </div>
             </div>
-            <div class="container" id="219">
+            <div class="container" order="219" id="minor">
                <div class="content">
                   <li><strong>1703</strong><br>1703 Основание Петербурга (ныне Ленинград)</li>
                </div>
             </div>
-            <div class="container" id="65">
+            <div class="container" order="65" id="major">
                <div class="content">
                   <li><strong>1707</strong><br>В 1707 году поднялось восстание казаков и крестьян на Дону</li>
                </div>
             </div>
-            <div class="container" id="220">
+            <div class="container" order="220" id="minor">
                <div class="content">
                   <li><strong>1707</strong><br>1707 Восстание казаков и крестьян под руководством Булавина</li>
                </div>
             </div>
-            <div class="container" id="66">
+            <div class="container" order="66" id="minor">
                <div class="content">
                   <li><strong>1709</strong><br>Шведские войска были разбиты русской регулярной армией</li>
                </div>
             </div>
-            <div class="container" id="221">
+            <div class="container" order="221" id="minor">
                <div class="content">
                   <li><strong>1709</strong><br>1709 Разгром Петром I шведов под Полтавой</li>
                </div>
             </div>
-            <div class="container" id="67">
+            <div class="container" order="67" id="minor">
                <div class="content">
                   <li><strong>1721</strong><br>В 1721 году после победы над шведами Пётр принял титул императора</li>
                </div>
             </div>
-            <div class="container" id="222">
+            <div class="container" order="222" id="major">
                <div class="content">
                   <li><strong>1721</strong><br>1721 Принятие Петром I титула российского императора</li>
                </div>
             </div>
-            <div class="container" id="69">
+            <div class="container" order="69" id="minor">
                <div class="content">
                   <li><strong>1725</strong><br>Пётр I умер в 1725 году</li>
                </div>
             </div>
-            <div class="container" id="78">
+            <div class="container" order="78" id="minor">
                <div class="content">
                   <li><strong>1731</strong><br>В 1731 году Младший жуз
                      присоединился к России по просьбе хана Абульхайыра</li>
                </div>
             </div>
-            <div class="container" id="71">
+            <div class="container" order="71" id="minor">
                <div class="content">
                   <li><strong>1755</strong><br>По предложению Ломоносова в 1755 году в Москве был основан первый университет</li>
                </div>
             </div>
-            <div class="container" id="70">
+            <div class="container" order="70" id="minor">
                <div class="content">
                   <li><strong>1760</strong><br>Особенно прославились русские войска во время Семилетней войны, когда были разгромлены
                      немецкие войска и был взят город Берлин в 1760 г</li>
                </div>
             </div>
-            <div class="container" id="73">
+            <div class="container" order="73" id="minor">
                <div class="content">
                   <li><strong>1762</strong><br>В 1762 году дворяне посадили на русский престол Екатерину II, убив
                      при её содействии её мужа Петра III</li>
                </div>
             </div>
-            <div class="container" id="72">
+            <div class="container" order="72" id="minor">
                <div class="content">
                   <li><strong>1765</strong><br>Ломоносов умер в
                      1765 году, во время царствования Екатерины II</li>
                </div>
             </div>
-            <div class="container" id="74">
+            <div class="container" order="74" id="minor">
                <div class="content">
                   <li><strong>1773</strong><br>В 1773 году казацкая беднота выступила против своих притеснителей</li>
                </div>
             </div>
-            <div class="container" id="223">
+            <div class="container" order="223" id="minor">
                <div class="content">
                   <li><strong>1773</strong><br>1773–1775 Восстание крестьян, казаков и народов Поволжья и Приуралья под руководством
                      Пугачёва</li>
                </div>
             </div>
-            <div class="container" id="75">
+            <div class="container" order="75" id="minor">
                <div class="content">
                   <li><strong>
                         August
@@ -639,7 +646,7 @@
                      и бежал с остатками своей армии в степь</li>
                </div>
             </div>
-            <div class="container" id="76">
+            <div class="container" order="76" id="minor">
                <div class="content">
                   <li><strong>
                         January
@@ -648,30 +655,30 @@
                      Емельяна Ивановича Пугачёва</li>
                </div>
             </div>
-            <div class="container" id="79">
+            <div class="container" order="79" id="minor">
                <div class="content">
                   <li><strong>1783</strong><br>В 1783 году во главе восставшего казахского народа стал храбрый Сарым Датов</li>
                </div>
             </div>
-            <div class="container" id="83">
+            <div class="container" order="83" id="minor">
                <div class="content">
                   <li><strong>
                         July
                         14, 1789</strong><br>14 июля 1789 года восставший в Париже народ взял штурмом королевскую тюрьму Бастилию</li>
                </div>
             </div>
-            <div class="container" id="224">
+            <div class="container" order="224" id="major">
                <div class="content">
                   <li><strong>1789</strong><br>1789 Начало французской буржуазной революции</li>
                </div>
             </div>
-            <div class="container" id="77">
+            <div class="container" order="77" id="minor">
                <div class="content">
                   <li><strong>1794</strong><br>В 1794 году в Польше под руководством Костюшко произошло восстание поляков за восстановление
                      Польши</li>
                </div>
             </div>
-            <div class="container" id="84">
+            <div class="container" order="84" id="minor">
                <div class="content">
                   <li><strong>1796</strong><br>Екатерина II помогала всем государствам, воюющим с
                      Францией. Она давала Австрии деньги и, уступила Пруссии часть земель Польши, обещала
@@ -680,29 +687,29 @@
                      буржуазной Францией</li>
                </div>
             </div>
-            <div class="container" id="91">
+            <div class="container" order="91" id="minor">
                <div class="content">
                   <li><strong>1799</strong><br>Пушкин родился в 1799 году в Москве, в дворянской семье</li>
                </div>
             </div>
-            <div class="container" id="80">
+            <div class="container" order="80" id="minor">
                <div class="content">
                   <li><strong>1800</strong><br>В первой половине XIX века был присоединен весь Казахстан</li>
                </div>
             </div>
-            <div class="container" id="81">
+            <div class="container" order="81" id="minor">
                <div class="content">
                   <li><strong>1800</strong><br>К концу XVIII века власти России были подчинены и последние земли северных народов
                      Сибири</li>
                </div>
             </div>
-            <div class="container" id="82">
+            <div class="container" order="82" id="major">
                <div class="content">
                   <li><strong>1800</strong><br>В XIX веке русские цари продали
                      Аляску за бесценок американскому правительству, не зная, что на Аляске много золота</li>
                </div>
             </div>
-            <div class="container" id="93">
+            <div class="container" order="93" id="major">
                <div class="content">
                   <li><strong>1800</strong><br>В начале XIX века к
                      России присоединилась Грузия. Вскоре после этого было закончено
@@ -711,7 +718,7 @@
                      игом иранских правителей</li>
                </div>
             </div>
-            <div class="container" id="85">
+            <div class="container" order="85" id="minor">
                <div class="content">
                   <li><strong>1801</strong><br>После одного нападения, когда иранцы увели в плен больше 10 тысяч грузин, царь Грузии
                      обратился за помощью к Павлу I. В столицу Грузии, Тбилиси, были введены царские войска;
@@ -719,25 +726,25 @@
                      царей на Грузию прекратились</li>
                </div>
             </div>
-            <div class="container" id="225">
+            <div class="container" order="225" id="major">
                <div class="content">
                   <li><strong>1801</strong><br>1801 Присоединение Грузии к России</li>
                </div>
             </div>
-            <div class="container" id="86">
+            <div class="container" order="86" id="major">
                <div class="content">
                   <li><strong>1805</strong><br>В 1805 году Александр
                      I , восстановив военный союз с Англией, начал войну с Наполеоном 1,
                      объявившим себя императором Франции</li>
                </div>
             </div>
-            <div class="container" id="87">
+            <div class="container" order="87" id="minor">
                <div class="content">
                   <li><strong>1809</strong><br>Шведский король должен был и 1809 году заключить мир и согласился на передачу
                      России Финляндии</li>
                </div>
             </div>
-            <div class="container" id="88">
+            <div class="container" order="88" id="major">
                <div class="content">
                   <li><strong>
                         Summer
@@ -745,40 +752,40 @@
                      чем в 500 тысяч человек, напал на Россию летом 1812 года</li>
                </div>
             </div>
-            <div class="container" id="226">
+            <div class="container" order="226" id="major">
                <div class="content">
                   <li><strong>1812</strong><br>1812 Война России с Наполеоном I</li>
                </div>
             </div>
-            <div class="container" id="227">
+            <div class="container" order="227" id="major">
                <div class="content">
                   <li><strong>1818</strong><br>1818–1883 Жизнь гениального вождя пролетариата Карла Маркса</li>
                </div>
             </div>
-            <div class="container" id="228">
+            <div class="container" order="228" id="major">
                <div class="content">
                   <li><strong>1820</strong><br>1820–1893 Жизнь гениального вождя пролетариата Фридриха Энгельса</li>
                </div>
             </div>
-            <div class="container" id="89">
+            <div class="container" order="89" id="major">
                <div class="content">
                   <li><strong>1825</strong><br>В 1825 году Александр I
                      умер</li>
                </div>
             </div>
-            <div class="container" id="90">
+            <div class="container" order="90" id="minor">
                <div class="content">
                   <li><strong>
                         December
                         14, 1825</strong><br>14 декабря 1825 года в Петербурге. Николай I приказал стрелять из пушек по восставшим</li>
                </div>
             </div>
-            <div class="container" id="229">
+            <div class="container" order="229" id="major">
                <div class="content">
                   <li><strong>1825</strong><br>1825 Восстание декабристов</li>
                </div>
             </div>
-            <div class="container" id="92">
+            <div class="container" order="92" id="minor">
                <div class="content">
                   <li><strong>
                         Early
@@ -786,7 +793,7 @@
                      своих обидчиков и был убит им в начале 1837 года.</li>
                </div>
             </div>
-            <div class="container" id="95">
+            <div class="container" order="95" id="major">
                <div class="content">
                   <li><strong>
                         February
@@ -794,7 +801,7 @@
                      которая быстро охватила города Франции</li>
                </div>
             </div>
-            <div class="container" id="96">
+            <div class="container" order="96" id="major">
                <div class="content">
                   <li><strong>
                         June
@@ -802,18 +809,18 @@
                      хозяев-капиталистов и буржуазного республиканского правительства</li>
                </div>
             </div>
-            <div class="container" id="230">
+            <div class="container" order="230" id="major">
                <div class="content">
                   <li><strong>1848</strong><br>1848 Буржуазные революции во Франции, Германии и Австро-Венгрии</li>
                </div>
             </div>
-            <div class="container" id="94">
+            <div class="container" order="94" id="minor">
                <div class="content">
                   <li><strong>1853</strong><br>Особенно усилились набеги Шамиля, когда началась в 1853 году война
                      России с Турцией, Англией и Францией</li>
                </div>
             </div>
-            <div class="container" id="97">
+            <div class="container" order="97" id="major">
                <div class="content">
                   <li><strong>1853</strong><br>Крымская война. Чтобы быть полным
                      хозяином на берегах Черного моря, чтобы
@@ -823,17 +830,17 @@
                      ослабевшей к тому времени Турцией</li>
                </div>
             </div>
-            <div class="container" id="231">
+            <div class="container" order="231" id="major">
                <div class="content">
                   <li><strong>1853</strong><br>1853–1856 Крымская война</li>
                </div>
             </div>
-            <div class="container" id="98">
+            <div class="container" order="98" id="major">
                <div class="content">
                   <li><strong>1856</strong><br>В 1856 году в Париже был заключён мир</li>
                </div>
             </div>
-            <div class="container" id="99">
+            <div class="container" order="99" id="major">
                <div class="content">
                   <li><strong>
                         February
@@ -843,47 +850,47 @@
                      крестьян</li>
                </div>
             </div>
-            <div class="container" id="232">
+            <div class="container" order="232" id="major">
                <div class="content">
                   <li><strong>1861</strong><br>1861 Крестьянская реформа</li>
                </div>
             </div>
-            <div class="container" id="100">
+            <div class="container" order="100" id="major">
                <div class="content">
                   <li><strong>1863</strong><br>Созданный польским дворянством «Народный комитет» в 1863 году поднял восстание и
                      объявил себя польским правительством.</li>
                </div>
             </div>
-            <div class="container" id="103">
+            <div class="container" order="103" id="minor">
                <div class="content">
                   <li><strong>1864</strong><br>В 1864 году на съезде представителей рабочих в Лондоне, по предложению Маркса и Энгельса,
                      было
                      основано «Международное товарищество рабочих» — Первый Интернационал</li>
                </div>
             </div>
-            <div class="container" id="233">
+            <div class="container" order="233" id="major">
                <div class="content">
                   <li><strong>1864</strong><br>1864 Основание I Интернационала Марксом и Энгельсом</li>
                </div>
             </div>
-            <div class="container" id="104">
+            <div class="container" order="104" id="major">
                <div class="content">
                   <li><strong>1870</strong><br>В 1870 году началась война между Пруссией и Францией</li>
                </div>
             </div>
-            <div class="container" id="116">
+            <div class="container" order="116" id="major">
                <div class="content">
                   <li><strong>1870</strong><br>В. И. Ленин — вождь рабочего класса и
                      основатель большевизма. Владимир Ильич Ленин
                      (Ульянов) родился в 1870 году в городе Симбирске (теперь Ульяновск)</li>
                </div>
             </div>
-            <div class="container" id="234">
+            <div class="container" order="234" id="major">
                <div class="content">
                   <li><strong>1870</strong><br>1870–1924 Жизнь гениального вождя пролетариата Владимира Ильича Ленина</li>
                </div>
             </div>
-            <div class="container" id="105">
+            <div class="container" order="105" id="major">
                <div class="content">
                   <li><strong>
                         March
@@ -891,98 +898,98 @@
                      рабочего класса</li>
                </div>
             </div>
-            <div class="container" id="106">
+            <div class="container" order="106" id="major">
                <div class="content">
                   <li><strong>
                         May
                         21, 1871</strong><br>21 мая войска Тьера ворвались в Париж</li>
                </div>
             </div>
-            <div class="container" id="235">
+            <div class="container" order="235" id="major">
                <div class="content">
                   <li><strong>1871</strong><br>1871 Парижская Коммуна</li>
                </div>
             </div>
-            <div class="container" id="113">
+            <div class="container" order="113" id="minor">
                <div class="content">
                   <li><strong>1875</strong><br>Первый — «Южнороссийский союз» возник в Одессе в
                      1875 году</li>
                </div>
             </div>
-            <div class="container" id="107">
+            <div class="container" order="107" id="major">
                <div class="content">
                   <li><strong>1876</strong><br>Через пять
                      лет после падения Парижской Коммуны, в 1876 году, I Интернационал прекратил своё
                      существование</li>
                </div>
             </div>
-            <div class="container" id="102">
+            <div class="container" order="102" id="major">
                <div class="content">
                   <li><strong>1877</strong><br>В конце
                      царствования Александра II (в 1877 г.)
                      Россия воевала с Турцией</li>
                </div>
             </div>
-            <div class="container" id="236">
+            <div class="container" order="236" id="major">
                <div class="content">
                   <li><strong>1879</strong><br>1879–1953 Жизнь гениального вождя пролетариата Иосифа Виссарионовича Сталина</li>
                </div>
             </div>
-            <div class="container" id="111">
+            <div class="container" order="111" id="major">
                <div class="content">
                   <li><strong>
                         March
                         1, 1881</strong><br>Лишь 1 марта 1881 года народникам удалось брошенной бомбой убить Александра II</li>
                </div>
             </div>
-            <div class="container" id="108">
+            <div class="container" order="108" id="major">
                <div class="content">
                   <li><strong>1883</strong><br>Карл Маркс умер в 1883 году, а Энгельс в 1895 году</li>
                </div>
             </div>
-            <div class="container" id="115">
+            <div class="container" order="115" id="minor">
                <div class="content">
                   <li><strong>1883</strong><br>Уехав за границу, Плеханов в 1883 году
                      образовал революционную марксистскую группу «Освобождение труда»</li>
                </div>
             </div>
-            <div class="container" id="114">
+            <div class="container" order="114" id="major">
                <div class="content">
                   <li><strong>1885</strong><br>В 1885 году восемь тысяч рабочих текстильной фабрики Морозова в
                      Орехово-Зуеве не выдержали этого грабежа и
                      объявили стачку</li>
                </div>
             </div>
-            <div class="container" id="237">
+            <div class="container" order="237" id="major">
                <div class="content">
                   <li><strong>1885</strong><br>1885 Стачка рабочих на фабрике Морозова в Орехово-Зуеве</li>
                </div>
             </div>
-            <div class="container" id="112">
+            <div class="container" order="112" id="major">
                <div class="content">
                   <li><strong>1887</strong><br>В 1887 году небольшая группа революционеров снова попыталась убить царя (Александра
                      III), но неудачно</li>
                </div>
             </div>
-            <div class="container" id="117">
+            <div class="container" order="117" id="major">
                <div class="content">
                   <li><strong>1893</strong><br>В 1893 году Ленин переехал в Петербург и здесь стал заниматься с рабочими в
                      кружках</li>
                </div>
             </div>
-            <div class="container" id="118">
+            <div class="container" order="118" id="minor">
                <div class="content">
                   <li><strong>1898</strong><br>был созван 1 съезд
                      Российской социал-демократической рабочей партии (РСДРП) в 1898 году в городе Минске</li>
                </div>
             </div>
-            <div class="container" id="101">
+            <div class="container" order="101" id="minor">
                <div class="content">
                   <li><strong>1900</strong><br>В конце XIX века завоёван был Россией горный Памир — «крыша
                      мира»</li>
                </div>
             </div>
-            <div class="container" id="109">
+            <div class="container" order="109" id="minor">
                <div class="content">
                   <li><strong>1900</strong><br>В конце XIX века в
                      России было уже больше 2
@@ -993,13 +1000,13 @@
                      — текстильные фабрики</li>
                </div>
             </div>
-            <div class="container" id="110">
+            <div class="container" order="110" id="minor">
                <div class="content">
                   <li><strong>1900</strong><br>К концу XIX века железных дорог в России было уже больше 30 тысяч километров,
                      начата была постройка дороги через Сибирь</li>
                </div>
             </div>
-            <div class="container" id="119">
+            <div class="container" order="119" id="major">
                <div class="content">
                   <li><strong>
                         May
@@ -1007,7 +1014,7 @@
                      (праздник рабочих всего мира), забастовали рабочие военного Обуховского завода</li>
                </div>
             </div>
-            <div class="container" id="120">
+            <div class="container" order="120" id="major">
                <div class="content">
                   <li><strong>1902</strong><br>В 1902 году в городе Ростове-на-Дону произошла
                      большая стачка железнодорожников. К ним примкнули рабочие других заводов. Стачкой
@@ -1015,12 +1022,12 @@
                      собраниями рабочих руководил комитет РСДРП</li>
                </div>
             </div>
-            <div class="container" id="121">
+            <div class="container" order="121" id="minor">
                <div class="content">
                   <li><strong>1903</strong><br>В 1903 году за границей тайно собрался II съезд РСДРП</li>
                </div>
             </div>
-            <div class="container" id="122">
+            <div class="container" order="122" id="minor">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1029,12 +1036,12 @@
                      рабочих</li>
                </div>
             </div>
-            <div class="container" id="238">
+            <div class="container" order="238" id="major">
                <div class="content">
                   <li><strong>1903</strong><br>1903 Создание Российской социал-демократической рабочей партии</li>
                </div>
             </div>
-            <div class="container" id="123">
+            <div class="container" order="123" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -1044,7 +1051,7 @@
                      русские военные корабли, и лучшие из них взорвали минами</li>
                </div>
             </div>
-            <div class="container" id="124">
+            <div class="container" order="124" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -1052,7 +1059,7 @@
                      большой Путиловский завод (теперь Кировский)</li>
                </div>
             </div>
-            <div class="container" id="125">
+            <div class="container" order="125" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -1060,7 +1067,7 @@
                      были расстреляны сотни рабочих</li>
                </div>
             </div>
-            <div class="container" id="126">
+            <div class="container" order="126" id="minor">
                <div class="content">
                   <li><strong>
                         May
@@ -1068,7 +1075,7 @@
                      упорная стачка</li>
                </div>
             </div>
-            <div class="container" id="127">
+            <div class="container" order="127" id="minor">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1078,7 +1085,7 @@
                      голодными</li>
                </div>
             </div>
-            <div class="container" id="128">
+            <div class="container" order="128" id="minor">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1086,7 +1093,7 @@
                      батраки</li>
                </div>
             </div>
-            <div class="container" id="129">
+            <div class="container" order="129" id="minor">
                <div class="content">
                   <li><strong>
                         April
@@ -1094,7 +1101,7 @@
                      настоянию</li>
                </div>
             </div>
-            <div class="container" id="130">
+            <div class="container" order="130" id="minor">
                <div class="content">
                   <li><strong>
                         June
@@ -1103,7 +1110,7 @@
                      вспыхнуло восстание матросов</li>
                </div>
             </div>
-            <div class="container" id="131">
+            <div class="container" order="131" id="minor">
                <div class="content">
                   <li><strong>
                         October
@@ -1113,7 +1120,7 @@
                      населения для решения вместе с царём всех государственных дел России</li>
                </div>
             </div>
-            <div class="container" id="132">
+            <div class="container" order="132" id="major">
                <div class="content">
                   <li><strong>
                         December
@@ -1122,12 +1129,12 @@
                      перешедшая в вооружённое восстание</li>
                </div>
             </div>
-            <div class="container" id="239">
+            <div class="container" order="239" id="major">
                <div class="content">
                   <li><strong>1905</strong><br>1905–1907 Первая буржуазная революция в России</li>
                </div>
             </div>
-            <div class="container" id="133">
+            <div class="container" order="133" id="minor">
                <div class="content">
                   <li><strong>
                         August
@@ -1138,14 +1145,14 @@
                      укреплениях</li>
                </div>
             </div>
-            <div class="container" id="134">
+            <div class="container" order="134" id="minor">
                <div class="content">
                   <li><strong>1906</strong><br>В тех же видах подавления
                      революционного движения Николай II созвал в 1906
                      году Государственную думу</li>
                </div>
             </div>
-            <div class="container" id="135">
+            <div class="container" order="135" id="major">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1153,28 +1160,28 @@
                      третья дума</li>
                </div>
             </div>
-            <div class="container" id="137">
+            <div class="container" order="137" id="major">
                <div class="content">
                   <li><strong>1908</strong><br>В
                      1908 году Сталин был снова арестован и
                      сослан в одну из сибирских губерний</li>
                </div>
             </div>
-            <div class="container" id="136">
+            <div class="container" order="136" id="minor">
                <div class="content">
                   <li><strong>1910</strong><br>После нескольких лет застоя промышленность в России с 1910 года вновь ожила: выросла
                      добыча угля, металла,
                      нефти, увеличилось производство сахара, тканей. Сильно вырос вывоз хлеба за границу</li>
                </div>
             </div>
-            <div class="container" id="138">
+            <div class="container" order="138" id="minor">
                <div class="content">
                   <li><strong>
                         Summer
                         1912</strong><br>Летом 1912 года он тайно вернулся в Петербург</li>
                </div>
             </div>
-            <div class="container" id="139">
+            <div class="container" order="139" id="minor">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1182,7 +1189,7 @@
                      забастовали</li>
                </div>
             </div>
-            <div class="container" id="140">
+            <div class="container" order="140" id="major">
                <div class="content">
                   <li><strong>
                         May
@@ -1190,23 +1197,23 @@
                      полмиллиона рабочих</li>
                </div>
             </div>
-            <div class="container" id="141">
+            <div class="container" order="141" id="minor">
                <div class="content">
                   <li><strong>1912</strong><br>В 1912 году за границей, в городе Праге, съехались представители русских комитетов
                      большевиков на конференцию</li>
                </div>
             </div>
-            <div class="container" id="240">
+            <div class="container" order="240" id="major">
                <div class="content">
                   <li><strong>1912</strong><br>1912 Расстрел рабочих на Ленских приисках</li>
                </div>
             </div>
-            <div class="container" id="241">
+            <div class="container" order="241" id="major">
                <div class="content">
                   <li><strong>1912</strong><br>1912 Оформление Российской социал-демократической рабочей партии большевиков</li>
                </div>
             </div>
-            <div class="container" id="142">
+            <div class="container" order="142" id="major">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1214,7 +1221,7 @@
                      фабрики и заводы</li>
                </div>
             </div>
-            <div class="container" id="143">
+            <div class="container" order="143" id="major">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1222,24 +1229,24 @@
                      года началась мировая война</li>
                </div>
             </div>
-            <div class="container" id="242">
+            <div class="container" order="242" id="major">
                <div class="content">
                   <li><strong>1914</strong><br>1914–1918 Мировая империалистическая война</li>
                </div>
             </div>
-            <div class="container" id="145">
+            <div class="container" order="145" id="major">
                <div class="content">
                   <li><strong>1915</strong><br>В 1915 году в России уже было 928
                      стачек, а в январе и феврале 1917 года — 1330 стачек</li>
                </div>
             </div>
-            <div class="container" id="144">
+            <div class="container" order="144" id="major">
                <div class="content">
                   <li><strong>1916</strong><br>Немцы к 1916 году захватили
                      Польшу, Литву, часть Латвии</li>
                </div>
             </div>
-            <div class="container" id="146">
+            <div class="container" order="146" id="major">
                <div class="content">
                   <li><strong>
                         October
@@ -1249,21 +1256,21 @@
                      сторону даже полк солдат</li>
                </div>
             </div>
-            <div class="container" id="147">
+            <div class="container" order="147" id="minor">
                <div class="content">
                   <li><strong>1916</strong><br>В 1916 году восстали казахи, киргизы, узбеки, таджики и туркмены. Они нападали на
                      города, вступили в бой с царскими войсками и полицией, убивали своих волостных
                      старшин — прислужников царских властей</li>
                </div>
             </div>
-            <div class="container" id="148">
+            <div class="container" order="148" id="minor">
                <div class="content">
                   <li><strong>
                         Early
                         1917</strong><br>В начале 1917 года изголодавшиеся, измученные войной рабочие Петрограда забастовали</li>
                </div>
             </div>
-            <div class="container" id="149">
+            <div class="container" order="149" id="major">
                <div class="content">
                   <li><strong>
                         February
@@ -1271,14 +1278,14 @@
                      сторону народа</li>
                </div>
             </div>
-            <div class="container" id="150">
+            <div class="container" order="150" id="major">
                <div class="content">
                   <li><strong>
                         April
                         3, 1917</strong><br>3 апреля 1917 года с большим трудом из-за границы вернулся в Россию Ленин</li>
                </div>
             </div>
-            <div class="container" id="151">
+            <div class="container" order="151" id="major">
                <div class="content">
                   <li><strong>
                         April
@@ -1286,7 +1293,7 @@
                      демонстрация рабочих и солдат</li>
                </div>
             </div>
-            <div class="container" id="152">
+            <div class="container" order="152" id="minor">
                <div class="content">
                   <li><strong>
                         June
@@ -1295,7 +1302,7 @@
                      солдатских депутатов</li>
                </div>
             </div>
-            <div class="container" id="153">
+            <div class="container" order="153" id="minor">
                <div class="content">
                   <li><strong>
                         July
@@ -1304,14 +1311,14 @@
                      большевистскими лозунгами</li>
                </div>
             </div>
-            <div class="container" id="154">
+            <div class="container" order="154" id="minor">
                <div class="content">
                   <li><strong>
                         July
                         1917</strong><br>В конце июля в Петрограде собрался VI съезд партии большевиков</li>
                </div>
             </div>
-            <div class="container" id="155">
+            <div class="container" order="155" id="major">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1319,7 +1326,7 @@
                      советах большинство перешло к большевикам</li>
                </div>
             </div>
-            <div class="container" id="156">
+            <div class="container" order="156" id="major">
                <div class="content">
                   <li><strong>
                         October
@@ -1327,31 +1334,31 @@
                      к последнему, решительному бою — к свержению вооружённой рукой власти буржуазии</li>
                </div>
             </div>
-            <div class="container" id="243">
+            <div class="container" order="243" id="major">
                <div class="content">
                   <li><strong>
                         February
                         1917</strong><br>1917 Февраль. Вторая буржуазная революция в России</li>
                </div>
             </div>
-            <div class="container" id="244">
+            <div class="container" order="244" id="major">
                <div class="content">
                   <li><strong>
                         October
                         1917</strong><br>1917 Октябрь. Великая Октябрьская социалистическая революция в России</li>
                </div>
             </div>
-            <div class="container" id="245">
+            <div class="container" order="245" id="major">
                <div class="content">
                   <li><strong>1917</strong><br>1917 Создание Российской Советской Федеративной Социалистической Республики</li>
                </div>
             </div>
-            <div class="container" id="157">
+            <div class="container" order="157" id="major">
                <div class="content">
                   <li><strong>1918</strong><br>Красная Армия была создана в 1918 году</li>
                </div>
             </div>
-            <div class="container" id="158">
+            <div class="container" order="158" id="major">
                <div class="content">
                   <li><strong>
                         Late
@@ -1359,13 +1366,13 @@
                      улепетнули в Германию. Украина снова стала советской</li>
                </div>
             </div>
-            <div class="container" id="159">
+            <div class="container" order="159" id="major">
                <div class="content">
                   <li><strong>1918</strong><br>В 1918
                      году предприятия капиталистов стали собственностью Советского государства</li>
                </div>
             </div>
-            <div class="container" id="160">
+            <div class="container" order="160" id="major">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1373,7 +1380,7 @@
                      поддержке Франции подняли контрреволюционное восстание против советской России</li>
                </div>
             </div>
-            <div class="container" id="161">
+            <div class="container" order="161" id="minor">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1383,7 +1390,7 @@
                      белогвардейцам свергнуть советскую власть. Во Владивостоке высадили десант японцы</li>
                </div>
             </div>
-            <div class="container" id="162">
+            <div class="container" order="162" id="minor">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1391,7 +1398,7 @@
                      эсерами было совершено покушение на В. И. Ленина</li>
                </div>
             </div>
-            <div class="container" id="163">
+            <div class="container" order="163" id="minor">
                <div class="content">
                   <li><strong>
                         November
@@ -1400,13 +1407,13 @@
                      восстание. Восстание вскоре перекинулось и в Австрию</li>
                </div>
             </div>
-            <div class="container" id="168">
+            <div class="container" order="168" id="minor">
                <div class="content">
                   <li><strong>1918</strong><br>В Сибири в 1918 году Антанта объявила
                      царского адмирала Колчака верховным правителем России</li>
                </div>
             </div>
-            <div class="container" id="175">
+            <div class="container" order="175" id="major">
                <div class="content">
                   <li><strong>
                         Late
@@ -1415,22 +1422,22 @@
                      пролетарская революция предоставила польскому народу право отделиться от России</li>
                </div>
             </div>
-            <div class="container" id="246">
+            <div class="container" order="246" id="major">
                <div class="content">
                   <li><strong>1918</strong><br>1918 Организация Красной Армии</li>
                </div>
             </div>
-            <div class="container" id="247">
+            <div class="container" order="247" id="minor">
                <div class="content">
                   <li><strong>1918</strong><br>1918 Разгром германских интервентов на Украине</li>
                </div>
             </div>
-            <div class="container" id="248">
+            <div class="container" order="248" id="major">
                <div class="content">
                   <li><strong>1918</strong><br>1918 Революция в Германии и Австро-Венгрии</li>
                </div>
             </div>
-            <div class="container" id="164">
+            <div class="container" order="164" id="minor">
                <div class="content">
                   <li><strong>
                         Early
@@ -1438,14 +1445,14 @@
                      года, было подавлено белогвардейцами</li>
                </div>
             </div>
-            <div class="container" id="165">
+            <div class="container" order="165" id="major">
                <div class="content">
                   <li><strong>1919</strong><br>Только в одной части Германии, в Баварии, в
                      1919 году рабочие победили буржуазию и установили свою власть — Советскую
                      республику</li>
                </div>
             </div>
-            <div class="container" id="166">
+            <div class="container" order="166" id="major">
                <div class="content">
                   <li><strong>
                         March
@@ -1453,7 +1460,7 @@
                      года советская власть победила в Венгрии</li>
                </div>
             </div>
-            <div class="container" id="167">
+            <div class="container" order="167" id="major">
                <div class="content">
                   <li><strong>
                         March
@@ -1463,7 +1470,7 @@
                      партий всего мира</li>
                </div>
             </div>
-            <div class="container" id="169">
+            <div class="container" order="169" id="minor">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1471,14 +1478,14 @@
                      советской России</li>
                </div>
             </div>
-            <div class="container" id="170">
+            <div class="container" order="170" id="minor">
                <div class="content">
                   <li><strong>1919</strong><br>Силами Красной Армии здесь командовал М. В. Фрунзе. Под его
                      руководством Красная Армия разгромила Колчака в Поволжье и на Урале в
                      1919 году</li>
                </div>
             </div>
-            <div class="container" id="171">
+            <div class="container" order="171" id="minor">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1486,7 +1493,7 @@
                      Колчака и прогнала остатки его армии за Урал, в Сибирь</li>
                </div>
             </div>
-            <div class="container" id="172">
+            <div class="container" order="172" id="major">
                <div class="content">
                   <li><strong>
                         December
@@ -1495,7 +1502,7 @@
                      Колчака</li>
                </div>
             </div>
-            <div class="container" id="173">
+            <div class="container" order="173" id="major">
                <div class="content">
                   <li><strong>
                         October
@@ -1504,7 +1511,7 @@
                      Деникина</li>
                </div>
             </div>
-            <div class="container" id="174">
+            <div class="container" order="174" id="major">
                <div class="content">
                   <li><strong>
                         Late
@@ -1513,22 +1520,22 @@
                      конце 1919 года смертельный удар. Остатки его армии были вышвырнуты в Эстонию</li>
                </div>
             </div>
-            <div class="container" id="176">
+            <div class="container" order="176" id="minor">
                <div class="content">
                   <li><strong>1919</strong><br>Ещё в 1919 году они захватили в Белоруссии её столицу Минск и часть Украины</li>
                </div>
             </div>
-            <div class="container" id="249">
+            <div class="container" order="249" id="major">
                <div class="content">
                   <li><strong>1919</strong><br>1919 Основание Коммунистического Интернационала</li>
                </div>
             </div>
-            <div class="container" id="250">
+            <div class="container" order="250" id="minor">
                <div class="content">
                   <li><strong>1919</strong><br>1919 Разгром Колчака, Деникина, Юденича</li>
                </div>
             </div>
-            <div class="container" id="177">
+            <div class="container" order="177" id="major">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1536,7 +1543,7 @@
                      в поход на советскую Россию и захватили Киев</li>
                </div>
             </div>
-            <div class="container" id="178">
+            <div class="container" order="178" id="major">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1545,7 +1552,7 @@
                      правительство согласилось на мир, и осенью 1920 года война была прекращена</li>
                </div>
             </div>
-            <div class="container" id="179">
+            <div class="container" order="179" id="major">
                <div class="content">
                   <li><strong>
                         November
@@ -1554,12 +1561,12 @@
                      Врангеля</li>
                </div>
             </div>
-            <div class="container" id="180">
+            <div class="container" order="180" id="minor">
                <div class="content">
                   <li><strong>1920</strong><br>В 1920 году восстали против власти хана в Хиве трудящиеся узбеки</li>
                </div>
             </div>
-            <div class="container" id="181">
+            <div class="container" order="181" id="minor">
                <div class="content">
                   <li><strong>
                         Spring
@@ -1567,7 +1574,7 @@
                      националисты, начались восстания рабочих и крестьян</li>
                </div>
             </div>
-            <div class="container" id="182">
+            <div class="container" order="182" id="major">
                <div class="content">
                   <li><strong>1922</strong><br>В то время как вся Страна Советов восстанавливала хозяйство,
                      наш богатый край — Дальний Восток — с 1918 года держали в своих руках японцы. Но в
@@ -1576,24 +1583,24 @@
                      освободила от японских разбойников и белогвардейцев весь Дальний Восток</li>
                </div>
             </div>
-            <div class="container" id="183">
+            <div class="container" order="183" id="minor">
                <div class="content">
                   <li><strong>
                         October
                         1922</strong><br>В октябре 1922 года Красной Армией был освобождён и Владивосток</li>
                </div>
             </div>
-            <div class="container" id="251">
+            <div class="container" order="251" id="major">
                <div class="content">
                   <li><strong>1922</strong><br>1922 Разгром японских интервентов на Дальнем Востоке</li>
                </div>
             </div>
-            <div class="container" id="252">
+            <div class="container" order="252" id="major">
                <div class="content">
                   <li><strong>1922</strong><br>1922 Создание Союза Советских Социалистических Республик</li>
                </div>
             </div>
-            <div class="container" id="184">
+            <div class="container" order="184" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -1601,7 +1608,7 @@
                      тяжёлой болезни, в Горках, под Москвой, умер великий Ленин</li>
                </div>
             </div>
-            <div class="container" id="185">
+            <div class="container" order="185" id="major">
                <div class="content">
                   <li><strong>
                         April
@@ -1610,44 +1617,44 @@
                      партии произнёс клятву перед народом от имени партии</li>
                </div>
             </div>
-            <div class="container" id="191">
+            <div class="container" order="191" id="major">
                <div class="content">
                   <li><strong>1924</strong><br>В 1924 году свободные народы СССР приняли первую Конституцию СССР (Основной Закон
                      государства)</li>
                </div>
             </div>
-            <div class="container" id="186">
+            <div class="container" order="186" id="major">
                <div class="content">
                   <li><strong>1925</strong><br>В 1925 году на XIV съезде партии товарищ Сталин указал, по поручению
                      партии, что нам надо в самое короткое время превратить нашу сельскохозяйственную страну
                      в страну промышленную</li>
                </div>
             </div>
-            <div class="container" id="253">
+            <div class="container" order="253" id="major">
                <div class="content">
                   <li><strong>1928</strong><br>1928–1932 Первая пятилетка</li>
                </div>
             </div>
-            <div class="container" id="190">
+            <div class="container" order="190" id="major">
                <div class="content">
                   <li><strong>1929</strong><br>В 1929
                      году иностранные капиталисты заставили Китай начать против СССР войну</li>
                </div>
             </div>
-            <div class="container" id="187">
+            <div class="container" order="187" id="minor">
                <div class="content">
                   <li><strong>1930</strong><br>В 1930 году на берегу реки Томи, около г. Кузнецка, там, где когда-то были владения
                      сибирских татарских ханов, начали строить и к концу первой пятилетки выстроили огромный
                      металлургический завод-гигант имени Сталина</li>
                </div>
             </div>
-            <div class="container" id="188">
+            <div class="container" order="188" id="minor">
                <div class="content">
                   <li><strong>1932</strong><br>В 1932 году в колхозы было объединено уже больше
                      половины крестьянских дворов</li>
                </div>
             </div>
-            <div class="container" id="189">
+            <div class="container" order="189" id="minor">
                <div class="content">
                   <li><strong>1933</strong><br>СССР к 1933 году
                      догнал и перегнал целый ряд европейских государств. Он занимал 2-е место в мире по
@@ -1656,56 +1663,56 @@
                      добыче угля</li>
                </div>
             </div>
-            <div class="container" id="254">
+            <div class="container" order="254" id="major">
                <div class="content">
                   <li><strong>1933</strong><br>1933–1937 Вторая пятилетка</li>
                </div>
             </div>
-            <div class="container" id="255">
+            <div class="container" order="255" id="minor">
                <div class="content">
                   <li><strong>1934</strong><br>1934 Злодейское убийство С. М. Кирова врагами народа — троцкистами</li>
                </div>
             </div>
-            <div class="container" id="256">
+            <div class="container" order="256" id="major">
                <div class="content">
                   <li><strong>
                         December
                         5, 1936</strong><br>1936 5 декабря. Утверждение новой Конституции СССР</li>
                </div>
             </div>
-            <div class="container" id="192">
+            <div class="container" order="192" id="major">
                <div class="content">
                   <li><strong>1938</strong><br>В 1938 году Германия начала вторую мировую войну. Она захватила
                      Чехословакию, а через год напала на Польшу</li>
                </div>
             </div>
-            <div class="container" id="257">
+            <div class="container" order="257" id="major">
                <div class="content">
                   <li><strong>
                         September
                         17, 1939</strong><br>1939 Освобождение советскими войсками Западной Украины и Западной Белоруссии</li>
                </div>
             </div>
-            <div class="container" id="258">
+            <div class="container" order="258" id="minor">
                <div class="content">
                   <li><strong>1940</strong><br>1940 Подписание мирного договора между СССР и Финляндией. Преобразование Карельской
                      Автономной Советской Социалистической Республики в Союзную Карело-Финскую Советскую
                      Социалистическую Республику</li>
                </div>
             </div>
-            <div class="container" id="259">
+            <div class="container" order="259" id="minor">
                <div class="content">
                   <li><strong>1940</strong><br>1940 Освобождение Бессарабии и Северной Буковины от ига румынских бояр. Образование
                      Союзной Молдавской Советской Социалистической Республики</li>
                </div>
             </div>
-            <div class="container" id="260">
+            <div class="container" order="260" id="major">
                <div class="content">
                   <li><strong>1940</strong><br>1940 Принятие Литовской, Латвийской и Эстонской Советских Социалистических Республик
                      в состав СССР</li>
                </div>
             </div>
-            <div class="container" id="193">
+            <div class="container" order="193" id="major">
                <div class="content">
                   <li><strong>
                         June
@@ -1714,14 +1721,14 @@
                      мирные города</li>
                </div>
             </div>
-            <div class="container" id="261">
+            <div class="container" order="261" id="major">
                <div class="content">
                   <li><strong>
                         June
                         22, 1941</strong><br>1941 22 июня. Вероломное нападение фашистской Германии на СССР</li>
                </div>
             </div>
-            <div class="container" id="194">
+            <div class="container" order="194" id="major">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1732,7 +1739,7 @@
                      Воронежа</li>
                </div>
             </div>
-            <div class="container" id="195">
+            <div class="container" order="195" id="minor">
                <div class="content">
                   <li><strong>
                         Fall
@@ -1740,7 +1747,7 @@
                      Сталинградом</li>
                </div>
             </div>
-            <div class="container" id="196">
+            <div class="container" order="196" id="major">
                <div class="content">
                   <li><strong>
                         Summer
@@ -1748,7 +1755,7 @@
                      в Москве победные салюты</li>
                </div>
             </div>
-            <div class="container" id="197">
+            <div class="container" order="197" id="major">
                <div class="content">
                   <li><strong>
                         June
@@ -1756,7 +1763,7 @@
                      переправились из Англии через море и высадились на побережье северной Франции</li>
                </div>
             </div>
-            <div class="container" id="198">
+            <div class="container" order="198" id="major">
                <div class="content">
                   <li><strong>
                         January
@@ -1764,7 +1771,7 @@
                      территорию Германии</li>
                </div>
             </div>
-            <div class="container" id="199">
+            <div class="container" order="199" id="major">
                <div class="content">
                   <li><strong>
                         May
@@ -1772,38 +1779,38 @@
                      советских людей</li>
                </div>
             </div>
-            <div class="container" id="262">
+            <div class="container" order="262" id="major">
                <div class="content">
                   <li><strong>
                         May
                         2, 1945</strong><br>1945 2 мая. Взятие Берлина советскими войсками</li>
                </div>
             </div>
-            <div class="container" id="263">
+            <div class="container" order="263" id="major">
                <div class="content">
                   <li><strong>
                         May
                         8, 1945</strong><br>1945 Капитуляция фашистской Германии</li>
                </div>
             </div>
-            <div class="container" id="264">
+            <div class="container" order="264" id="major">
                <div class="content">
                   <li><strong>
                         September
                         2, 1945</strong><br>1945 Капитуляция Японии</li>
                </div>
             </div>
-            <div class="container" id="266">
+            <div class="container" order="266" id="minor">
                <div class="content">
                   <li><strong>1951</strong><br>1951–1955 Пятый пятилетний план</li>
                </div>
             </div>
-            <div class="container" id="265">
+            <div class="container" order="265" id="minor">
                <div class="content">
                   <li><strong>1952</strong><br>1952 Девятнадцатый съезд Коммунистической партии Советского Союза</li>
                </div>
             </div>
-            <div class="container" id="200">
+            <div class="container" order="200" id="major">
                <div class="content">
                   <li><strong>
                         March

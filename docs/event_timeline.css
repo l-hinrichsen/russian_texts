@@ -51,17 +51,17 @@ ul{
 }
 
 /* left container position */
-[id]:nth-child(odd) {
+[order]:nth-child(odd) {
   left: 0;
 }
 
 /* right container position */
-[id]:nth-child(even) {
+[order]:nth-child(even) {
   left: 50%;
 }
 
 /* Fixes the circles for containers on the right side */
-[id]:nth-child(even)::after {
+[order]:nth-child(even)::after {
   left: -16px;
 }
 
