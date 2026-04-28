@@ -292,19 +292,19 @@
                 данью.</p>
             <p>Начало Киевского княжества. В конце IX века в <place id="Новгород" place_type="city"
                     >Новгороде</place>, как рассказано в старинных записях, был князь из варягов —
-                    <person person_type="russian_royalty">Рюрик</person>. Покорённые им славяне
-                платили ему дань. После смерти <person person_type="russian_royalty">Рюрика</person>
-                князем стал воинственный <person person_type="knyaz">Олег</person>. Он не остался в
+                <person id="Рюрик" person_type="russian_royalty">Рюрик</person>. Покорённые им славяне
+                платили ему дань. После смерти <person id="Рюрик" person_type="russian_royalty">Рюрика</person>
+                князем стал воинственный <person id="Олег" person_type="knyaz">Олег</person>. Он не остался в
                 <place id="Новгород" place_type="city">Новгороде</place>, а спустился вниз но <place id="Днепру"
                     place_type="river">Днепру</place>, добрался до <place place_type="city"
                     >Киева</place>, завладел им и сделал его своим главным городом.</p>
             <p><date date_type="major" year="900" month="Early">С начала X века <territory territory_type="kingdom">Киевское княжество</territory>
                 славян называется <territory territory_type="kingdom">Киевской
                 Русью</territory></date>.</p>
-            <p><person person_type="knyaz">Олег</person> объединил под своей властью много <people id="Славяне"
+            <p><person id="Олег" person_type="knyaz">Олег</person> объединил под своей властью много <people id="Славяне"
                     people_type="ethnicity">славянских</people> племен и наложил на них тяжёлую
                 дань. Часть <people id="Славяне" people_type="ethnicity">славянских</people> князей была
-                истреблена, часть из них подчинилась <person person_type="knyaz">Олегу</person> и
+                истреблена, часть из них подчинилась <person id="Олег" person_type="knyaz">Олегу</person> и
                 вместе с ним собирала дань со <people id="Славяне" people_type="ethnicity">славянского</people>
                 населения.</p>
             <p>Варяжские князья и дружинники не обладали более
@@ -312,34 +312,34 @@
                 смешались со <people id="Славяне" people_type="ethnicity">славянами</people> и усвоили их язык,
                 веру, имена, обычаи.</p>
 
-            <p>Князь <person person_type="knyaz">Олег</person>.</p>
+            <p>Князь <person id="Олег" person_type="knyaz">Олег</person>.</p>
 
-            <p>Князь <person person_type="knyaz">Олег</person> проявил энергичную деятельность. При
+            <p>Князь <person id="Олег" person_type="knyaz">Олег</person> проявил энергичную деятельность. При
                 нём <place place_type="city">Киев</place> был сильно укреплен. На границах
                 государства были поставлены в защиту от кочевых народов сторожевые крепости. По
-                преданию, <person person_type="knyaz">Олег</person> с огромным войском, частью на
+                преданию, <person id="Олег" person_type="knyaz">Олег</person> с огромным войском, частью на
                 лодках, а частью верхом на конях, пошёл в поход на <territory
                     territory_type="kingdom">Византию</territory>. Он разорил окрестности <place
                     place_type="city">Царьграда</place> и осадил его. <person
                     person_type="foreign_leader">Греческий император</person> (так называли главного
-                правителя греков) дал <person person_type="knyaz">Олегу</person> большой выкуп:
-                много золота, дорогих тканей, вина и рабов. Греки в 911 году заключили с <person person_type="knyaz">Олегом</person>
+                правителя греков) дал <person id="Олег" person_type="knyaz">Олегу</person> большой выкуп:
+                много золота, дорогих тканей, вина и рабов. Греки в 911 году заключили с <person id="Олег" person_type="knyaz">Олегом</person>
                 договор о торговле.</p>
-            <p><person person_type="knyaz">Олег</person> сильно укрепил <territory
+            <p><person id="Олег" person_type="knyaz">Олег</person> сильно укрепил <territory
                     territory_type="kingdom">Киевскую Русь</territory>. Он собрал под свою власть
                 разрозненные <people id="Славяне" people_type="ethnicity">славянские</people> племена и
                 княжества. С <territory territory_type="kingdom">Киевской Русью</territory> начали
                 считаться и в <territory territory_type="kingdom">Византии</territory>, и в соседних
                 западных государствах.</p>
-            <p>Князь <person person_type="knyaz">Игорь</person>. После смерти <person
-                    person_type="knyaz">Олега</person> стал княжить сын <person
+            <p>Князь <person id="Игорь" person_type="knyaz">Игорь</person>. После смерти <person id="Олег"
+                    person_type="knyaz">Олега</person> стал княжить сын <person id="Рюрика"
                     person_type="russian_royalty">Рюрика</person>
-                <person person_type="knyaz">Игорь</person>. При нём расширение <territory
-                    territory_type="kingdom">Киевской Руси</territory> продолжалось. <person
-                    person_type="knyaz">Игорь</person> много воевал, как и <person
+                <person id="Игорь" person_type="knyaz">Игорь</person>. При нём расширение <territory
+                    territory_type="kingdom">Киевской Руси</territory> продолжалось. <person id="Игорь"
+                        person_type="knyaz">Игорь</person> много воевал, как и <person id="Олег"
                     person_type="knyaz">Олег</person>.</p>
             <p>При нем были походы на <territory id="Закавказье" territory_type="region">Кавказ</territory> и на
-                    <territory territory_type="kingdom">Византию</territory>. Греки дали <person
+                <territory territory_type="kingdom">Византию</territory>. Греки дали <person id="Игорь"
                     person_type="knyaz">Игорю</person> большой и ценный выкуп. По договору с греками
                 он обязался защищать <territory territory_type="kingdom">Византию</territory> от
                 набегов кочевников.</p>
@@ -348,14 +348,14 @@
                 воск, мёд. Княжеский слуга по счёту принимает и отмечает на дощечке количество
                 принесенной дани.</p>
 
-            <p>Каждую осень <person person_type="knyaz">Игорь</person> собирал с населения дань —
+            <p>Каждую осень <person id="Игорь" person_type="knyaz">Игорь</person> собирал с населения дань —
                 ходил «по людям», и потому сбор дани назывался «полюдьем». К приезду князя с
                 дружиной жители посёлков заготовляли меха, мёд, воск, хлеб. Полюдье было тяжёлой
                 повинностью для населения.</p>
-            <p>Раз князь <person person_type="knyaz">Игорь</person> собирал дань со славянского
+            <p>Раз князь <person id="Игорь" person_type="knyaz">Игорь</person> собирал дань со славянского
                 племени — <people people_type="ethnicity">древлян</people>, которые жили на правом
                 берегу <place place_type="river">Днепра</place>. <people people_type="ethnicity"
-                    >Древляне</people> дали ему всё, что он требовал. <person person_type="knyaz"
+                    >Древляне</people> дали ему всё, что он требовал. <person id="Игорь" person_type="knyaz"
                     >Игорь</person> ушёл, но ему показалось мало собранного.</p>
             <p>Он вернулся обратно и потребовал дани вторично. <people people_type="ethnicity"
                     >Древляне</people> сказали: «Если повадится волк в стадо ходить, то зарежет всё
