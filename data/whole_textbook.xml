@@ -298,8 +298,8 @@
                 <place id="Новгород" place_type="city">Новгороде</place>, а спустился вниз но <place id="Днепру"
                     place_type="river">Днепру</place>, добрался до <place place_type="city"
                     >Киева</place>, завладел им и сделал его своим главным городом.</p>
-            <p><date date_type="major" year="900" month="Early">С начала X века <territory territory_type="kingdom">Киевское княжество</territory>
-                славян называется <territory territory_type="kingdom">Киевской
+            <p><date date_type="major" year="900" month="Early">С начала X века <territory id="Киевское_княжество" territory_type="kingdom">Киевское княжество</territory>
+                    славян называется <territory id="Киевской_Русью" territory_type="kingdom">Киевской
                 Русью</territory></date>.</p>
             <p><person id="Олег" person_type="knyaz">Олег</person> объединил под своей властью много <people id="Славяне"
                     people_type="ethnicity">славянских</people> племен и наложил на них тяжёлую
@@ -318,23 +318,22 @@
                 нём <place place_type="city">Киев</place> был сильно укреплен. На границах
                 государства были поставлены в защиту от кочевых народов сторожевые крепости. По
                 преданию, <person id="Олег" person_type="knyaz">Олег</person> с огромным войском, частью на
-                лодках, а частью верхом на конях, пошёл в поход на <territory
+                лодках, а частью верхом на конях, пошёл в поход на <territory id="Византией"
                     territory_type="kingdom">Византию</territory>. Он разорил окрестности <place
-                    place_type="city">Царьграда</place> и осадил его. <person
-                    person_type="foreign_leader">Греческий император</person> (так называли главного
+                    place_type="city">Царьграда</place> и осадил его. Греческий император (так называли главного
                 правителя греков) дал <person id="Олег" person_type="knyaz">Олегу</person> большой выкуп:
                 много золота, дорогих тканей, вина и рабов. Греки в 911 году заключили с <person id="Олег" person_type="knyaz">Олегом</person>
                 договор о торговле.</p>
-            <p><person id="Олег" person_type="knyaz">Олег</person> сильно укрепил <territory
+            <p><person id="Олег" person_type="knyaz">Олег</person> сильно укрепил <territory id="Киевской_Русью"
                     territory_type="kingdom">Киевскую Русь</territory>. Он собрал под свою власть
                 разрозненные <people id="Славяне" people_type="ethnicity">славянские</people> племена и
-                княжества. С <territory territory_type="kingdom">Киевской Русью</territory> начали
+                княжества. С <territory id="Киевской_Русью" territory_type="kingdom">Киевской Русью</territory> начали
                 считаться и в <territory territory_type="kingdom">Византии</territory>, и в соседних
                 западных государствах.</p>
             <p>Князь <person id="Игорь" person_type="knyaz">Игорь</person>. После смерти <person id="Олег"
                     person_type="knyaz">Олега</person> стал княжить сын <person id="Рюрика"
                     person_type="russian_royalty">Рюрика</person>
-                <person id="Игорь" person_type="knyaz">Игорь</person>. При нём расширение <territory
+                <person id="Игорь" person_type="knyaz">Игорь</person>. При нём расширение <territory id="Киевской_Русью"
                     territory_type="kingdom">Киевской Руси</territory> продолжалось. <person id="Игорь"
                         person_type="knyaz">Игорь</person> много воевал, как и <person id="Олег"
                     person_type="knyaz">Олег</person>.</p>
@@ -366,23 +365,23 @@
         <chapter>
             <title n="7">7. Княгиня Ольга и князь Святослав</title>
 
-            <p>Княгиня <person person_type="knyaz">Ольга</person>. После смерти <person
-                    person_type="knyaz">Игоря</person> стала княжить его жена <person
+            <p>Княгиня <person id="Ольга" person_type="knyaz">Ольга</person>. После смерти <person id="Игоря"
+                    person_type="knyaz">Игоря</person> стала княжить его жена <person id="Ольга"
                     person_type="knyaz">Ольга</person>. Она жестоко отомстила <people
-                    people_type="ethnicity">древлянам</people> за смерть мужа. Дружина <person
+                        people_type="ethnicity">древлянам</people> за смерть мужа. Дружина <person id="Ольга"
                     person_type="knyaz">Ольги</person> осадила главный город <people
                     people_type="ethnicity">древлян</people>. Целый год она стояла со своим войском
                 у стен города и не могла его взять. Тогда она, по преданию, прибегла к хитрости. Она
                 потребовала от древлян совсем лёгкой дани — по три голубя и но три воробья от
                 каждого двора. <people people_type="ethnicity">Древляне</people> на такую дань
-                согласились. По приказанию <person person_type="knyaz">Ольги</person> к лапкам
+                согласились. По приказанию <person id="Ольга" person_type="knyaz">Ольги</person> к лапкам
                 голубей и воробьев привязали просмолённые пучки пакли, зажгли их и выпустили птиц.
                 Голуби и воробьи полетели каждый в своё гнездо, и сразу же начался пожар во всём
-                городе. Войска <person person_type="knyaz">Ольги</person> бросились на горящий город
-                и перебили многих его защитников. <person person_type="knyaz">Ольга</person>
+                городе. Войска <person id="Ольга" person_type="knyaz">Ольги</person> бросились на горящий город
+                и перебили многих его защитников. <person id="Ольга" person_type="knyaz">Ольга</person>
                 обложила <people people_type="ethnicity">древлян</people> тяжёлой данью. По затем
                 она установила для всех племён точные размеры дани и тем упорядочила её сбор.
-                    <person person_type="knyaz">Ольга</person> ездила в <territory
+                <person id="Ольга" person_type="knyaz">Ольга</person> ездила в <territory
                     territory_type="kingdom">Византию</territory> учиться у греков управлять
                 государством и там познакомилась с <religion religion_type="orthodox">греческой
                     верой</religion>.</p>
@@ -392,82 +391,82 @@
                 выжигало посевы. Люди считали богами солнце, ветер и грозу. Они делали их
                 изображения из дерева и камня и приносили им в жертву животных, а иногда детей и
                 пленных. Так они хотели задобрить выдуманных ими грозных богов.</p>
-            <p><person person_type="knyaz">Ольге</person> очень нравилось, как греческие попы всюду
-                проповедовали, что власть царя священна. <person person_type="knyaz">Ольга</person>
+            <p><person id="Ольга" person_type="knyaz">Ольге</person> очень нравилось, как греческие попы всюду
+                проповедовали, что власть царя священна. <person id="Ольга" person_type="knyaz">Ольга</person>
                 видела, что <religion religion_type="orthodox">греческая вера</religion> — отличное
                 средство для того, чтобы укрепить власть князя и сплотить разрозненные <people
                     people_type="ethnicity">славянские</people> племена в одно государство.</p>
             <p>Поэтому она сама приняла <religion religion_type="orthodox">греческую веру —
-                    христианство</religion> — и уговаривала своего сына <person person_type="knyaz"
-                    >Святослава</person> сделать то же. Но <person person_type="knyaz"
+                    христианство</religion> — и уговаривала своего сына <person id="Святослав" person_type="knyaz"
+                        >Святослава</person> сделать то же. Но <person id="Святослав" person_type="knyaz"
                     >Святослав</person> отказался. Он считал, что объединить <people
                     people_type="ethnicity">славян</people> и создать сильное государство можно
                 только оружием.</p>
-            <p>Князь <person person_type="knyaz">Святослав</person>. После Ольги киевским князем
-                стал <person person_type="knyaz">Святослав</person>. Всю свою жизнь он провёл в
+            <p>Князь <person id="Святослав" person_type="knyaz">Святослав</person>. После Ольги киевским князем
+                стал <person id="Святослав" person_type="knyaz">Святослав</person>. Всю свою жизнь он провёл в
                 походах. Во время похода он спал на земле, у костра, под открытым небом, подложив
-                под себя подстилку и седло под голову. Кл <person person_type="knyaz"
+                под себя подстилку и седло под голову. Кл <person id="Святослав" person_type="knyaz"
                     >Святослав</person> что придётся — конину, мясо зверей, испечённое на угольях.
                 Будучи неустрашимым, он предупреждал неприятеля о своём нападении и посылал сказать:
                 «Иду на вы» («иду на вас»).</p>
 
             <p>Князь с дружиной. Старинный рисунок.</p>
 
-            <p><person person_type="knyaz">Святослав</person> покорил многие племена на реке <place
+            <p><person id="Святослав" person_type="knyaz">Святослав</person> покорил многие племена на реке <place
                     place_type="river">Оке</place>, разграбил города <people people_type="ethnicity"
                     >болгар</people> на <place place_type="river">Волге</place>, <people
                     people_type="ethnicity">черкесов</people> на <place place_type="river"
-                    >Кубани</place> и разгромил <territory territory_type="kingdom">хазарское
-                    царство</territory>. С этого времени <territory territory_type="kingdom"
+                        >Кубани</place> и разгромил <territory id="хазарское_царство" territory_type="kingdom">хазарское
+                            царство</territory>. С этого времени <territory id="хазарское_царство" territory_type="kingdom"
                     >хазарское царство</territory> перестало существовать. Киевское же княжество
                 укрепилось и усилилось. Под властью киевского князя оказалось всё <territory
                     territory_type="region">Причерноморье</territory>.</p>
-            <p>Потом <person person_type="knyaz">Святослав</person> начал войну с <people
+            <p>Потом <person id="Святослав" person_type="knyaz">Святослав</person> начал войну с <people
                     people_type="ethnicity">болгарами</people>, жившими на <place place_type="river"
                     >Дунае</place>. Он взял у них много городов и задумал перенести на <place
                     place_type="river">Дунай</place> свою столицу из <place place_type="city"
                     >Киева</place>. Хитрый византийский император, боясь такого сильного и
-                воинственного соседа, как <person person_type="knyaz">Святослав</person>, привлёк к
+                воинственного соседа, как <person id="Святослав" person_type="knyaz">Святослав</person>, привлёк к
                 нападению на <place place_type="city">Киев</place> кочевников <people
                     people_type="ethnicity">печенегов</people>, живших тогда в степях у <place
-                    place_type="water_body">Чёрного моря</place>. В то время как <person
+                        place_type="water_body">Чёрного моря</place>. В то время как <person id="Святослав"
                     person_type="knyaz">Святослав</person> отгонял от <place place_type="city"
                     >Киева</place>
                 <people people_type="ethnicity">печенегов</people>, <people people_type="ethnicity"
                     >болгары</people> на <place place_type="river">Дунае</place> сговорились с
-                греками о совместной борьбе против <person person_type="knyaz">Святослава</person>.
-                В новой войне с <people people_type="ethnicity">болгарами</people> и греками <person
+                греками о совместной борьбе против <person id="Святослав" person_type="knyaz">Святослава</person>.
+                В новой войне с <people people_type="ethnicity">болгарами</people> и греками <person id="Святослав"
                     person_type="knyaz">Святослав</person> был побеждён. На обратном пути в <place
                     place_type="city">Киев</place> он попал у <place place_type="river"
                     >Днепровских</place> порогов в засаду к <people people_type="ethnicity"
-                    >печенегам</people> и был ими разбит. В бою пал и сам <person
+                        >печенегам</people> и был ими разбит. В бою пал и сам <person id="Святослав"
                     person_type="knyaz">Святослав</person>. Из его черепа печенежский князь сделал
                 чашу и пил из нее на пирах.</p>
         </chapter>
         <chapter>
             <title n="8">8. Киевские князья вводят новую веру и законы</title>
 
-            <p>Походы князя <person person_type="knyaz">Владимира</person>. Сын <person
+            <p>Походы князя <person id="Владимира" person_type="knyaz">Владимира</person>. Сын <person id="Святослав"
                     person_type="knyaz">Святослава</person>
-                <person person_type="knyaz">Владимир</person>, овладев <territory
+                <person id="Владимира" person_type="knyaz">Владимир</person>, овладев <territory id="Киевское_княжество"
                     territory_type="kingdom">Киевским княжеством</territory> после длительной борьбы
                 со своими братьями, но примеру отца пошел походом на своих непокорных подданных. Он
                 усмирил восставшие племена на севере и ограбил города <people
                     people_type="ethnicity">болгар</people> на <place place_type="river"
-                    >Волге</place>. Потом <person person_type="knyaz">Владимир</person> двинулся со
+                        >Волге</place>. Потом <person id="Владимира" person_type="knyaz">Владимир</person> двинулся со
                 своей дружиной на <territory territory_type="country">Польшу</territory> и завоевал
-                несколько городов. <person person_type="knyaz">Владимир</person> подчинил себе
+                несколько городов. <person id="Владимира" person_type="knyaz">Владимир</person> подчинил себе
                 славянское <territory territory_type="kingdom">Полоцкое княжество</territory> и
                 земли некоторых <people people_type="ethnicity">литовских</people> племён — соседей
                     <people people_type="ethnicity">славян</people> на западе у <place
                     place_type="water_body">Балтийского моря</place>. Так усиливалось и крепло
-                    <territory territory_type="kingdom">Киевское княжество</territory> при <person
+                <territory id="Киевское_княжество" territory_type="kingdom">Киевское княжество</territory> при <person id="Владимира"
                     person_type="knyaz">Владимире</person>. С ним ещё больше стала считаться
-                    <territory territory_type="kingdom">Византия</territory>. <person
+                <territory territory_type="kingdom">Византия</territory>. <person id="Владимира"
                     person_type="knyaz">Владимир</person> помог <territory territory_type="kingdom"
                     >Византии</territory> подавить вспыхнувшее восстание греческого войска. За эту
                 помощь император <territory territory_type="kingdom">Византии</territory> выдал за
-                него замуж свою сестру. <person person_type="knyaz">Владимир</person> решил принять
+                него замуж свою сестру. <person id="Владимира" person_type="knyaz">Владимир</person> решил принять
                     <religion religion_type="orthodox">христианство</religion>. Он считал, что
                 принятие <religion religion_type="orthodox">греческой веры</religion> и родство с
                 императором Византии укрепит его власть.</p>
@@ -495,10 +494,10 @@
                 народные песни и сказания — былины. В былинах есть много рассказов об удали
                 славянских богатырей и об их борьбе с нападавшими на Киевское государство
                 кочевниками.</p>
-            <p>Князь <person person_type="knyaz">Ярослав Мудрый</person>. После смерти <person
-                    person_type="knyaz">Владимира</person> киевским князем стал <person
+            <p>Князь <person id="Ярослав" person_type="knyaz">Ярослав Мудрый</person>. После смерти <person id="Владимира"
+                    person_type="knyaz">Владимира</person> киевским князем стал <person id="Ярослав"
                     person_type="knyaz">Ярослав</person>, которого прозвали Мудрым.</p>
-            <p>При <person person_type="knyaz">Ярославе</person> был составлен первый свод законов
+            <p>При <person id="Ярослав" person_type="knyaz">Ярославе</person> был составлен первый свод законов
                 Киевского государства — «Русская Празда». В «Русской Правде» изложены правила, как
                 оберегать права рабовладельцев, землевладельцев и купцов.</p>
         </chapter>
@@ -526,7 +525,7 @@
                 старались забрать в свои руки власть над городами и насильничали над смердами по
                 деревням.</p>
             <p>Князья и бояре закрепощали смердов. <date date_type="minor" year="1000">В XI веке князья и бояре очень усилили угнетение
-                народа</date>. Они устанавливали свои законы, творили суд и расправу. Так, при <person
+                    народа</date>. Они устанавливали свои законы, творили суд и расправу. Так, при <person id="Ярослав"
                     person_type="knyaz">Ярославе Мудром</person> за убийство боярина с виновного
                 брали 80 гривен (или 16 килограммов серебра), а за убийство смерда — всего 5
                 гривен.</p>
@@ -544,14 +543,14 @@
                 богатого <place place_type="building">Киево-Печерского монастыря</place> восстал
                 угнетённый городской люд</date>. Его поддерживали смерды. Тог да испугавшиеся бояре и купцы
                 поспешили призвать к себе князем <place place_type="city">переяславского</place>
-                князя <person person_type="knyaz">Владимира Мономаха</person>. Владимир это
+                князя <person id="Владимира_Мономаха" person_type="knyaz">Владимира Мономаха</person>. Владимир это
                 восстание подавил. Опасаясь новых восстаний, он несколько облегчил уплату долгов
                 ростовщикам и провёл небольшие улучшения положения части земледельцев.</p>
-            <p><person person_type="knyaz">Владимира Мономаха</person> хорошо знали в <territory
+            <p><person id="Владимира_Мономаха" person_type="knyaz">Владимира Мономаха</person> хорошо знали в <territory
                     territory_type="kingdom">Византии</territory> и Европе. Для того времени он был
                 образованным человеком. Его мать была дочерью <territory territory_type="kingdom"
                     >византийского</territory> императора, сестра — замужем за германским
-                императором. Сам он был женат на дочери английского короля. <person
+                императором. Сам он был женат на дочери английского короля. <person id="Владимира_Мономаха"
                     person_type="knyaz">Владимир Мономах</person> был последним сильным киевским
                 князем.</p>
         </chapter>
@@ -620,7 +619,7 @@
                     моря</place> и реки <place place_type="river">Невы</place>, где теперь находится
                     <place place_type="city">Ленинград</place>. <place place_type="city"
                     >Новгородцы</place> разбили шведов на <place place_type="river">Неве</place>.
-                Победителя шведов князя <person person_type="knyaz">Александра</person>,
+                Победителя шведов князя Александра,
                 командовавшего новгородцами, прозвали за эту победу Невским.</p>
             <p><date date_type="minor" year="1242">В 1242 году пытались захватить <territory
                     territory_type="kingdom">Новгородскую землю</territory> и немецкие рыцари</date>. Они
@@ -633,11 +632,11 @@
             <p>Немецкие <people people_type="job">«псы-рыцари»</people> с сильным войском напали на
                     <territory territory_type="kingdom">Новгородскую землю</territory>, разоряли
                 города и угрожали <place place_type="city">Новгороду</place>. Великий русский
-                полководец князь <person person_type="knyaz">Александр Невский</person> собрал свои
+                полководец князь <person id="Невский" person_type="knyaz">Александр Невский</person> собрал свои
                 войска и дал немцам решительный бой на льду <place place_type="water_body">Чудского
                     озера</place>. Битва была очень упорной — лёд покраснел от крови. В этом Ледовом
                 побоище немцы не выдержали натиска храбрых <place place_type="city"
-                    >новгородских</place> воинов и побежали. До самой границы своих земель <person
+                    >новгородских</place> воинов и побежали. До самой границы своих земель <person id="Невский"
                     person_type="knyaz">Александр Невский</person> преследовал врага. Так <place
                     place_type="city">новгородцы</place> решительно отразили врага и отстояли свою
                 землю от немецких насильников.</p>
@@ -660,15 +659,15 @@
             <p>Сначала <territory territory_type="kingdom">Ростово-Суздальская земля</territory>
                 мало привлекала внимание князей <territory territory_type="kingdom">Киевского
                     государства</territory>. Но дело изменилось в XII веке, когда эта далёкая
-                окраина заселилась. Сын <person person_type="knyaz">Владимира Мономаха</person>
-                князь <person person_type="knyaz">Юрий Долгорукий</person> пришёл сюда из <place
+                окраина заселилась. Сын <person id="Владимира_Мономаха" person_type="knyaz">Владимира Мономаха</person>
+                князь <person id="Юрий_Долгорукий" person_type="knyaz">Юрий Долгорукий</person> пришёл сюда из <place
                     place_type="city">Киева</place> с сильной дружиной и укрепил здесь свою власть,
                 подчинив себе владения отдельных бояр и мелких князей. В числе захваченных им
                 владений был посёлок <place place_type="city">Москва</place>.</p>
             <p>Но ещё прочнее закрепился в <territory territory_type="kingdom"
-                    >Росгово-Суздальской</territory> Руси сын <person person_type="knyaz">Юрия
+                    >Росгово-Суздальской</territory> Руси сын <person id="Юрий_Долгорукий" person_type="knyaz">Юрия
                     Долгорукого</person>
-                <person person_type="knyaz">Андрей Боголюбский</person>. Он воевал с <territory
+                <person id="Андрей_Боголюбский" person_type="knyaz">Андрей Боголюбский</person>. Он воевал с <territory
                     territory_type="kingdom">Новгородом</territory>, с <people
                     people_type="ethnicity">болгарами</people> на <place place_type="river"
                     >Волге</place> и с <people people_type="ethnicity">мордовскими</people>
@@ -676,22 +675,22 @@
                 князем обширных владений почти всего <territory territory_type="kingdom">Киевского
                     государства</territory>.</p>
             <p><territory territory_type="kingdom">Владимиро-Суздальское</territory> княжество.
-                Своей столицей <person person_type="knyaz">Андрей Боголюбский</person> сделал город
+                Своей столицей <person id="Андрей_Боголюбский" person_type="knyaz">Андрей Боголюбский</person> сделал город
                     <place place_type="city">Владимир</place> на реке <place place_type="river"
                     >Клязьме</place>. С этого времени его княжество стало называться <territory
-                    territory_type="kingdom">Владимиро-Суздальским</territory>. <person
+                        territory_type="kingdom">Владимиро-Суздальским</territory>. <person id="Андрей_Боголюбский"
                     person_type="knyaz">Андрей Боголюбский</person> старался подчинить своей власти
                 всех местных князей и бояр.</p>
-            <p>Недовольные самовластьем <person person_type="knyaz">Андрея Боголюбского</person>
-                бояре составили заговор и убили князя. Вместо <person person_type="knyaz">Андрея
-                    Боголюбского</person> князем стал <person person_type="knyaz">Всеволод</person>.
+            <p>Недовольные самовластьем <person id="Андрей_Боголюбский" person_type="knyaz">Андрея Боголюбского</person>
+                бояре составили заговор и убили князя. Вместо <person id="Андрей_Боголюбский" person_type="knyaz">Андрея
+                    Боголюбского</person> князем стал <person id="Всеволод" person_type="knyaz">Всеволод</person>.
                 Он отобрал у непокорных бояр их сёла и земли и сурово наказал тех, кто пытался
                 объявить себя самостоятельными князьями.</p>
-            <p><person person_type="knyaz">Всеволод</person> снарядил несколько походов на <place
+            <p><person id="Всеволод" person_type="knyaz">Всеволод</person> снарядил несколько походов на <place
                     place_type="city">Новгород</place> и распространил свою власть на <place
                         place_type="city">Киев</place>. Он воевал с <people id="болгар" people_type="ethnicity"
                     >болгарами</people> и <people people_type="ethnicity">мордвой</people> на <place
-                    place_type="river">Волге</place>. По <person person_type="knyaz"
+                        place_type="river">Волге</place>. По <person id="Всеволод" person_type="knyaz"
                     >Всеволоду</person> не удалось установить прочную власть над другими мелкими
                 князьями и боярами. После его смерти <territory territory_type="kingdom"
                     >Владимиро-Суздальское княжество</territory> раздробилось на мелкие владения.
@@ -724,17 +723,17 @@
                 возвысился талантливый полководец <person person_type="foreign_leader"
                     >Чингис-хан</person></date>. Он собрал огромную армию из разных племён и подчинил себе
                 восточные <people people_type="ethnicity">тюрко-монгольские</people> народы.</p>
-            <p>Как ураган, неслась конница <person person_type="foreign_leader">Чингис-хана</person>
-                на врагов. Деревянные стены крепостей <person person_type="foreign_leader"
+            <p>Как ураган, неслась конница <person id="Чингис-хан" person_type="foreign_leader">Чингис-хана</person>
+                на врагов. Деревянные стены крепостей <person id="Чингис-хан" person_type="foreign_leader"
                     >Чингис-хан</person> сжигал глиняными гранатами с нефтью. Каменные стены он
                 разбивал большими машинами. Ничто не могло остановить сто натиска.</p>
-            <p>Завоевание <person person_type="foreign_leader">Чингис-ханом</person>
+            <p>Завоевание <person id="Чингис-хан" person_type="foreign_leader">Чингис-ханом</person>
                 <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> и <territory id="Закавказье"
-                    territory_type="region">Кавказа</territory>. Покорив Северный Китай, <person
+                    territory_type="region">Кавказа</territory>. Покорив Северный Китай, <person id="Чингис-хан"
                         person_type="foreign_leader">Чингис-хан</person> двинул свои войска в <territory id="Средней_Азии"
                     territory_type="region">Среднюю Азию</territory> и завоевал её.</p>
             <p>Из <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>, обогнув южные берега
-                    <place place_type="water_body">Каспийского моря</place>, войска <person
+                <place place_type="water_body">Каспийского моря</place>, войска <person id="Чингис-хан"
                         person_type="foreign_leader">Чингис-хана</person> прошли на <territory id="Закавказье"
                             territory_type="region">Кавказ</territory> и завоевали <territory id="Армения"
                         territory_type="country">Армению</territory> и <territory id="Грузия"
@@ -752,22 +751,22 @@
 
             <p><people people_type="ethnicity">Монгольская</people> конница в походе.</p>
 
-            <p><person person_type="foreign_leader">Хан Батый</person> и завоевание им русских
+            <p><person id="Хан_Батый" person_type="foreign_leader">Хан Батый</person> и завоевание им русских
                 княжеств. <date date_type="minor" year="1223">Покорив все народы <territory id="Закавказье" territory_type="region">Кавказа</territory>,
                     <people people_type="ethnicity">монгольская</people> армия в 1223 году на реке <place place_type="river"
                     >Калке</place> разбила соединённые силы славянских князей и <people
                     people_type="ethnicity">половцев</people></date>. С богатой добычей <people
                     people_type="ethnicity">монголы</people> ушли к себе в Азию.</p>
             <p>Через 13 лет на <place place_type="river">Волге</place> снова появились <people
-                    people_type="ethnicity">монголы</people>. Во главе их стоял хан <person
-                    person_type="foreign_leader">Батый</person> — внук умершего <person
+                    people_type="ethnicity">монголы</people>. Во главе их стоял хан <person id="Хан_Батый"
+                        person_type="foreign_leader">Батый</person> — внук умершего <person id="Чингис-хан"
                     person_type="foreign_leader">Чингис-хана</person>. На этот раз монголы напали на
                 <people people_type="ethnicity">русских</people> с востока. <date date_type="minor" year="1240"><person
                         person_type="foreign_leader">Батый</person> разгромил царство волжских <people id="болгар"
                         people_type="ethnicity">болгар</people> и <people id="мордвы" people_type="ethnicity"
                     >мордву</people>, затем поодиночке перебил войска русских князей, в 1240 году взял <place place_type="city">Киев</place>
                 и пошёл на Западную Европу</date>. Получив отпор от <people people_type="ethnicity"
-                    >чехов</people>, <person person_type="foreign_leader">Батый</person> повернул
+                    >чехов</people>, <person id="Хан_Батый" person_type="foreign_leader">Батый</person> повернул
                 назад и в низовьях Волги основал своё государство — <territory
                     territory_type="kingdom">Золотую Орду</territory> со столицей <place
                     place_type="city">Сарай</place>. Это был богатый город с каменными дворцами,
@@ -790,7 +789,7 @@
                     people_type="ethnicity">татаро-монгольское</people> иго.</p>
             <!--maybe terminology? idk-->
 
-            <p>Хан <person person_type="foreign_leader">Батый</person>.</p>
+            <p>Хан <person id="Хан_Батый" person_type="foreign_leader">Батый</person>.</p>
         </chapter>
         <chapter>
             <title n="13">13. Москва и первые московские князья</title>
@@ -800,7 +799,7 @@
                     place_type="city">Москва</place>. Впервые в летописи <place place_type="city"
                     >Москва</place> упоминается в 1147 году. В 1156 году она была обнесена
                 деревянной стеной.</p>
-            <p><people people_type="ethnicity">Татаро-монголы</people> хана <person
+            <p><people people_type="ethnicity">Татаро-монголы</people> хана <person id="Хан_Батый"
                     person_type="foreign_leader">Батыя</person> сожгли <place place_type="city"
                     >Москву</place> и деревянные стены её укреплений. Жители частью погибли, частью
                 разбежались по окрестным лесам. Но постепенно население вновь собралось к <place
@@ -814,31 +813,31 @@
                     >татарами</people>. Расположение <place place_type="city">Москвы</place> на
                 удобных речных путях давало князьям возможность собирать большие пошлины со всех
                 товаров, которые перевозились по <place place_type="river">реке Москве</place>.</p>
-            <p><person person_type="russian_royalty">Иван Калита</person>. Особенно усилилась <place
-                    place_type="city">Москва</place> при князе <person person_type="russian_royalty"
+            <p><person id="Иван_Калита" person_type="russian_royalty">Иван Калита</person>. Особенно усилилась <place
+                    place_type="city">Москва</place> при князе <person id="Иван_Калита" person_type="russian_royalty"
                     >Иване</person> (1328–1341), которого прозвали «Калитой», то есть мешком с
-                деньгами. Подарками и лестью <person person_type="russian_royalty">Калита</person>
+                деньгами. Подарками и лестью <person id="Иван_Калита" person_type="russian_royalty">Калита</person>
                 расположил к себе своего повелителя — хана <territory territory_type="kingdom"
                     >Золотой Орды</territory> — и получил от него право собирать для хана дань со
                 всех <territory territory_type="region">русских земель</territory>. Часть этой дани
-                    <person person_type="russian_royalty">Калита</person> утаивал для себя и своего
+                <person id="Иван_Калита" person_type="russian_royalty">Калита</person> утаивал для себя и своего
                 княжества. На скопленные деньги он покупал сёла, волости и даже целые княжества.
-                    <person person_type="russian_royalty">Иван Калита</person> наговаривал татарам
+                <person id="Иван_Калита" person_type="russian_royalty">Иван Калита</person> наговаривал татарам
                 на князей-соседей и натравливал на них <people people_type="ethnicity"
                     >татарского</people> хана. <people people_type="ethnicity">Татары</people> по
                 его доносам убивали князей и разоряли их княжества. Калита эти разорённые княжества
                 присоединял к своему <territory territory_type="kingdom">Московскому
-                    княжеству</territory>. Хан сделал <person person_type="russian_royalty"
+                    княжеству</territory>. Хан сделал <person id="Иван_Калита" person_type="russian_royalty"
                     >Калиту</person> старшим над другими русскими князьями, объявил его «великим»
-                князем. В начале княжения у <person person_type="russian_royalty">Калиты</person>
+                князем. В начале княжения у <person id="Иван_Калита" person_type="russian_royalty">Калиты</person>
                 было всего 4 города; умирая, своим детям он оставил 97 сёл и городов.</p>
 
             <p><place place_type="city">Москва</place> в XII веке.</p>
 
-            <p>Так собирал <person person_type="russian_royalty">Калита</person> разрозненные
+            <p>Так собирал <person id="Иван_Калита" person_type="russian_royalty">Калита</person> разрозненные
                 русские княжества в одно государство вокруг <place place_type="city"
                 >Москвы</place>.</p>
-            <p>Потомки <person person_type="russian_royalty">Калиты</person> были такие же
+            <p>Потомки <person id="Иван_Калита" person_type="russian_royalty">Калиты</person> были такие же
                 «собиратели». <date date_type="minor" year="1400" month="Late">В конце XIV века <territory territory_type="kingdom">Московское
                     княжество</territory> стало настолько сильным, что внук <person
                     person_type="russian_royalty">Калиты</person>, выдающийся полководец князь
@@ -870,7 +869,7 @@
                     земель</territory>. <territory territory_type="kingdom">Литва</territory> стала
                 большим государством. В конце XIV века она подошла совсем близко к великому
                     <territory territory_type="kingdom">княжеству Московскому</territory> и
-                захватила город <place place_type="city">Смоленск</place></date>. Литовский князь <person
+                            захватила город <place place_type="city">Смоленск</place></date>. Литовский князь <person id="Ягайло"
                     person_type="foreign_leader">Ягайло</person>, женившись на польской королеве,
                 стал королём <territory territory_type="kingdom">польским и литовским</territory>.
                 Союз <territory territory_type="kingdom">Литвы с Польшей</territory> очень усилил
@@ -910,21 +909,21 @@
         <chapter>
             <title n="14">14. Тамерлан и упадок Золотой Орды</title>
 
-            <p><person person_type="foreign_leader">Тамерлан</person>. В то время как молодое
+            <p><person id="Тамерлан" person_type="foreign_leader">Тамерлан</person>. В то время как молодое
                     <territory territory_type="kingdom">Московское княжество</territory>,
                 объединяясь под властью одного князя, росло и крепло, само <territory
                     territory_type="kingdom">монгольское государство</territory> всё больше и больше
                 дробилось. Только время от времени среди <people people_type="ethnicity"
                     >монголов</people> появлялись отдельные ханы-завоеватели. Одним из таких
-                завоевателей был <person person_type="foreign_leader">Тамерлан</person>.</p>
+                завоевателей был <person id="Тамерлан" person_type="foreign_leader">Тамерлан</person>.</p>
             <p><date date_type="major" year="1336"><person person_type="foreign_leader">Тамерлан</person> родился в <territory id="Средней_Азии"
                     territory_type="region">Средней Азии</territory> в <event event_type="minor"
                     >1336</event> году</date>. Когда он подрос, то стал во главе шайки удальцов и переходил
-                на службу то к одному, то к другому правителю. Выдвинулся <person
+                на службу то к одному, то к другому правителю. Выдвинулся <person id="Тамерлан"
                     person_type="foreign_leader">Тамерлан</person> впервые при подавлении народного
                 восстания в городе <place place_type="city">Самарканде</place> (<territory id="Средней_Азии"
                     territory_type="region">Средняя Азия</territory>). Жестоко расправившись с
-                восставшими, <person person_type="foreign_leader">Тамерлан</person> вскоре объявил
+                восставшими, <person id="Тамерлан" person_type="foreign_leader">Тамерлан</person> вскоре объявил
                 себя ханом-правителем и сделал <place place_type="city">Самарканд</place> своей
                 столицей.</p>
             <p><date date_type="major" year="1395"><person person_type="foreign_leader">Тамерлан</person> завоевал ряд соседних
@@ -933,11 +932,11 @@
                 <person person_type="foreign_leader">Тохтамыша</person> и этим помог <place
                     place_type="city">Москве</place> быстрее освободиться от <people
                     people_type="ethnicity">татарского</people> ига</date>.</p>
-            <p><person person_type="foreign_leader">Тамерлан</person> был свиреп и жесток. После
+            <p><person id="Тамерлан" person_type="foreign_leader">Тамерлан</person> был свиреп и жесток. После
                 взятия одного города он закопал живыми 4 тысячи человек. При взятии другого города
                 он приказал своим воинам доставить ему 70 тысяч голов жителей и сложить из них
                 башню.</p>
-            <p>Какие бы страны ни покорял <person person_type="foreign_leader">Тамерлан</person>, он
+            <p>Какие бы страны ни покорял <person id="Тамерлан" person_type="foreign_leader">Тамерлан</person>, он
                 отовсюду привозил в <territory id="Средней_Азии" territory_type="region">Среднюю Азию</territory>
                 лучших мастеров-ремесленников. В свою столицу <place place_type="city"
                     >Самарканд</place>, об украшении которой он очень заботился, он привёз до 150
@@ -973,17 +972,17 @@
                 великим князем в <event event_type="minor">1462</event> году</date>. <territory
                     territory_type="kingdom">Московское княжество</territory> в это время всё еще
                 было под властью, хотя уже обессиленного, хана <territory territory_type="kingdom"
-                    >Золотой Орды</territory>. <person person_type="russian_royalty">Иван
+                    >Золотой Орды</territory>. <person id="Иван_III" person_type="russian_royalty">Иван
                     III</person> обманывал хана, уверяя его в своей преданности, но потихоньку
                 старался накопить силы и выйти из подчинения <people people_type="ethnicity"
-                    >татарам</people>. <person person_type="russian_royalty">Иван III</person>
+                    >татарам</people>. <person id="Иван_III" person_type="russian_royalty">Иван III</person>
                 объединил под своей властью соседние с <territory territory_type="kingdom">Москвой
                     княжества</territory> — <place place_type="city">Тверское</place>, <place
                     place_type="city">Рязанское</place> и другие. Все эти княжества были против
                 объединения под властью одного князя и заключали союзы с <people
                     people_type="ethnicity">татарами</people> и <territory territory_type="kingdom"
                     >Литвой</territory> против <territory territory_type="kingdom"
-                    >Москвы</territory>. Но <person person_type="russian_royalty">Иван III</person>
+                        >Москвы</territory>. Но <person id="Иван_III" person_type="russian_royalty">Иван III</person>
                 добился того, что <territory territory_type="kingdom">Московское
                     государство</territory> стало при нём крепким и единым <people
                     people_type="ethnicity">Русским</people> национальным государством. Оставался
@@ -991,7 +990,7 @@
             <p><date date_type="major" year="1500" month="Late">В конце XV века <person person_type="russian_royalty">Иван III</person> пошёл войной
                 на <place place_type="city">Новгород</place></date>. <place place_type="city"
                     >Новгородские</place> бояре заключили союз с <territory territory_type="kingdom"
-                    >Литвой</territory>. Но это не спасло их. <person person_type="russian_royalty"
+                        >Литвой</territory>. Но это не спасло их. <person id="Иван_III" person_type="russian_royalty"
                     >Иван III</person> разбил <place place_type="city">новгородские</place> войска,
                 и <place place_type="city">Новгород</place> также стал частью единого <territory
                     territory_type="kingdom">Русского государства</territory>. К этому времени
@@ -1005,22 +1004,22 @@
                 Теперь <territory territory_type="kingdom">Золотая Орда</territory> была не страшна
                 укрепившемуся <territory territory_type="kingdom">Русскому
                 государству</territory>.</p>
-            <p>Выбрав удачный момент, <person person_type="russian_royalty">Иван III</person>
+            <p>Выбрав удачный момент, <person id="Иван_III" person_type="russian_royalty">Иван III</person>
                 объявил хану <territory territory_type="kingdom">Золотой Орды</territory>, что он не
                 признаёт за ним власти над <place place_type="city">Москвой</place>. Тогда хан пошёл
-                на <person person_type="russian_royalty">Ивана III</person> войной. Войска
+                на <person id="Иван_III" person_type="russian_royalty">Ивана III</person> войной. Войска
                 противников встретились на реке <place place_type="river">Угре</place>, но ни один
                 из них не осмелился вступить в решительный бой. Так они простояли друг против друга
                 несколько месяцев. Начались морозы. У хана не было кормов для конницы, кроме того,
                 он в это время получил сведения о волнениях в <territory territory_type="kingdom"
-                    >Орде</territory> — и хан повернул обратно. <person
+                    >Орде</territory> — и хан повернул обратно. <person id="Иван_III"
                     person_type="russian_royalty">Иван III</person> оказался, таким образом,
                 «победителем». <date date_type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people
                     people_type="ethnicity">татаро-монгольское</people> иго, длившееся свыше двухсот
                 лет</date>.</p>
             <p>Вскоре <territory territory_type="kingdom">Орда</territory> окончательно захирела и
                 распалась.</p>
-            <p>Война <person person_type="russian_royalty">Ивана III</person> с <territory
+            <p>Война <person id="Иван_III" person_type="russian_royalty">Ивана III</person> с <territory
                     territory_type="kingdom">Литвой и Польшей</territory>. <date date_type="major" year="1500">В <event
                     event_type="minor">1500</event> году началась война между <person
                     person_type="russian_royalty">Иваном III</person> и <territory
@@ -1030,11 +1029,11 @@
                 заключил союз с прибалтийскими немцами — рыцарями. Немцы вначале имели успех, по
                 затем <people people_type="ethnicity">русские</people> войска перешли в наступление,
                 разгромили немцев и разорили их земли.</p>
-            <p>Война кончилась перемирием на 6 лет. За <person person_type="russian_royalty">Иваном
+            <p>Война кончилась перемирием на 6 лет. За <person id="Иван_III" person_type="russian_royalty">Иваном
                     III</person> остались отвоёванные им от панов <territory territory_type="region"
                     >русские</territory> и <territory territory_type="region"
                     >белорусские</territory> земли.</p>
-            <p>При <person person_type="russian_royalty">Иване III</person> владения <territory
+            <p>При <person id="Иван_III" person_type="russian_royalty">Иване III</person> владения <territory
                     territory_type="kingdom">Русского государства</territory> увеличились в 3
                 раза.</p>
             <p>Иван III — «государь всея Руси». <date date_type="major" year="1453">После взятия <territory territory_type="kingdom"
@@ -1043,28 +1042,28 @@
                     <!--I know it's like one of the biggest events in history, but it's minor for the purposes of this specific historiography--></event>
                 году <person person_type="russian_royalty">Иван III</person> женился на греческой
                 царевне Софье Палеолог</date>.</p>
-            <p><person person_type="russian_royalty">Иван III</person> говорил теперь, что он
+            <p><person id="Иван_III" person_type="russian_royalty">Иван III</person> говорил теперь, что он
                 наследник <territory territory_type="kingdom">византийских</territory> императоров.
                 Древний герб <territory territory_type="kingdom">Византии</territory> (двуглавый
-                орёл) <person person_type="russian_royalty">Иван III</person> сделал гербом
-                    <territory territory_type="kingdom">Московского государства</territory>. <person
+                орёл) <person id="Иван_III" person_type="russian_royalty">Иван III</person> сделал гербом
+                <territory territory_type="kingdom">Московского государства</territory>. <person id="Иван_III"
                     person_type="russian_royalty">Иван III</person> стал именовать себя «государем
                 всея Руси».</p>
 
             <p>Герб <territory territory_type="kingdom">Московского государства</territory> при
-                    <person person_type="russian_royalty">Иване III</person>.</p>
+                <person id="Иван_III" person_type="russian_royalty">Иване III</person>.</p>
 
-            <p><person person_type="russian_royalty">Иван III</person> начал усиленно украшать
+            <p><person id="Иван_III" person_type="russian_royalty">Иван III</person> начал усиленно украшать
                     <place place_type="city">Москву</place>. Из-за границы он выписал в <place
                     place_type="city">Москву</place> итальянских ремесленников, техников и
                 художников. Небольшой <place place_type="city">московский</place>
                 <place place_type="building">Кремль</place>
-                <person person_type="russian_royalty">Иван III</person> перестроил в большой
+                <person id="Иван_III" person_type="russian_royalty">Иван III</person> перестроил в большой
                 каменный замок с невиданными до тех пор в <place place_type="city">Москве</place>
                 зданиями. <place place_type="building">Кремлёвские</place> стены и башни,
-                построенные итальянцами, и теперь ещё живо напоминают о времени <person
+                построенные итальянцами, и теперь ещё живо напоминают о времени <person id="Иван_III"
                     person_type="russian_royalty">Ивана III</person>.</p>
-            <p><person person_type="russian_royalty">Иван III</person> ввёл в <place
+            <p><person id="Иван_III" person_type="russian_royalty">Иван III</person> ввёл в <place
                     place_type="building">Кремлёвском дворце</place> пышные порядки двора греческих
                 императоров.</p>
             <p>Но усиление власти <place place_type="city">московского</place> князя вело к усилению
@@ -1106,7 +1105,7 @@
                 день</date>.</p>
             <p>Так усилилось прикрепление крестьян к господской земле. Господин имел право судить
                 своих крестьян и бить их за неповиновение.</p>
-            <p>Кроме боярских и монастырских владений, при <person person_type="russian_royalty"
+            <p>Кроме боярских и монастырских владений, при <person id="Иван_III" person_type="russian_royalty"
                     >Иване III</person> появились владения помещиков-дворян из служилых военных
                 людей, из княжеских и боярских слуг. За участие в походах и за охрану границ они
                 получали от князя плату землями с жившими на них крестьянами. С этих земель,
@@ -1123,31 +1122,31 @@
             <chapter>
             <title n="17">17. Иван IV и разгром поволжских татар</title>
 
-            <p>Царь-самодержец. Внук <person person_type="russian_royalty">Ивана III</person>,
-                будущий царь <person person_type="tsar">Иван IV Грозный</person>, рано лишился отца;
+                <p>Царь-самодержец. Внук <person id="Иван_III" person_type="russian_royalty">Ивана III</person>,
+                    будущий царь <person id="Иван_IV_Грозный" person_type="tsar">Иван IV Грозный</person>, рано лишился отца;
                 бояре отравили его мать и на целых десять лет забрали власть в свои руки.</p>
                 <p><date date_type="major" year="1547">В <event event_type="major">1547</event> году семнадцатилетний <person
                     person_type="tsar">Иван IV</person> первым из <territory
                     territory_type="kingdom">московских государей</territory> объявил себя
                 самодержавным царём и стал управлять государством самостоятельно, не доверяя боярам
                 и опираясь на дворян-помещиков</date>.</p>
-            <p><person person_type="tsar">Иван IV</person> для упрочения своей власти считал очень
+                <p><person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> для упрочения своей власти считал очень
                 важным, чтобы в его государстве люди воспитывались на чтении книг, прославляющих
-                царскую власть. <person person_type="tsar">Иван IV</person> использовал для этой
+                царскую власть. <person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> использовал для этой
                 цели изобретённое на Западе печатание книг и завёл в <place place_type="city"
                     >Москве</place> типографию. В ней книги печатались под его особым наблюдением.
                 Первым <people people_type="ethnicity">русским</people> печатником этой типографии
-                был <person person_type="worker">Иван Фёдоров</person>.</p>
+                    был <person id="Иван_IV_Грозный" person_type="worker">Иван Фёдоров</person>.</p>
 
             <p>Иван Федоров в типографии.</p>
 
             <p>Завоевание <place place_type="city">Казани</place> и <place place_type="city"
-                    >Астрахани</place>. Укрепляя свою силу и власть, <person person_type="tsar">Иван
-                    IV</person> продолжал завоевательную политику своего деда, <person
-                    person_type="russian_royalty">Ивана III</person>, и отца, <person
+                    >Астрахани</place>. Укрепляя свою силу и власть, <person id="Иван_IV_Грозный" person_type="tsar">Иван
+                        IV</person> продолжал завоевательную политику своего деда, <person id="Иван_III"
+                            person_type="russian_royalty">Ивана III</person>, и отца, <person id="Василия_III"
                     person_type="russian_royalty">Василия III</person>, отвоевавшего у <territory
                     territory_type="kingdom">Литвы</territory>
-                <place place_type="city">Смоленск</place>. <person person_type="tsar">Иван
+                <place place_type="city">Смоленск</place>. <person id="Иван_IV_Грозный" person_type="tsar">Иван
                     IV</person> решил сначала захватить <people people_type="ethnicity"
                         >татарские</people> ханства на <place place_type="river">Волге</place>. <date date_type="major" year="1552" month="Fall">Осенью
                     <event event_type="minor">1552</event> года <person person_type="tsar">Иван
@@ -1161,7 +1160,7 @@
                     >Казанцы</place> продолжали отстаивать свой город. Без отдыха, день и ночь они
                 отбивались от осаждающих.</p>
             <p>Царь приказал сделать подкопы под стены и бочками с порохом взорвал их. Жестокий бой
-                закипел в городских воротах, в проломах стен. Войска <person person_type="tsar"
+                закипел в городских воротах, в проломах стен. Войска <person person_type="tsar" id="Иван_IV_Грозный"
                     >Ивана IV</person> — их было до 150 тысяч — одолели <people
                     people_type="ethnicity">татар</people>. <place place_type="city">Казань</place>
                 была присоединена к <territory territory_type="kingdom">Московскому
@@ -1177,11 +1176,11 @@
                         >мордву</people>, <people id="мари" people_type="ethnicity">марийцев</people>, <people
                     people_type="ethnicity">чувашей</people>, <people people_type="ethnicity"
                     >башкир</people>. С покорением <place place_type="city">Казани</place> они все
-                попали под власть <person person_type="tsar">Ивана IV</person>.</p>
+                попали под власть <person id="Иван_IV_Грозный" person_type="tsar">Ивана IV</person>.</p>
 
             <p><place place_type="building">Церковь Василия Блаженного</place>, построенная в <place
                     place_type="city">Москве</place>
-                <person person_type="tsar">Иваном IV</person> после взятия <place place_type="city"
+                <person id="Иван_IV_Грозный" person_type="tsar">Иваном IV</person> после взятия <place place_type="city"
                     >Казани</place>.</p>
 
                 <p><date date_type="major" year="1556">В <event event_type="minor">1556</event> году войска <person person_type="tsar">Ивана
@@ -1189,7 +1188,7 @@
                     place_type="river">Волге</place>, столицу <people people_type="ethnicity"
                     >ногайских татар</people></date>. Весь волжский путь оказался в руках русского
                 царя.</p>
-            <p>После этого <person person_type="tsar">Иван IV</person> захватил северо-восточную
+                <p>После этого <person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> захватил северо-восточную
                 часть <territory id="Закавказье" territory_type="region">Кавказа</territory> и на реке <place
                     place_type="river">Терек</place> построил несколько крепостей. <people
                     people_type="ethnicity">Черкесские</people> и <people people_type="ethnicity"
@@ -1197,52 +1196,52 @@
             <p><territory territory_type="kingdom">Русское государство</territory> из национального
                 стало превращаться в многонациональное, то есть состоящее из разных народов.</p>
         </chapter>
-        <!-- NOT THE ACTUAL END OF THE SECTION!!!!!!! Just here for well formed-ness; section 5 ends after chapter 18-->
+        
         <!--markup ch.17-34-->
         <chapter>
             <title n="18">18. Расправа с боярами и воины Ивана IV</title>
             <p> Захватив земли <people people_type="ethnicity">татар</people> на <place
                     place_type="river">Волге</place> и укрепившись на Северном Кавказе,
-                    <person person_type="tsar">Иван IV</person> начал <event event_type="minor"
+                <person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> начал <event event_type="minor"
                     >войну</event> с <people people_type="ethnicity">прибалтийскими
                 немцами</people>, с <people people_type="ethnicity">Польшей</people>, <people
                     people_type="ethnicity">Литвой</people> и <people people_type="ethnicity"
-                    >шведами</people>. <person person_type="tsar">Ивана IV</person> хотел пробиться
+                        >шведами</people>. <person id="Иван_IV_Грозный" person_type="tsar">Ивана IV</person> хотел пробиться
                 к берегам Балтийского моря и вступить в сношения с <people people_type="ethnicity"
                     >западноевропейскими народами</people>. Шведы и немцы не пропускали в <place
                     place_type="city">Москву</place>
                 <people people_type="job">иностранных мастеров</people> и всеми силами мешали
                 русской торговле.</p>
             <p>После первых поражений в <event event_type="minor">войне</event>
-                <person person_type="tsar">Иван</person> раскрыл измену крупных <people
+                <person id="Иван_IV_Грозный" person_type="tsar">Иван</person> раскрыл измену крупных <people
                     people_type="class">бояр</people>-вотчинников. Эти изменники переходили на
                 службу к <people people_type="ethnicity">полякам</people> и <people
-                    people_type="ethnicity">литовцам</people>. <person person_type="tsar">Царь
+                    people_type="ethnicity">литовцам</people>. <person id="Иван_IV_Грозный" person_type="tsar">Царь
                     Иван</person> повёл жестокую борьбу с <people people_type="class"
                     >боярами</people>, которые противились объединению страны, укреплению
                 самодержавной власти царя. Многих <people people_type="class">бояр и их
                     сторонников</people> он казнил, других ссылал в отдалённые части государства. Их
                 земли он отбирал, раздавая мелким <people people_type="job">помещикам</people>
                     (<people people_type="class">дворянам</people>). Борьба с <people
-                    people_type="class">боярами</people> нужна была <person person_type="tsar">Ивану
+                        people_type="class">боярами</people> нужна была <person id="Иван_IV_Грозный" person_type="tsar">Ивану
                     IV</person>, чтобы окончательно сломить всех этих мелких царьков, какими были
                     <people people_type="class">бояре</people>, и укрепить единую власть. Для борьбы
-                с ними <person person_type="tsar">Иван IV</person> образовал из <people
+                с ними <person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> образовал из <people
                     people_type="job">помещиков</people> особый отряд в несколько тысяч человек и
                 назвал их «<people people_type="job">опричниками</people>».</p>
             <p>Опричники имели свою особую форму. К седлу <people people_type="job"
                     >опричника</people> были привязаны собачья голова и метла. Это были знаки его
                 должности: вынюхивать, выслеживать врагов царя и выметать изменников-бояр.</p>
-            <p>Много<people people_type="class">бояр</people>истребили <person person_type="tsar"
-                    >Иван IV</person> и его опричники. Земли казнённых <person person_type="tsar"
+            <p>Много<people people_type="class">бояр</people>истребили <person id="Иван_IV_Грозный" person_type="tsar"
+                    >Иван IV</person> и его опричники. Земли казнённых <person id="Иван_IV_Грозный" person_type="tsar"
                     >Иван</person> раздавал <people people_type="job">опричникам</people> и другим
-                помещикам. Таким путём <person person_type="tsar">Иван Грозный</person> укреплял
+                помещикам. Таким путём <person id="Иван_IV_Грозный" person_type="tsar">Иван Грозный</person> укреплял
                 самодержавную власть в Русском царстве, уничтожая боярское имущество.</p>
             <p>Этим он как бы заканчивал начатое Калитой собирание разрозненных удельных княжеств в
                 одно сильное государство.</p>
-            <p>Царь <person person_type="tsar">Иван Грозный</person> (1530–1584 гг.). С картины В.
+            <p>Царь <person id="Иван_IV_Грозный" person_type="tsar">Иван Грозный</person> (1530–1584 гг.). С картины В.
                 Васнецова.</p>
-            <p>Крестьяне и казаки. При <person person_type="tsar">Иване IV</person> положение
+            <p>Крестьяне и казаки. При <person id="Иван_IV_Грозный" person_type="tsar">Иване IV</person> положение
                     <people people_type="class">крестьян</people> очень ухудшилось. К концу его
                 царствования было воспрещено <people people_type="class">крестьянам</people> уходить
                 от своих владельцев даже в Юрьев день. Тогда-то и сложилась поговорка: «Вот тебе,
@@ -1254,7 +1253,7 @@
                     >крестьян</people> поселилось на 
                     у и <place place_type="river">Днепре</place>. Вскоре здесь выросли поселения, жители которых
                 назывались казаками.</p>
-            <p>Война за Прибалтийские земли. 24 года воевал <person person_type="tsar">Иван
+            <p>Война за Прибалтийские земли. 24 года воевал <person id="Иван_IV_Грозный" person_type="tsar">Иван
                     Грозный</person>, чтобы иметь выход к Балтийскому морю. В начале <event
                     event_type="minor">войны</event> русские войска разгромили немецких рыцарей и
                 захватили ряд городов. Но кончилась <event event_type="minor">война</event> неудачей
@@ -1264,7 +1263,7 @@
                 земли.</p>
             <p>Шведы отняли у него берега Финского залива. Удобный морской путь для торговли с
                 заграницей был снова потерян.</p>
-            <p><person person_type="tsar">Ивану Грозному</person> пришлось вести торговлю с
+            <p><person id="Иван_IV_Грозный" person_type="tsar">Ивану Грозному</person> пришлось вести торговлю с
                 иностранными государствами лишь по неудобному, замерзающему на несколько месяцев в
                 году Белому морю. Этот путь случайно открыл один английский капитан. Он хотел
                 перебраться через Северный Ледовитый океан в Индию, но бурей его загнало в устье
@@ -1279,14 +1278,14 @@
                 Строгановы в 1581 году отправили против Кучума небольшой отряд наёмных войск из
                 казаков, хорошо вооружённый огнестрельным оружием</date>. Этот отряд казаков под командой
                 Ермака разбил многочисленные войска хана Кучума, вооруженные луками и стрелами.</p>
-            <p><person person_type="tsar">Иван Грозный</person> наградил Ермака военными доспехами и
+            <p><person id="Иван_IV_Грозный" person_type="tsar">Иван Грозный</person> наградил Ермака военными доспехами и
                 шубой со своего плеча, а его казаков богатыми подарками. Кучуму, однако, потом
                 удалось разбить отряд Ермака. Сам Ермак погиб в реке Иртыше во время ночного
                 нападения кучумовских воинов. Кучум снова восстановил свою власть в <territory id="Сибири" territory_type="region"
                     >Сибирском</territory> царстве, но ненадолго. Посланные из <place
                     place_type="city">Москвы</place> воеводы с войсками через несколько лет
                 окончательно покорили <territory id="Сибири" territory_type="region">Сибирское</territory> царство.</p>
-            <p>Владения России при <person person_type="tsar">Иване IV</person> расширились во много
+            <p>Владения России при <person id="Иван_IV_Грозный" person_type="tsar">Иване IV</person> расширились во много
                 раз. Его царство стало одним из крупнейших государств в мире.</p>
             <p>VI. Крестьянские <event event_type="minor">войны</event> и <event event_type="minor"
                     >восстания</event> угнетённых народов в XVII веке</p>
@@ -1295,13 +1294,13 @@
     <section><section_title s="6">VI. Крестьянские войны и восстания угнетённых народов в XVII веке</section_title>
     <chapter>
         <title n="19">19. Первая крестьянская война в русском государстве</title>
-        <p>Царь <person person_type="tsar"/> и начало крестьянских восстаний. <date date_type="major" year="1584">В 1584 году <person
+        <p><date date_type="major" year="1584">В 1584 году <person
                 person_type="tsar">Иван IV</person> умер</date>. Незадолго до своей смерти он в припадке
             гнева ударом посоха в висок убил своего старшего сына Ивана. Осталось ещё два сына —
             слабоумный Фёдор и маленький Димитрий. Царём стал слабоумный Федор Иванович. При Фёдоре
             царством управлял брат жены царя Борис Годунов, бывший <people people_type="job"
                 >опричник</people>
-            <person person_type="tsar">Ивана Грозного</person>. Маленький Димитрий, живший со своею
+            <person id="Иван_IV_Грозный" person_type="tsar">Ивана Грозного</person>. Маленький Димитрий, живший со своею
             матерью в городе Угличе, умер или был умерщвлён сторонниками Годунова.</p>
         <p><date date_type="major" year="1598">В 1598 году после смерти Федора царём стал Борис Годунов</date>.</p>
         <p>Положение <people people_type="class">крестьян</people> при Годунове очень ухудшилось.
@@ -1315,15 +1314,15 @@
             начались и в городах.</p>
         <p>Первая попытка польских панов поработить Русское государство. Старые враги Русского
             государства, польские паны, решили воспользоваться удобным моментом — волнениями в
-            России — и поработить её. С этой целью они распустили слух, что сын <person
+            России — и поработить её. С этой целью они распустили слух, что сын <person id="Иван_IV_Грозный"
                 person_type="tsar">Ивана Грозного</person> Димитрий вовсе не умер в Угличе, а бежал
-            от <person person_type="tsar">а</person> в Польшу. Поляки подыскали подходящего человека
+            от а в Польшу. Поляки подыскали подходящего человека
             и под видом царевича Димитрия отправили его со своими отрядами в <place
                 place_type="city">Москву.</place> Этот Лжедимитрий должен был свергнуть с царского
-            престола <person person_type="tsar">а</person> и стать вместо него царём. На Украине к
+            престола а и стать вместо него царём. На Украине к
             Лжедимитрию присоединились недовольные<people people_type="class">боярами</people>казаки
             с <territory territory_type="region">а</territory> и Днепра.</p>
-        <p>Царь <person person_type="tsar"/> в это время умер, а царские войска не оказали
+        <p>Царь в это время умер, а царские войска не оказали
             сопротивления Лжедимитрию. Лжедимитрий беспрепятственно дошёл до <place
                 place_type="city">Москвы</place> и торжественно вступил в неё как настоящий царь.
             Мать умершего царевича Димитрия была подкуплена<people people_type="class"
@@ -1474,7 +1473,7 @@
             произошло в 1662 году</date>. Во время этого <event event_type="minor">восстания</event>
             царские войска убили и потопили в реке <place place_type="city">Москве</place> несколько
             тысяч восставших.</p>
-        <p>Башкирское восстание. В том же году на <place place_type="mountain">Урале</place> поднялся народ Башкирии, завоёванной царём <person
+        <p>Башкирское восстание. В том же году на <place place_type="mountain">Урале</place> поднялся народ Башкирии, завоёванной царём <person id="Иван_IV_Грозный"
                 person_type="tsar">Иваном IV</person> вскоре после взятия <place place_type="city"
                 >Казани</place>. К <people people_type="ethnicity">башкирам</people> примкнули
                 <people people_type="ethnicity">татары</people>. Восставшие захватили обоз с
@@ -1710,7 +1709,7 @@
         <p>Россия нуждалась в серьёзных преобразованиях. Иначе она могла остаться некультурной и
             отсталой страной и потерять свою независимость. Царём-преобразователем, укрепившим
             Российское государство <people people_type="job">помещиков</people> и купцов, явился
-                <person person_type="tsar">Пётр I</person>.</p>
+            <person id="Пётр_I" person_type="tsar">Пётр I</person>.</p>
         <p>VII. Россия XVIII века — империя <people people_type="job">помещиков</people> и
             купцов</p>
     </chapter>
@@ -1727,15 +1726,15 @@
                 <territory territory_type="region">у</territory> флот из 29 кораблей и с войском,
             обученным иностранцами, напал на турецкую крепость Азов и взял её. Во время этой <event
                 event_type="minor">войны</event>
-            <person person_type="tsar">Пётр </person>ещё более убедился в необходимости перестроить
+            <person id="Пётр_I" person_type="tsar">Пётр </person>ещё более убедился в необходимости перестроить
             всю жизнь в стране и перенять у европейцев их технику военного и морского дела.</p>
-        <p><person person_type="tsar">Пётр </person>выехал за границу. В Западной Европе в это время
+        <p><person id="Пётр_I" person_type="tsar">Пётр </person>выехал за границу. В Западной Европе в это время
             передовыми странами были Голландия и Англия. В Голландии он с топором в руках работал на
             корабельных верфях. В Англии он изучил в совершенстве корабельное дело. Около двух лет
-            пробыл <person person_type="tsar">Пётр I</person> за границей и многому научился. В
+            пробыл <person id="Пётр_I" person_type="tsar">Пётр I</person> за границей и многому научился. В
             России началось <event event_type="minor">восстание</event> стрельцов, недовольных
             новыми порядками, заведёнными Петром, и требовавших возврата к старому. Это было
-            реакционное восстание. <person person_type="tsar">Пётр </person>вернулся из-за границы и
+            реакционное восстание. <person id="Пётр_I" person_type="tsar">Пётр </person>вернулся из-за границы и
             лично руководил расправой с восставшими стрельцами, которые тянули Россию назад.
             Стрелецкие полки были расформированы.</p>
         <p>Петр I (1672–1725 гг.).</p>
@@ -1766,7 +1765,7 @@
                 >татары</people>, удмурты. <date date_type="major" year="1707">В 1707 году поднялось <event event_type="minor"
                 >восстание</event> казаков и <people people_type="class">крестьян</people> на Дону</date>.
             Во главе восставших был казак Кондратий Афанасьевич Булавин. Восставшие взяли ряд
-            городов. <person person_type="tsar">Пётр </person>послал на Булавина целую армию. В это
+            городов. <person id="Пётр_I" person_type="tsar">Пётр </person>послал на Булавина целую армию. В это
             время богатые казаки составили заговор и напали на хутор, где жил Булавин. Атаман
             отстреливался до последней пули. Не желая отдать себя в руки врагов, Булавин последнюю
             пулю пустил в себя.</p>
@@ -1778,7 +1777,7 @@
         <p>Причины поражения Булавина были те же, что и в предыдущих <event event_type="minor"
                 >восстаниях</event>
             <people people_type="class">крестьян</people> и казаков.</p>
-        <p>Подавив народные восстания, <person person_type="tsar">Пётр </person>сосредоточил все
+        <p>Подавив народные восстания, <person id="Пётр_I" person_type="tsar">Пётр </person>сосредоточил все
             силы на борьбу со шведами.</p>
     </chapter>
     </section>
@@ -1790,25 +1789,25 @@
             и русские.</p>
         <p>Солдаты регулярной армии Петра I.</p>
         <p><date date_type="minor" year="1709">Шведские войска были разбиты русской регулярной армией</date>. В этой битве особенно отличился
-            сам <person person_type="tsar">Пётр I</person>. Карл XII и Мазепа бежали в Турцию. Карл
+            сам <person id="Пётр_I" person_type="tsar">Пётр I</person>. Карл XII и Мазепа бежали в Турцию. Карл
             убедил турок начать <event event_type="minor">войну</event> с Россией. Началась снова
                 <event event_type="minor">война</event> с Турцией.</p>
-        <p><person person_type="tsar">Пётр </person>выставил против турок сорокатысячную армию.
+        <p><person id="Пётр_I" person_type="tsar">Пётр </person>выставил против турок сорокатысячную армию.
             Турки же собрали войско в пять раз большее. На реке Прут войска Петра были окружены.
             Пришлось заключить с турками невыгодный мир и возвратить им крепость Азов.</p>
-        <p>После неудачи с турками <person person_type="tsar">Пётр </person>решил добить шведов и
+        <p>После неудачи с турками <person id="Пётр_I" person_type="tsar">Пётр </person>решил добить шведов и
             окончательно закрепить за Россией берега Балтийского моря. Он забрал у шведов Ригу,
             Ревель, построил сильный флот. В морском бою шведский флот был разбит.</p>
         <p>Война со шведами продолжалась долго, 21 год. В конце концов шведы подписали мир, по
             которому к России отошли земли у берегов Рижского и Финского заливов.</p>
-        <p>Борьба Петра I за побережье Каспийского моря. <person person_type="tsar">Пётр I</person>
+        <p>Борьба Петра I за побережье Каспийского моря. <person id="Пётр_I" person_type="tsar">Пётр I</person>
             решил также укрепиться на берегах Каспийского моря, через которое шли пути на Восток — в
             Среднюю Азию, в Индию и в Иран. Он собрал армию в 80 тысяч человек и повёл её из
-            Астрахани в поход на владения Ирана. <person person_type="tsar">Пётр </person>заранее
+            Астрахани в поход на владения Ирана. <person id="Пётр_I" person_type="tsar">Пётр </person>заранее
             сговорился с грузинскими князьями, бывшими под властью Ирана, и с армянскими купцами,
             которые должны были помогать ему в <event event_type="minor">войне</event> с шахом —
             правителем Ирана.</p>
-        <p>По кроме сухопутной армии, <person person_type="tsar">Пётр </person>отправил ещё войска
+        <p>По кроме сухопутной армии, <person id="Пётр_I" person_type="tsar">Пётр </person>отправил ещё войска
             на судах. Эти войска высаживались в городах на берегах Каспийского моря и захватывали
             их. Петр завладел городами Дербентом и Баку.</p>
         <p>В городах Азербайджана, захваченных Петром, жили тогда народы, покорённые иранскими
@@ -1818,22 +1817,22 @@
     </chapter>
     <chapter>
         <title n="29">29. Реформы Петра I</title>
-        <p>Реформы в управлении государством. <person person_type="tsar">Пётр I</person> добился
+        <p>Реформы в управлении государством. <person id="Пётр_I" person_type="tsar">Пётр I</person> добился
             своей цели. Берега Балтийского моря были в руках России. Россия приблизилась к Европе.
-                <person person_type="tsar">Пётр </person>вёл неустанную борьбу с отсталостью России
+            <person id="Пётр_I" person_type="tsar">Пётр </person>вёл неустанную борьбу с отсталостью России
             и переделывал её порядки на европейский лад.</p>
-        <p>Вместо Боярской думы <person person_type="tsar">Пётр </person>учредил сенат из
-            назначенных им лиц. Вместо 50 приказов <person person_type="tsar">Пётр</person> завёл 12
+        <p>Вместо Боярской думы <person id="Пётр_I" person_type="tsar">Пётр </person>учредил сенат из
+            назначенных им лиц. Вместо 50 приказов <person id="Пётр_I" person_type="tsar">Пётр</person> завёл 12
             коллегий, которые ведали армией и флотом, иностранными делами, хозяйством и судом. В
             сенате и коллегиях всеми делами управляли дворяне.</p>
         <p><person person_type="tsar">Пётр </person>поделил всю Россию на 8 губерний. Во главе
             губернии он поставил губернатора, который правил краем, ведал набором солдат и денежными
             сборами.</p>
-        <p>Чтобы укрепить силу и власть дворян, <person person_type="tsar">Пётр </person>передал им
-            поместья в полное их владение. <date date_type="minor" year="1721">В 1721 году после победы над шведами <person
+        <p>Чтобы укрепить силу и власть дворян, <person id="Пётр_I" person_type="tsar">Пётр </person>передал им
+            поместья в полное их владение. <date date_type="minor" year="1721">В 1721 году после победы над шведами <person id="Пётр_I"
                 person_type="tsar">Пётр</person> принял титул императора</date>. С этого времени Россия
             стала называться Российской империей.</p>
-        <p>Реформы в хозяйстве. Для увеличения доходов государства <person person_type="tsar">Пётр
+        <p>Реформы в хозяйстве. Для увеличения доходов государства <person id="Пётр_I" person_type="tsar">Пётр
             </person>ввёл подушную подать, заставив платить сё всех <people people_type="class"
                 >крестьян</people> мужского пола от мала до велика. При Петре были заведены суконные
             и другие мануфактуры (фабрики). На ручных станках работали рабочие-крепостные. Купцам
@@ -1844,35 +1843,35 @@
             было уже больше 200 мануфактур. В Туле сильно расширились оружейные заводы. На
                 <place place_type="mountain">Урале</place> выросли новые железоделательные
             заводы.</p>
-        <p>Купцы и заводчики быстро богатели. <person person_type="tsar">Пётр </person>дал купцам в
+        <p>Купцы и заводчики быстро богатели. <person id="Пётр_I" person_type="tsar">Пётр </person>дал купцам в
             городах собственное управление.</p>
-        <p>Просвещение. Большое внимание <person person_type="tsar">Пётр </person>уделял
-            образованию, стараясь привить его даже насильно. Дворянскую молодёжь <person
+        <p>Просвещение. Большое внимание <person id="Пётр_I" person_type="tsar">Пётр </person>уделял
+            образованию, стараясь привить его даже насильно. Дворянскую молодёжь <person id="Пётр_I"
                 person_type="tsar">Пётр </person>посылал за границу для обучения кораблестроению и
             иностранным языкам.</p>
         <p>Были открыты школы, где обучали морскому делу, инженерному искусству, медицине и другим
             наукам. Учителями в школах были англичане, голландцы, шведы, немцы и другие иностранцы,
-            которых <person person_type="tsar">Пётр </person>приглашал на службу в Россию.</p>
-        <p><person person_type="tsar">Пётр </person>приказал по всем губерниям открывать цифирные
+            которых <person id="Пётр_I" person_type="tsar">Пётр </person>приглашал на службу в Россию.</p>
+        <p><person id="Пётр_I" person_type="tsar">Пётр </person>приказал по всем губерниям открывать цифирные
             школы, где дворянские дети должны были обязательно учиться грамоте — чтению и письму,
             арифметике и геометрии. Неграмотным <people people_type="class">дворянам</people>
-            <person person_type="tsar">Пётр </person>запрещал даже жениться.</p>
-        <p><person person_type="tsar">Пётр </person>завёл по европейскому образцу первую в России
+            <person id="Пётр_I" person_type="tsar">Пётр </person>запрещал даже жениться.</p>
+        <p><person id="Пётр_I" person_type="tsar">Пётр </person>завёл по европейскому образцу первую в России
             газету «Ведомости» и упростил для неё русскую азбуку.</p>
-        <p>До Петра новый год считался с первого сентября. <person person_type="tsar">Пётр
+        <p>До Петра новый год считался с первого сентября. <person id="Пётр_I" person_type="tsar">Пётр
         </person>приказал вести счет, как это делалось за границей, с первого января. <date date_type="minor" year="1700" month="1" day="1">Новый
             календарь был введён с 1 января 1700 года по новому летосчислению, которое применяется и
             в настоящее время</date>.</p>
-        <p><person person_type="tsar">Пётр</person> приказал <people people_type="class"
+        <p><person id="Пётр_I" person_type="tsar">Пётр</person> приказал <people people_type="class"
                 >дворянам</people> срезать бороды, надеть парики и короткие камзолы и кафтаны, какие
             носили в Западной Европе. Длинное платье и бороду разрешалось носить только священникам
             и крестьянам.</p>
-        <p><person person_type="tsar">Пётр</person> приказал устраивать в домах своих приближённых
+        <p><person id="Пётр_I" person_type="tsar">Пётр</person> приказал устраивать в домах своих приближённых
             вечера с европейскими танцами и играми, так называемые ассамблеи.</p>
         <p>При Петре I Россия значительно продвинулась вперёд, но оставалась страной, где всё
             держалось на крепостном угнетении и царском произволе. Усиление Российской империи при
             Петре 1 было достигнуто за счёт гибели сотен тысяч трудящихся, за счёт разорения народа.
-                <person person_type="tsar">Пётр I</person> сделал очень много для создания и
+            <person id="Пётр_I" person_type="tsar">Пётр I</person> сделал очень много для создания и
             укрепления государства <people people_type="job">помещиков</people> и купцов.</p>
     </chapter>
     <chapter>
@@ -1904,28 +1903,28 @@
             академики были иностранцы. При академии обучали студентов. Но <people
                 people_type="class">дворяне</people> не хотели учиться, <people people_type="class"
                 >крестьян</people> же в академию не пускали.</p>
-        <p>М. В. <person>Ломоносов</person> . Великим русским учёным был <people people_type="class"
+        <p>М. В. <person id="Ломоносов">Ломоносов</person> . Великим русским учёным был <people people_type="class"
                 >крестьянин</people> села Денисовки (недалеко от города Архангельска) — Михаил
-            Васильевич <person>Ломоносов</person> . С далёкого севера он добрался до <place
+            Васильевич <person id="Ломоносов" >Ломоносов</person> . С далёкого севера он добрался до <place
                 place_type="city">Москвы</place> и поступил в школу, выдав себя за дворянского сына,
-            иначе его не приняли бы в школу. Живя впроголодь, <person>Ломоносов</person> благодаря
+                иначе его не приняли бы в школу. Живя впроголодь, <person id="Ломоносов">Ломоносов</person> благодаря
             настойчивому труду в пять лет прошёл восьмилетний курс обучения. Способного юношу для
             продолжения образования отправили на казённый счёт за границу. По возвращении в Россию
-                <person>Ломоносов</person> был назначен членом Академии наук.</p>
-        <p>Великий русский ученый академик М. В. <person>Ломоносов</person> (1711–1765 гг.).</p>
+            <person id="Ломоносов">Ломоносов</person> был назначен членом Академии наук.</p>
+        <p>Великий русский ученый академик М. В. <person id="Ломоносов">Ломоносов</person> (1711–1765 гг.).</p>
         <p>
-            <person>Ломоносов</person> был выдающимся учёным в области физики, химии и в других
-            науках. Он сделал много крупнейших научных открытий. <person>Ломоносов</person> положил
+            <person id="Ломоносов">Ломоносов</person> был выдающимся учёным в области физики, химии и в других
+            науках. Он сделал много крупнейших научных открытий. <person id="Ломоносов">Ломоносов</person> положил
             начало русской науке и первый писал литературные произведения на чисто русском языке,
             очистив его от многих устаревших славянских слов.</p>
         <p><date date_type="minor" year="1755">По предложению <person>Ломоносова</person> в 1755 году в <place place_type="city"
                 >Москве</place> был основан первый университет</date>. На университетском дворе теперь
-            стоит памятник М. В. <person>Ломоносову</person>. <date date_type="minor" year="1765"><person>Ломоносов</person> умер в
+            стоит памятник М. В. <person id="Ломоносов">Ломоносову</person>. <date date_type="minor" year="1765"><person>Ломоносов</person> умер в
             1765 году, во время царствования Екатерины II</date>.</p>
-        <p>Императрица <person person_type="tsar">Екатерина II</person> . <date date_type="minor" year="1762">В 1762 году <people
+        <p>Императрица <person id="Екатерина_II" person_type="tsar">Екатерина II</person> . <date date_type="minor" year="1762">В 1762 году <people
                 people_type="class">дворяне</people> посадили на русский престол Екатерину II, убив
             при её содействии её мужа Петра III</date>.</p>
-        <p>При Екатерине II ещё более были расширены права дворян. <person person_type="tsar"
+        <p>При Екатерине II ещё более были расширены права дворян. <person  id="Екатерина_II" person_type="tsar"
                 >Екатерина II</person> раздала <people people_type="class">дворянам</people> свыше
             миллиона крестьян. Для того чтобы иметь средства для своей роскошной жизни, <people
                 people_type="class">дворяне</people> стали ещё сильнее притеснять крестьян.</p>
@@ -1955,55 +1954,55 @@
             казакам жалованье.</p>
         <p><date date_type="minor" year="1773">В 1773 году казацкая беднота выступила против своих притеснителей</date>.</p>
         <p>Во главе <event event_type="minor">восстания</event> стал донской казак Емельян Иванович
-                <person>Пугачёв</person>, сильный, умный и мужественный человек.</p>
-        <p>Емельян Иванович <person>Пугачёв</person>.</p>
+            <person id="Пугачёв">Пугачёв</person>, сильный, умный и мужественный человек.</p>
+        <p>Емельян Иванович <person id="Пугачёв">Пугачёв</person>.</p>
         <p>Казаки захватили ряд крепостей и осадили <place place_type="city">Оренбург</place>.</p>
-        <p>К <person>Пугачёву</person> присоединились крепостные рабочие <place place_type="mountain"
+        <p>К <person id="Пугачёв">Пугачёву</person> присоединились крепостные рабочие <place place_type="mountain"
                 >урал</place>ьских заводов. Прикреплённые к заводам
                 <people people_type="class">крестьяне</people> проклинали каторжную заводскую
             работу. Ещё в начале царствования Екатерины II из 200 тысяч заводских <people
                 people_type="class">крестьян</people> участвовало в восстании около 50 тысяч.</p>
-        <p>Рабочие охотно вступали в армию <person>Пугачёва</person> . Они снабжали его войска
+        <p>Рабочие охотно вступали в армию <person id="Пугачёв">Пугачёва</person> . Они снабжали его войска
             оружием, пушками и ядрами. Из заводских рабочих вышли предводители отрядов
-                <person>пугачёвского</person> войска — Хлопуша и Белобородов.</p>
+            <person id="Пугачёв">пугачёвского</person> войска — Хлопуша и Белобородов.</p>
         <p>Тогда же к <event event_type="minor">восстанию</event> примкнули башкиры. <people
                 people_type="class">Дворяне</people> отбирали земли у <people
                 people_type="ethnicity">башкир</people>и заводили здесь железоделательные заводы.
             Ограбленные <people people_type="ethnicity">башкиры</people>не раз поднимали восстания.
                 <event event_type="minor">Восстания</event> подавлялись.</p>
         <p>Теперь опять поднялись <people people_type="ethnicity">башкиры</people>и влились со своей
-            конницей в армию <person>Пугачёва</person>. Одним из их руководителей был Салават
-            Юлаев. Это был храбрый молодой повстанец, много помогавший <person>Пугачёву</person>
+            конницей в армию <person id="Пугачёв">Пугачёва</person>. Одним из их руководителей был Салават
+            Юлаев. Это был храбрый молодой повстанец, много помогавший <person id="Пугачёв">Пугачёву</person>
             своим войском.</p>
         <p>В это же время в Поволжье восстали крепостные крестьяне: русские, <people
                 people_type="ethnicity">татары</people>, <people people_type="ethnicity"
                     >чуваши</people>, <people id="мордвы" people_type="ethnicity">мордва</people>, <people id="мари"
-                people_type="ethnicity">марийцы</people>. <person>Пугачёв</person> выдавал себя за
+                        people_type="ethnicity">марийцы</people>. <person id="Пугачёв">Пугачёв</person> выдавал себя за
             императора Петра III. Он говорил, что <people people_type="class">дворянам</people> и
             его жене, злодейке Екатерине II, не удалось его убить и он спасся. От имени Петра III
-                <person>Пугачёв</person> подписывал приказы и рассылал по всей стране манифесты,
+            <person id="Пугачёв">Пугачёв</person> подписывал приказы и рассылал по всей стране манифесты,
             призывая в них к истреблению дворян, заявляя, что он освобождает <people
                 people_type="class">крестьян</people> от власти помещиков, солдатских наборов,
             податей.</p>
         <p>
-            <person>Пугачев</person> судит помещиков. С картины В. Г. Перова.</p>
+            <person id="Пугачёв">Пугачев</person> судит помещиков. С картины В. Г. Перова.</p>
         <p>Всё Поволжье и <place place_type="mountain">Урал</place>, а также часть <territory id="Сибири" territory_type="region"
                 >Сибири</territory> были охвачены восстанием. Имения <people
                 people_type="job">помещиков</people> подвергались разгрому. <people
                 people_type="class">Крестьяне</people> захватывали помещичьи земли, а запасы
-            барского хлеба отвозили в армию <person>Пугачёва</person> .</p>
-        <p>Со своими войсками <person>Пугачёв</person> подошёл к <place place_type="city"
+            барского хлеба отвозили в армию <person id="Пугачёв">Пугачёва</person> .</p>
+        <p>Со своими войсками <person id="Пугачёв">Пугачёв</person> подошёл к <place place_type="city"
                 >Казани</place> и осадил крепость.</p>
         <p>Войска Екатерины II скоро начали теснить армию <person>Пугачёва</person> .
-                <person>Пугачёву</person> пришлось отступать на юг вниз по <place place_type="river"
+            <person id="Пугачёв">Пугачёву</person> пришлось отступать на юг вниз по <place place_type="river"
                 >Волге.</place> Бывшие на его пути поволжские города
-            сдавались <person>Пугачёву</person> без боя. Но закрепиться в них он не мог.</p>
+            сдавались <person id="Пугачёв">Пугачёву</person> без боя. Но закрепиться в них он не мог.</p>
         <p>Подавление крестьянской войны. <date date_type="minor" year="1774" month="8">В августе 1774 года <person>Пугачёв</person> дошёл до
             Царицына. Через несколько дней в сражении с отрядом царских войск он потерпел поражение
             и бежал с остатками своей армии в степь</date>. Здесь предатели из богатых казакоз выдали его
             царским властям.</p>
         <p>
-            <person>Пугачёва</person> заковали в цепи и в большой деревянной клетке отвезли в <place
+            <person id="Пугачёв">Пугачёва</person> заковали в цепи и в большой деревянной клетке отвезли в <place
                 place_type="city">Москву.</place> <date date_type="minor" year="1775" month="1" day="10">10 января 1775 года на Болотной площади палачи
             казнили отважного руководителя крестьянской <event event_type="minor">войны</event> —
             Емельяна Ивановича <person>Пугачёва</person></date>.</p>
@@ -2019,28 +2018,28 @@
     <chapter>
         <title n="32">32. Присоединение новых земель к России в конце XVIII века</title>
         <p>Присоединение <territory territory_type="region">Крыма</territory>.
-                <person>Суворов</person> . В царствование Екатерины II у турок был отвоёван Азов. К
+            <person id="Суворов">Суворов</person> . В царствование Екатерины II у турок был отвоёван Азов. К
             России был присоединён <territory territory_type="region">Крым</territory>, которым до
             этого управляли <people people_type="ethnicity">татар</people>ские ханы, подчинявшиеся
             Турции. На юге <territory territory_type="region">Крыма</territory> была построена
             морская крепость Севастополь, оплот русского флота на Чёрном море.</p>
         <p>В <event event_type="minor">войне</event> с турками прославился великий русский
-            полководец Александр Васильевич <person>Суворов</person> .</p>
-        <p>Он начал военную службу с простого солдата. <person>Суворов</person> вёл суровый образ
+            полководец Александр Васильевич <person id="Суворов">Суворов</person> .</p>
+        <p>Он начал военную службу с простого солдата. <person id="Суворов">Суворов</person> вёл суровый образ
             жизни: питался солдатской пищей, закалял себя.</p>
-        <p>С 25 тысячами войск <person>Суворов</person> разбил 100-тысячную армию турок.</p>
+        <p>С 25 тысячами войск <person id="Суворов">Суворов</person> разбил 100-тысячную армию турок.</p>
         <p>Одновременно с присоединением <territory territory_type="region">Крыма</territory>
             окончательно отошла к России вся Левобережная Украина. Гетманство на Украине было
             уничтожено. В Запорожскую Сечь ввели русские войска, и Сечь была разрушена навсегда. Её
             земли захватили царские генералы. Часть запорожцев перевели на Кубань (Северный Кавказ),
             часть из них ушла в Турцию, а бедных казаков и <people people_type="class"
-                >крестьян</people> заставляли работать как крепостных. <person person_type="tsar"
+                >крестьян</people> заставляли работать как крепостных. <person id="Екатерина_II" person_type="tsar"
                 >Екатерина II</person> уравняла украинских старшин в правах с русскими
             дворянами.</p>
-        <p>Александр Васильевич <person>Суворов</person> (1730–1800 гг.).</p>
+        <p>Александр Васильевич <person id="Суворов">Суворов</person> (1730–1800 гг.).</p>
         <p>Раздел Польши. Польша в XVIII веке очень ослабела. Правили Польшей крупнейшие
             помещики-паны, постоянно враждовавшие между собой. Королевская власть была слаба.</p>
-        <p>Пользуясь слабостью панской Польши, Австрия, Пруссия и царица <person person_type="tsar"
+        <p>Пользуясь слабостью панской Польши, Австрия, Пруссия и царица <person id="Екатерина_II" person_type="tsar"
                 >Екатерина II</person> договорились между собой о разделе земель польского
             государства. При разделе Польши к России перешли белорусские и украинские земли на
             правом берегу Днепра. Большую часть земель захватила Австрия.</p>
@@ -2089,7 +2088,7 @@
                 >дворяне</people> бежали за границу.</p>
         <p>Опираясь на революционный народ, буржуазия захватила власть в свои руки. Во Франции
             победила буржуазная революция.</p>
-        <p>Король Людовик XVI пытался бежать из Франции. <person person_type="tsar">Екатерина
+        <p>Король Людовик XVI пытался бежать из Франции. <person id="Екатерина_II" person_type="tsar">Екатерина
                 II</person> приказала своему послу в <place place_type="city">Париже</place> выдать
             королю русский паспорт для въезда в Россию. Но по дороге король был пойман и возвращен в
                 <place place_type="city">Париж</place>.</p>
@@ -2129,17 +2128,17 @@
                 >помещиков</people> с помощью буржуазии, поддержали буржуазию. Французская революция
             уничтожила гнёт <people people_type="job">помещиков</people> и укрепила гнёт буржуазии —
             капиталистов.</p>
-        <p>Борьба Екатерины II и Павла I с буржуазной революцией. <person person_type="tsar"
+        <p>Борьба Екатерины II и Павла I с буржуазной революцией. <person id="Екатерина_II" person_type="tsar"
                 >Екатерина II</person> боялась, как бы революция не вспыхнула и в её империи. В
             России уже были люди, которые сочувствовали революции. Один из самых просвещённых и
             передовых людей того времени <people people_type="class">дворянин</people> Радищев
             написал книгу под названием «Путешествие из <place place_type="city">Петербурга</place>
             в <place place_type="city">Москву»,</place> в которой открыто выступил против
             крепостного права и самодержавия и сочувствовал восстаниям <people people_type="class"
-                >крестьян</people> против помещиков. <person person_type="tsar">Екатерина
+                >крестьян</people> против помещиков. <person id="Екатерина_II" person_type="tsar">Екатерина
                     II</person> сослала Радищева в <territory id="Сибири" territory_type="region">Сибирь,</territory> а книгу его
             приказала сжечь.</p>
-        <p>Борьбу с буржуазной революцией во Франции <person person_type="tsar">Екатерина
+        <p>Борьбу с буржуазной революцией во Франции <person id="Екатерина_II" person_type="tsar">Екатерина
                 II</person> считала своей главной задачей. Она охотно принимала в Россию бежавших из
             Франции <people people_type="class">дворян</people> и всем русским, находившимся в
             <place place_type="city">Париже</place>, приказала из Франции уехать. <date date_type="minor" year="1796"><person
@@ -2149,18 +2148,18 @@
             смерть в 1796 году помешала ей начать <event event_type="minor">войну</event> с
             буржуазной Францией</date>.</p>
         <p>А. Н. Радищев (1719–1802 гг.).</p>
-        <p>После смерти Екатерины II царём стал её сын <person person_type="tsar">Павел I</person> ,
+        <p>После смерти Екатерины II царём стал её сын <person id="Павел_I" person_type="tsar">Павел I</person> ,
             который продолжал борьбу с буржуазной революцией. Он закрыл в России все частные
             типографии, запретил читать французские книги и говорить о революции во Франции.</p>
         <p>
-            <person person_type="tsar">Павел I</person> начал воевать с Францией и послал против неё
+            <person id="Павел_I" person_type="tsar">Павел I</person> начал воевать с Францией и послал против неё
                 <person>Суворова</person> . <person>Суворов</person> одержал несколько побед в
             северной Италии и совершил героический поход через Альпы. Однако союзники — Австрия и
             Пруссия — не помогли <person>Суворову</person> . Русская армия осталась без
-            продовольствия. <person person_type="tsar">Павел I</person> отозвал войска
+            продовольствия. <person id="Павел_I" person_type="tsar">Павел I</person> отозвал войска
                 <person>Суворова</person> и заключил с Францией мир. К этому времени <person
                 person_type="foreign_leader">Наполеон</person> Бонапарт произвел во Франции
-            государственный переворот против революции и сделался полновластным правителем. <person
+            государственный переворот против революции и сделался полновластным правителем. <person id="Павел_I"
                 person_type="tsar">Павел I</person> , видя, что <person person_type="foreign_leader"
                 >Наполеон</person> борется с революцией, вступил с ним в союз.</p>
         <p>Переговоры с <person person_type="foreign_leader">Наполеоном</person> привели к разрыву

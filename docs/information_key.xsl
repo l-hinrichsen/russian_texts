@@ -592,6 +592,11 @@
     <!--    END OF PLACES AND BEGINNING OF PERSONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <xsl:variable name="person" as="map(xs:string, xs:string)">
     <xsl:map>
+        
+        <xsl:map-entry key="'Невский'" select="'Alexander Nevsky was a Prince of Novgorod who was best known for defeat 
+            of Swedish invaders in the Battle of Neva (1240). He preserved Orthodoxy by paying tribute to the Mongols 
+            and is best known for saving the Russian people from Catholocism and the Germans.'"/>
+            
     <xsl:map-entry key="'Аттила'" select="'Attila the Hun (r. 434-453) was a prolific king of the Huns. Under his
         leadership, the Huns would successfully invade Gaul and Italy.'"/>
 
@@ -689,6 +694,10 @@
         Russia an empire in the style of Western Europe and assuming the title of emperor in 1721.
         Peter would reform much in the Russian administrative hierarchy, establish universities, and
         found the city of St. Petersburg. He was also known as Peter the Great.'"/>
+    
+    <xsl:map-entry key="'Ломоносов'" select="'Mikhail Lomonosov was a Russian polymath who made contributions to modern 
+        geology and chemistry, as well as helping develop the Russian language of his time. He was of Rank V in the Empires 
+        Table of Ranks. He is remembered as the Father of Russian Science.'"/>
 
     <xsl:map-entry key="'Екатерина_II'" select="'Catherine II (r. 1762-1796) was an empress of the Russian Empire known for
         following Enlightenment philosophy. During her reign, Catherine II would centralize the
@@ -990,7 +999,7 @@
         well above quota, leading to the Stakhanovite movement that promoted worker productivity.'"/>
     
     <xsl:map-entry key="'Мария_Демченко'" select="'Maria Demchenko was a farmer known for promoting collective farming, specifically for beets.'"/>
-    </xsl:map>
+    </xsl:map-entru>
     </xsl:variable>
     <!--    END OF PERSONS AND BEGINNING OF PEOPLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <xsl:variable name="people" as="map(xs:string, xs:string)">
