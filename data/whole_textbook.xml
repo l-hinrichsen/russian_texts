@@ -129,7 +129,7 @@
                     >Закавказья</territory>. Это было около 3000 лет назад. Первое государство
                 <territory id="Закавказье" territory_type="region">Закавказья</territory> называлось <territory id="Урарту"
                     territory_type="kingdom">Урарту</territory>. Оно находилось в <place
-                    id="Арата" place_type="mountain">районе Арарата</place> у <place place_type="water_body"
+                    id="Арата" place_type="mountain">районе Арарата</place> у <place id="" place_type="water_body"
                     >Байского озера</place>. На территории этого государства сложились впоследствии
                 <territory id="Грузия" territory_type="country">Грузия</territory> и <territory id="Армения"
                         territory_type="country">Армения</territory>. У царей <territory id="Урарту"
@@ -155,7 +155,7 @@
                 азбука. В городах появились первые учёные, стали развиваться науки и искусство</rhetoric>.</p>
             <p>Народы, жившие в древности в <territory id="Сибири" territory_type="region">Сибири</territory> и
                 в Восточной Европе. В южной
-                <territory id="Сибири" territory_type="region">Сибири</territory> и у <place
+                <territory id="Сибири" territory_type="region">Сибири</territory> и у <place id="Чёрного_моря"
                     place_type="water_body">Чёрного моря</place> издавна жили многочисленные племена
                 кочевников-скотоводов. Под начальством своих царей они переходили в <territory id="степях"
                     territory_type="region">степях</territory> с одного места на другое со стадами
@@ -164,7 +164,7 @@
                     people_type="ethnicity">скифы</people>. Под властью <people id="скифы"
                     people_type="ethnicity">скифских</people> царей было много кочевых и оседлых
                 земледельческих племён и рабов.</p>
-            <p>Более 2500 лет назад на северные берега <place place_type="water_body">Чёрного
+            <p>Более 2500 лет назад на северные берега <place id="Чёрного_моря" place_type="water_body">Чёрного
                     моря</place> приплыли на кораблях переселенцы из <territory id="Греции"
                         territory_type="country">Греции</territory>. <people id="Греки" people_type="ethnicity"
                     >Греки</people> построили здесь несколько городов и повели большую торговлю со
@@ -181,17 +181,17 @@
 
             <p>Раб в кандалах.</p>
 
-            <p><date date_type="major" year="300">В IV веке нашей эры на греческие города напали сильные кочевники <people
+            <p><date date_type="major" year="300">В IV веке нашей эры на греческие города напали сильные кочевники <people id="гунны"
                         people_type="ethnicity">гунны</people> и разгромили их</date>. Грозный владыка <people id="гунны"
                     people_type="ethnicity">гуннов</people>
                 <person id="Аттила" person_type="foreign_leader">Аттила</person> <date date_type="major" year="400">в V веке из степей
                 Причерноморья пошёл походом на народы Западной Европы и покорил многие из них</date>. Но
                 после смерти <person id="Аттила" person_type="foreign_leader">Аттилы</person> его царство
                 распалось под натиском других кочевников, пришедших из Азии. <date date_type="major" year="500">В VI веке на месте
-                владений <people people_type="ethnicity">гуннов</people> на <place
-                    place_type="river">Волге</place> образовалось государство кочевников <people
-                    people_type="ethnicity">хазар</people>, а выше по <place place_type="river"
-                        >Волге</place> — государство <people people_type="ethnicity"
+                    владений <people id="гунны" people_type="ethnicity">гуннов</people> на <place id="Волге"
+                        place_type="river">Волге</place> образовалось государство кочевников <people id="хазар"
+                        people_type="ethnicity">хазар</people>, а выше по <place id="Волге" place_type="river"
+                            >Волге</place> — государство <people id="болгар" people_type="ethnicity"
                             >болгар</people></date>.</p>
             <p>С <people id="хазар" people_type="ethnicity">хазарами</people> и <people id="болгар" people_type="ethnicity"
                     >болгарами</people> много лет воевали жившие по соседству с ними славянские
@@ -201,10 +201,10 @@
             <title n="5">5. Славяне</title>
 
             <p><people id="Славяне" people_type="ethnicity">Славяне</people> и их соседи. Пятнадцать столетий
-                назад славянские племена занимали земли на берегах <place place_type="water_body"
-                    >Балтийского моря</place>, по <place place_type="river">Днепру</place> и по
-                    <place place_type="river">Дунаю</place>, и в верховьях <place place_type="river"
-                    >Оки</place> и <place place_type="river">Волги</place>. Впоследствии славяне,
+                назад славянские племена занимали земли на берегах <place id="Балтийского_моря" place_type="water_body"
+                    >Балтийского моря</place>, по <place id="Днепру" place_type="river">Днепру</place> и по
+                <place id="Дунаю" place_type="river">Дунаю</place>, и в верховьях <place id="Оки" place_type="river"
+                    >Оки</place> и <place id="Волге" place_type="river">Волги</place>. Впоследствии славяне,
                 жившие в Восточной Европе, образовали
                 три больших народа — <people id="русских" people_type="ethnicity">русских</people>, <people id="украинцев"
                     people_type="ethnicity">украинцев</people>, <people id="белорусов" people_type="ethnicity"
@@ -216,19 +216,19 @@
                 государства. На юге <people id="Славяне" people_type="ethnicity">славяне</people> воевали с
                 кочевниками <territory id="степях" territory_type="region">причерноморских степей</territory>.
                 Воевали они и с богатым и культурным для того времени греческим государством
-                    <territory territory_type="kingdom">Византией</territory>. Греческие мастера
-                строили замечательные здания, дворцы и церкви. У <people people_type="ethnicity"
+                <territory id="Византией" territory_type="kingdom">Византией</territory>. Греческие мастера
+                строили замечательные здания, дворцы и церкви. У <people id="Греки" people_type="ethnicity"
                     >греков</people> были писатели, музыканты, живописцы. Они выделывали красивые
                 ткани из шёлка, посуду, изделия из золота и серебра.</p>
-            <p>В <territory territory_type="kingdom">Византии</territory> было много хорошо
+            <p>В <territory id="Византией" territory_type="kingdom">Византии</territory> было много хорошо
                 вооруженных солдат. Но <date date_type="major" year="850">храбрые и мужественные <people id="Славяне" people_type="ethnicity"
                     >славяне</people> нередко били греческие войска. В середине IX века они вели
-                успешную войну с греками и даже нападали на столицу <territory
-                    territory_type="kingdom">Византии</territory> — <place place_type="city"
+                    успешную войну с греками и даже нападали на столицу <territory id="Византией"
+                        territory_type="kingdom">Византии</territory> — <place id="Царьград" place_type="city"
                     >Царьград</place></date>.</p>
-            <p>На западе <people people_type="ethnicity">славянам</people> приходилось воевать с
+            <p>На западе <people id="Славяне" people_type="ethnicity">славянам</people> приходилось воевать с
                 германскими племенами и <people id="варягами" people_type="ethnicity">варягами</people>.</p>
-            <p>Занятия <people people_type="ethnicity">славян</people>. Древние <people id="Славяне"
+            <p>Занятия <people id="Славяне" people_type="ethnicity">славян</people>. Древние <people id="Славяне"
                     people_type="ethnicity">славяне</people> занимались охотой и сбором мёда диких
                 пчёл. Позже главным их занятием стало земледелие. <people id="Славяне" people_type="ethnicity"
                     >Славяне</people> выжигали участок леса и в землю, удобренную золой, бросали
@@ -253,63 +253,63 @@
                 велась в укреплённых пунктах на торговых дорогах, большей частью по берегам больших
                 рек. <date date_type="minor" year="800">К IX веку образовалось несколько славянских княжеств</date>. Центром каждого из них
                 был какой-либо город, где жил князь со своей дружиной. К этому времени у славян было
-                несколько городов. Главными из них были <place place_type="city">Киев</place> и
-                    <place place_type="city">Новгород</place>.</p>
+                несколько городов. Главными из них были <place id="Киев" place_type="city">Киев</place> и
+                <place id="Новгород" place_type="city">Новгород</place>.</p>
         </chapter>
     </section>
 
     <section><section_title s="2">II. Киевское государство</section_title><chapter>
             <title n="6">6. Образование Киевского княжества</title>
 
-            <p>Набеги <people people_type="ethnicity">варягов</people>. <date date_type="minor" year="800">В IX веке на земли <people
-                    people_type="ethnicity">славян</people>, живших вокруг <place place_type="city"
-                    >Новгорода</place> и по <place place_type="river">Днепру</place>, совершали
-                набеги разбойничьи шайки варягов — жителей <territory territory_type="region"
-                    >Скандинавии</territory></date>. <people people_type="ethnicity">Варяжские</people>
+            <p>Набеги <people id="варягами" people_type="ethnicity">варягов</people>. <date date_type="minor" year="800">В IX веке на земли <people id="Славяне"
+                        people_type="ethnicity">славян</people>, живших вокруг <place id="Новгород" place_type="city"
+                            >Новгорода</place> и по <place id="Днепру" place_type="river">Днепру</place>, совершали
+                    набеги разбойничьи шайки варягов — жителей <territory id="Скандинавии" territory_type="region"
+                        >Скандинавии</territory></date>. <people id="варягами" people_type="ethnicity">Варяжские</people>
                 князья со своими дружинами забирали у славян меха, мёд и воск, уводили в плен людей.
                 Захваченную добычу и пленников они нагружали в лодки и по рекам и озёрам,
-                соединявшим <place place_type="water_body">Балтийское море</place> с <place
+                соединявшим <place id="Балтийского_моря" place_type="water_body">Балтийское море</place> с <place id="Чёрного_моря"
                     place_type="water_body">Чёрным</place>, отправлялись торговать к грекам в
-                    <territory territory_type="kingdom">Византию</territory>. Этот путь назывался
-                «путь из варяг в греки». Он шёл от <place place_type="water_body">Финского
-                    залива</place> по реке <place place_type="river">Неве</place>, <place
-                    place_type="water_body">Ладожскому озеру</place>, реке <place place_type="river"
-                    >Волхову</place> к озеру <place place_type="water_body">Ильменю</place>. Отсюда
-                лодки поднимались вверх по реке <place place_type="river">Ловати</place>, а затем
-                перетаскивались сухим путем — волоком — до <place place_type="river">Днепра</place>.
-                На <place place_type="river">Днепре</place> проезду мешали пороги, то есть большие
+                <territory id="Византией" territory_type="kingdom">Византию</territory>. Этот путь назывался
+                «путь из варяг в греки». Он шёл от <place id="Финского_залива" place_type="water_body">Финского
+                    залива</place> по реке <place id="Неве" place_type="river">Неве</place>, <place id="Ладожскому_озеру"
+                        place_type="water_body">Ладожскому озеру</place>, реке <place place_type="river" id="Волхову"
+                            >Волхову</place> к озеру <place id="Ильменю" place_type="water_body">Ильменю</place>. Отсюда
+                лодки поднимались вверх по реке <place id="Ловати" place_type="river">Ловати</place>, а затем
+                перетаскивались сухим путем — волоком — до <place id="Днепру" place_type="river">Днепра</place>.
+                На <place id="Днепру" place_type="river">Днепре</place> проезду мешали пороги, то есть большие
                 камни, преграждавшие реку. Здесь приходилось выгружаться и по берегу перетаскивать
                 лодки и поклажу. Кочевавшие в окрестностях воинственные печенеги пользовались этим и
-                нередко нападали здесь на проезжих купцов. Из <place place_type="river"
+                нередко нападали здесь на проезжих купцов. Из <place id="Днепру" place_type="river"
                     >Днепра</place>
-                <people people_type="ethnicity">варяжские</people> ладьи попадали в <place
+                <people id="варягами" people_type="ethnicity">варяжские</people> ладьи попадали в <place id="Чёрного_моря"
                     place_type="water_body">Чёрное море</place> и по нему, держась ближе к берегу,
-                плыли до <territory territory_type="kingdom">Византии</territory>.</p>
-            <p><people people_type="ethnicity">Славяне</people> вместе с соседними племенами часто
-                восставали против варягов-грабителей и прогоняли их за море. По отдельным <people
+                плыли до <territory id="Византией" territory_type="kingdom">Византии</territory>.</p>
+            <p><people id="Славяне" people_type="ethnicity">Славяне</people> вместе с соседними племенами часто
+                восставали против варягов-грабителей и прогоняли их за море. По отдельным <people id="варягами"
                     people_type="ethnicity">варяжским</people> дружинам удавалось возвращаться на
                 славянские земли и подчинять себе местных славянских князей, облагать население
                 данью.</p>
-            <p>Начало Киевского княжества. В конце IX века в <place place_type="city"
+            <p>Начало Киевского княжества. В конце IX века в <place id="Новгород" place_type="city"
                     >Новгороде</place>, как рассказано в старинных записях, был князь из варягов —
                     <person person_type="russian_royalty">Рюрик</person>. Покорённые им славяне
                 платили ему дань. После смерти <person person_type="russian_royalty">Рюрика</person>
                 князем стал воинственный <person person_type="knyaz">Олег</person>. Он не остался в
-                    <place place_type="city">Новгороде</place>, а спустился вниз но <place
+                <place id="Новгород" place_type="city">Новгороде</place>, а спустился вниз но <place id="Днепру"
                     place_type="river">Днепру</place>, добрался до <place place_type="city"
                     >Киева</place>, завладел им и сделал его своим главным городом.</p>
             <p><date date_type="major" year="900" month="Early">С начала X века <territory territory_type="kingdom">Киевское княжество</territory>
                 славян называется <territory territory_type="kingdom">Киевской
                 Русью</territory></date>.</p>
-            <p><person person_type="knyaz">Олег</person> объединил под своей властью много <people
+            <p><person person_type="knyaz">Олег</person> объединил под своей властью много <people id="Славяне"
                     people_type="ethnicity">славянских</people> племен и наложил на них тяжёлую
-                дань. Часть <people people_type="ethnicity">славянских</people> князей была
+                дань. Часть <people id="Славяне" people_type="ethnicity">славянских</people> князей была
                 истреблена, часть из них подчинилась <person person_type="knyaz">Олегу</person> и
-                вместе с ним собирала дань со <person person_type="knyaz">славянского</person>
+                вместе с ним собирала дань со <people id="Славяне" people_type="ethnicity">славянского</people>
                 населения.</p>
             <p>Варяжские князья и дружинники не обладали более
-                высокой культурой, чем <people people_type="ethnicity">славяне</people>; они скоро
-                смешались со <people people_type="ethnicity">славянами</people> и усвоили их язык,
+                высокой культурой, чем <people id="Славяне" people_type="ethnicity">славяне</people>; они скоро
+                смешались со <people id="Славяне" people_type="ethnicity">славянами</people> и усвоили их язык,
                 веру, имена, обычаи.</p>
 
             <p>Князь <person person_type="knyaz">Олег</person>.</p>
@@ -327,7 +327,7 @@
                 договор о торговле.</p>
             <p><person person_type="knyaz">Олег</person> сильно укрепил <territory
                     territory_type="kingdom">Киевскую Русь</territory>. Он собрал под свою власть
-                разрозненные <people people_type="ethnicity">славянские</people> племена и
+                разрозненные <people id="Славяне" people_type="ethnicity">славянские</people> племена и
                 княжества. С <territory territory_type="kingdom">Киевской Русью</territory> начали
                 считаться и в <territory territory_type="kingdom">Византии</territory>, и в соседних
                 западных государствах.</p>
@@ -338,7 +338,7 @@
                     territory_type="kingdom">Киевской Руси</territory> продолжалось. <person
                     person_type="knyaz">Игорь</person> много воевал, как и <person
                     person_type="knyaz">Олег</person>.</p>
-            <p>При нем были походы на <territory territory_type="region">Кавказ</territory> и на
+            <p>При нем были походы на <territory id="Закавказье" territory_type="region">Кавказ</territory> и на
                     <territory territory_type="kingdom">Византию</territory>. Греки дали <person
                     person_type="knyaz">Игорю</person> большой и ценный выкуп. По договору с греками
                 он обязался защищать <territory territory_type="kingdom">Византию</territory> от
@@ -729,31 +729,31 @@
                     >Чингис-хан</person> сжигал глиняными гранатами с нефтью. Каменные стены он
                 разбивал большими машинами. Ничто не могло остановить сто натиска.</p>
             <p>Завоевание <person person_type="foreign_leader">Чингис-ханом</person>
-                <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> и <territory
+                <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> и <territory id="Закавказье"
                     territory_type="region">Кавказа</territory>. Покорив Северный Китай, <person
-                    person_type="foreign_leader">Чингис-хан</person> двинул свои войска в <territory
+                        person_type="foreign_leader">Чингис-хан</person> двинул свои войска в <territory id="Средней_Азии"
                     territory_type="region">Среднюю Азию</territory> и завоевал её.</p>
             <p>Из <territory id="Средней_Азии" territory_type="region">Средней Азии</territory>, обогнув южные берега
                     <place place_type="water_body">Каспийского моря</place>, войска <person
-                    person_type="foreign_leader">Чингис-хана</person> прошли на <territory
-                    territory_type="region">Кавказ</territory> и завоевали <territory
-                    territory_type="country">Армению</territory> и <territory
-                    territory_type="country">Грузию</territory>. В <territory
+                        person_type="foreign_leader">Чингис-хана</person> прошли на <territory id="Закавказье"
+                            territory_type="region">Кавказ</territory> и завоевали <territory id="Армения"
+                        territory_type="country">Армению</territory> и <territory id="Грузия"
+                            territory_type="country">Грузию</territory>. В <territory id="Грузия"
                     territory_type="country">Грузии</territory>
                 <people people_type="ethnicity">монголы</people> встретили сильное сопротивление.
                 <territory id="Грузия" territory_type="country">Грузия</territory> в это время была более
-                могущественным государством, чем <territory territory_type="country"
+                могущественным государством, чем <territory id="Армения" territory_type="country"
                     >Армения</territory>. Храбро сражались грузины, но монголы их разбили и обложили
-                    <territory territory_type="country">Грузию</territory> и <territory
-                    territory_type="country">Армению</territory> тяжёлой данью. Сотни лет <territory
-                    territory_type="region">Средняя Азия</territory> и народы <territory
+                <territory id="Грузия" territory_type="country">Грузию</territory> и <territory id="Армения"
+                        territory_type="country">Армению</territory> тяжёлой данью. Сотни лет <territory id="Средней_Азии"
+                        territory_type="region">Средняя Азия</territory> и народы <territory id="Закавказье"
                     territory_type="region">Закавказья</territory> оставались под властью
                 монголов.</p>
 
             <p><people people_type="ethnicity">Монгольская</people> конница в походе.</p>
 
             <p><person person_type="foreign_leader">Хан Батый</person> и завоевание им русских
-                княжеств. <date date_type="minor" year="1223">Покорив все народы <territory territory_type="region">Кавказа</territory>,
+                княжеств. <date date_type="minor" year="1223">Покорив все народы <territory id="Закавказье" territory_type="region">Кавказа</territory>,
                     <people people_type="ethnicity">монгольская</people> армия в 1223 году на реке <place place_type="river"
                     >Калке</place> разбила соединённые силы славянских князей и <people
                     people_type="ethnicity">половцев</people></date>. С богатой добычей <people
@@ -922,7 +922,7 @@
                     >1336</event> году</date>. Когда он подрос, то стал во главе шайки удальцов и переходил
                 на службу то к одному, то к другому правителю. Выдвинулся <person
                     person_type="foreign_leader">Тамерлан</person> впервые при подавлении народного
-                восстания в городе <place place_type="city">Самарканде</place> (<territory
+                восстания в городе <place place_type="city">Самарканде</place> (<territory id="Средней_Азии"
                     territory_type="region">Средняя Азия</territory>). Жестоко расправившись с
                 восставшими, <person person_type="foreign_leader">Тамерлан</person> вскоре объявил
                 себя ханом-правителем и сделал <place place_type="city">Самарканд</place> своей
@@ -938,18 +938,18 @@
                 он приказал своим воинам доставить ему 70 тысяч голов жителей и сложить из них
                 башню.</p>
             <p>Какие бы страны ни покорял <person person_type="foreign_leader">Тамерлан</person>, он
-                отовсюду привозил в <territory territory_type="region">Среднюю Азию</territory>
+                отовсюду привозил в <territory id="Средней_Азии" territory_type="region">Среднюю Азию</territory>
                 лучших мастеров-ремесленников. В свою столицу <place place_type="city"
                     >Самарканд</place>, об украшении которой он очень заботился, он привёз до 150
                 тысяч таких мастеров.</p>
-            <p><people people_type="ethnicity">Узбеки</people> в <territory territory_type="region"
+            <p><people people_type="ethnicity">Узбеки</people> в <territory id="Средней_Азии" territory_type="region"
                     >Средней Азии</territory>. <date date_type="major" year="1405">После смерти <person person_type="foreign_leader"
                     >Тамерлана</person> в <event event_type="minor">1405</event> году завоёванные им
                 государства постепенно снова стали самостоятельными</date>.</p>
-            <p><date date_type="major" year="1400">В XV веке <territory territory_type="region">Среднюю Азию</territory> завоевали
+            <p><date date_type="major" year="1400">В XV веке <territory id="Средней_Азии" territory_type="region">Среднюю Азию</territory> завоевали
                     <people people_type="ethnicity">кочевники-узбеки</people>, жившие раньше на
                 землях современного <territory territory_type="country">Казахстана</territory></date>.
-                    <people people_type="ethnicity">Узбеки</people> прочно закрепились в <territory
+                <people people_type="ethnicity">Узбеки</people> прочно закрепились в <territory id="Средней_Азии"
                     territory_type="region">Средней Азии</territory>. <people
                     people_type="ethnicity">Узбекские</people> ханы стали во главе государств —
                     <territory territory_type="kingdom">Хорезма</territory> и <territory
@@ -1190,7 +1190,7 @@
                     >ногайских татар</people></date>. Весь волжский путь оказался в руках русского
                 царя.</p>
             <p>После этого <person person_type="tsar">Иван IV</person> захватил северо-восточную
-                часть <territory territory_type="region">Кавказа</territory> и на реке <place
+                часть <territory id="Закавказье" territory_type="region">Кавказа</territory> и на реке <place
                     place_type="river">Терек</place> построил несколько крепостей. <people
                     people_type="ethnicity">Черкесские</people> и <people people_type="ethnicity"
                     >кабардинские</people> князья стали поступать к нему на службу.</p>
@@ -1270,10 +1270,10 @@
                 перебраться через Северный Ледовитый океан в Индию, но бурей его загнало в устье
                 реки Северной Двины, где потом был создан портовый город Архангельск.</p>
             <p>Ермак.</p>
-            <p>Присоединение <territory territory_type="region">Сибирского</territory> царства. <date date_type="major" year="1600">В конце XVI века к
-                Московскому царству были присоединены земли Западной <territory territory_type="region"
-                    >Сибири</territory></date>. В <place place_type="city">Сибирском</place> царстве жили
-                    <people people_type="ethnicity">татары</people> и другие <territory territory_type="region"
+            <p>Присоединение <territory id="Сибири" territory_type="region">Сибирского</territory> царства. <date date_type="major" year="1600">В конце XVI века к
+                    Московскому царству были присоединены земли Западной <territory id="Сибири" territory_type="region"
+                        >Сибири</territory></date>. В <territory id="Сибири" territory_type="region">Сибирском</territory> царстве жили
+                <people people_type="ethnicity">татары</people> и другие <territory id="Сибири" territory_type="region"
                         >сибирские</territory> народы. Правил ими хан Кучум. <date date_type="major" year="1581">Богатые
                 владельцы земель на <place place_type="mountain">Урале</place> — купцы
                 Строгановы в 1581 году отправили против Кучума небольшой отряд наёмных войск из
@@ -1282,10 +1282,10 @@
             <p><person person_type="tsar">Иван Грозный</person> наградил Ермака военными доспехами и
                 шубой со своего плеча, а его казаков богатыми подарками. Кучуму, однако, потом
                 удалось разбить отряд Ермака. Сам Ермак погиб в реке Иртыше во время ночного
-                нападения кучумовских воинов. Кучум снова восстановил свою власть в <territory territory_type="region"
+                нападения кучумовских воинов. Кучум снова восстановил свою власть в <territory id="Сибири" territory_type="region"
                     >Сибирском</territory> царстве, но ненадолго. Посланные из <place
                     place_type="city">Москвы</place> воеводы с войсками через несколько лет
-                окончательно покорили <territory territory_type="region">Сибирское</territory> царство.</p>
+                окончательно покорили <territory id="Сибири" territory_type="region">Сибирское</territory> царство.</p>
             <p>Владения России при <person person_type="tsar">Иване IV</person> расширились во много
                 раз. Его царство стало одним из крупнейших государств в мире.</p>
             <p>VI. Крестьянские <event event_type="minor">войны</event> и <event event_type="minor"
@@ -1586,25 +1586,25 @@
     </chapter>
     <chapter>
         <title n="24">24. Подчинение народов Восточной Сибири</title>
-        <p>Покорение Восточной <territory territory_type="region">Сибири.</territory> Отряды казаков проникали по
-            рекам в <territory territory_type="region">Сибирь,</territory> перетаскивая лодки волоком с одной реки
+        <p>Покорение Восточной <territory id="Сибири" territory_type="region">Сибири.</territory> Отряды казаков проникали по
+            рекам в <territory id="Сибири" territory_type="region">Сибирь,</territory> перетаскивая лодки волоком с одной реки
             на другую. Казак Семён Дежнев во главе небольшого отряда первый пробрался морем до
             пролива между Азией и Америкой. Его именем назван крайний восточный мыс Азии (мыс
             Дежнева).</p>
-        <p>За казаками двигались вглубь <territory territory_type="region">Сибири</territory> московские воеводы,
+        <p>За казаками двигались вглубь <territory id="Сибири" territory_type="region">Сибири</territory> московские воеводы,
             которые селились во вновь устраиваемых городах и оттуда командовали казачьими отрядами.
             Победить местных жителей казакам помогало огнестрельное оружие, которого многие из
-            народов <territory territory_type="region">Сибири</territory> не знали. В течение ста лет шло
-            подчинение народов Восточной <territory territory_type="region">Сибири</territory> власти русского
-            царя, <date date_type="major" year="1700">К концу XVII века под этой властью была почти вся <territory territory_type="region"
+            народов <territory id="Сибири" territory_type="region">Сибири</territory> не знали. В течение ста лет шло
+            подчинение народов Восточной <territory id="Сибири" territory_type="region">Сибири</territory> власти русского
+            царя, <date date_type="major" year="1700">К концу XVII века под этой властью была почти вся <territory id="Сибири" territory_type="region"
                 >Сибирь</territory></date>. Хакасы, алтайцы, бурят-монголы, эвенки, якуты, жившие здесь, стали
             платить дань — ясак — русскому царю.</p>
-        <p>Угнетение народов <territory territory_type="region">Сибири.</territory> По всей <territory territory_type="region"
+        <p>Угнетение народов <territory id="Сибири" territory_type="region">Сибири.</territory> По всей <territory id="Сибири" territory_type="region"
                 >Сибири</territory> были построены небольшие деревянные крепости. В них
             сидели воеводы с войсками. Из крепостей воеводы ходили за сбором ясака с местного
             населения.</p>
         <p>Воеводы заставляли местное население пахать земли вблизи крепостей и собранным хлебом
-            кормили свои отряды. В <territory territory_type="region">Сибирь</territory> насильно переселяли и
+            кормили свои отряды. В <territory id="Сибири" territory_type="region">Сибирь</territory> насильно переселяли и
             русских <people people_type="class">крестьян</people> или же приманивали их разными
             льготами.</p>
         <p>Князьков из местного населения воеводы подкупали, чтобы с их помощью легче было обирать
@@ -1613,12 +1613,12 @@
             своей дружиной в 1651 году добрался до реки Амур</date>. На своём пути ом сжигал все
             сопротивлявшиеся ему селения; жители разбегались по лесам.</p>
         <p>С царскими воеводами и войсками шли русские купцы, попы и монахи. Купцы спаивали народы
-                <territory territory_type="region">Сибири</territory> водкой и у пьяных забирали за бесценок самые
+            <territory id="Сибири" territory_type="region">Сибири</territory> водкой и у пьяных забирали за бесценок самые
             лучшие меха. Попы и монахи захватывали земли у населения, строили церкви и монастыри и
             обирали местных жителей, насильно заставляя их креститься и давать им подарки.</p>
-        <p>Якутская крепость, построенная русскими в <territory territory_type="region">Сибири</territory> в XVII
+        <p>Якутская крепость, построенная русскими в <territory id="Сибири" territory_type="region">Сибири</territory> в XVII
             веке.</p>
-        <p>Власть царского правительства легла тяжёлым игом на покорённые народы <territory territory_type="region"
+        <p>Власть царского правительства легла тяжёлым игом на покорённые народы <territory id="Сибири" territory_type="region"
                 >Сибири.</territory> Много раз поднимали они восстания, убивали
             насильников, жгли крепости и города. Но воеводы и купцы собирали новые военные силы и
             жестоко расправлялись с восставшими.</p>
@@ -1650,7 +1650,7 @@
             ткачи изготовляли вручную ткани для царского двора.</p>
         <p>Были ещё поташные заводы в Поволжье и солеварни на Севере и на <place place_type="mountain"
                 >Урале</place>.</p>
-        <p>Торговля в России, с воссоединением Украины и захватом <territory territory_type="region"
+        <p>Торговля в России, с воссоединением Украины и захватом <territory id="Сибири" territory_type="region"
                 >Сибири,</territory> сильно возросла. Торговля шла по всему государству. Товары возили
             на дальние расстояния, летом по рекам на баржах, а зимой на санях.</p>
         <p>Десятки английских и голландских кораблей привозили из-за границы иностранные товары,
@@ -1987,7 +1987,7 @@
             податей.</p>
         <p>
             <person>Пугачев</person> судит помещиков. С картины В. Г. Перова.</p>
-        <p>Всё Поволжье и <place place_type="mountain">Урал</place>, а также часть <territory territory_type="region"
+        <p>Всё Поволжье и <place place_type="mountain">Урал</place>, а также часть <territory id="Сибири" territory_type="region"
                 >Сибири</territory> были охвачены восстанием. Имения <people
                 people_type="job">помещиков</people> подвергались разгрому. <people
                 people_type="class">Крестьяне</people> захватывали помещичьи земли, а запасы
@@ -2067,7 +2067,7 @@
             Сарыма, ставшего народным героем. Сарым был убит, <event event_type="minor"
                 >восстание</event> подавлено. Войска Екатерины проникли вглубь казахских степей и
             построили там крепости. <date date_type="minor" year="1800">В первой половине XIX века был присоединен весь Казахстан</date>.</p>
-        <p><date date_type="minor" year="1800">К концу XVIII века власти России были подчинены и последние земли северных народов <territory territory_type="region"
+        <p><date date_type="minor" year="1800">К концу XVIII века власти России были подчинены и последние земли северных народов <territory id="Сибири" territory_type="region"
                 >Сибири</territory></date>. Царские отряды пробрались через Берингов пролив на
             север Америки и установили власть России над Аляской. <date date_type="major" year="1800">В XIX веке русские цари продали
             Аляску за бесценок американскому правительству, не зная, что на Аляске много золота</date>.</p>
@@ -2137,7 +2137,7 @@
             в <place place_type="city">Москву»,</place> в которой открыто выступил против
             крепостного права и самодержавия и сочувствовал восстаниям <people people_type="class"
                 >крестьян</people> против помещиков. <person person_type="tsar">Екатерина
-                II</person> сослала Радищева в <place place_type="city">Сибирь,</place> а книгу его
+                    II</person> сослала Радищева в <territory id="Сибири" territory_type="region">Сибирь,</territory> а книгу его
             приказала сжечь.</p>
         <p>Борьбу с буржуазной революцией во Франции <person person_type="tsar">Екатерина
                 II</person> считала своей главной задачей. Она охотно принимала в Россию бежавших из
@@ -2369,10 +2369,10 @@
                     person_type="rebel">Пестель</person>, <person person_type="artist"
                     >Рылеев</person>, <person person_type="rebel">Каховский</person>, <person
                     person_type="rebel">Муравьёв-Апостол</person> и <person person_type="rebel"
-                    >Бестужев-Рюмин</person>) были повешены. В <territory territory_type="region"
+                        >Бестужев-Рюмин</person>) были повешены. В <territory id="Сибири" territory_type="region"
                     >Сибирь</territory> было сослано больше 100 офицеров-заговорщиков. Сотни солдат
                 прогнали «сквозь строй» (дали каждому по нескольку сот ударов палками), многих
-                сослали на каторгу и в действующую армию на <territory territory_type="region"
+                сослали на каторгу и в действующую армию на <territory id="Закавказье" territory_type="region"
                     >Кавказ</territory>. </p>
             <p> Восставших в декабре 1825 года дворян-революционеров стали называть декабристами. Их
                 было немного, и они не были связаны с народом. Но декабристы первые организованно и
@@ -2453,11 +2453,11 @@
                 до дуэли. <date date_type="minor" year="1837" month="Early"><person person_type="artist">Пушкин</person> дрался на дуэли с одним из
                 своих обидчиков и был убит им в начале 1837 года.</date></p>
             <p> Свободной мысли не было места в царстве жандармов. <person person_type="tsar"
-                    >Николай I</person> сослал в действующую армию на <territory
+                    >Николай I</person> сослал в действующую армию на <territory id="Закавказье"
                     territory_type="region">Кавказ</territory> другого знаменитого поэта — <person
                     person_type="artist">Михаила Юрьевича Лермонтова</person>. Царь отправил его под
                 пули горцев за то, что поэт заклеймил в своём стихотворении убийц <person
-                    person_type="artist">Пушкина</person> — придворных паразитов. На <territory
+                    person_type="artist">Пушкина</person> — придворных паразитов. На <territory id="Закавказье"
                     territory_type="region">Кавказе</territory>
                 <person person_type="artist">Лермонтов</person> был убит на дуэли одним <person
                     person_type="military">офицером-бездельником</person>. Узнав об этом, Николай I
@@ -2506,23 +2506,23 @@
         <chapter>
             <title n="37">37. Присоединение Кавказа</title>
             <p> Присоединение <territory territory_type="country">Азербайджана</territory> и
-                <territory territory_type="country">Армении</territory>. <date date_type="major" year="1800">В начале XIX века к
+                <territory id="Армения" territory_type="country">Армении</territory>. <date date_type="major" year="1800">В начале XIX века к
                     <territory territory_type="country">России</territory> присоединилась <territory id="Грузия"
                     territory_type="country">Грузия</territory>. Вскоре после этого было закончено
                 присоединение к <territory territory_type="country">России</territory>
-                <territory territory_type="country">Азербайджана</territory> и <territory
+                    <territory territory_type="country">Азербайджана</territory> и <territory id="Армения"
                     territory_type="country">Армении</territory>, которые сотни лет страдали под
                 игом иранских правителей</date>. Шах <territory territory_type="country">Ирана</territory>
                 неоднократно пытался снова захватить эти земли. Однако русские войска каждый раз
                 разбивали войска <territory territory_type="country">Ирана</territory>. </p>
-            <p> Кроме <territory territory_type="country">Ирана</territory>, на <territory
-                    territory_type="country">Грузию</territory> и <territory
+            <p> Кроме <territory territory_type="country">Ирана</territory>, на <territory id="Грузия"
+                    territory_type="country">Грузию</territory> и <territory id="Армения"
                     territory_type="country">Армению</territory> часто нападала и <territory
                     territory_type="country">Турция</territory>. Турецкие войска разрушали города и
                 сёла, угоняли скот, опустошали поля, вырезали население целых городов, уводили в
                 рабство тысячи жителей. </p>
-            <p> После присоединения <territory territory_type="country">Грузии</territory>,
-                    <territory territory_type="country">Азербайджана</territory> и <territory
+            <p> После присоединения <territory id="Грузия" territory_type="country">Грузии</territory>,
+                <territory territory_type="country">Азербайджана</territory> и <territory id="Армения"
                     territory_type="country">Армении</territory> к <territory
                     territory_type="country">России</territory> грабительские нападения <territory
                     territory_type="country">Турции</territory> стали получать решительный отпор.
@@ -2530,9 +2530,9 @@
                 безнаказанно разорять грузин, армян, азербайджанцев. Тогда турецкий султан задумал
                 поднять на войну против <territory territory_type="country">России</territory>
                 мелкие отсталые племена горцев. Племена горцев жили в высоких, малодоступных горах
-                    <territory territory_type="region">Кавказа</territory>. Эти горы затрудняли
-                сношения <territory territory_type="country">России</territory> с <territory
-                    territory_type="region">Грузией</territory>, <territory territory_type="region"
+                <territory id="Закавказье" territory_type="region">Кавказа</territory>. Эти горы затрудняли
+                сношения <territory territory_type="country">России</territory> с <territory id="Грузия"
+                    territory_type="region">Грузией</territory>, <territory id="Армения" territory_type="region"
                     >Арменией</territory> и <territory territory_type="region"
                     >Азербайджаном</territory>. Через горы проходило очень мало дорог. Если бы горцы
                 повели войну против <territory territory_type="country">России</territory>, то
@@ -2549,15 +2549,15 @@
                 оружие и обещал помощь войсками. <person person_type="foreign_leader"
                     >Шамилю</person> помогала также и <territory territory_type="country"
                     >Англия</territory>. Она стремилась ослабить <territory territory_type="country"
-                    >Россию</territory> и захватить <territory territory_type="region"
+                        >Россию</territory> и захватить <territory id="Закавказье" territory_type="region"
                     >Кавказ</territory>. <territory territory_type="country">Англия</territory> уже
                 в те годы была жестокой угнетательницей многих миллионов людей в Азии, Африке и
-                других странах. Захват <territory territory_type="region">Кавказа</territory>
+                других странах. Захват <territory id="Закавказье" territory_type="region">Кавказа</territory>
                 <territory territory_type="country">Англией</territory> или <territory
                     territory_type="country">Турцией</territory> был бы огромным несчастьем для
-                народов <territory territory_type="region">Кавказа</territory>. </p>
+                народов <territory id="Закавказье" territory_type="region">Кавказа</territory>. </p>
             <p> Отряды <person person_type="foreign_leader">Шамиля</person> постоянно нападали на
-                    <territory territory_type="region">кубанские</territory> станицы и <territory
+                <territory territory_type="region">кубанские</territory> станицы и <territory id="Грузия"
                     territory_type="country">грузинские</territory> сёла. Много крестьян захватывал
                 при набегах <person person_type="foreign_leader">Шамиль</person>. Он предавал их
                 казни или делал рабами. <date date_type="minor" year="1853">Особенно усилились набеги <person
@@ -2572,13 +2572,13 @@
                     territory_type="country">русские</territory> войска всё же побеждали отряды
                     <person person_type="foreign_leader">Шамиля</person>. </p>
             <p> Разгром <person person_type="foreign_leader">Шамиля</person> и окончательное
-                присоединение <territory territory_type="region">Кавказа</territory>. Сначала
+                присоединение <territory id="Закавказье" territory_type="region">Кавказа</territory>. Сначала
                     <person person_type="foreign_leader">Шамилю</person> удавалось обманывать
                 народные массы горцев тем, что он будто бы ведёт освободительную войну за
                 независимость. Но потом народ понял этот обман. Он увидел, что эта война несёт ему
                 только страдания и разорение. Горцы также не желали быть под властью <territory
                     territory_type="country">Турции</territory> и <territory
-                    territory_type="country">Англии</territory>. Передовые люди <territory
+                        territory_type="country">Англии</territory>. Передовые люди <territory id="Закавказье"
                     territory_type="region">Кавказа</territory> стремились к объединению с
                     <territory territory_type="country">Россией</territory>. </p>
             <p> Народные массы были недовольны тем, что <person person_type="foreign_leader"
@@ -2591,19 +2591,19 @@
                 стали редеть. На высокой горе в ауле <place place_type="city">Гуниб</place>
                     (<territory territory_type="region">Дагестан</territory>) <person
                     person_type="foreign_leader">Шамиль</person> был окружён русскими войсками и
-                взят в плен. Вскоре после этого <territory territory_type="region"
+                взят в плен. Вскоре после этого <territory id="Закавказье" territory_type="region"
                     >Кавказ</territory> был окончательно присоединён к <territory
-                    territory_type="country">России</territory>. Народы <territory
+                        territory_type="country">России</territory>. Народы <territory id="Закавказье"
                     territory_type="region">Кавказа</territory> получили безопасность от внешних
                 врагов. </p>
             <p> Царское правительство, разбив <person person_type="foreign_leader">Шамиля</person>,
-                не избавило горцев <territory territory_type="region">Кавказа</territory> от гнёта
+                не избавило горцев <territory id="Закавказье" territory_type="region">Кавказа</territory> от гнёта
                 местных помещиков. Кроме того, <person person_type="tsar">царь</person> установил
                 здесь власть своих чиновников. </p>
-            <p> Однако присоединение народов <territory territory_type="region">Кавказа</territory>
+            <p> Однако присоединение народов <territory id="Закавказье" territory_type="region">Кавказа</territory>
                 к <territory territory_type="country">России</territory> помогло им ближе сойтись с
                 русским народом. Они познакомились с передовой <territory territory_type="country"
-                    >русской</territory> культурой. В дальнейшем народы <territory
+                    >русской</territory> культурой. В дальнейшем народы <territory id="Закавказье"
                     territory_type="region">Кавказа</territory> совместно с русским народом боролись
                 против царя, помещиков и капиталистов. </p>
         </chapter>
@@ -2739,7 +2739,7 @@
             <p>
                 <date date_type="major" year="1853"><territory territory_type="region">Крымская</territory> война. Чтобы быть полным
                 хозяином на берегах <place place_type="water_body">Черного моря</place>, чтобы
-                окончательно вытеснить турок с <territory territory_type="region">кавказских
+                    окончательно вытеснить турок с <territory id="Закавказье" territory_type="region">кавказских
                     земель</territory> и свободно провозить через проливы в Европу помещичий хлеб,
                     <person person_type="tsar">Николай I</person> в 1853 году затеял новую войну с
                 ослабевшей к тому времени <territory territory_type="country">Турцией</territory></date>.
@@ -2806,7 +2806,7 @@
                 первой вольной русской типографии в <place place_type="city">Лондоне</place>. В
                 журнале он горячо защищал дело освобождения крестьянства и угнетённых народов. За
                 чтение «Колокола», который тайно привозили в <territory territory_type="country"
-                    >Россию</territory>, людей арестовывали и ссылали в <territory
+                    >Россию</territory>, людей арестовывали и ссылали в <territory id="Сибири"
                     territory_type="region">Сибирь</territory>. </p>
         </chapter>
     </section>
@@ -2831,14 +2831,14 @@
                 выкупа. </p>
             <p> Еще больше ограбили крестьян <person person_type="tsar">царь</person> и помещики в
                     <territory territory_type="region">Крыму</territory>, на <territory
-                    territory_type="country">Украине</territory> и на <territory
+                        territory_type="country">Украине</territory> и на <territory id="Закавказье"
                     territory_type="region">Кавказе</territory>. В <territory
                     territory_type="region">Крыму</territory> они забрали себе все лучшие земли на
                 побережье <place place_type="water_body">Чёрного моря</place>. Здесь были дворцы и
                 имения <person person_type="tsar">царя</person>, царской семьи и придворной знати,
                 которые оставили всю землю себе. Очень мало земли получили крестьяне и на <territory id="Украине"
                     territory_type="country">Украине</territory>. Помещики не хотели отдавать им
-                плодородный чернозём. В <territory territory_type="country">Грузии</territory>
+                плодородный чернозём. В <territory id="Грузия" territory_type="country">Грузии</territory>
                 крестьяне, кроме огромного выкупа, должны были много лет по-прежнему работать на
                 помещиков и давать им одну треть урожая со своих виноградников и полей. </p>
             <p> Такая отмена <system system_type="serfdom">крепостного права</system> вызвала
@@ -2866,7 +2866,7 @@
                 <person person_type="tsar">Александр II</person> посадил <person
                     person_type="artist">Чернышевского</person> в <place place_type="building"
                     >Петропавловскую крепость</place>, а потом сослал на каторгу. От своих убеждений
-                стойкий революционер не отказался, и царь продержал его в <territory
+                стойкий революционер не отказался, и царь продержал его в <territory id="Сибири"
                     territory_type="region">сибирской</territory> тюрьме и на поселении целых 19
                 лет. <person person_type="politician">Маркс</person>, <person
                     person_type="politician">Энгельс</person> и <person person_type="politician"
@@ -2951,7 +2951,7 @@
                 жестокий генерал <person person_type="military">Муравьёв</person>. Он беспощадно
                 вешал пленных. Храбрый <person person_type="artist">Кастусь Калиновский</person>
                 тоже был взят в плен и повешен. </p>
-            <p> После подавления восстания царское правительство сослало в <territory
+            <p> После подавления восстания царское правительство сослало в <territory id="Сибири"
                     territory_type="region">Сибирь</territory> десятки тысяч поляков </p>
             <p> Во время восстания царь <person person_type="tsar">Александр II</person> поспешил
                 издать закон об отмене в <territory territory_type="country">Польше</territory> и
@@ -2995,10 +2995,10 @@
                     >Россией</territory> горный <place place_type="mountain">Памир</place> — «крыша
                 мира»</date>. </p>
             <p> Так в течение 30 лет упорных войн были завоёваны царской <territory
-                    territory_type="country">Россией</territory> земли народов <territory
+                    territory_type="country">Россией</territory> земли народов <territory id="Средней_Азии"
                     territory_type="region">Средней Азии</territory>
             </p>
-            <p> Вслед за русскими войсками в <territory territory_type="region">Среднюю
+            <p> Вслед за русскими войсками в <territory id="Средней_Азии" territory_type="region">Среднюю
                     Азию</territory> двигались царские чиновники и торговцы. Они брали с населения
                 тяжёлые налоги, отбирали у них земли и имущество, обсчитывали и обманывали при
                 торговле. Грабить покорённые народы им помогали подкупленные царём ханы, старшины и
@@ -3008,12 +3008,12 @@
                 >России</territory>. Все выгоды от посева хлопка попадали в руки местных богачей и
                 русских фабрикантов, которые наживались на труде закабалённой бедноты — узбеков,
                 туркмен и таджиков. </p>
-            <p> Народы <territory territory_type="region">Средней Азии</territory> отданы были в
+            <p> Народы <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> отданы были в
                 полную власть царских генералов, дворян и капиталистов. Не раз угнетённые массы
                 поднимали восстание, но сила была на стороне русских дворян, которым помогала
                 зажиточная часть коренного населения. </p>
             <p>
-                <territory territory_type="region">Средняя Азия</territory> стала колонией царской
+                <territory id="Средней_Азии" territory_type="region">Средняя Азия</territory> стала колонией царской
                     <territory territory_type="country">России</territory>. </p>
             <p> Война с <territory territory_type="country">Турцией</territory>. <date date_type="major" year="1877">В конце
                 царствования <person person_type="tsar">Александра II</person> (в 1877 г.)
@@ -3182,10 +3182,10 @@
             <p> В эти места и направлялись разоренные крестьяне. Много рабочих требовалось и на
                 строительство железных дорог. <date date_type="minor" year="1900">К концу XIX века железных дорог в <territory
                     territory_type="country">России</territory> было уже больше 30 тысяч километров,
-                начата была постройка дороги через <territory territory_type="region"
+                    начата была постройка дороги через <territory id="Сибири" territory_type="region"
                     >Сибирь</territory></date>. </p>
-            <p> Сюда, на обширные <territory territory_type="region">сибирские</territory> земли,
-                двинулись сотни тысяч крестьянских семей. В суровых природных условиях <territory
+            <p> Сюда, на обширные <territory id="Сибири" territory_type="region">сибирские</territory> земли,
+                двинулись сотни тысяч крестьянских семей. В суровых природных условиях <territory id="Сибири"
                     territory_type="region">Сибири</territory> они упорно трудились над освоением
                 богатейшего края. Крестьяне проникали в глухую тайгу. Старинные владения <territory
                     territory_type="country">России</territory> массами заселили разорявшиеся
@@ -3270,7 +3270,7 @@
                 <person person_type="artist">Лев Николаевич Толстой</person> (1828–1910 гг.). </p>
             <p> Величайший русский писатель <person person_type="artist">Лев Николаевич
                     Толстой</person> начал писать свои произведения ещё молодым, когда участвовал в
-                войнах с горцами <territory territory_type="country">Кавказа</territory> и в защите
+                войнах с горцами <territory id="Закавказье" territory_type="country">Кавказа</territory> и в защите
                     <place place_type="city">Севастополя</place> во время Крымской войны. Наиболее
                 крупные свои произведения <person person_type="artist">Толстой</person> написал
                 после того, как оставил военную службу и поселился в своём имении «<place
@@ -3289,7 +3289,7 @@
                     Суриков</person>. <person person_type="artist">Репин</person> родился на
                 <territory id="Украине" territory_type="country">Украине</territory> в семье солдата и с
                 детства любил рисовать. <person person_type="artist">Суриков</person> родился в
-                    <territory territory_type="region">Сибири</territory> в <people
+                <territory id="Сибири" territory_type="region">Сибири</territory> в <people
                     people_type="class">казацкой</people> семье. <person person_type="artist"
                     >Репин</person> и <person person_type="artist">Суриков</person> хорошо знали
                 жизнь крестьянина, так как сами вышли из народа. Их картины известны всему миру. </p>
@@ -3410,7 +3410,7 @@
                 рабочих, писал для рабочих листовки и книги, призывая к упорной борьбе с
                 капиталистами. </p>
             <p> Царским сыщикам удалось арестовать Ленина. Его долго держали в тюрьме, а потом
-                сослали на три года в <territory territory_type="region">Сибирь</territory>. </p>
+                сослали на три года в <territory id="Сибири" territory_type="region">Сибирь</territory>. </p>
             <p> Организованные <person person_type="politician">Лениным</person> «Союзы борьбы»
                 сделали первую попытку объединиться в партию. С этой целью <date date_type="minor" year="1898">был созван 1 съезд
                 Российской социал-демократической рабочей партии (РСДРП) в 1898 году в городе <place
@@ -3548,15 +3548,15 @@
                     >России</territory> после съезда поддержало <people people_type="job"
                     >большевиков</people>. </p>
             <p> На II съезде товарища <person person_type="politician">Сталина</person> не было, он
-                находился в тюрьме. В 1904 году он бежал из <territory territory_type="region"
+                находился в тюрьме. В 1904 году он бежал из <territory id="Сибири" territory_type="region"
                     >сибирской</territory> ссылки и повёл за <people people_type="job"
-                    >большевиками</people> рабочих <territory territory_type="region"
+                        >большевиками</people> рабочих <territory id="Закавказье" territory_type="region"
                     >Закавказья</territory>. </p>
             <p> Передовые рабочие крепко верили <person person_type="politician">Ленину</person> и
                     <person person_type="politician">Сталину</person>. Таких рабочих тогда были
                 тысячи. </p>
                 <p> <date date_type="minor" year="1903" month="Summer">Под руководством РСДРП летом 1903 года в крупных городах <territory id="Украине"
-                    territory_type="country">Украины</territory> и <territory
+                            territory_type="country">Украины</territory> и <territory id="Закавказье"
                     territory_type="region">Кавказа</territory> произошли первые всеобщие стачки
                 рабочих</date>. Остановились все фабрики и заводы. Рабочие собирались тысячами на улицах и
                 площадях. Ораторы говорили речи о революции. Рабочие устраивали шествия —
@@ -3657,7 +3657,7 @@
                 пороли крестьян. Но крестьяне, поддерживаемые рабочими в городах, не прекращали
                 борьбы. Крестьянское движение с каждым днём ширилось. </p>
             <p> Крестьяне захватывают помещичье имение. </p>
-            <p> В <territory territory_type="country">Грузии</territory> крестьяне прекратили уплату
+            <p> В <territory id="Грузия" territory_type="country">Грузии</territory> крестьяне прекратили уплату
                 повинностей помещикам. В ряде мест они захватили земли, пастбища, леса, не
                 признавали никаких царских властей. Делами управляли сами крестьяне. </p>
             <p> <date date_type="minor" year="1905" month="Summer">В <territory territory_type="country">Латвии</territory> и <territory
@@ -3698,7 +3698,7 @@
                 писал листовки к рабочим, учил и сплачивал революционных рабочих и крестьян и
                 руководил подготовкой вооружённого восстания. Товарищ <person
                     person_type="politician">Сталин</person> положил много трудов для того, чтобы
-                сплотить рабочих и трудящиеся народы <territory territory_type="region"
+                сплотить рабочих и трудящиеся народы <territory id="Закавказье" territory_type="region"
                     >Закавказья</territory> и всей <territory territory_type="country"
                     >России</territory> в единую семью. </p>
         </chapter>
@@ -3866,9 +3866,9 @@
                 под руководством товарища <person person_type="politician">Сталина</person> рабочие
                 и крестьяне храбро дрались с царскими войсками. Вся <territory id="Грузия"
                     territory_type="country">Грузия</territory> была охвачена восстанием. В
-                    <territory territory_type="country">Грузию</territory> была брошена масса
+                <territory id="Грузия" territory_type="country">Грузию</territory> была брошена масса
                 царских войск. Не раз вступали с ними в бои грузинские рабочие и крестьяне. </p>
-            <p> В декабре 1905 года много городов и селений <territory territory_type="country"
+            <p> В декабре 1905 года много городов и селений <territory id="Грузия" territory_type="country"
                     >Грузии</territory> пылало, как костры, зажжённые царскими войсками. </p>
             <p> На <territory id="Украине" territory_type="country">Украине</territory> первые вспышки
                 вооружённого восстания начались ещё во время всеобщей октябрьской стачки. Наиболее
@@ -3924,7 +3924,7 @@
             <p> Многие партийные организации <people people_type="job">большевиков</people> были
                 разгромлены, уничтожены Советы рабочих депутатов, закрыты профсоюзы и все
                 крестьянские организации. </p>
-            <p> Партии ссыльных одну за другой гнали в <territory territory_type="region"
+            <p> Партии ссыльных одну за другой гнали в <territory id="Сибири" territory_type="region"
                     >Сибирь</territory>. </p>
             <p> Государственная <people people_type="job">дума</people>. <date date_type="minor" year="1906">В тех же видах подавления
                 революционного движения <person person_type="tsar">Николай II</person> созвал в 1906
@@ -3942,9 +3942,9 @@
                     people_type="job">думу</people> разогнать. </p>
             <p> Царские чиновники составили новый закон о выборах в <people people_type="job"
                     >думу</people>. Права рабочих и крестьян были еще более уменьшены. Избирательных
-                прав в <people people_type="job">думу</people> были лишены все народы <territory
+                прав в <people people_type="job">думу</people> были лишены все народы <territory id="Сибири"
                     territory_type="region">Сибири</territory> и <territory id="Средней_Азии" territory_type="region"
-                    >Средней Азии</territory>, урезаны права народов <territory
+                        >Средней Азии</territory>, урезаны права народов <territory id="Закавказье"
                     territory_type="region">Кавказа</territory> и <territory
                         territory_type="country">Польши</territory>. И когда <date date_type="major" year="1907" month="Fall">осенью 1907 года собралась
                 третья <people people_type="job">дума</people></date>, то в <place place_type="building"
@@ -4049,10 +4049,10 @@
                     territory_type="country">России</territory>. Его кипучая энергия вдохновляла
                 <people people_type="job">большевиков</people> на трудную и упорную борьбу. <date date_type="major" year="1908">В
                 1908 году <person person_type="politician">Сталин</person> был снова арестован и
-                сослан в одну из <territory territory_type="country">сибирских</territory> губерний</date>.
+                    сослан в одну из <territory id="Сибири" territory_type="country">сибирских</territory> губерний</date>.
                 Но железную волю <person person_type="politician">Сталина</person> не могли сломить
                 тюрьмы и ссылки, и в следующем году <person person_type="politician">Сталин</person>
-                бежал из <territory territory_type="region">Сибири</territory> и вернулся в <place
+                бежал из <territory id="Сибири" territory_type="region">Сибири</territory> и вернулся в <place
                     place_type="city">Баку</place>. Прошёл год. <person person_type="politician"
                     >Сталина</person> арестовали опять и снова отправили в ссылку. Он снова бежал.
                 Скоро его опять выследили царские шпионы, и правительство выслало <person
@@ -4067,7 +4067,7 @@
                 социализм, готовые каплю за каплей отдать свою кровь за рабочее дело. </p>
             <p> Герои-<people people_type="job">большевики</people> помогли рабочему классу пережить
                 тяжёлое время поражения революции и вновь подняться на революционную борьбу. </p>
-            <p> Ленский расстрел рабочих. В далёкой <territory territory_type="region"
+            <p> Ленский расстрел рабочих. В далёкой <territory id="Сибири" territory_type="region"
                     >сибирской</territory> тайге, на реке <place place_type="river">Лене</place>
                 были золотые прииски английских капиталистов. Жизнь рабочих на этих приисках мало
                 чем отличалась от жизни каторжников. Английские же капиталисты получали с этих
@@ -4249,7 +4249,7 @@
                     people_type="job">большевиков</people> «Правда» была запрещена ещё накануне
                 объявления войны. <people people_type="job">Большевики</people> — депутаты четвёртой
                 Государственной <people people_type="job">думы</people> — были отправлены в
-                    <territory territory_type="region">Сибирь</territory> на поселение за призыв к
+                <territory id="Сибири" territory_type="region">Сибирь</territory> на поселение за призыв к
                 борьбе с войной, за призыв рабочих к революции. </p>
             <p> Трудна была работа <people people_type="job">большевиков</people> в годы войны.
                     <person person_type="politician">Ленина</person> отделяли от <territory
@@ -4629,7 +4629,7 @@
         <p>По разбитые в столице и центрах страны враги советской власти — помещики, капиталисты,
             генералы и попы, а с ними заодно были и меньшевики и эсеры — бежали на окраины
             России.</p>
-        <p>На Дону, на правобережной Украине, на Кавказе, в Оренбургских степях, в<territory
+        <p>На Дону, на правобережной Украине, на Кавказе, в Оренбургских степях, в<territory id="Сибири"
                 territory_type="region"> Сибири </territory>они пытались закрепиться и организовать
             поход против советской власти. Но собственных сил у них было мало, рабочие и крестьяне
             за ними не шли. Мятежи и заговоры, которые устраивали меньшевики и эсеры, провалились.
@@ -4800,7 +4800,7 @@
             Ворошилов наносили казакам удар за ударом и отстояли этот важный город на Волге.</p>
         <p>Вместе с Царицыном билась с белыми и Астрахань, где во главе Красной Армии стоял товарищ
             Киров. Белым так и не удалось захватить Астрахань.</p>
-        <p>Гражданская война в <territory territory_type="region">Закавказье</territory> и Средней Азии. Германия помогла укрепиться в Грузии
+        <p>Гражданская война в <territory id="Закавказье" territory_type="region">Закавказье</territory> и Средней Азии. Германия помогла укрепиться в Грузии
             врагам грузинского народа — меньшевикам. Кровавым путём пришли грузинские меньшевики к
             власти. Они расстреляли многих рабочих и крестьян, боровшихся за власть Советов.</p>
         <p>Армянским рабочим и крестьянам также не удалось сразу освободиться or гнёта буржуазии. В
@@ -4886,12 +4886,12 @@
             в России. Она послала свои войска на север России, в Сибирь, Среднюю Азию, Кавказ,
             Украину. Антанта организовала армии и походы контрреволюционных русских генералов на
             Москву.</p>
-        <p><date date_type="minor" year="1918">В<territory territory_type="region"> Сибири </territory>в 1918 году Антанта объявила
+        <p><date date_type="minor" year="1918">В<territory id="Сибири" territory_type="region"> Сибири </territory>в 1918 году Антанта объявила
             царского <person>адмирала Колчака</person> верховным правителем России</date>.
                 <person>Колчаку</person> доставляла она пушки, снаряды, ружья, обмундирование для
             солдат.</p>
         <p><person>Колчак</person> создал белую армию. Он беспощадно расстреливал рабочих, порол и
-            убивал крестьян. Повсюду в<territory territory_type="region"> Сибири </territory>он
+            убивал крестьян. Повсюду в<territory id="Сибири" territory_type="region"> Сибири </territory>он
             восстановил царские порядки.</p>
         <p>К <person>Колчаку</person> со всех концов России сбегались царские офицеры, помещики,
             капиталисты, попы, видя в нем лучшего защитника их интересов.</p>
@@ -4925,16 +4925,16 @@
                 <person>Колчака</person> и прогнала остатки его армии за Урал, в Сибирь</date>.</p>
         <p> Сибирские партизаны с самодельными пушками нападали на отряды
             <person>Колчака</person>.</p>
-        <p> В это время в<territory territory_type="region"> Сибири </territory>рабочие и крестьяне
+        <p> В это время в<territory id="Сибири" territory_type="region"> Сибири </territory>рабочие и крестьяне
             восстали против <person>Колчака</person> и повсеместно создали партизанские отряды.</p>
         <p><date date_type="major" year="1919" month="12">В декабре 1919 года рабочие Иркутска подняли восстание и захватили
                 <person>Колчака</person> и его министров. Революционный комитет расстрелял
                 <person>Колчака</person></date>.</p>
-        <p><people people_type="army">Красная Армия</people> торжествовала победу в <territory territory_type="region"
+        <p><people people_type="army">Красная Армия</people> торжествовала победу в <territory id="Сибири" territory_type="region"
                 >Сибири</territory>.</p>
         <p>Иностранные интервенты-захватчики должны были бежать из Западной и Восточной Сибири.
             <people people_type="army">Красная Армия</people> при помощи сибирских партизан — русских рабочих и крестьян,
-            бурят-монголов, якутов, эвенков, алтайцев и других народов<territory
+            бурят-монголов, якутов, эвенков, алтайцев и других народов<territory id="Сибири"
                 territory_type="region"> Сибири </territory>— выгнала их из нашей страны.</p>
         <p><person>Деникин</person> и <person>Юденич</person> — ставленники Антанты. Разгром
                 <person>Колчака</person> не остановил борьбу Антанты против Республики Советов.
@@ -5148,7 +5148,7 @@
             паровоза.</p>
         <p> <date date_type="minor" year="1922" month="10">В октябре 1922 года Красной Армией был освобождён и <place place_type="city">Владивосток</place></date>.</p>
         <p>Японское иго над Дальним Востоком было сброшено.</p>
-        <p>Но долго будут помнить трудящиеся<territory territory_type="region"> Сибири </territory>и
+        <p>Но долго будут помнить трудящиеся<territory id="Сибири" territory_type="region"> Сибири </territory>и
             Дальнего Востока насилия и грабежи, которые творила японская армия. Никогда не забудут
             рабочие и крестьяне, как в топках паровозов японцы сжигали живыми красных партизан. Так
             погиб за освобождение Дальнего Востока герой <person>Сергей Лазо</person>.</p>
@@ -5417,7 +5417,7 @@
             удавалось тогда пробиться к творчеству и науке. Таким был <person>И. В. Мичурин</person>
             — великий садовод нашей страны. Он вырастил много новых сортов фруктов. Они не боятся
             морозов. <person>Мичуринские</person> яблони цветут и сгибаются под тяжестью плодов в
-                холодной<territory territory_type="region"> Сибири </territory>и на Крайнем Севере.
+            холодной<territory id="Сибири" territory_type="region"> Сибири </territory>и на Крайнем Севере.
             Его научные открытия были оценены только советской властью.</p>
         <p>Другой талант — дедушка русской авиации — <person>К. Э. Циолковский</person> дал проект
             самолёта за 13 лет до того, как поднялся первый самолёт в воздух. Он изобрёл
@@ -5491,7 +5491,7 @@
             неё гражданскую войну. Она помогла всем угнетённым народам старой России сбросить с себя
             иго насилия помещиков и капиталистов. Она помогла им создать советскую власть на своей
             освобождённой земле. Возникли и были укреплены советские республики на Украине, в
-            Белоруссии, в <territory territory_type="region">Средней Азии</territory> и в <territory territory_type="region">Закавказье</territory>. Совместными усилиями всех этих советских
+            Белоруссии, в <territory id="Средней_Азии" territory_type="region">Средней Азии</territory> и в <territory id="Закавказье" territory_type="region">Закавказье</territory>. Совместными усилиями всех этих советских
             республик были окончательно разбиты все враги. Освобожденные народы приступили к
             восстановлению разрушенного войной хозяйства. В 1922 году они создали под руководством
             большевистской партии великий Союз Советских Социалистических Республик. В <territory id="СССР" territory_type="country">СССР</territory> вначале
@@ -5543,7 +5543,7 @@
             <territory id="СССР" territory_type="country">СССР</territory> входят: <territory territory_type="region">Российская Советская Федеративная Социалистическая Республика</territory>, <territory territory_type="region">Украинская
                 Советская Социалистическая Республика</territory>, <territory territory_type="region">Белорусская Советская Социалистическая
                     Республика</territory>, <territory territory_type="region">Узбекская Советская Социалистическая Республика</territory>, <territory territory_type="region">Казахская Советская
-                        Социалистическая Республика</territory>, <territory territory_type="region">Грузинская Советская Социалистическая Республика</territory>,
+                        Социалистическая Республика</territory>, <territory id="Грузия" territory_type="region">Грузинская Советская Социалистическая Республика</territory>,
             <territory territory_type="region">Азербайджанская Советская Социалистическая Республика</territory>,<territory territory_type="region"> Литовская Советская
                 Социалистическая Республика</territory>, <territory territory_type="region">Молдавская Советская Социалистическая Республика</territory>,
             <territory territory_type="region">Латвийская Советская Социалистическая Республика</territory>, <territory territory_type="region">Киргизская Советская Социалистическая
@@ -5693,7 +5693,7 @@
         <p>К началу зимы 1941 года враг был не только задержан, но и отброшен от Москвы.</p>
         <p><date date_type="major" year="1942" month="Summer">Всё же сил у немцев было ещё достаточно. Потерпев поражение под Москвой и
                 <person>Ленинградом</person>, летом 1942 года они повели наступление на юге. Фашисты
-            рвались на восток. Разоряя советские земли, они вторглись в плодородные степи <territory territory_type="region">Северного
+                рвались на восток. Разоряя советские земли, они вторглись в плодородные степи <territory id="Закавказье" territory_type="region">Северного
             Кавказа</territory>, подошли к <place place_type="river">Волге</place> у <place place_type="city">Сталинграда</place> и остановились на <place place_type="river">Дону</place> у
                 <place place_type="city">Воронежа</place></date>.</p>
         <p>Немцы хотели обойти Москву и отрезать её от <place place_type="mountain">Урала</place> и ,<territory id="Сибири" territory_type="region">Сибири</territory>. Опасность была велика. Наша
