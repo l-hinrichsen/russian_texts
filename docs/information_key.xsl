@@ -766,7 +766,7 @@
     <xsl:map-entry key="'Глинке'" select="'Mikhail Glinka was a 19th century classical Russian composer, often being cited
         as the first popular composer to come out of the empire.'"/>
 
-    <xsl:map-entry key="'Шевченко'" select="'Taras Shevchenko was a peot born in the Russian Empire known for writing in
+    <xsl:map-entry key="'Шевченко'" select="'Taras Shevchenko was a poet born in the Russian Empire known for writing in
         Ukrainian.'"/>
 
     <xsl:map-entry key="'Шамиль'" select="'Imam Shamil (r. 1834-1857) was the leader of the Caucasian Imamate. Originally
