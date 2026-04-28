@@ -9,6 +9,8 @@ textbook = element textbook {book_title, section*, chapter*}
     chapter = element chapter {title, p*}
         title = element title {n, text}
             n = attribute n {xsd:int}
+        
+        #when finished, the @id will not have ?, but for now it's like that until all of the elements are marked up 
         p = element p {mixed{(person | people | place | political_affiliation | religion | territory | event | system | gov | rhetoric |organization | date)*}}
             id = attribute id { text }
             territory = element territory {id?, territory_type, text}
