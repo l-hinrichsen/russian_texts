@@ -3075,30 +3075,30 @@
                 царя и помещиков. Для этого <person id="Чернышевский" person_type="artist">Чернышевский</person>
                 написал воззвание «К барским крестьянам», которое перехватили царские жандармы. </p>
             <p>
-                <person person_type="tsar">Александр II</person> посадил <person id="Чернышевский"
+                <person id="Александр_II" person_type="tsar">Александр II</person> посадил <person id="Чернышевский"
                     person_type="artist">Чернышевского</person> в <place place_type="building"
                     >Петропавловскую крепость</place>, а потом сослал на каторгу. От своих убеждений
                 стойкий революционер не отказался, и царь продержал его в <territory id="Сибири"
                     territory_type="region">сибирской</territory> тюрьме и на поселении целых 19
                 лет. <person id="Карл_Маркс" person_type="politician">Маркс</person>, <person id="Фридрих_Энгельс"
-                    person_type="politician">Энгельс</person> и <person person_type="politician"
+                    person_type="politician">Энгельс</person> и <person id="Ленин" person_type="politician"
                         >Ленин</person> высоко ценили <person id="Чернышевский" person_type="artist"
                     >Чернышевского</person> как выдающегося учёного, твёрдого и смелого
                 народнического революционера. </p>
             <p>
-                <person person_type="artist">Николай Алексеевич Некрасов</person> (1821–1877 гг.). </p>
+                <person id="Некрасов" person_type="artist">Николай Алексеевич Некрасов</person> (1821–1877 гг.). </p>
             <p>
-                <person person_type="artist">Поэт Н. А. Некрасов</person>. В эти же годы писал свои
+                <person id="Некрасов" person_type="artist">Поэт Н. А. Некрасов</person>. В эти же годы писал свои
                 стихотворения талантливый <territory territory_type="country">русский</territory>
-                поэт <person person_type="artist">Николай Алексеевич Некрасов</person>. В его
+                поэт <person id="Некрасов" person_type="artist">Николай Алексеевич Некрасов</person>. В его
                 простых стихах ярко показана горькая жизнь крестьян в царской <territory
                     territory_type="country">России</territory>. Он писал о том, как жестоко
                 издевались над людьми при <system system_type="serfdom">крепостном праве</system> и
                 как беспощадно эксплуатировали крестьян после реформы помещики и капиталисты.
                 «Вместо цепей <people people_type="class">крепостных</people> люди придумали много
-                иных», — писал <person person_type="artist">Некрасов</person>
+                иных», — писал <person id="Некрасов" person_type="artist">Некрасов</person>
             </p>
-            <p> Стихи <person person_type="artist">Некрасова</person> были любимыми песнями
+            <p> Стихи <person id="Некрасов" person_type="artist">Некрасова</person> были любимыми песнями
                 революционеров того времени. Их и сейчас поёт <territory territory_type="country"
                     >русский</territory> народ. </p>
             <p> Перемены в управлении. При крепостном праве помещик сам управлял своими крестьянами
@@ -3154,7 +3154,7 @@
                 начали партизанскую войну. Отряды восставших скрывались в лесах и оттуда нападали на
                 царские войска. За полтора года произошло свыше тысячи таких мелких сражений. </p>
             <p> Особенно сильное восстание было в <territory territory_type="country"
-                    >Белоруссии</territory>. Здесь, под руководством <person person_type="artist"
+                    >Белоруссии</territory>. Здесь, под руководством <person id="Некрасов" person_type="artist"
                     >Кастуся Калиновского</person>, вооружённые косами и топорами, крестьяне жгли
                 помещичьи усадьбы, истребляли мелкие отряды русских войск, убивали помещиков,
                 царских чиновников и офицеров </p>
@@ -3162,8 +3162,8 @@
                 целую армию. Только через 18 месяцев царские генералы смогли разгромить храбро
                 сражавшихся повстанцев. В <territory territory_type="country">Белоруссии</territory>
                 и <territory territory_type="country">Литве</territory> их подавлением руководил
-                жестокий генерал <person person_type="military">Муравьёв</person>. Он беспощадно
-                вешал пленных. Храбрый <person person_type="artist">Кастусь Калиновский</person>
+                жестокий генерал <person id="Муравьёв-Апостол" person_type="military">Муравьёв</person>. Он беспощадно
+                вешал пленных. Храбрый <person id="Кастусь_Калиновский" person_type="artist">Кастусь Калиновский</person>
                 тоже был взят в плен и повешен. </p>
             <p> После подавления восстания царское правительство сослало в <territory id="Сибири"
                     territory_type="region">Сибирь</territory> десятки тысяч поляков </p>
@@ -3192,7 +3192,7 @@
                     place_type="city">Ташкент</place>. Укрепились они в нём только в 1865 году. </p>
             <p> Через три года после занятия <place place_type="city">Ташкента</place> русские
                 отряды захватили древний город <place place_type="city">Бухары</place> — <place
-                    place_type="city">Самарканд</place> (когда-то бывший столицей <person
+                    place_type="city">Самарканд</place> (когда-то бывший столицей <person id="Тамерлан"
                     person_type="foreign_leader">Тамерлана</person>). Правитель <place
                     place_type="city">Бухары</place> — эмир — признал над собой власть русского царя
                 и должен был отдать ему плодороднейшие земли. </p>
@@ -3295,7 +3295,7 @@
                     между <territory territory_type="kingdom">Пруссией</territory> и <territory
                         territory_type="country">Францией</territory></date>. В этой войне победила
                     <territory territory_type="kingdom">Пруссия</territory>. Французские войска были
-                разбиты. Французский император <person person_type="foreign_leader">Наполеон
+                разбиты. Французский император <person id="Наполеон" person_type="foreign_leader">Наполеон
                     III</person> и его армия попали в плен. В Париже началась революция рабочих и
                     <people people_type="class">мелкобуржуазных</people> городских масс. Но у власти
                 встала <people people_type="class">буржуазия</people>. Прусские войска двигались в
@@ -3365,13 +3365,13 @@
                     1876 году, I Интернационал прекратил своё существование</date>. </p>
             <p> Значение I Интернационала было огромно. Это было первое международное объединение
                 рабочих, послужившее образном для Коммунистического Интернационала, основанного
-                    <person person_type="politician">Лениным</person>. </p>
+                <person id="Ленин" person_type="politician">Лениным</person>. </p>
             <p>
                 <date date_type="major" year="1883"><person id="Карл_Маркс" person_type="politician">Карл
                         Маркс</person> умер в 1883 году, а <person id="Фридрих_Энгельс" person_type="politician"
                         >Энгельс</person> в 1895 году</date>. Их учение направило на верный путь
                 борьбу рабочих за <system system_type="communism">коммунизм</system> и легло в
-                основу деятельности <person person_type="politician">В. И. Ленина</person> и нашей
+                основу деятельности <person id="Ленин" person_type="politician">В. И. Ленина</person> и нашей
                     <system system_type="communism">Коммунистической</system> партии. </p>
         </chapter>
         <chapter>
@@ -3466,69 +3466,61 @@
             <p>
                 <date date_type="major" year="1887">В 1887 году небольшая группа революционеров
                     снова попыталась убить царя (<person person_type="tsar">Александра
-                    III</person>), но неудачно</date>. Организаторы покушения — старший брат <person
+                        III</person>), но неудачно</date>. Организаторы покушения — старший брат <person id="Ленин"
                     person_type="politician">Ленина</person>
-                <person person_type="politician">Александр Ульянов</person> и его товарищи — были
+                <person id="Ленин" person_type="politician">Александр Ульянов</person> и его товарищи — были
                 схвачены жандармами и повешены. Повторная ошибка принесла тот же вред. </p>
             <p>
-                <person person_type="politician">Владимиру Ильичу Ульянову (Ленину)</person> тогда
+                <person id="Ленин" person_type="politician">Владимиру Ильичу Ульянову (Ленину)</person> тогда
                 было уже 17 лет. Узнав о казни брата, он сказал: «Нет, мы не пойдём таким путём. Не
-                таким путем надо идти». <person person_type="politician">Ленин</person> был прав.
+                таким путем надо идти». <person id="Ленин" person_type="politician">Ленин</person> был прав.
                 Только организованный рабочий класс, в союзе с крестьянством, руководящий
                 крестьянством, мог одержать полную победу над властью царя и помещиков. </p>
             <p> Русские учёные, писатели и художники. Во второй половине XIX века было много
                 талантливых учёных, писателей, художников и композиторов. </p>
-            <p> В это время жили великие русские учёные. <person person_type="worker">Дмитрий
+            <p> В это время жили великие русские учёные. <person id="Дмитрий_Иванович_Менделеев" person_type="worker">Дмитрий
                     Иванович Менделеев</person> сделал выдающиеся открытия в химии. Он много
-                трудился над изучением природных богатств нашей страны. <person person_type="worker"
+                трудился над изучением природных богатств нашей страны. <person id="Иван_Михайлович_Сеченов" person_type="worker"
                     >Иван Михайлович Сеченов</person> впервые научно объяснил работу человеческого
-                мозга. <person person_type="worker">Николай Егорович Жуковский</person> открыл
+                мозга. <person id="Николай_Егорович_Жуковский" person_type="worker">Николай Егорович Жуковский</person> открыл
                 законы, которые необходимо знать при постройке самолётов. Его называют «отцом
-                русской авиации». <person person_type="worker">Александр Степанович Попов</person>
+                русской авиации». <person id="Александр_Степанович_Попов" person_type="worker">Александр Степанович Попов</person>
                 изобрёл радио. </p>
-            <p>
-                <person person_type="worker">Дмитрии Иванович Менделеев</person> (1834–1907 гг.). </p>
-            <p>
-                <person person_type="worker">Александр Степанович Попов</person> (1859–1906 гг.). </p>
-            <p>
-                <person person_type="artist">Илья Ефимович Репин</person> (1844–1930 гг.). </p>
-            <p>
-                <person person_type="artist">Лев Николаевич Толстой</person> (1828–1910 гг.). </p>
-            <p> Величайший русский писатель <person person_type="artist">Лев Николаевич
+            <p> Величайший русский писатель <person id="Лев_Николаевич_Толстой" person_type="artist">Лев Николаевич
                     Толстой</person> начал писать свои произведения ещё молодым, когда участвовал в
                 войнах с горцами <territory id="Закавказье" territory_type="country"
                     >Кавказа</territory> и в защите <place place_type="city">Севастополя</place> во
-                время Крымской войны. Наиболее крупные свои произведения <person
+                время Крымской войны. Наиболее крупные свои произведения <person id="Лев_Николаевич_Толстой"
                     person_type="artist">Толстой</person> написал после того, как оставил военную
                 службу и поселился в своём имении «<place place_type="building">Ясная
                 Поляна</place>» (недалеко от города <place place_type="city">Тулы</place>). В
                 главном его произведении «Война и мир» в яркой художественной форме рассказано о
-                войне <territory territory_type="country">России</territory> с <person
+                войне <territory territory_type="country">России</territory> с <person id="Наполеон"
                     person_type="foreign_leader">Наполеоном I</person> в 1812 году. В своих
-                произведениях <person person_type="artist">Толстой</person> описал жизнь помещиков
+                произведениях <person id="Лев_Николаевич_Толстой" person_type="artist">Толстой</person> описал жизнь помещиков
                 при <system system_type="serfdom">крепостном праве</system> и при капиталистическом
                 строе. В конце своей жизни он стал писать и о безвыходном положении крестьян после
-                реформы 1861 года. <person person_type="artist">Толстой</person> не был сторонником
+                реформы 1861 года. <person id="Лев_Николаевич_Толстой" person_type="artist">Толстой</person> не был сторонником
                 революции. Но он видел тяжёлую жизнь крестьян и бичевал произвол царских чиновников,
                 помещиков и капиталистов. </p>
-            <p> В те же годы жили и великие русские художники <person person_type="artist">Илья
-                    Ефимович Репин</person> и <person person_type="artist">Василий Иванович
-                    Суриков</person>. <person person_type="artist">Репин</person> родился на
+            <p> В те же годы жили и великие русские художники <person id="Илья_Ефимович_Репин" person_type="artist">Илья
+                    Ефимович Репин</person> и <person id="Суриков" person_type="artist">Василий Иванович
+                        Суриков</person>. <person id="Илья_Ефимович_Репин" person_type="artist">Репин</person> родился на
                     <territory id="Украине" territory_type="country">Украине</territory> в семье
-                солдата и с детства любил рисовать. <person person_type="artist">Суриков</person>
+                солдата и с детства любил рисовать. <person id="Суриков" person_type="artist">Суриков</person>
                 родился в <territory id="Сибири" territory_type="region">Сибири</territory> в
-                    <people people_type="class">казацкой</people> семье. <person
-                    person_type="artist">Репин</person> и <person person_type="artist"
+                <people people_type="class">казацкой</people> семье. <person id="Илья_Ефимович_Репин"
+                    person_type="artist">Репин</person> и <person id="Суриков" person_type="artist"
                     >Суриков</person> хорошо знали жизнь крестьянина, так как сами вышли из народа.
                 Их картины известны всему миру. </p>
             <p> Во второй половине XIX века жили и создавали крупнейшие музыкальные произведения
-                великие русские композиторы — <person person_type="artist">Мусоргский</person>,
-                    <person person_type="artist">Римский-Корсаков</person>, <person
-                    person_type="artist">Бородин</person>, <person person_type="artist"
+                великие русские композиторы — <person id="Мусоргский" person_type="artist">Мусоргский</person>,
+                <person id="Римский-Корсаков" person_type="artist">Римский-Корсаков</person>, <person id="Бородин"
+                    person_type="artist">Бородин</person>, <person id="Чайковский" person_type="artist"
                     >Чайковский</person>. </p>
             <p>
-                <person person_type="artist">Мусоргский</person> написал оперу «Борис Годунов», а
-                    <person person_type="artist">Римский-Корсаков</person> — оперы «Снегурочка» и
+                <person id="Мусоргский" person_type="artist">Мусоргский</person> написал оперу «Борис Годунов», а
+                <person id="Римский-Корсаков" person_type="artist">Римский-Корсаков</person> — оперы «Снегурочка» и
                 «Садко». В своих операх они широко использовали песни народов, живущих в <territory
                     territory_type="country">России</territory>. Все эти прекрасные произведения мы
                 часто слушаем и в наше время. </p>
@@ -3545,11 +3537,10 @@
                 <date date_type="minor" year="1875">Первый — «Южнороссийский союз» возник в <place
                         place_type="city">Одессе</place> в 1875 году</date>. Союз готовился к борьбе
                 с самодержавием и призывал рабочих объединяться для борьбы за революцию. Но скоро
-                участники его были арестованы. Его руководителя <person person_type="politician"
-                    >Заславского</person> сослали на каторгу, где он и умер. </p>
+                участники его были арестованы. Его руководителя Заславского сослали на каторгу, где он и умер. </p>
             <p> В <place place_type="city">Петербурге</place> через три года был организован
-                «Северный союз русских рабочих», во главе которого стояли столяр <person
-                    person_type="rebel">Халтурин</person> и слесарь <person person_type="rebel"
+                «Северный союз русских рабочих», во главе которого стояли столяр <person id="Халтурин"
+                    person_type="rebel">Халтурин</person> и слесарь <person id="Обнорский" person_type="rebel"
                     >Обнорский</person>. Этот союз уже начинал принимать участие в рабочих стачках,
                 руководил ими. Царское правительство разгромило и этот рабочий союз. </p>
             <p> Но рабочее движение охватывало всё новые и новые районы. Всё тяжелее жилось
@@ -3559,8 +3550,7 @@
                     рабочих текстильной фабрики Морозова в <place place_type="city"
                         >Орехово-Зуеве</place> не выдержали этого грабежа и объявили стачку</date>.
                 Фабрика остановилась. </p>
-            <p> Стачка эта была заранее организована. Руководил ею передовой рабочий <person
-                    person_type="rebel">Моисеенко</person>, который был раньше членом «Северного
+            <p> Стачка эта была заранее организована. Руководил ею передовой рабочий Моисеенко, который был раньше членом «Северного
                 союза русских рабочих». Вместе с группой своих товарищей-ткачей он написал
                 требования к фабриканту, и рабочие утвердили эти требования на тайном совещании. </p>
             <p> Совещание рабочих перед Морозовской стачкой. </p>
@@ -3583,11 +3573,11 @@
                     person_type="politician">Маркса</person>, которые считали, что руководящая роль
                 в революционном движении должна принадлежать <people people_type="class"
                     >пролетариату</people>. </p>
-            <p> Одним из таких революционеров был <person person_type="politician">Георгий
+            <p> Одним из таких революционеров был <person id="Георгий_Валентинович_Плеханов" person_type="politician">Георгий
                     Валентинович Плеханов</person>, первый пропагандист марксизма в <territory
                     territory_type="country">России</territory>. </p>
             <p>
-                <person person_type="politician">Георгий Валентинович Плеханов</person> (1856–1918
+                <person id="Георгий_Валентинович_Плеханов" person_type="politician">Георгий Валентинович Плеханов</person> (1856–1918
                 гг.). </p>
             <p>
                 <date date_type="minor" year="1883">Уехав за границу, <person
@@ -3606,58 +3596,58 @@
                     >большевиков</people> и повёл рабочий класс и крестьянство на борьбу с царским
                 правительством, помещиками и <people people_type="class">буржуазией</people>. </p>
             <p>
-                <person person_type="politician">Ленин</person> в школе. </p>
+                <person id="Ленин" person_type="politician">Ленин</person> в школе. </p>
             <p>
-                <date date_type="major" year="1870"><person person_type="politician">В. И.
+                <date date_type="major" year="1870"><person id="Ленин" person_type="politician">В. И.
                         Ленин</person> — вождь рабочего класса и основатель большевизма. <person
                         person_type="politician">Владимир Ильич Ленин (Ульянов)</person> родился в
                     1870 году в городе Симбирске (теперь <place place_type="city"
-                    >Ульяновск</place>)</date>. В школе он отлично учился. В 17 лет <person
+                        >Ульяновск</place>)</date>. В школе он отлично учился. В 17 лет <person id="Ленин"
                     person_type="politician">Ленин</person> стал студентом Казанского университета,
                 но скоро был исключён за участие в революционном движении студентов. Тогда он стал
                 готовиться к сдаче экзаменов за всю университетскую программу. Эти экзамены он
                 выдержал. </p>
-            <p> В <place place_type="city">Казани</place> же <person person_type="politician"
+            <p> В <place place_type="city">Казани</place> же <person id="Ленин" person_type="politician"
                     >Ленин</person> вошёл в марксистский кружок, изучал сочинения <person id="Карл_Маркс"
                         person_type="politician">Маркса</person> и <person id="Фридрих_Энгельс" person_type="politician"
                     >Энгельса</person> и всех поражал своими знаниями. </p>
             <p>
-                <date date_type="major" year="1893">В 1893 году <person person_type="politician"
+                <date date_type="major" year="1893">В 1893 году <person id="Ленин" person_type="politician"
                         >Ленин</person> переехал в <place place_type="city">Петербург</place> и
                     здесь стал заниматься с рабочими в кружках</date>. </p>
             <p>
-                <person person_type="politician">Ленин</person> объединил в <place place_type="city"
+                <person id="Ленин" person_type="politician">Ленин</person> объединил в <place place_type="city"
                     >Петербурге</place> все рабочие кружки в «Союз борьбы за освобождение рабочего
                 класса» и этим подготовил создание действительно революционной рабочей партии. По
                 его предложению такие же союзы организовались и в других городах. </p>
             <p>
-                <person person_type="politician">В. И. Ленин</person> в рабочем кружке в <place
+                <person id="Ленин" person_type="politician">В. И. Ленин</person> в рабочем кружке в <place
                     place_type="city">Петербурге</place> (в 90-х годах). </p>
             <p>
-                <person person_type="politician">Владимир Ильич Ленин</person> в 90-х годах. </p>
+                <person id="Ленин" person_type="politician">Владимир Ильич Ленин</person> в 90-х годах. </p>
             <p>
-                <person person_type="politician">Ленин</person> беспощадно боролся с <people
+                <person id="Ленин" person_type="politician">Ленин</person> беспощадно боролся с <people
                     people_type="job">народниками</people> и со всеми теми, кто неверно объяснял
                 учение <person id="Карл_Маркс" person_type="politician">Маркса</person>. </p>
             <p>
-                <person person_type="politician">Ленин</person> вникал в каждую мелочь жизни
+                <person id="Ленин" person_type="politician">Ленин</person> вникал в каждую мелочь жизни
                 рабочих, писал для рабочих листовки и книги, призывая к упорной борьбе с
                 капиталистами. </p>
             <p> Царским сыщикам удалось арестовать Ленина. Его долго держали в тюрьме, а потом
                 сослали на три года в <territory id="Сибири" territory_type="region"
                     >Сибирь</territory>. </p>
-            <p> Организованные <person person_type="politician">Лениным</person> «Союзы борьбы»
+            <p> Организованные <person id="Ленин" person_type="politician">Лениным</person> «Союзы борьбы»
                 сделали первую попытку объединиться в партию. С этой целью <date date_type="minor"
                     year="1898">был созван 1 съезд Российской социал-демократической рабочей партии
                     (РСДРП) в 1898 году в городе <place place_type="city">Минске</place></date>. Но
                 создать партию на этом съезде не удалось. </p>
-            <p> Вернувшись из ссылки, <person person_type="politician">Ленин</person> уехал за
+            <p> Вернувшись из ссылки, <person id="Ленин" person_type="politician">Ленин</person> уехал за
                 границу и там стал издавать первую марксистскую газету. Она называлась «Искра». </p>
             <p> Газета «Искра» печаталась на тонкой папиросной бумаге, чтобы легче было разными
                 тайными способами привозить её из-за границы в <territory territory_type="country"
                     >Россию</territory>. </p>
             <p>
-                <person person_type="politician">Ленин</person> писал в «Искре» статьи, призывая
+                <person id="Ленин" person_type="politician">Ленин</person> писал в «Искре» статьи, призывая
                 рабочих объединиться в революционную политическую партию для борьбы с самодержавием
                 и капиталистами. </p>
             <p> Ленинская «Искра» подготовила создание партии <people people_type="job"
@@ -3665,8 +3655,8 @@
             <p> Борьба рабочих разгоралась и скоро охватила окраины <territory
                     territory_type="country">России</territory>, в том числе и <territory
                     id="Закавказье" territory_type="region">Закавказье</territory>, где вёл работу с
-                конца девяностых годов прошлого века ученик <person person_type="politician"
-                    >Ленина</person> товарищ <person person_type="politician">Сталин</person>. </p>
+                конца девяностых годов прошлого века ученик <person id="Ленин" person_type="politician"
+                    >Ленина</person> товарищ <person id="Сталин" person_type="politician">Сталин</person>. </p>
         </chapter>
     </section>
     <section><section_title s="10">X. Первая буржуазная революция в России</section_title>
@@ -3676,7 +3666,7 @@
                 века революционная борьба рабочих усилилась. Рабочие устраивали забастовки, выходили
                 на демонстрации и поднимались на борьбу против капиталистов и царского
                 правительства. </p>
-            <p> Царём был в это время <person person_type="tsar">Николай II</person>. (Он начал
+            <p> Царём был в это время <person id="Николай_II" person_type="tsar">Николай II</person>. (Он начал
                 царствовать в 1894 году.) </p>
             <p>
                 <date date_type="major" year="1901" month="5" day="1">В 1901 году в <place
@@ -3723,16 +3713,16 @@
                 подавлено. Крестьяне ещё не понимали, что для победы над помещиками нужно прежде
                 всего уничтожить царскую власть. </p>
             <p>
-                <person person_type="politician">Ленин</person> в газете «Искра» призывал крестьян
+                <person id="Ленин" person_type="politician">Ленин</person> в газете «Искра» призывал крестьян
                 вести борьбу против царской власти совместно с рабочими. Но работе в деревне
                 социал-демократов, сторонников «Искры», мешала возникшая в начале XX века партия
                 социалистов-революционеров (эсеры). Эта партия, под видом защиты крестьян, защищала
                 интересы <people people_type="class">кулаков</people> и старалась проводить неверную
                 программу <people people_type="job">народников</people>. </p>
             <p>
-                <person person_type="politician">Ленин</person> вёл настойчивую борьбу против
+                <person id="Ленин" person_type="politician">Ленин</person> вёл настойчивую борьбу против
                 эсеров. </p>
-            <p> Создание Российской социал-демократической рабочей партии. <person
+            <p> Создание Российской социал-демократической рабочей партии. <person id="Ленин"
                     person_type="politician">Ленинская</person> «Искра» сплачивала вокруг себя
                 разрозненные социал-демократические организации в <territory
                     territory_type="country">России</territory>. То, что не удалось сделать раньше —
@@ -3741,7 +3731,7 @@
                 <date date_type="minor" year="1903">В 1903 году за границей тайно собрался II съезд
                     РСДРП</date>. Из разных городов <territory territory_type="country"
                     >России</territory> съехалось на съезд 43 делегата. На съезде была принята
-                программа партии, разработанная <person person_type="politician">В. И.
+                программа партии, разработанная <person id="Ленин" person_type="politician">В. И.
                     Лениным</person>. В ней говорилось о главной задаче партии рабочего класса —
                 организации социалистической революции, установлении диктатуры <people
                     people_type="class">пролетариата</people>, о победе социализма. Но чтобы
@@ -3751,51 +3741,51 @@
                 демократическую республику, установить для рабочих 8-часовой рабочий день,
                 уничтожить в деревне все остатки <system system_type="serfdom">крепостного
                     права</system>, прирезать землю крестьянам. </p>
-            <p> Для осуществления этих великих задач <person person_type="politician">Ленин</person>
+            <p> Для осуществления этих великих задач <person id="Ленин" person_type="politician">Ленин</person>
                 требовал, чтобы в партию принимали лишь стойких борцов за рабочее дело, проверенных
-                друзей рабочего класса. Партия, говорил <person person_type="politician"
+                друзей рабочего класса. Партия, говорил <person id="Ленин" person_type="politician"
                     >Ленин</person>, должна быть передовым отрядом рабочего класса, а её члены
-                должны быть беззаветно преданы революции. <person person_type="politician"
+                должны быть беззаветно преданы революции. <person id="Ленин" person_type="politician"
                     >Ленин</person> требовал, чтобы членом партии мог быть только человек,
                 принимающий сё программу и участвующий личной работой в одной из её организаций.
-                Против этого требования <person person_type="politician">Ленина</person> выступили
-                    <person person_type="politician">Мартов</person>, <person
+                Против этого требования <person id="Ленин" person_type="politician">Ленина</person> выступили
+                <person id="Мартов" person_type="politician">Мартов</person>, <person id="Троцкий"
                     person_type="politician">Троцкий</person> и некоторые другие делегаты. Они
                 предлагали в партию принимать всех желающих и всех тех, кто обещает хоть чем-нибудь
                 оказывать содействие партии, по не требовали обязательной работы в её организациях и
                 подчинения партийной дисциплине. Такое предложение ослабляло партию, как
                 руководителя рабочего класса, так как в партию могли проникнуть неустойчивые,
                 враждебные партии люди из <people people_type="class">буржуазии</people>. </p>
-            <p> Вслед за этим противники <person person_type="politician">Ленина</person>,
-                возглавляемые <person person_type="politician">Мартовым</person> и <person
+            <p> Вслед за этим противники <person id="Ленин" person_type="politician">Ленина</person>,
+                возглавляемые <person id="Мартов" person_type="politician">Мартовым</person> и <person id="Троцкий"
                     person_type="politician">Троцким</person>, предлагали рабочим для борьбы с
                 царизмом заключить союз не с трудящимся крестьянством, а с <people
-                    people_type="class">буржуазией</people>. <person person_type="politician"
-                    >Ленин</person> разоблачал вред предложений <person person_type="politician"
-                    >Мартова</person> и <person person_type="politician">Троцкого</person> и
+                    people_type="class">буржуазией</people>. <person id="Ленин" person_type="politician"
+                        >Ленин</person> разоблачал вред предложений <person id="Мартов" person_type="politician"
+                            >Мартова</person> и <person id="Троцкий" person_type="politician">Троцкого</person> и
                 доказывал, что рабочему классу никак нельзя вступать в соглашение с <people
                     people_type="class">буржуазией</people>, что она предаст рабочих. Рабочим нужно
                 соединиться не с <people people_type="class">буржуазией</people>, а с революционным
-                крестьянством и идти вместе на бой против царя и помещиков. <person
+                крестьянством и идти вместе на бой против царя и помещиков. <person id="Ленин"
                     person_type="politician">Ленин</person> и его сторонники стояли за то, чтобы
                 после свержения царизма и помещиков немедленно начать борьбу с капиталистами, борьбу
                 за социализм. </p>
             <p> Съезд избрал Центральный Комитет партии и редакцию газеты «Искра», которым поручил
                 руководить работой партии. В Центральный Комитет и редакцию «Искры» были избраны
-                сторонники <person person_type="politician">Ленина</person>, они получили на съезде
+                сторонники <person id="Ленин" person_type="politician">Ленина</person>, они получили на съезде
                 большинство голосов, за что их стали называть <people people_type="job"
                     >большевиками</people>, а его противников, получивших меньшинство на съезде, —
                     <people people_type="job">меньшевиками</people>. Большинство
                 социал-демократических организаций <territory territory_type="country"
                     >России</territory> после съезда поддержало <people people_type="job"
                     >большевиков</people>. </p>
-            <p> На II съезде товарища <person person_type="politician">Сталина</person> не было, он
+            <p> На II съезде товарища <person id="Сталин" person_type="politician">Сталина</person> не было, он
                 находился в тюрьме. В 1904 году он бежал из <territory id="Сибири"
                     territory_type="region">сибирской</territory> ссылки и повёл за <people
                     people_type="job">большевиками</people> рабочих <territory id="Закавказье"
                     territory_type="region">Закавказья</territory>. </p>
-            <p> Передовые рабочие крепко верили <person person_type="politician">Ленину</person> и
-                    <person person_type="politician">Сталину</person>. Таких рабочих тогда были
+            <p> Передовые рабочие крепко верили <person id="Ленин" person_type="politician">Ленину</person> и
+                <person id="Сталин"  person_type="politician">Сталину</person>. Таких рабочих тогда были
                 тысячи. </p>
             <p>
                 <date date_type="minor" year="1903" month="Summer">Под руководством РСДРП летом 1903
@@ -3810,11 +3800,11 @@
         </chapter>
         <chapter>
             <title n="46">46. Революция началась</title>
-            <p> Война с <territory territory_type="country">Японией</territory>. Царь <person
+            <p> Война с <territory territory_type="country">Японией</territory>. Царь <person id="Николай_II"
                     person_type="tsar">Николай II</person> всеми мерами пытался задушить революцию.
                 Приближённые царя советовали ему скорее начать давно подготовлявшуюся войну с
                     <territory territory_type="country">Японией</territory>. Они считали, что война
-                задержит революцию. «Лучше война, чем революция», — советовали <person
+                задержит революцию. «Лучше война, чем революция», — советовали <person id="Николай_II"
                     person_type="tsar">Николаю II</person> его придворные. </p>
             <p> Но войну начали первыми японцы. <date date_type="major" year="1904" month="1">В
                     январе 1904 года без всякого объявления войны они вероломно напали на
@@ -3851,14 +3841,14 @@
                 помещичьей земли крестьянам и созыва Учредительного собрания для изменения
                 государственного строя в <territory territory_type="country">России</territory>. </p>
             <p> Для борьбы с рабочим движением за несколько месяцев до стачки царским правительством
-                было создано «Общество рабочих» во главе с провокатором попом <person
-                    person_type="rebel">Гапоном</person>. Когда началась стачка, <person
+                было создано «Общество рабочих» во главе с провокатором попом <person id="Гапон"
+                    person_type="rebel">Гапоном</person>. Когда началась стачка, <person id="Гапон"
                     person_type="rebel">Гапон</person> на собраниях своего общества уговаривал
                 рабочих устроить шествие к царю и написать ему прошение (петицию). В эту петицию
                 рабочие включили все свои требования. <people people_type="job">Большевики</people>
-                уговаривали рабочих не слушать <person person_type="rebel">Гапона</person>. «Свободу
+                уговаривали рабочих не слушать <person id="Гапон" person_type="rebel">Гапона</person>. «Свободу
                 и землю добывают не просьбами к царю, — говорили они, — их надо завоевать с оружием
-                в руках». Но <person person_type="rebel">Гапон</person> убедил рабочих пойти с этим
+                в руках». Но <person id="Гапон" person_type="rebel">Гапон</person> убедил рабочих пойти с этим
                 прошением к царю. У Гапона было скрытое намерение: устроить кровопролитие рабочих и
                 тем ослабить рабочее движение. </p>
             <p> 9 января 1905 года ранним морозным утром толпы рабочих с жёнами и детьми двинулись к
@@ -3925,33 +3915,33 @@
                 борьбу с царским правительством и помещиками. </p>
             <p> III съезд РСДРП. <date date_type="minor" year="1905" month="4">В <place
                         place_type="city">Лондоне</place> в апреле 1905 года по настоянию</date>.
-                    <person person_type="politician">Ленина</person> был созван III съезд РСДРП.
+                <person id="Ленин" person_type="politician">Ленина</person> был созван III съезд РСДРП.
                 Всего в партии тогда насчитывалось до 8 1/2 тысяч членов. На съезд съехались
                 делегаты от 20 <people people_type="job">большевистских</people> комитетов партии.
                     <people people_type="job">Меньшевики</people> отказались принимать участие в
                 работе съезда и на съезд не явились. </p>
             <p>
-                <person person_type="politician">Ленин</person> на съезде говорил, что для победы
+                <person id="Ленин" person_type="politician">Ленин</person> на съезде говорил, что для победы
                 революции необходимо: создать и укрепить союз рабочих и крестьян, соединёнными
                 силами начать вооружённое восстание, свергнуть царя и создать революционное
                 правительство рабочих и крестьян. Крестьяне должны создать свои революционные
                 комитеты и забрать без всякого выкупа у помещиков всю землю. Рабочие должны
                 возглавить и поддержать эту борьбу крестьян. </p>
-            <p> Далее <person person_type="politician">Ленин</person> говорил, что после свержения
+            <p> Далее <person id="Ленин" person_type="politician">Ленин</person> говорил, что после свержения
                 власти царя и помещиков <people people_type="job">большевики</people> должны повести
                 рабочих и беднейших крестьян на борьбу с капиталистами и <people people_type="class"
                     >кулаками</people>, на борьбу за социалистическую революцию. </p>
             <p> III съезд принял все эти ленинские предложения </p>
             <p> Делегаты вернулись в <territory territory_type="country">Россию</territory> и с
                 огромной энергией стали проводить в жизнь решения съезда. </p>
-            <p> В это же время вместе с <person person_type="politician">Лениным</person> руководил
-                борьбой за победу революции <person person_type="politician">Сталин</person>,
+            <p> В это же время вместе с <person id="Ленин" person_type="politician">Лениным</person> руководил
+                борьбой за победу революции <person id="Сталин" person_type="politician">Сталин</person>,
                 работавший в <territory id="Закавказье" territory_type="region"
-                    >Закавказье</territory>. <person person_type="politician">Сталин</person>
+                    >Закавказье</territory>. <person id="Сталин" person_type="politician">Сталин</person>
                 укреплял здесь <people people_type="job">большевистские</people> комитеты,
                 подготовлял <people people_type="job">большевистский</people> съезд, создал
                 подпольную типографию, писал листовки к рабочим, учил и сплачивал революционных
-                рабочих и крестьян и руководил подготовкой вооружённого восстания. Товарищ <person
+                рабочих и крестьян и руководил подготовкой вооружённого восстания. Товарищ <person id="Сталин"
                     person_type="politician">Сталин</person> положил много трудов для того, чтобы
                 сплотить рабочих и трудящиеся народы <territory id="Закавказье"
                     territory_type="region">Закавказья</territory> и всей <territory
@@ -3973,7 +3963,7 @@
             <p> Этот случай с червями в борще ускорил вспышку. Среди матросов поднялся ропот. Явился
                 командир корабля и приказал матросам разойтись. Матросы не послушались. Командир
                 приказал арестовать 30 матросов и расстрелять их. Сердца матросов закипели от гнева
-                и обиды. По призыву матроса <person person_type="rebel">Матюшенко</person>, они
+                и обиды. По призыву матроса <person id="Матюшенко" person_type="rebel">Матюшенко</person>, они
                 вооружились и с криком «Бей извергов!» кинулись на ненавистных офицеров, убили их и
                 побросали за борт. </p>
             <p> Над «<place place_type="building">Потемкиным</place>» взвился красный флаг. </p>
@@ -4016,7 +4006,7 @@
                     >Японией</territory>. </p>
             <p>
                 <date date_type="minor" year="1905" month="10" day="17">Перепуганный ростом
-                    революции, царь <person person_type="tsar">Николай II</person> 17 октября издал
+                    революции, царь <person id="Николай_II" person_type="tsar">Николай II</person> 17 октября издал
                     манифест. В манифесте он обещал дать народу свободу и созвать Государственную
                         <people people_type="job">думу</people> из представителей от населения для
                     решения вместе с царём всех государственных дел <territory
@@ -4027,25 +4017,25 @@
                     people_type="job">большевиков</people>. В <place place_type="city"
                     >Москве</place> царские погромщики убили замечательного <people
                     people_type="job">большевика</people> — руководителя <place place_type="city"
-                    >московских</place> рабочих — <person person_type="rebel">Николая Эрнестовича
-                    Баумана</person>. На похоронах <person person_type="rebel">Баумана</person> за
+                        >московских</place> рабочих — <person id="Николая_Эрнестовича_Баумана" person_type="rebel">Николая Эрнестовича
+                            Баумана</person>. На похоронах <person id="Николая_Эрнестовича_Баумана" person_type="rebel">Баумана</person> за
                 его гробом шла во главе с <place place_type="city">Московским</place> комитетом
                 партии <people people_type="job">большевиков</people> стотысячная масса <place
                     place_type="city">московских</place> рабочих. </p>
-            <p> В ноябре 1905 года из-за границы приехал <person person_type="politician"
+            <p> В ноябре 1905 года из-за границы приехал <person id="Ленин" person_type="politician"
                     >Ленин</person>. Он руководил работой партии и борьбой трудящихся. </p>
             <p> Тем временем в <territory id="Закавказье" territory_type="region"
                     >Закавказье</territory>
-                <person person_type="politician">Сталин</person> также твёрдо, по-ленински готовил
+                <person id="Сталин" person_type="politician">Сталин</person> также твёрдо, по-ленински готовил
                 трудящихся к боям с царём и его слугами. Он разоблачал <people people_type="job"
                     >меньшевиков</people>, которые были против подготовки вооружённого восстания.
-                Товарищ <person person_type="politician">Сталин</person> говорил рабочим города
+                Товарищ <person id="Сталин" person_type="politician">Сталин</person> говорил рабочим города
                     <place place_type="city">Тбилиси</place>: «Что нужно, чтобы действительно
                 победить? Для этого нужны три вещи, хорошо поймите и запомните: первое, что нам
                 нужно — вооружение, второе — вооружение, третье — ещё и ещё раз вооружение». </p>
             <p> В декабре 1905 года вопрос о вооружённом восстании обсуждался на конференции <people
                     people_type="job">большевиков</people>. </p>
-            <p> Здесь <person person_type="politician">Ленин</person> и <person
+            <p> Здесь <person id="Ленин" person_type="politician">Ленин</person> и <person id="Сталин"
                     person_type="politician">Сталин</person> впервые встретились лично. А до этого
                 они поддерживали связь между собой письмами и через товарищей. </p>
         </chapter>
@@ -4085,7 +4075,7 @@
             <p> Против восставшего народа в <place place_type="city">Москве</place> не хватало
                 войск. Царь прислал в <place place_type="city">Москву</place> два полка солдат.
                 Только при помощи пушек и пулемётов удалось разгромить восставших. Громил <place
-                    place_type="city">Москву</place> генерал <person person_type="military"
+                    place_type="city">Москву</place> генерал <person id="Дубасов" person_type="military"
                     >Дубасов</person>. 18 декабря боевым дружинам пришлось оставить баррикады и
                 спрятать оружие в тайные склады. В <place place_type="city">Москве</place> было
                 убито больше тысячи человек. В городе несколько дней пылали пожары, вызванные
@@ -4093,11 +4083,11 @@
                 Многие бойцы революции были расстреляны и повешены царскими войсками. </p>
             <p> Так расправились царские палачи с восставшей <place place_type="city"
                     >Москвой</place>. </p>
-            <p> Во время вооруженного восстания <person person_type="politician">Ленин</person> был
+            <p> Во время вооруженного восстания <person id="Ленин" person_type="politician">Ленин</person> был
                 в <place place_type="city">Петербурге</place>. Центральный Комитет <people
                     people_type="job">большевиков</people> принимал все меры к тому, чтобы поднять
                 рабочих на восстание в <place place_type="city">Петербурге</place>. По <people
-                    people_type="job">меньшевики</people> во главе с <person
+                    people_type="job">меньшевики</people> во главе с <person id="Троцкий"
                     person_type="politician">Троцким</person>, засевшие в <place place_type="city"
                     >Петербургском</place> совете, выступали против поддержки вооружённого восстания
                 в <place place_type="city">Москве</place>. <people people_type="job"
@@ -4122,7 +4112,7 @@
                 восстания крестьян. </p>
             <p> Вооружённые восстания угнетённых народов <territory territory_type="country"
                     >России</territory>. В <territory id="Закавказье" territory_type="region"
-                    >Закавказье</territory> под руководством товарища <person
+                        >Закавказье</territory> под руководством товарища <person id="Сталин"
                     person_type="politician">Сталина</person> рабочие и крестьяне храбро дрались с
                 царскими войсками. Вся <territory id="Грузия" territory_type="country"
                     >Грузия</territory> была охвачена восстанием. В <territory id="Грузия"
@@ -4137,7 +4127,7 @@
                     territory_type="region">Донбассе</territory>: в <place place_type="city"
                     >Горловке</place> и <place place_type="city">Луганске</place>. Заводские рабочие
                 и шахтёры несколько дней сражались с царскими войсками. Рабочими в <place
-                    place_type="city">Луганске</place> руководил тогда слесарь <person
+                    place_type="city">Луганске</place> руководил тогда слесарь <person id="Клим_Ворошилов"
                     person_type="politician">Клим Ворошилов</person>. </p>
             <p> В <territory territory_type="country">Финляндии</territory> рабочие создали свою
                 вооружённую Красную гвардию. Красная гвардия разоружила царскую полицию. Жандармы,
@@ -4176,7 +4166,7 @@
                     офицеров, установили свою власть в отдельных крепостных укреплениях</date>. Но
                 матросы были плохо организованы, и царским офицерам удалось подавить восстание.
                 Правительство арестовало более 4 тысяч моряков. </p>
-            <p> Царский министр <person person_type="politician">Столыпин</person> издал закон о
+            <p> Царский министр <person id="Столыпин" person_type="politician">Столыпин</person> издал закон о
                 беспощадном уничтожении революционеров. С 1906 по 1909 год по этому закону было
                 повешено более 2 тысяч человек, отправлено на каторгу, в ссылку и заключено в тюрьмы
                 25 тысяч человек. Десятки тысяч революционеров были расстреляны и замучены без суда.
@@ -4190,7 +4180,7 @@
             <p> Партии ссыльных одну за другой гнали в <territory id="Сибири"
                     territory_type="region">Сибирь</territory>. </p>
             <p> Государственная <people people_type="job">дума</people>. <date date_type="minor"
-                    year="1906">В тех же видах подавления революционного движения <person
+                    year="1906">В тех же видах подавления революционного движения <person id="Николай_II"
                         person_type="tsar">Николай II</person> созвал в 1906 году Государственную
                         <people people_type="job">думу</people></date>. По закону о выборах в
                     <people people_type="job">думу</people> помещики и капиталисты имели право
@@ -4223,11 +4213,11 @@
                 По-прежнему дворяне во главе с царём правили <territory territory_type="country"
                     >Россией</territory> и грабили её. </p>
             <p> Третья <people people_type="job">дума</people> утвердила закон царского министра
-                    <person person_type="politician">Столыпина</person> о земле. Все земли помещиков
+                <person id="Столыпин" person_type="politician">Столыпина</person> о земле. Все земли помещиков
                 оставались за ними. Крестьяне должны были довольствоваться той землёй, которой они
                 владели до этого, но только на новых условиях. Раньше большинство крестьян владело
                 землёй сообща и время от времени делило эти общинные земли между собой по числу
-                имевшихся в семьях работников. <person person_type="politician"
+                имевшихся в семьях работников. <person id="Столыпин" person_type="politician"
                     >Столыпинский</person> закон уничтожал общинное владение землёй. Каждому
                 крестьянину предлагалось взять свой надел в личное владение, выделиться из общины и
                 стать хозяином на своём участке. Таких выделившихся из общины крестьян называли
@@ -4297,7 +4287,7 @@
         </chapter>
         <chapter>
             <title n="50">50. Новый революционный подъем</title>
-            <p> Отъезд <person person_type="politician">Ленина</person> за границу. <person
+            <p> Отъезд <person id="Ленин" person_type="politician">Ленина</person> за границу. <person id="Сталин"
                     person_type="politician">Сталин</person> на подпольной работе в <territory
                     territory_type="country">России</territory>. Несмотря на многочисленные аресты и
                 казни, <people people_type="job">большевики</people> продолжали революционную
@@ -4306,31 +4296,30 @@
                     people_type="job">думу</people> и заседания самой <people people_type="job"
                     >думы</people>, чтобы открыто заявить на них о своих революционных требованиях,
                 о ненависти народных масс к существующему строю. </p>
-            <p> Вся царская полиция была поставлена на ноги, чтобы поймать неуловимого <person
-                    person_type="politician">Ленина</person>. По настоянию партии <person
-                    person_type="politician">Владимир Ильич</person> уехал сначала в <territory
+            <p> Вся царская полиция была поставлена на ноги, чтобы поймать неуловимого <person id="Ленин"
+                    person_type="politician">Ленина</person>. По настоянию партии Владимир Ильич уехал сначала в <territory
                     territory_type="country">Финляндию</territory>, а затем за границу, в <territory
                     territory_type="country">Швейцарию</territory>. Оттуда он продолжал руководить
                 борьбой рабочих. </p>
-            <p> Соратник и помощник <person person_type="politician">Ленина</person> — товарищ
-                    <person person_type="politician">Сталин</person> остался в <territory
+            <p> Соратник и помощник <person id="Ленин" person_type="politician">Ленина</person> — товарищ
+                <person id="Сталин" person_type="politician">Сталин</person> остался в <territory
                     territory_type="country">России</territory>. Его кипучая энергия вдохновляла
                     <people people_type="job">большевиков</people> на трудную и упорную борьбу.
-                    <date date_type="major" year="1908">В 1908 году <person person_type="politician"
+                <date date_type="major" year="1908">В 1908 году <person id="Сталин" person_type="politician"
                         >Сталин</person> был снова арестован и сослан в одну из <territory
                         id="Сибири" territory_type="country">сибирских</territory> губерний</date>.
-                Но железную волю <person person_type="politician">Сталина</person> не могли сломить
-                тюрьмы и ссылки, и в следующем году <person person_type="politician">Сталин</person>
+                Но железную волю <person id="Сталин" person_type="politician">Сталина</person> не могли сломить
+                тюрьмы и ссылки, и в следующем году <person id="Сталин" person_type="politician">Сталин</person>
                 бежал из <territory id="Сибири" territory_type="region">Сибири</territory> и
-                вернулся в <place place_type="city">Баку</place>. Прошёл год. <person
+                вернулся в <place place_type="city">Баку</place>. Прошёл год. <person id="Сталин"
                     person_type="politician">Сталина</person> арестовали опять и снова отправили в
                 ссылку. Он снова бежал. Скоро его опять выследили царские шпионы, и правительство
-                выслало <person person_type="politician">Сталина</person> в безлюдный <territory
+                выслало <person id="Сталин" person_type="politician">Сталина</person> в безлюдный <territory
                     territory_type="region">Нарымский край</territory>. Но стойкий революционер не
                 сдавался. <date date_type="minor" year="1912" month="Summer">Летом 1912 года он
                     тайно вернулся в <place place_type="city">Петербург</place></date>. </p>
             <p>
-                <person person_type="politician">Ленин</person> за границей, а <person
+                <person id="Ленин" person_type="politician">Ленин</person> за границей, а <person id="Сталин"
                     person_type="politician">Сталин</person> в подполье в <territory
                     territory_type="country">России</territory> продолжали великое дело борьбы за
                 социализм, готовые каплю за каплей отдать свою кровь за рабочее дело. </p>
@@ -4371,7 +4360,7 @@
                     представители русских комитетов <people people_type="job">большевиков</people>
                     на конференцию</date>. Конференция постановила изгнать из партии всех <people
                     people_type="job">меньшевиков</people> и всех неустойчивых и колеблющихся. </p>
-            <p> Была создана единая боевая <person person_type="politician">ленинская</person>
+            <p> Была создана единая боевая <person id="Ленин" person_type="politician">ленинская</person>
                 партия <people people_type="job">большевиков</people>. Она вела рабочий класс и
                 крестьянство на новую резолюцию за свержение царской власти и установление власти
                 рабочих и крестьян, за установление 8-часового рабочего дня и за бесплатную передачу
@@ -4386,10 +4375,10 @@
                     <people people_type="job">Большевистская</people> «Правда» писалась простым и
                 понятным для всех рабочих языком. Она помогала рабочим усвоить учение партии <people
                     people_type="job">большевиков</people>. Полиция беспрерывно преследовала эту
-                газету, запрещала её продавать, сажала редакторов в тюрьму. <person
+                газету, запрещала её продавать, сажала редакторов в тюрьму. <person id="Ленин"
                     person_type="politician">В. И. Ленин</person> писал статьи в «Правду» и
-                руководил ею из-за границы. В «Правде» работали <person person_type="politician">И.
-                    В. Сталин</person>, <person person_type="politician">В. М. Молотов</person> и
+                руководил ею из-за границы. В «Правде» работали <person id="Сталин" person_type="politician">И.
+                    В. Сталин</person>, <person id="В._М._Молотов" person_type="politician">В. М. Молотов</person> и
                 другие. </p>
             <p> Баррикады в <place place_type="city">Петербурге</place> в июле 1914 года. </p>
             <p> В это время партия вырастила много крепких и отважных революционеров-<people
@@ -4408,18 +4397,18 @@
                     person_type="politician">К. Е. Ворошилов</person>, <person
                     person_type="politician">Л. М. Каганович</person>, <person
                     person_type="politician">Н. К. Крупская</person> и многие другие. Это была
-                железная гвардия партии, неутомимые и стойкие ученики и соратники <person
-                    person_type="politician">Ленина</person> и <person person_type="politician"
+                железная гвардия партии, неутомимые и стойкие ученики и соратники <person id="Ленин"
+                    person_type="politician">Ленина</person> и <person id="Сталин" person_type="politician"
                     >Сталина</person>. </p>
             <p>
-                <person person_type="politician">Ленин</person> переехал из <place place_type="city"
+                <person id="Ленин" person_type="politician">Ленин</person> переехал из <place place_type="city"
                     >Парижа</place>, где он жил, в <territory territory_type="country"
                     >Австрию</territory>, поближе к <territory territory_type="country"
                     >русской</territory> границе, чтобы лучше руководить работой <people
                     people_type="job">большевиков</people> в <territory territory_type="country"
                     >России</territory>. </p>
             <p> В это время в <territory territory_type="country">России</territory> стачки
-                вспыхивали одна за другой. В <place place_type="city">Баку</place>, где <person
+                вспыхивали одна за другой. В <place place_type="city">Баку</place>, где <person id="Сталин"
                     person_type="politician">Сталин</person> создал крепкую организацию <people
                     people_type="job">большевиков</people>, рабочие объявили всеобщую стачку на
                 нефтяных промыслах. Около месяца боролись рабочие, но сила оказалась на стороне
@@ -4481,7 +4470,7 @@
             <p> В то время как немцы засыпали русскую армию снарядами, царские министры и генералы
                 оставили её без достаточного вооружения и снарядов. </p>
             <p> Десятки тысяч русских солдат ежедневно гибли от огня германских пушек, пулемётов и
-                от болезней. Но царские генералы, послушные приказам царя <person person_type="tsar"
+                от болезней. Но царские генералы, послушные приказам царя <person id="Николай_II" person_type="tsar"
                     >Николая II</person> и Антанты, гнали солдат в новые и новые наступления. С
                 потерями генералы не считались, для них солдаты были только пушечным мясом. В первые
                 же месяцы на полях <territory territory_type="country">Германии</territory>
@@ -4517,7 +4506,7 @@
                 армии. Затянувшаяся война с невероятной тяжестью обрушилась на плечи рабочих и
                 крестьян. </p>
             <p> Большевики в годы войны. Партия <people people_type="job">большевиков</people>
-                выступила против мировой бойни. <person person_type="politician">Ленин</person> и
+                выступила против мировой бойни. <person id="Ленин" person_type="politician">Ленин</person> и
                 партия призывали рабочих и крестьян обратить оружие против своих угнетателей и
                 разоблачали подлость <people people_type="job">меньшевиков</people> и эсеров и их
                 господ — капиталистов. </p>
@@ -4528,7 +4517,7 @@
                     <territory id="Сибири" territory_type="region">Сибирь</territory> на поселение
                 за призыв к борьбе с войной, за призыв рабочих к революции. </p>
             <p> Трудна была работа <people people_type="job">большевиков</people> в годы войны.
-                    <person person_type="politician">Ленина</person> отделяли от <territory
+                <person id="Ленин" person_type="politician">Ленина</person> отделяли от <territory
                     territory_type="country">России</territory> границы и фронты. Другие
                 руководители <people people_type="job">большевистской партии</people> находились в
                 ссылке. Много <people people_type="job">большевиков</people> сидело в тюрьмах. </p>
@@ -4583,14 +4572,14 @@
             <!-- <p>.\s*(\d+)\.\s*(.*?)</p> -->
             <!--uppercase letters, good for finding people-->
 
-            <p> Восстание в Петрограде. <person person_type="tsar">Царь Николай II</person> и его
+            <p> Восстание в Петрограде. <person id="Николай_II" person_type="tsar">Царь Николай II</person> и его
                 министры не знали, как им справиться с поражением на фронте и с надвигавшейся
                 революцией. Они метались, не зная, что предпринять. Даже буржуазная партия «кадетов»
                 и её вождь Милюков перестали поддерживать царя из-за поражений на фронте; но кадеты
                 боялись и революции. Буржуазия решила отстранить от власти Николая II и на престол
                 посадить его брата Михаила, подавить начавшееся революционное движение и продолжать
                 дальше войну.</p>
-            <p>Близкие к царю люди советовали <person person_type="tsar">Николаю II</person>
+            <p>Близкие к царю люди советовали <person id="Николай_II" person_type="tsar">Николаю II</person>
                 окончить войну, заключить с немцами отдельный от союзников мир (сепаратный мир) и
                 затем расправиться с революцией.</p>
             <p>Планы царя и буржуазии не осуществились. Их опередило восстание рабочих и солдат,
@@ -4638,7 +4627,7 @@
 
 
             <p> Приехавшего в Петроград 3 апреля 1917 года вождя пролетариата В. И.
-                    <person>Ленина</person> встречают революционные матросы и солдаты.</p>
+                <person id="Ленин">Ленина</person> встречают революционные матросы и солдаты.</p>
 
 
             <p> Буржуазия и засевшие в Советах меньшевики и эсеры стремились продолжать войну с
@@ -4649,7 +4638,7 @@
                 меньшевиков и эсеров.</p>
             <p><date date_type="major" year="1917" month="4" day="3">3 апреля 1917 года с большим
                     трудом из-за границы вернулся в Россию Ленин</date>. Встретить
-                    <person>Ленина</person> собрался весь революционный Петроград: рабочие, матросы
+                <person id="Ленин">Ленина</person> собрался весь революционный Петроград: рабочие, матросы
                 и солдаты. Приветствиям Ленину не было конца. Ленин поднялся на броневик, заговорил
                 с народом и в притихшую толпу бросил пламенный призыв: «Да здравствует всемирная
                 социалистическая революция!» Это был призыв к борьбе с буржуазным Временным
@@ -4667,7 +4656,7 @@
             <title n="53">53. Большевики подготовляют социалистическую революцию</title>
 
 
-            <p> Массы идут за большевиками. По приезде <person>Ленина</person> партия созвала
+            <p> Массы идут за большевиками. По приезде <person id="Ленин" >Ленина</person> партия созвала
                 конференцию большевиков. Со всех концов России съехались в Петроград делегаты от 80
                 тысяч членов партии. На конференцию прибыли Молотов, Ворошилов, Свердлов, Куйбышев,
                 Дзержинский и многие другие. Ленин и Сталин руководили работой конференции. Они
@@ -4691,7 +4680,7 @@
                 захвату помещичьих земель.</p>
 
 
-            <p> Предложения <person>Ленина</person> и Сталина были приняты конференцией. Большевики
+            <p> Предложения <person id="Ленин">Ленина</person> и Сталина были приняты конференцией. Большевики
                 развернули огромную работу среди масс рабочих, солдат и матросов. Большевики также
                 повели работу и среди крестьян. Они разъясняли решения конференции и призывали народ
                 на борьбу с Временным правительством за установление власти Советов, за прекращение
@@ -4745,7 +4734,7 @@
 
             <p> Юнкера и офицеры напали на редакцию газеты «Правда». Большевиков арестовывали и
                 сажали в тюрьмы. Большевики должны были снова уйти в подполье. Временное
-                правительство приказало арестовать <person>Ленина</person>. По настоянию партии
+                правительство приказало арестовать <person id="Ленин">Ленина</person>. По настоянию партии
                 Ленин скрылся. Ленин переоделся рабочим и с паспортом на имя рабочего Иванова жил в
                 шалаше в окрестностях Петрограда, под Сестрорецком, а ещё через некоторое время
                 переехал в Финляндию. Напрасно буржуазные ищейки гонялись за Лениным. Рабочие всеми
@@ -4756,7 +4745,7 @@
                 возросло до 200 тысяч.</p>
             <p><date date_type="minor" year="1917" month="7">В конце июля в Петрограде собрался VI
                     съезд партии большевиков</date>.</p>
-            <p><person>Ленина</person> на съезде не было. Он находился в подполье. Работами съезда
+            <p><person id="Ленин" >Ленина</person> на съезде не было. Он находился в подполье. Работами съезда
                 руководил Сталин. Он призвал партию готовить вооружённое восстание.</p>
             <p>Съезд наметил пути к победе социалистической революции и разработал меры борьбы с
                 разрухой в стране.</p>
@@ -4822,7 +4811,7 @@
                 восстании, срочно мобилизовало для борьбы с восстанием верные ему войска. Но дни
                 власти буржуазии были сочтены. Центральный Комитет партии большевиков создал боевой
                 центр по руководству восстанием во главе с товарищем Сталиным. Выполняя указание
-                    <person>Ленина</person>, 24 октября 1917 года боевой центр начал восстание. Во
+                <person id="Ленин">Ленина</person>, 24 октября 1917 года боевой центр начал восстание. Во
                 главе его встал <person>Ленин.</person></p>
 
 
@@ -4975,7 +4964,7 @@
                 явным образом играя на руку немцам и провоцируя их на новое наступление против
                 безоружной Советской страны, сорвал мирные переговоры. Немцы воспользовались этим,
                 начали новое наступление и заняли часть советских земель. Немецкие войска подходили
-                к Петрограду. По настоянию <person>Ленина</person> мир с немцами был спешно заключён
+                к Петрограду. По настоянию <person id="Ленин">Ленина</person> мир с немцами был спешно заключён
                 в городе Бресте. Это был Брестский мир.</p>
             <p>Кроме потери занятых немцами советских земель, пришлось согласиться и на другие
                 уступки Германии. Предатель Троцкий и его сподручный Бухарин всячески старались
@@ -5009,7 +4998,7 @@
                 не уступала немцам советских земель без боя. Во главе рабочих отрядов из донецких
                 шахтёров, сельских бедняков и революционных матросов стоял любимец рабочих,
                 луганский слесарь, беззаветно храбрый большевик, один из лучших учеников
-                    <person>Ленина</person> и Сталина — Климент Ефремович Ворошилов.</p>
+                <person id="Ленин">Ленина</person> и Сталина — Климент Ефремович Ворошилов.</p>
             <p>Полтора месяца отряды Ворошилова отбивались от наступающих немцев и белоказачьих
                 отрядов на Дону. На Дону казаки взорвали мост. Под градом пуль и снарядов белых
                 казаков красные бойцы сделали мост через Дон. Часть людей работала, часть дралась с
@@ -5070,9 +5059,9 @@
             <p> Заседание комитета деревенской бедноты в 1918 году.</p>
 
 
-            <p> По призыву <person>Ленина</person> рабочие создали продовольственные отряды для
+            <p> По призыву <person id="Ленин">Ленина</person> рабочие создали продовольственные отряды для
                 сбора излишков хлеба в деревне, для борьбы с кулаками. По предложению
-                    <person>Ленина</person> в деревнях были организованы комитеты бедноты (комбеды).
+                <person id="Ленин">Ленина</person> в деревнях были организованы комитеты бедноты (комбеды).
                 Они помогали продовольственным отрядам отбирать хлеб у кулаков, отдавали беднякам
                 лошадей, скот, отобранные у кулаков.</p>
             <p>Партия и комбеды привлекли и среднее крестьянство к союзу и дружбе с рабочим классом
@@ -5100,9 +5089,9 @@
                 Были убиты большевик Урицкий и любимый оратор петроградских рабочих большевик
                 Володарский. <date date_type="minor" year="1918" month="Fall">Осенью 1918 года после
                     митинга на одном из заводов в<place place_type="city"> Москве </place>эсерами
-                    было совершено покушение на В. И. <person>Ленина</person></date>. Эсеры
+                    было совершено покушение на В. И. <person id="Ленин">Ленина</person></date>. Эсеры
                 совместно с бухаринцами и троцкистами готовили восстание. Истекающего кровью
-                    <person>Ленина</person> увезли домой. В течение многих дней боролся со смертью
+                <person id="Ленин">Ленина</person> увезли домой. В течение многих дней боролся со смертью
                 Владимир Ильич. Все трудящиеся следили за ходом болезни любимого вождя. Вздох
                 облегчения и радости вырвался у трудящихся, когда выздоровевший Ильич снова вернулся
                 к управлению государством.</p>
@@ -5184,15 +5173,15 @@
                     Армия</people>. Фабрики, заводы, шахты, банки, железные дороги были объявлены
                 собственностью рабочего государства. Рабочие семьи из темных и сырых подвалов
                 переселялись в светлые и просторные дома, отобранные у богачей.
-                    <person>Ленин</person> и <person person_type="politician">Сталин</person> и весь
+                <person id="Ленин">Ленин</person> и <person person_type="politician">Сталин</person> и весь
                 советский народ горячо приветствовали Венгерскую Советскую республику. Но на
                 маленькую советскую Венгрию со всех сторон двинулись войной войска соседних
                 буржуазных стран. Советская Венгрия была ими задушена.</p>
             <p>Коммунистический Интернационал. Революция в Германии и Венгрии потерпела поражение
                 потому, что в этих странах не было тогда революционной большевистской партии.
                 Рабочие шли за предателями — вождями II Интернационала. Ещё до мировой войны
-                    <person>Ленин</person> боролся с этими предателями. Во время мировой войны
-                    <person>Ленин</person> повёл борьбу за создание нового, III Интернационала,
+                <person id="Ленин">Ленин</person> боролся с этими предателями. Во время мировой войны
+                <person id="Ленин">Ленин</person> повёл борьбу за создание нового, III Интернационала,
                 Коммунистического Интернационала.</p>
             <p>В дни революции на Западе, во время рабочих стачек и крестьянских движений,
                 усилившихся после мировой войны, в ряде стран Европы возникли коммунистические
@@ -5278,7 +5267,7 @@
                 <person>Колчаку</person>. <person>Деникин</person> собрал большую армию из
                 мобилизованного населения и белых казаков и иод командой контрреволюционных офицеров
                 двинул её на Москву.</p>
-            <p>Советская власть напрягла все силы против <person>Деникина</person>. <person
+            <p>Советская власть напрягла все силы против <person>Деникина</person>. <person id="Ленин"
                     person_type="politician">Ленин</person> обратился ко всем партийным организациям
                 с письмом, в котором призывал: «Все на борьбу с <person>Деникиным</person>!» Партия
                 большевиков послала на Южный фронт своих лучших сынов. Многие тысячи рабочих и
@@ -5287,8 +5276,8 @@
                 видеть объявления: «Комитет закрыт, все ушли на фронт». К осени 1919 года <people
                     people_type="army">Красная Армия</people> насчитывала в своих рядах до двух с
                 половиной миллионов бойцов из рабочих и крестьян.</p>
-            <p>Центральный Комитет партии поручил <person>товарищу Сталину</person> организовать
-                разгром <person>Деникина</person>. <person person_type="politician">Сталин</person>
+            <p>Центральный Комитет партии поручил <person id="Сталин">товарищу Сталину</person> организовать
+                разгром <person>Деникина</person>. <person id="Сталин" person_type="politician">Сталин</person>
                 быстро ознакомился с тяжёлым положением на фронте и выработал план разгрома
                 деникинских белогвардейцев.</p>
             <p><person>Деникин</person> к этому времени уже занял всю Украину и приближался к сердцу
@@ -5380,7 +5369,7 @@
                     <person>Врангель</person> построил сильные укрепления у Перекопа на Крымском
                 перешейке. Партия и правительство поручили <person>М. В. Фрунзе</person> разгромить
                     <person>Врангеля</person>. Вместе с <person>Ворошиловым</person>
-                <person>Фрунзе</person> по указаниям <person>товарища Сталина</person> тщательно
+                <person>Фрунзе</person> по указаниям <person id="Сталин">товарища Сталина</person> тщательно
                 подготовил наступление.</p>
             <p>Начались упорные бои. Разбитый на Украине, <person>Врангель</person> засел за свои
                 укрепления в Крыму.<date date_type="major" year="1920" month="11" day="7"> В третью
@@ -5401,7 +5390,7 @@
             <p> Установление советской власти в Средней Азии и Закавказье. Население Средней Азии
                 переносило страшные лишения в годы гражданской войны. Иностранные захватчики,
                 кулаки-баи, муллы организовали бандитские шайки басмачей. Басмачи грабили население
-                и жгли кишлаки и аулы. <person>Ленин</person> и <person person_type="politician"
+                и жгли кишлаки и аулы. <person id="Ленин">Ленин</person> и <person id="Сталин" person_type="politician"
                     >Сталин</person> на помощь трудящимся Средней Азии послали большое число красных
                 частей под руководством <person>М. В. Фрунзе</person> и <person>В. В.
                     Куйбышева</person>. В песчаных пустынях, в скалистых горах <people
@@ -5439,7 +5428,7 @@
         <chapter>
             <title n="60">60. Восстановление народного хозяйства. Создание СССР</title>
             <p>
-                <person>Ленинский</person> план выхода из разрухи. Мировая война и навязанная
+                <person id="Ленин">Ленинский</person> план выхода из разрухи. Мировая война и навязанная
                 Антантой и контрреволюционерами гражданская война довели страну до крайней разрухи.
                 Многие фабрики и заводы стояли: не было топлива и сырья, на железных дорогах
                 валялись поломанные паровозы, исковерканные вагоны. Мосты и железнодорожные пути во
@@ -5465,12 +5454,12 @@
                 торговлю. Пусть до поры до времени частные промышленники и торговцы производят
                 товары и ими торгуют. Мы будем быстро крепнуть и вытеснять частный капитал. А придёт
                 время, мы совсем уничтожим остатки капиталистов и кулаков в нашей стране, говорил
-                    <person>Ленин</person>. План <person>Ленина</person> был принят. Он назывался
+                <person id="Ленин">Ленин</person>. План <person id="Ленин">Ленина</person> был принят. Он назывался
                 новой экономической политикой (нэп).</p>
             <p>Чтобы ускорить восстановление хозяйства, коммунистическая партия, как и в годы
                 гражданской войны, проводила субботники. В них участвовали все трудящиеся. Они
                 работали бесплатно для пользы своей родины.</p>
-            <p>План <person>Ленина</person> оправдал себя. Через 3–4 года хозяйство страны прочно
+            <p>План <person id="Ленин">Ленина</person> оправдал себя. Через 3–4 года хозяйство страны прочно
                 стало на ноги: заработали фабрики и заводы, улучшилось дело и на железных дорогах.
                 Поднялось и сельское хозяйство. Крестьяне подвозили на базары хлеб, мясо и яйца. Они
                 начали сеять свёклу, лён, увеличили посевы хлопка. В стране заработали сахарные
@@ -5478,16 +5467,16 @@
             <p>У рабочих и крестьян появились хлеб, сахар, ткани и много других товаров. Открылось
                 много государственных и кооперативных магазинов. Эти предприятия стали вытеснять
                 частных торговцев.</p>
-            <p><person>Владимир Ильич Ленин</person> — этот горный орёл, как его называл <person
+            <p><person id="Ленин">Владимир Ильич Ленин</person> — этот горный орёл, как его называл <person id="Сталин"
                     person_type="politician">Сталин</person>, видел далеко. Он говорил, что рабочие
                 и крестьяне могут легко преодолеть разруху и зажить счастливой жизнью. Они должны
                 будут иметь в хозяйстве своей страны заводы, на которых делаются машины, и машины
                 эти должны будут работать с помощью электричества. Надо всю страну покрыть сетью
-                электрических станций, не раз говорил <person>Ленин</person>. Был разработан план
-                электрификации страны. По предложению <person>Ленина</person> на реке <place
-                    place_type="river">Волхов</place>, недалеко от <person>Ленинграда</person>, была
+                электрических станций, не раз говорил <person id="Ленин">Ленин</person>. Был разработан план
+                электрификации страны. По предложению <person id="Ленин">Ленина</person> на реке <place
+                    place_type="river">Волхов</place>, недалеко от <person id="Ленин">Ленинграда</person>, была
                 начата постройка первой большой водной электрической станции. В 1926 году, уже после
-                смерти <person>В. И. Ленина</person>, эта станция была построена и дала
+                смерти <person id="Ленин">В. И. Ленина</person>, эта станция была построена и дала
                 электрическую энергию ленинградским фабрикам и заводам. Это помогло восстановить
                 важную для страны промышленность Ленинграда.</p>
             <p>Электростанции строились и в других районах страны: на Урале, Украине,
@@ -5520,7 +5509,7 @@
                 поднять хозяйство в стране и строить социализм. Надо было оказать помощь в подъёме
                 национальной культуры всем народам Страны Советов. Для всего этого необходимо было
                 создать объединённое союзное государство. С этой целью в 1922 году но предложению
-                    <person>Ленина</person> и <person>Сталина</person> съехались в Москву делегаты
+                <person id="Ленин">Ленина</person> и <person id="Сталин">Сталина</person> съехались в Москву делегаты
                 от союзных республик на I Всесоюзный съезд Советов и образовали добровольное
                 государственное объединение народов, союзное государство под названием Союз
                 Советских Социалистических Республик (СССР).</p>
@@ -5534,9 +5523,9 @@
                 Социалистическую Республику (ЗСФСР), с главной столицей Тбилиси. Немного позднее в
                 Средней Азии организовались три самостоятельные советские республики: Узбекская, со
                 столицей Ташкент, Туркменская, со столицей Ашхабад, и Таджикская, со столицей
-                    <person>Сталина</person>бад, которые также вошли в СССР.</p>
+                <person id="Сталин">Сталина</person>бад, которые также вошли в СССР.</p>
             <p>
-                <person>В. И. Ленин и И. В. Сталин</person> в Горках во время болезни <person>В. И.
+                <person id="Ленин">В. И. Ленин</person> и <person id="Сталин"> И. В. Сталин</person> в Горках во время болезни <person id="Ленин">В. И.
                     Ленина</person>.</p>
             <p> Народы <territory id="СССР" territory_type="country">СССР</territory> зажили дружной
                 семьёй. Много народностей, при царизме вымиравших, забитых, неграмотных, теперь
@@ -5548,60 +5537,60 @@
         </chapter>
         <chapter>
             <title n="61">61. Ленин умер, но дело его живет</title>
-            <p> Смерть <person>Ленина</person>. <date date_type="major" year="1924" month="1"
+            <p> Смерть <person id="Ленин">Ленина</person>. <date date_type="major" year="1924" month="1"
                     day="21">21 января 1924 года, на 54-м году жизни, после долгой и тяжёлой
-                    болезни, в Горках, под Москвой, умер великий <person>Ленин</person></date>.
+                    болезни, в Горках, под Москвой, умер великий <person id="Ленин">Ленин</person></date>.
                 Трудящиеся всего мира потеряли своего вождя, который подготовил, осуществил
                 пролетарскую революцию, спас её в тяжёлые годы от бесчисленных врагов. Умер человек,
                 больше которого никто не сделал для человечества.</p>
             <p>Глубочайшая скорбь охватила миллионы трудящихся. В жестокие январские морозы вереницы
                 трудящихся Москвы шли проститься с прахом своего гениального вождя. Они были
                 охвачены глубокой печалью и твёрдой решимостью идти по пути, указанному
-                    <person>Лениным</person>.</p>
-            <p> Трудящиеся Москвы идут проститься с прахом <person>В. И. Ленина</person> в Колонный
+                <person id="Ленин" >Лениным</person>.</p>
+            <p> Трудящиеся Москвы идут проститься с прахом <person id="Ленин">В. И. Ленина</person> в Колонный
                 зал Дома союзов.</p>
-            <p> Под звуки скорбного марша похоронил народ <person>Ленина</person> у кремлёвской
+            <p> Под звуки скорбного марша похоронил народ <person id="Ленин">Ленина</person> у кремлёвской
                 стены. Там и сейчас лежит он, как живой, в мраморном мавзолее, в стеклянном гробу, с
                 орденом Красного Знамени на груди.</p>
             <p>И трудящиеся со всех концов нашей страны, приезжая в Москву, идут в мавзолей, чтобы
                 запечатлеть образ вождя, который привёл народ к свободной и счастливой жизни.</p>
-            <p> Мавзолей <person>В. И. Ленина</person> и <person>И. В. Сталина</person> в<place
+            <p> Мавзолей <person id="Ленин">В. И. Ленина</person> и <person id="Сталин">И. В. Сталина</person> в<place
                     place_type="city"> Москве </place>на Красной площади.</p>
-            <p> Клятва <person>Сталина</person>. <date date_type="major" year="1924" month="4"
+            <p> Клятва <person id="Сталин">Сталина</person>. <date date_type="major" year="1924" month="4"
                     day="26">26 января, когда собрались делегаты со всех концов СССР на II
-                    Всесоюзный съезд Советов, <person person_type="politician">Сталин</person> по
+                    Всесоюзный съезд Советов, <person id="Сталин" person_type="politician">Сталин</person> по
                     поручению большевистской партии произнёс клятву перед народом от имени
                     партии</date>. Он говорил:</p>
-            <p>«Уходя от нас, <person>товарищ Ленин</person> завещал нам держать высоко и хранить в
-                чистоте великое звание члена партии. Клянёмся тебе, <person>товарищ Ленин</person>,
+            <p>«Уходя от нас, <person id="Ленин">товарищ Ленин</person> завещал нам держать высоко и хранить в
+                чистоте великое звание члена партии. Клянёмся тебе, <person id="Ленин">товарищ Ленин</person>,
                 что мы с честью выполним эту твою заповедь!»…</p>
-            <p>«Уходя от нас, <person>товарищ Ленин</person> завещал нам хранить единство нашей
-                партии, как зеницу ока. Клянёмся тебе, <person>товарищ Ленин</person>, что мы с
+            <p>«Уходя от нас, <person id="Ленин">товарищ Ленин</person> завещал нам хранить единство нашей
+                партии, как зеницу ока. Клянёмся тебе, <person id="Ленин">товарищ Ленин</person>, что мы с
                 честью выполним и эту твою заповедь!»…</p>
             <p>«Только в нашей стране удалось угнетённым и задавленным массам трудящихся сбросить с
                 плеч господство помещиков и капиталистов и поставить на его место господство рабочих
                 и крестьян»…</p>
-            <p>«Этой гигантской борьбой руководил <person>товарищ Ленин</person> и его партия»…</p>
-            <p>«Имя <person>Ленина</person> стало самым любимым именем трудящихся и эксплуатируемых
+            <p>«Этой гигантской борьбой руководил <person id="Ленин">товарищ Ленин</person> и его партия»…</p>
+            <p>«Имя <person id="Ленин">Ленина</person> стало самым любимым именем трудящихся и эксплуатируемых
                 масс».</p>
-            <p>«Уходя от нас, <person>товарищ Ленин</person> завещал нам хранить и укреплять
-                диктатуру пролетариата. Клянёмся тебе, <person>товарищ Ленин</person>, что мы не
+            <p>«Уходя от нас, <person id="Ленин">товарищ Ленин</person> завещал нам хранить и укреплять
+                диктатуру пролетариата. Клянёмся тебе, <person id="Ленин">товарищ Ленин</person>, что мы не
                 пощадим своих сил для того, чтобы выполнить с честью и эту твою заповедь!»…</p>
             <p>
-                <person>Иосиф Виссарионович Сталин (1879–1953 гг.)</person>.</p>
-            <p> «Уходя от нас, <person>товарищ Ленин</person> завещал нам укреплять всеми силами
-                союз рабочих и крестьян. Клянёмся тебе, <person>товарищ Ленин</person>, что мы с
+                <person id="Сталин">Иосиф Виссарионович Сталин (1879–1953 гг.)</person>.</p>
+            <p> «Уходя от нас, <person id="Ленин">товарищ Ленин</person> завещал нам укреплять всеми силами
+                союз рабочих и крестьян. Клянёмся тебе, <person id="Ленин">товарищ Ленин</person>, что мы с
                 честью выполним и эту твою заповедь!»…</p>
             <p>«Русские и украинцы, башкиры и белорусы, грузины и азербайджанцы, армяне и
                 дагестанцы, татары и киргизы, узбеки и туркмены — все они одинаково заинтересованы в
                 укреплении диктатуры пролетариата»…</p>
-            <p>«Товарищ <person>Ленин</person> неустанно говорил нам о необходимости добровольного
+            <p>«Товарищ <person id="Ленин">Ленин</person> неустанно говорил нам о необходимости добровольного
                 союза народов нашей страны, о необходимости братского их сотрудничества в рамках
                 Союза Республик».</p>
-            <p>«Уходя от нас, <person>товарищ Ленин</person> завещал нам укреплять и расширять Союз
-                Республик. Клянёмся тебе, <person>товарищ Ленин</person>, что мы выполним с честью и
+            <p>«Уходя от нас, <person id="Ленин">товарищ Ленин</person> завещал нам укреплять и расширять Союз
+                Республик. Клянёмся тебе, <person id="Ленин">товарищ Ленин</person>, что мы выполним с честью и
                 эту твою заповедь!»…</p>
-            <p>«<person>Ленин</person> не раз указывал нам, что укрепление Красной Армии и улучшение
+            <p>«<person id="Ленин">Ленин</person> не раз указывал нам, что укрепление Красной Армии и улучшение
                 её состояния является одной из важнейших задач нашей партии»…</p>
             <p>«Поклянёмся же, товарищи, что мы не пощадим сил для того, чтобы укрепить нашу Красную
                 Армию, наш Красный флот».</p>
@@ -5620,7 +5609,7 @@
             <p>
                 <person>Вячеслав Михайлович Mолотов</person>.</p>
             <p>
-                <date date_type="major" year="1925">В 1925 году на XIV съезде партии товарищ <person
+                <date date_type="major" year="1925">В 1925 году на XIV съезде партии товарищ <person id="Сталин"
                         person_type="politician">Сталин</person> указал, по поручению партии, что
                     нам надо в самое короткое время превратить нашу сельскохозяйственную страну в
                     страну промышленную</date>. Для этого нужно построить много новых фабрик,
@@ -5648,7 +5637,7 @@
             <p>
                 <person>Михаил Иванович Калинин (1875–1946 гг.)</person>.</p>
             <p>Для осуществления задач, поставленных перед страной товарищем
-                    <person>Сталиным</person>, в 1928 году был выработан план великих работ — первый
+                <person id="Сталин" >Сталиным</person>, в 1928 году был выработан план великих работ — первый
                 пятилетний план социалистического строительства.</p>
             <p>Трудящиеся Союза с воодушевлением принялись за великую стройку, показывая образцы
                 трудового героизма. В Советской стране труд стал делом чести и делом славы, делом
@@ -5660,9 +5649,9 @@
             <p><date date_type="minor" year="1930">В 1930 году на берегу реки Томи, около г.
                     Кузнецка, там, где когда-то были владения сибирских татарских ханов, начали
                     строить и к концу первой пятилетки выстроили огромный металлургический
-                    завод-гигант имени <person>Сталина</person></date>.</p>
+                    завод-гигант имени <person id="Сталин">Сталина</person></date>.</p>
             <p>Там, где были Днепровские пороги, на месте, где когда-то была Запорожская Сечь,
-                построена мощная электростанция Днепрогэс имени <person>Ленина</person>.</p>
+                построена мощная электростанция Днепрогэс имени <person id="Ленин">Ленина</person>.</p>
             <p>
                 <person>Валериан Владимирович Куйбышев (1888–1935 гг.)</person>.</p>
             <p> С помощью электроэнергии Днепрогэса расцвели многие районы Украины. Усеянная
@@ -5677,7 +5666,7 @@
                 промышленность без капиталистов.</p>
             <p>Строительство колхозов. Для крестьянского сельского хозяйства были готовы стальные
                 кони — тракторы. В первую пятилетку были построены мощный тракторный завод имени
-                Дзержинского в <person person_type="politician">Сталин</person>граде и заводы
+                Дзержинского в <person id="Сталин" person_type="politician">Сталин</person>граде и заводы
                 комбайнов в Саратове и в Запорожье.</p>
             <p>Всё это нужно было для того, чтобы крестьянское хозяйство вести по последнему слову
                 науки и техники.</p>
@@ -5796,7 +5785,7 @@
             <p> Новая Москва.</p>
             <p> Проект Дворца Советов в Москве.</p>
             <p> Сказочно быстро выросли новые города в <territory id="СССР" territory_type="country"
-                    >СССР</territory> — <person person_type="politician">Сталин</person>ск в
+                    >СССР</territory> — <person id="Сталин" person_type="politician">Сталин</person>ск в
                 Западной Сибири, Магнитогорск на Урале, Комсомольск на Дальнем Востоке и другие.
                 Перестроились и стали неузнаваемыми старые города.</p>
             <p>Особенно выросли и украсились столицы советских республик и крупные промышленные
@@ -5804,7 +5793,7 @@
                 Союза. В<place place_type="city"> Москве </place>построены сотни красивых
                 зданий.</p>
             <p>В нашей столице построены дома в 16, 26 и 32 этажа.</p>
-            <p>Дворец Советов со скульптурным изображением <person>В. И. Ленина</person> наверху
+            <p>Дворец Советов со скульптурным изображением <person id="Ленин">В. И. Ленина</person> наверху
                 будет одним из самых замечательных зданий в мире.</p>
             <p>Капиталистический строй был могилой для народных талантов. Только отдельным людям
                 удавалось тогда пробиться к творчеству и науке. Таким был <person>И. В.
@@ -5835,22 +5824,22 @@
             <p> Народное творчество в <territory id="СССР" territory_type="country">СССР</territory>
                 получило самое широкое развитие. Расцвели народные таланты в театре, в литературе, в
                 кино. Под руководством партии эти таланты растил и воспитывал великий пролетарский
-                писатель <person>Максим Горький</person>, личный друг <person>Ленина</person> и
-                    <person>Сталина</person>. Вдохновлённый строительством социализма в нашей
+                писатель <person>Максим Горький</person>, личный друг <person id="Ленин">Ленина</person> и
+                <person id="Сталин">Сталина</person>. Вдохновлённый строительством социализма в нашей
                 стране, <person>Горький</person> дал пламенные страницы незабываемых литературных
                 произведений. Вместе со всем народом <person>Горький</person> строил счастливую
                 жизнь в нашей стране.</p>
             <p>
                 <person>Сергей Миронович Киров (1886–1934 гг.)</person>.</p>
-            <p> В 1934 году на XVII съезде партии большевиков вождь народов великий <person
+            <p> В 1934 году на XVII съезде партии большевиков вождь народов великий <person id="Сталин"
                     person_type="politician">Сталин</person> сказал: «Все видят, что линия партии
                 победила». Это значит, что путь, указанный партией большевиков, был правильным
                 путём.</p>
             <p>И миллионы трудящихся в Советском Союзе и за рубежом повторили слова
-                    <person>Сталина</person>: «Линия партии победила».</p>
+                <person id="Сталин">Сталина</person>: «Линия партии победила».</p>
             <p>Были уничтожены остатки класса паразитов капиталистов и кулаков. В Советской стране
                 они никогда не вырастут вновь.</p>
-            <p>Партия выполнила великий завет <person>Ленина</person>. Под её руководством народ
+            <p>Партия выполнила великий завет <person id="Ленин">Ленина</person>. Под её руководством народ
                 создал новый, социалистический строй. Народ укрепил свою любимую родину-мать.</p>
             <p>Только в стране социализма могли появиться такие отважные люди, которые, любя свою
                 родину, не жалеют для нее жизни.</p>
@@ -5923,7 +5912,7 @@
                 мечтали о войне и военном поражении СССР. Советская власть беспощадно и своевременно
                 уничтожила врагов советского народа. В <territory id="СССР" territory_type="country"
                     >СССР</territory> победил социализм.</p>
-            <p>В 1936 году комиссией под руководством <person>И. В. Сталина</person> была выработана
+            <p>В 1936 году комиссией под руководством <person id="Сталин">И. В. Сталина</person> была выработана
                 новая Конституция СССР. Она была передана на широкое обсуждение народа и потом
                 утверждена высшим органом власти Союза — Всесоюзным съездом Советов. День
                 утверждения Конституции, 5 декабря, объявлен всенародным праздником. В Конституции
@@ -5949,8 +5938,8 @@
             <p>В <territory id="СССР" territory_type="country">СССР</territory> все люди, способные
                 к труду, должны трудиться. «Кто не работает, тот не ест».</p>
             <p>СССР есть добровольное и дружественное объединение равноправных народов. «А эта
-                дружба великое дело: пока она существует, народы нашей страны, — сказал <person
-                    person_type="politician">Сталин</person>, — будут свободны и непобедимы».</p>
+                дружба великое дело: пока она существует, народы нашей страны, — сказал <person id="Сталин"
+                    person_type="politician" >Сталин</person>, — будут свободны и непобедимы».</p>
             <p>В настоящее время <territory id="СССР" territory_type="country">СССР</territory> —
                 добровольное объединение 16 равноправных союзных республик. В <territory id="СССР"
                     territory_type="country">СССР</territory> входят: <territory
@@ -6071,7 +6060,7 @@
 
             <p>Страшная угроза нависала над <place place_type="city">Ленинградом</place>. Великий
                 город был около самой границы с Финляндией. В Финляндии господствовали фашисты. Они
-                мечтали захватить <person>Ленинград</person> и другие советские земли и затеяли с
+                мечтали захватить <place>Ленинград</place> и другие советские земли и затеяли с
                 нами войну. Вооружённые силы <territory id="СССР" territory_type="country"
                     >СССР</territory> прорвали неприступные финские укрепления и нанесли финнам
                 сокрушительный удар. Граница была отодвинута от <place place_type="city"
@@ -6080,7 +6069,7 @@
 
             <p>Так в 1939 и 1940 годах Советский Союз вырос, окреп, расширил и укрепил свои западные
                 границы. <territory id="СССР" territory_type="country">СССР</territory> стоял
-                твердо, как неприступная крепость. Товарищ <person person_type="politician"
+                твердо, как неприступная крепость. Товарищ <person id="Сталин" person_type="politician"
                     >Сталин</person> говорил: «Мы войны не хотим, но готовы ответить ударом на удар
                 поджигателей войны».</p>
         </chapter>
@@ -6110,8 +6099,8 @@
                 разбиты и через несколько недель весь Советский Союз будет завоёван.</p>
             <p> Верховный Главнокомандующий Генералиссимус Советского Союза <person>Иосиф
                     Виссарионович Сталин (1879–1953 гг.)</person>.</p>
-            <p> Но во главе нашей родины стоял <person>товарищ Сталин</person>. Он знал силу
-                советского народа и был уверен в нашей победе. Товарищ <person
+            <p> Но во главе нашей родины стоял <person id="Сталин">товарищ Сталин</person>. Он знал силу
+                советского народа и был уверен в нашей победе. Товарищ <person id="Сталин"
                     person_type="politician">Сталин</person> воодушевлял всех на борьбу с жестоким
                 врагом. Он призывал напрячь все силы для разгрома захватчиков, отстаивать каждую
                 пядь советской земли, драться до последней капли крови. Он призывал усилить работу в
@@ -6119,15 +6108,15 @@
                 отряды в захваченных врагом районах, нападать на фашистов и убивать их, взрывать
                 мосты и дороги, устраивать крушения поездов, портить телефонную и телеграфную связь,
                 поджигать леса, склады и обозы, ничего не оставлять врагу.</p>
-            <p>По призыву <person>товарища Сталина</person> все советские народы, как один человек,
+            <p>По призыву <person id="Сталин">товарища Сталина</person> все советские народы, как один человек,
                 поднялись на борьбу за родину. Каждый понимал, что это Великая Отечественная война,
                 война за освобождение и независимость нашей любимой родины. Каждый знал: если мы
                 победим, то будем свободны, а если будем побеждены — станем рабами немецких князей и
                 баронов.</p>
-            <p>Трудящиеся Москвы и <person>Ленинграда</person> готовились к обороне. Многие старики,
+            <p>Трудящиеся Москвы и <place>Ленинграда</place> готовились к обороне. Многие старики,
                 девушки брали оружие и шли в ополчение. Тысячи москвичей и ленинградцев рыли окопы и
                 противотанковые рвы, строили укрепления, тушили пожары, зажжённые бомбами врага.</p>
-            <p>Советская Армия под Москвой и <person>Ленинградом</person> проявила чудеса героизма.
+            <p>Советская Армия под Москвой и <place>Ленинградом</place> проявила чудеса героизма.
                 Например, на подступах к<place place_type="city"> Москве </place>28 гвардейцев из
                 дивизии <person>генерала Панфилова</person> приняли на себя удар 50 немецких танков.
                 Они говорили: «Дальше отступать некуда. За нами — Москва». Они знали, что погибнут в
@@ -6155,7 +6144,7 @@
                 городов и деревень ставили виселицы.</p>
             <p>Но никакие преследования не могли запугать советских людей. Для борьбы с захватчиками
                 повсеместно создавались партизанские отряды. Партизаны выполняли указание
-                    <person>товарища Сталина</person>: они нападали на фашистские гарнизоны,
+                <person id="Сталин">товарища Сталина</person>: они нападали на фашистские гарнизоны,
                 взрывали мосты, устраивали крушения поездов. Попадая в руки врагов, партизаны стойко
                 переносили мучительные пытки, по ни словом не выдавали то, что хотел узнать враг.
                 Так погибли геройской смертью советские девушки — <person>Зоя
@@ -6197,16 +6186,16 @@
                     >Осенью 1942 года немцы были задержаны под <place place_type="city"
                         >Сталинградом</place></date>. Ежедневно они обрушивали на город тысячи бомб,
                 они били по городу из тяжёлой артиллерии. Город превратился в развалины, но не
-                сдавался. Здесь <person>товарищ Сталин</person> готовил для врага сокрушительный
+                сдавался. Здесь <person id="Сталин">товарищ Сталин</person> готовил для врага сокрушительный
                 удар.</p>
-            <p>В ноябре под <person person_type="politician">Сталин</person>градом Советская Армия
+            <p>В ноябре под <person id="Сталин" person_type="politician">Сталин</person>градом Советская Армия
                 начала наступление. В назначенный час загремела советская артиллерия, двинулись
-                танки, бросилась в атаку пехота. Произошла великая <person person_type="politician"
+                танки, бросилась в атаку пехота. Произошла великая <person id="Сталин" person_type="politician"
                     >Сталин</person>градская битва. Немецкий фронт был прорван. 300 тысяч фашистских
                 солдат было окружено и разгромлено. Захватчики были изгнаны с Волги, Дона и
                 Северного Кавказа. Так началось освобождение наших земель.</p>
             <p>Нелегко было гнать озверелого врага. Он бешено огрызался, но был разбит в ряде
-                больших сражений: под Курском, под <person>Ленинградом</person>, на Днепре, в Крыму,
+                больших сражений: под Курском, под <place>Ленинградом</place>, на Днепре, в Крыму,
                 в Белоруссии, в Бессарабии, в Прибалтике. Во всех этих боях было уничтожено или
                 выведено из строя много немецких дивизий.</p>
             <p>Уходя с советской земли, злобный враг стремился всё разрушить. Отступая, фашисты жгли
@@ -6238,7 +6227,7 @@
                     северной Франции</date>.</p>
             <p>Победа над фашистской Германией. <date date_type="major" year="1945" month="1">В
                     январе 1945 года Советская Армия вступила на территорию Германии</date>.
-                Генералиссимус Советского Союза <person>товарищ Сталин</person> призывал
+                Генералиссимус Советского Союза <person id="Сталин">товарищ Сталин</person> призывал
                 «преследовать раненого немецкого зверя по пятам и добить его в его собственной
                 берлоге». Немецкие укрепления были прорваны, крепости разрушены.</p>
             <p>Советские войска окружали большие группы немецких войск и, если они не сдавались в
@@ -6275,7 +6264,7 @@
             <p> Подвиги советского народа и прежде всего народа русского, который является наиболее
                 выдающейся нацией из всех наций, входящих в Советский Союз, завоевали победу нашей
                 стране, благодаря героическим усилиям фронта и тыла советские люди во главе со своим
-                великим полководцем товарищем <person>Сталиным</person> сумели разгромить врага и
+                великим полководцем товарищем <person id="Сталин">Сталиным</person> сумели разгромить врага и
                 спасти родину от порабощения.</p>
         </chapter>
         <chapter>
@@ -6288,12 +6277,12 @@
             <p>По этому плану намечен новый мощный подъем всего народного хозяйства страны.</p>
             <p>5 марта 1953 года советский народ, трудящиеся всего мира понесли тяжёлую,
                 невозвратимую утрату. <date date_type="major" year="1953" month="3" day="5">На 74-м
-                    году жизни умер ученик и продолжатель дела <person>Ленина</person> великий
-                        <person person_type="politician">Сталин</person></date>.</p>
-            <p>Смерть <person>И. В. Сталина</person>, отдавшего всю свою жизнь служению народу,
-                явилась тягчайшей утратой. Светлая память о <person>И. В. Сталин</person>е будет
+                    году жизни умер ученик и продолжатель дела <person id="Ленин" >Ленина</person> великий
+                    <person id="Сталин" person_type="politician">Сталин</person></date>.</p>
+            <p>Смерть <person id="Сталин">И. В. Сталина</person>, отдавшего всю свою жизнь служению народу,
+                явилась тягчайшей утратой. Светлая память о <person id="Сталин">И. В. Сталин</person>е будет
                 вечно жить в сердцах трудящихся всего мира.</p>
-            <p>После смерти <person>И. В. Сталина</person> наш народ ещё теснее сплотился вокруг
+            <p>После смерти <person id="Сталин">И. В. Сталина</person> наш народ ещё теснее сплотился вокруг
                 Коммунистической партии и Советского правительства.</p>
             <p>Все силы советского народа направлены в первую очередь на развитие тяжёлой
                 промышленности. В нашей стране с каждым годом увеличивается производство металла,
@@ -6306,7 +6295,7 @@
                 <territory id="СССР" territory_type="country">СССР</territory>
                 <person>Николай Александрович Булганин</person>.</p>
             <p> Во главе партии и правительства стоят верные и испытанные ученики и соратники
-                    <person>Ленина</person> и <person>Сталина</person>. Первым секретарём
+                <person id="Ленин">Ленина</person> и <person id="Сталин">Сталина</person>. Первым секретарём
                 Центрального Комитета Коммунистической партии Советского Союза избран <person>Никита
                     Сергеевич Хрущёв</person>, Председателем Президиума Верховного Совета <territory
                     id="СССР" territory_type="country">СССР</territory> — <person>Климент Ефремович

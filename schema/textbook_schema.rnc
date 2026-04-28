@@ -15,10 +15,10 @@ textbook = element textbook {book_title, section*, chapter*}
             id = attribute id { text }
             territory = element territory {id?, territory_type, text}
                 territory_type = attribute territory_type {"kingdom" | "country" | "region" }
-            place = element place {id?, place_type, text}
+            place = element place {id?, place_type?, text}
                 place_type = attribute place_type {"building" | "street" | "city" | "river" | "mountain" | "water_body" | "plain"}
     #                    figured water_body can represent anything like a lake/ocean/sea, but kept river separate cause it feels different enough. we can change if you guys want
-            person = element person {id, person_type?, text}
+            person = element person {id?, person_type?, text}
                 person_type= attribute person_type {"russian_royalty"|"tsar"|"foreign_leader"|"artist"|"knyaz"|"rebel"|"worker"|"politician"|"military"}
             people = element people {id?, people_type, text}
                 people_type= attribute people_type {"ethnicity" | "class" | "job" | "army"}
