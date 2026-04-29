@@ -858,7 +858,7 @@
                 на <place id="Москва" place_type="city">Москву</place> и взяли её, заставив платить им дань, но
                 меньшую, чем раньше.</p>
             <p>Молодое <territory id="Московскому_княжеству" territory_type="kingdom">Московское княжество</territory> всё же
-                крепло. Старый враг — <territory id="Золотую_Орду" territory_type="kingdom">Золотая Орда</territory> —
+                крепло. <rhetoric id="nc">Старый враг</rhetoric> — <territory id="Золотую_Орду" territory_type="kingdom">Золотая Орда</territory> —
                 слабел. Но у западных границ <territory id="Московскому_княжеству" territory_type="kingdom">Московского
                     княжества</territory> появился новый сильный противник — <territory id="Литовское_государство"
                     territory_type="kingdom">Литовское государство</territory>, соединившееся с
@@ -883,7 +883,7 @@
                     people_type="ethnicity">белорусам</people> и <people id="русских" people_type="ethnicity"
                     >русским</people> под властью своих князей и бояр. Но ещё тяжелее стала их жизнь
                 под властью <territory id="Литвы_с_Польшей" territory_type="kingdom">польских и литовских</territory>
-                захватчиков, сделавших всех крестьян крепостными.</p>
+                <rhetoric  id="nc">захватчиков</rhetoric>, <rhetoric id="cs">сделавших всех крестьян крепостными</rhetoric>.</p>
             <p><people id="Польские" people_type="ethnicity">Польские</people> паны заставляли крестьян менять их
                 православную греческую веру на католическую, которой придерживались они сами.
                 Особенно настаивали на перемене веры <people id="Польские" people_type="ethnicity"
@@ -922,7 +922,7 @@
                 завоевателей был <person id="Тамерлан" person_type="foreign_leader">Тамерлан</person>.</p>
             <p><date date_type="major" year="1336"><person id="Тамерлан" person_type="foreign_leader">Тамерлан</person> родился в <territory id="Средней_Азии"
                     territory_type="region">Средней Азии</territory> в <event event_type="minor"
-                    >1336</event> году</date>. Когда он подрос, то стал во главе шайки удальцов и переходил
+                    >1336</event> году</date>. Когда он подрос, то стал во главе <rhetoric id="nc">шайки удальцов</rhetoric> и переходил
                 на службу то к одному, то к другому правителю. Выдвинулся <person id="Тамерлан"
                     person_type="foreign_leader">Тамерлан</person> впервые при подавлении народного
                 восстания в городе <place id="Самарканде" place_type="city">Самарканде</place> (<territory id="Средней_Азии"
@@ -933,13 +933,13 @@
             <p><date date_type="major" year="1395"><person id="Тамерлан" person_type="foreign_leader">Тамерлан</person> завоевал ряд соседних
                 государств. В <event event_type="minor">1395</event> году он разгромил хана
                     <territory id="Золотую_Орду" territory_type="kingdom">Золотой Орды</territory>
-                    <person id="Тохтамыша" person_type="foreign_leader">Тохтамыша</person> и этим помог <place id="Москва"
-                        place_type="city">Москве</place> быстрее освободиться от <people id="татар"
+                    <person id="Тохтамыша" person_type="foreign_leader">Тохтамыша</person> и <rhetoric id="cs">этим помог</rhetoric> <place id="Москва"
+                        place_type="city">Москве</place> <rhetoric id="transfer">быстрее освободиться</rhetoric> от <people id="татар"
                     people_type="ethnicity">татарского</people> ига</date>.</p>
             <p><person id="Тамерлан" person_type="foreign_leader">Тамерлан</person> был свиреп и жесток. После
-                взятия одного города он закопал живыми 4 тысячи человек. При взятии другого города
+                взятия одного города он закопал живыми <rhetoric id="cs">4 тысячи человек. При взятии другого города
                 он приказал своим воинам доставить ему 70 тысяч голов жителей и сложить из них
-                башню.</p>
+                башню</rhetoric>.</p>
             <p>Какие бы страны ни покорял <person id="Тамерлан" person_type="foreign_leader">Тамерлан</person>, он
                 отовсюду привозил в <territory id="Средней_Азии" territory_type="region">Среднюю Азию</territory>
                 лучших мастеров-ремесленников. В свою столицу <place id="Самарканде" place_type="city"
@@ -959,7 +959,6 @@
                     place_type="city">Бухары</place>.</p>
         </chapter>
     </section>
-
     <section><section_title s="4">IV. Создание Русского национального государства</section_title>
         <chapter>
             <title n="15">15. Расширение Московского государства при Иване III и конец
@@ -982,8 +981,8 @@
                     >татарам</people>. <person id="Иван_III" person_type="russian_royalty">Иван III</person>
                 объединил под своей властью соседние с <territory territory_type="kingdom">Москвой
                     княжества</territory> — <place id="Тверь" place_type="city">Тверское</place>, <place id="Рязань"
-                    place_type="city">Рязанское</place> и другие. Все эти княжества были против
-                объединения под властью одного князя и заключали союзы с <people id="татар"
+                    place_type="city">Рязанское</place> и другие. <rhetoric id="cs">Все эти княжества были против
+                объединения под властью одного князя и заключали союзы с </rhetoric><people id="татар"
                     people_type="ethnicity">татарами</people> и <territory territory_type="kingdom"
                         >Литвой</territory> против <territory id="Москва" territory_type="kingdom"
                             >Москвы</territory>. Но <person id="Иван_III" person_type="russian_royalty">Иван III</person>
@@ -1017,8 +1016,8 @@
                 несколько месяцев. Начались морозы. У хана не было кормов для конницы, кроме того,
                 он в это время получил сведения о волнениях в <territory id="Золотую_Орду" territory_type="kingdom"
                     >Орде</territory> — и хан повернул обратно. <person id="Иван_III"
-                    person_type="russian_royalty">Иван III</person> оказался, таким образом,
-                «победителем». <date date_type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people id="монголы"
+                    person_type="russian_royalty">Иван III</person> <rhetoric type="cs">оказался, таким образом,
+                «победителем»</rhetoric>. <date date_type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people id="монголы"
                     people_type="ethnicity">татаро-монгольское</people> иго, длившееся свыше двухсот
                 лет</date>.</p>
             <p>Вскоре <territory id="Золотую_Орду" territory_type="kingdom">Орда</territory> окончательно захирела и
@@ -1032,7 +1031,7 @@
                 разбиты, а их главного предводителя русские войска взяли в плен. Король тогда
                 заключил союз с <people id="прибалтийскими_немцами" people_type="ethnicity">прибалтийскими немцами</people> — рыцарями. Немцы вначале имели успех, по
                 затем <people id="русских" people_type="ethnicity">русские</people> войска перешли в наступление,
-                разгромили немцев и разорили их земли.</p>
+                разгромили немцев и <rhetoric id="cs">разорили их земли</rhetoric>.</p>
             <p>Война кончилась перемирием на 6 лет. За <person id="Иван_III" person_type="russian_royalty">Иваном
                     III</person> остались отвоёванные им от панов <people id="русских" people_type="ethnicity"
                         >русские</people> и <people id="белорусов" people_type="ethnicity"
@@ -1047,7 +1046,8 @@
                     году <person id="Иван_III" person_type="russian_royalty">Иван III</person> женился на греческой
                 царевне Софье Палеолог</date>.</p>
             <p><person id="Иван_III" person_type="russian_royalty">Иван III</person> говорил теперь, что он
-                наследник <territory id="Византией" territory_type="kingdom">византийских</territory> императоров.
+                <!--using наследник to mean that Ivan was their heir to Byzantium is a clear transfer but him saying it makes it testimonial-->
+                <rhetoric id="testimonial">наследник</rhetoric> <territory id="Византией" territory_type="kingdom">византийских</territory> императоров.
                 Древний герб <territory id="Византией" territory_type="kingdom">Византии</territory> (двуглавый
                 орёл) <person id="Иван_III" person_type="russian_royalty">Иван III</person> сделал гербом
                 <territory id="Московскому_княжеству" territory_type="kingdom">Московского государства</territory>. <person id="Иван_III"
@@ -1079,12 +1079,12 @@
             <p>Барщина и оброк. Повсюду в <territory id="Московскому_княжеству" territory_type="kingdom">Московском
                     княжестве</territory> были владения князя, бояр и монастырей. Владельцы земель
                 жили с семьями, слугами и охраной в отдельной от крестьян усадьбе, обнесённой
-                высокой оградой. Во все стороны от господского двора раскинулись деревни. Крестьяне
+                высокой оградой. Во все стороны от господского двора раскинулись деревни. <rhetoric id="pf">Крестьяне
                 жили в низеньких курных избушках без полов, окон и труб. Землю крестьяне пахали
-                деревянной сохой.</p>
+                деревянной сохой.</rhetoric></p>
             <p>Участки земли, которые обрабатывали и с которых кормились крестьяне, стали теперь не
-                крестьянскими, а княжескими, боярскими или монастырскими. За эту землю крестьяне
-                должны были делать для владельца всё, что он от них потребует. Они пахали господскую
+                крестьянскими, а княжескими, боярскими или монастырскими. <rhetoric id="pf">За эту землю крестьяне
+                должны были делать для владельца всё</rhetoric>, что он от них потребует. Они пахали господскую
                 землю, молотили и мололи господский хлеб, косили и свозили сено на господскую
                 усадьбу, строили господский двор, хоромы, мосты, копали пруды и рвы.</p>
             <p>Но всего этого было мало князьям, боярам и монастырям. Им казалось, что на себя
@@ -1132,7 +1132,7 @@
                 <p><date date_type="major" year="1547">В <event event_type="major">1547</event> году семнадцатилетний <person id="Иван_IV_Грозный"
                             person_type="tsar">Иван IV</person> первым из <territory id="Московскому_княжеству"
                     territory_type="kingdom">московских государей</territory> объявил себя
-                самодержавным царём и стал управлять государством самостоятельно, не доверяя боярам
+                <rhetoric id="transfer">самодержавным царём</rhetoric> и стал управлять государством самостоятельно, не доверяя боярам
                 и опираясь на дворян-помещиков</date>.</p>
                 <p><person id="Иван_IV_Грозный" person_type="tsar">Иван IV</person> для упрочения своей власти считал очень
                 важным, чтобы в его государстве люди воспитывались на чтении книг, прославляющих
@@ -1158,7 +1158,7 @@
                         >Казань</place> — столицу <place id="Казань" place_type="city">Казанского
                     ханства</place></date>.</p>
                 <p>Осада продолжалась всю осень. <people id="татар" people_type="ethnicity">Татары</people>
-                сражались с отчаянной отвагой и упорством. По указанию царя был подорван тайный
+                сражались <rhetoric id="cs">с отчаянной отвагой</rhetoric> и упорством. По указанию царя был подорван тайный
                 подземный ход из <place id="Казань" place_type="city">Казани</place> к воде, и жители города
                 вынуждены были пить испорченную воду из луж и колодцев. <place id="Казань" place_type="city"
                     >Казанцы</place> продолжали отстаивать свой город. Без отдыха, день и ночь они
@@ -1179,7 +1179,7 @@
                         people_type="ethnicity">татар</people>, <people id="мордвы" people_type="ethnicity"
                             >мордву</people>, <people id="мари" people_type="ethnicity">марийцев</people>, <people id="чувашей"
                                 people_type="ethnicity">чувашей</people>, <people id="башкир" people_type="ethnicity"
-                        >башкир</people>. С покорением <place id="Казань" place_type="city">Казани</place> они все
+                        >башкир</people>. С <rhetoric id="nc">покорением</rhetoric> <place id="Казань" place_type="city">Казани</place> они все
                     попали под власть <person id="Иван_IV_Грозный" person_type="tsar">Ивана IV</person>.</p>
 
                 <p><place id="Церковь_Василия_Блаженного" place_type="building">Церковь Василия Блаженного</place>, построенная в <place id="Москва"

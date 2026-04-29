@@ -12,11 +12,11 @@
    <rect x="90" y="80" width="10" height="120" fill="#e8922d"/>
    <rect x="100" y="200" width="10" height="0" fill="#e8922d"/>
    <rect x="110" y="160" width="10" height="40" fill="#e8922d"/>
-   <rect x="120" y="200" width="10" height="0" fill="#e8922d"/>
-   <rect x="130" y="200" width="10" height="0" fill="#e8922d"/>
-   <rect x="140" y="200" width="10" height="0" fill="#e8922d"/>
-   <rect x="150" y="200" width="10" height="0" fill="#e8922d"/>
-   <rect x="160" y="200" width="10" height="0" fill="#e8922d"/>
+   <rect x="120" y="140" width="10" height="60" fill="#e8922d"/>
+   <rect x="130" y="120" width="10" height="80" fill="#e8922d"/>
+   <rect x="140" y="120" width="10" height="80" fill="#e8922d"/>
+   <rect x="150" y="160" width="10" height="40" fill="#e8922d"/>
+   <rect x="160" y="140" width="10" height="60" fill="#e8922d"/>
    <rect x="170" y="200" width="10" height="0" fill="#e8922d"/>
    <rect x="180" y="200" width="10" height="0" fill="#e8922d"/>
    <rect x="190" y="200" width="10" height="0" fill="#e8922d"/>
