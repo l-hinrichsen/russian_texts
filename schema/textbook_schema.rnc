@@ -36,8 +36,8 @@ textbook = element textbook {book_title, section*, chapter*}
                 organization_type = attribute organization_type {"agriculture"}
             
             #rhetoric marks up strong language for the propaganda timeline/chart; attribute types are from the US IPA's list (linked on website)
-            rhetoric = element rhetoric {type,text}
-	               type= attribute type {"nc" |"generality" |"transfer" |"testimonial" |"pf" |"stacking" |"bw"}
+            rhetoric = element rhetoric {rhetoric_id,text}
+	               rhetoric_id= attribute id {"nc" |"generality" |"transfer" |"testimonial" |"pf" |"cs" |"bw"}
 	               
 	        #date element used for the event timeline
 	        #includes id? so that elements inside <date> may still have the @id attribute and a popup
@@ -66,5 +66,4 @@ textbook = element textbook {book_title, section*, chapter*}
                     i_type = attribute gov_type {"executive" | "legislative" | "judiciary" }
                 j = element organization {id?, j_type, text}
                     j_type = attribute organization_type {"agriculture"}
-                k = element rhetoric {id?, k_type, text}
-                    k_type = attribute about {text}
+                k = element rhetoric {id?, text}

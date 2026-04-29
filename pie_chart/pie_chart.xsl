@@ -20,7 +20,7 @@
     <xsl:template match="/">
         
         <!--counts-->
-        <xsl:variable name="generality" as="xs:integer" select="count(//rhetoric[@type='generality'])"/>
+        <xsl:variable name="generality" as="xs:integer" select="count(//rhetoric[@id='generality'])"/>
         <xsl:variable name="total" select="count(//rhetoric)"/>
         
         <!--angle in radians-->
