@@ -593,9 +593,9 @@
     <xsl:variable name="person" as="map(xs:string, xs:string)">
     <xsl:map>
         
-        <xsl:map-entry key="'Невский'" select="'Alexander Nevsky was a Prince of Novgorod who was best known for defeat 
-            of Swedish invaders in the Battle of Neva (1240). He preserved Orthodoxy by paying tribute to the Mongols 
-            and is best known for saving the Russian people from Catholocism and the Germans.'"/>
+    <xsl:map-entry key="'Невский'" select="'Alexander Nevsky was a Prince of Novgorod who was best known for defeat 
+        of Swedish invaders in the Battle of Neva (1240). He preserved Orthodoxy by paying tribute to the Mongols 
+        and is best known for saving the Russian people from Catholocism and the Germans.'"/>
             
     <xsl:map-entry key="'Аттила'" select="'Attila the Hun (r. 434-453) was a prolific king of the Huns. Under his
         leadership, the Huns would successfully invade Gaul and Italy.'"/>
@@ -863,7 +863,7 @@
     <xsl:map-entry key="'Сталин'" select="'Joseph Stalin (1878-1953) was a communist politician born in Georgia and the
         leader of the Soviet Union from 1924 to his death. Superseding Lenin after his death. Stalin
         was known for industrializing the Soviet Union, intense government repression, and leading
-        the country through WWII against Adolph Hitler.'"/>
+        the country through WWII against Adolf Hitler.'"/>
 
     <xsl:map-entry key="'Николай_II'" select="'Nicholas II (r. 1894-1917) was the last tsar of the Russian Empire. Known
         for being a weak and oppressive ruler, Nicholas II would abdicate the throne in 1917, and
@@ -999,9 +999,9 @@
         well above quota, leading to the Stakhanovite movement that promoted worker productivity.'"/>
     
     <xsl:map-entry key="'Мария_Демченко'" select="'Maria Demchenko was a farmer known for promoting collective farming, specifically for beets.'"/>
-        <xsl:map-entry key="'Бусыгин'"/>
-        <xsl:map-entry key="'Паши_Ангелиной'"/>
-        <xsl:map-entry key="'Павлов'"/>
+        <xsl:map-entry key="'Бусыгин'" select="'placeholder'"/>
+        <xsl:map-entry key="'Паши_Ангелиной'" select="'placeholder'"/>
+        <xsl:map-entry key="'Павлов'" select="'placeholder'"/>
     </xsl:map>
     </xsl:variable>
     <!--    END OF PERSONS AND BEGINNING OF PEOPLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->

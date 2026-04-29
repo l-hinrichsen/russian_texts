@@ -1016,7 +1016,7 @@
                 несколько месяцев. Начались морозы. У хана не было кормов для конницы, кроме того,
                 он в это время получил сведения о волнениях в <territory id="Золотую_Орду" territory_type="kingdom"
                     >Орде</territory> — и хан повернул обратно. <person id="Иван_III"
-                    person_type="russian_royalty">Иван III</person> <rhetoric type="cs">оказался, таким образом,
+                    person_type="russian_royalty">Иван III</person> <rhetoric id="cs">оказался, таким образом,
                 «победителем»</rhetoric>. <date date_type="major" year="1480">Так в <event event_type="major">1480</event> году кончилось <people id="монголы"
                     people_type="ethnicity">татаро-монгольское</people> иго, длившееся свыше двухсот
                 лет</date>.</p>

@@ -12,7 +12,7 @@
     <xsl:template match="/">
         <xsl:for-each select="//chapter">
             <xsl:variable name="n" as="xs:int" select="title/@n"/>
-            <xsl:result-document href="chapters/chapter{$n}.html">
+            <xsl:result-document href="chaptersREAL/chapter{$n}.html">
                 
                 <html>
                     <head>
@@ -75,7 +75,7 @@
     <xsl:template match="territory">
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
@@ -94,7 +94,7 @@
     <xsl:template match="person">
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
@@ -113,7 +113,7 @@
     <xsl:template match="place">
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
@@ -133,7 +133,7 @@
         
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
@@ -152,7 +152,7 @@
     <xsl:template match="religion">
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
@@ -171,7 +171,7 @@
     <xsl:template match="system">
         <span class="popup">
             <span class="territory">
-                <xsl:value-of select="."/>
+                <xsl:value-of select="normalize-space(.)"/>
             </span>
             
             <xsl:variable name="info"
