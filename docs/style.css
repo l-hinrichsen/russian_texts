@@ -1,4 +1,5 @@
-                     /* BASELINE STYLING */
+         /*₊✩‧₊˚౨ৎ˚₊✩‧₊The CSS stylesheet is a little chaotic, but all of the containers are generally self-descriptive₊✩‧₊˚౨ৎ˚₊✩‧₊*/   
+                    /* BASELINE STYLING */
 *{ /* I just thought this would be fun lol*/
     scrollbar-color: #8b0000 #fff7e7;
 }
@@ -68,7 +69,7 @@ a:hover {
     justify-content: center;
 }
 .header_splash h1{
-    font-family: "Ruslan Display", serif;
+    font-family: "Ruslan Display", serif; /*the font is from google fonts*/
      margin-bottom: -1%;
      color:rgb(211, 73, 31);
 }
@@ -121,6 +122,7 @@ summary:hover{
 }
 
                 /*CORPUS TEXT*/
+        /* TOC: I had to really finagle this css to make the parameter in the xslt work the way i wanted, changing something might accidently break the feature, beware */
 ul{
     list-style-type: none;
     text-align: left;
@@ -138,7 +140,7 @@ ul{
     min-width: 0;
 
 }
-.toc li a { /* TEMP WE'LL SEE */
+.toc li a {
    display: block;
     width: 100%;
     white-space: nowrap;
@@ -187,7 +189,7 @@ ul{
   display: inline-block;
   z-index: 10;
 }
-
+                /*EVENT TIMELINE*/
 /* the tooltip box */
 .popup .popuptext {
   visibility: hidden;
