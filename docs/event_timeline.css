@@ -8,6 +8,16 @@ ul{
     margin: 0;
 }
 
+button {
+    position: fixed;
+    right: 0;
+    top: 30px;
+    border: 4px solid #8b0000;
+    margin: 20px;
+    padding: 10px;
+    background-color: #dc8546;
+}
+
 /* vertical line */
 .timeline {
   position: relative;

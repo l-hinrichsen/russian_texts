@@ -9,18 +9,9 @@
             <link rel="stylesheet" type="text/css" href="event_timeline.css" />
         </head>
         <body>
-            <button style="position: fixed; right: 0; border: 4px solid#8b0000;margin: 20px;padding: 10px;background-color: #dc8546;" onclick="myFunction()">Hide Minor Events</button>
-            <script>
-                function myFunction() {
-                const div = document.getElementById("minor");
-                if (div.style.display === "none") {
-                div.style.display = "block";
-                } else {
-                div.style.display = "none";
-                }
-                }
-            </script>
-            
+            <button id="btn_minor" onclick="myFunction('Minor')">Hide Minor Events</button>
+            <button id="btn_major" style="top: -20px;" onclick="myFunction('Major')">Hide Major Events</button>
+            <script src="event_timeline.js"></script>
         <div class="timeline">
                     <ul>
                         <xsl:apply-templates select="//date" mode="date">
