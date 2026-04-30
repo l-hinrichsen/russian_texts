@@ -10,7 +10,7 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="/">
-        <svg width="100%" height="500">
+        <svg width="{count(//chapter) * 20}" height="500">
             <xsl:for-each select="//chapter">
                 <xsl:variable name="position" select="position()"/>
                 <xsl:variable name="count" select="count(.//rhetoric)"/>
