@@ -26,13 +26,13 @@
     <xsl:template match="//p/date" mode="date">
 
         <xsl:element name="div">
-            <xsl:attribute name="class">
+            <xsl:attribute name="id">
                 <xsl:apply-templates select="'container'"/>
             </xsl:attribute>
             <xsl:attribute name="order">
                 <xsl:number format="0" level="any"/>
             </xsl:attribute>
-            <xsl:attribute name="id">
+            <xsl:attribute name="class">
                 <xsl:apply-templates select="@date_type"/>
             </xsl:attribute>
             

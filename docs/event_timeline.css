@@ -39,7 +39,7 @@ button {
   border-radius: 25px;
 }
 
-.container {
+#container {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
@@ -47,7 +47,7 @@ button {
 }
 
 /* The circles */
-.container::after {
+#container::after {
   content: '';
   position: absolute;
   width: 25px;
