@@ -31,7 +31,7 @@
                 <!--chapter labels-->
                 <text 
                     x="{$x + ($barWidth div 2)}"
-                    y="240"
+                    y="210"
                     font-size="12"
                     text-anchor="middle"
                     fill="black">
