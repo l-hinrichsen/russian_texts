@@ -10,21 +10,35 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="/">
-        <svg width="100%" height="300">
+        <svg width="100%" height="500">
             <xsl:for-each select="//chapter">
                 <xsl:variable name="position" select="position()"/>
                 <xsl:variable name="count" select="count(.//rhetoric)"/>
-                <xsl:variable name="barWidth" select="10"/>
                 
+                <!--spacing variables-->
+                <xsl:variable name="step" select="15"/>
+                <xsl:variable name="barWidth" select="15"/>
+                <xsl:variable name="x" select="($position - 1) * $step"/>
+                
+                <!--bars-->
                 <rect 
-                    x="{($position - 1) * $barWidth}" 
-                    y="{200 - ($count * 20)}"
+                    x="{$x}" 
+                    y="{200 - ($count * 10)}"
                     width="{$barWidth}" 
-                    height="{$count * 20}"
+                    height="{($count * 10)}"
                     fill="#e8922d"/>
-                <!--will add in labels for chapter numbers and counts later-->
-
-            </xsl:for-each>    
+                
+                <!--chapter labels-->
+                <text 
+                    x="{$x + ($barWidth div 2)}"
+                    y="240"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="black">
+                    <xsl:value-of select="position()"/>
+                </text>
+                
+            </xsl:for-each>   
         </svg>
     </xsl:template>
     
